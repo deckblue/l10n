@@ -50,5 +50,13 @@ void main() {
 ///
 /// ## Returns:
 /// A `String` representing the extracted language code.
-String _getLangCode(final File file) =>
-    file.path.split('/').last.split('.').first.split('_')[1];
+String _getLangCode(final File file) {
+  final fileName = file.path.split('/').last.split('.').first;
+  final tokens = fileName.split('_');
+
+  if (tokens.length > 2) {
+    return '${tokens[1]}_${tokens[2]}';
+  }
+
+  return tokens[1];
+}
