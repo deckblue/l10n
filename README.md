@@ -16,3 +16,23 @@ Start by copying the full `strings_en.arb` file, then rename it to have the lang
 ## Reviewing
 
 Since this is a collaborative repository, I turned on the 2 approval requirement for new languages, and 1 approval requirement for updating an existing language. Please help me help you to help users in your language by reviewing new additions and making sure it looks and feels correct for many users to see.
+
+## Approval Flow
+
+```mermaid
+sequenceDiagram
+    participant C as Community Translator
+    participant R as Repository
+    participant A as Admins
+    participant GHA as GitHub Actions
+
+    C->>R: Edit .arb file and create Pull Request (PR)
+    R->>A: Notify about new PR
+    A->>R: Review the PR
+    R-->>C: If changes requested, notify Translator
+    C->>R: If needed, make changes and update PR
+    A->>R: Approve the PR
+    R->>R: Merge PR to main
+    R->>GHA: Trigger GitHub Actions
+    GHA->>R: Update untranslated.json
+```
