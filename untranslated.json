@@ -1,5 +1,18 @@
 {
-  "pt": [],
-  "ja": [],
-  "de": []
+  "pt": [
+    "errorAccountRelink",
+    "relinkAccount"
+  ],
+  "ja": [
+    "followsAccount",
+    "errorAccountRelink",
+    "relinkAccount"
+  ],
+  "de": [
+    "confirmDeleteColumnTitle",
+    "confirmDeleteColumnContent",
+    "settingsCompactMode",
+    "errorAccountRelink",
+    "relinkAccount"
+  ]
 }
