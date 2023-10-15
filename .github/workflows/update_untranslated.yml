@@ -21,6 +21,6 @@ jobs:
       - uses: dart-lang/setup-dart@v1.3
 
       - name: Auto Update Untranslated
-        run: dart run ./scripts/update_untranslated.dart
+        run: dart run ./bin/update_untranslated.dart
 
       - uses: stefanzweifel/git-auto-commit-action@v4

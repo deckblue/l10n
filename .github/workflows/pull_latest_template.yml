@@ -1,0 +1,50 @@
+name: Pull Latest Template
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Delete Old Branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git fetch origin
+          if git show-ref --quiet refs/remotes/origin/auto-pull-latest-template; then
+            git push origin --delete auto-pull-latest-template
+          fi
+
+      - name: Create New Branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git switch -c auto-pull-latest-template
+          git push -u origin auto-pull-latest-template
+
+      - uses: dart-lang/setup-dart@v1.3
+      - name: Install Dependencies
+        run: dart pub get
+
+      - name: Auto Pull Latest Template
+        run: dart run ./bin/pull_latest_template.dart
+        env:
+          GITHUB_TOKEN: ${{ secrets.DECKBLUE_TOKEN }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: "[Scheduled] Pull Latest Template"
+          title: "[Scheduled] Pull Latest Template"
+          branch: auto-pull-latest-template
+          base: main
+          labels: Github Actions
+          assignees: "${{ github.actor }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
