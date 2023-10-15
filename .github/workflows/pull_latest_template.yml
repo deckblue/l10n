@@ -45,5 +45,6 @@ jobs:
           branch: auto-pull-latest-template
           base: main
           labels: Github Actions
+          reviewers: gildaswise, myConsciousness
         env:
           GITHUB_TOKEN: ${{ secrets.DECKBLUE_TOKEN }}
