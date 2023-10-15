@@ -45,6 +45,5 @@ jobs:
           branch: auto-pull-latest-template
           base: main
           labels: Github Actions
-          assignees: "${{ github.actor }}"
         env:
           GITHUB_TOKEN: ${{ secrets.DECKBLUE_TOKEN }}
