@@ -246,5 +246,7 @@
   "show": "Ver",
   "confirmDeleteColumnTitle": "Deletar coluna",
   "confirmDeleteColumnContent": "Tem certeza de que quer deletar esta coluna?",
-  "settingsCompactMode": "Modo compacto nos posts"
+  "settingsCompactMode": "Modo compacto nos posts",
+  "errorAccountRelink": "Não foi possível atualizar esta conta, por favor tente novamente.",
+  "relinkAccount": "Revincular"
 }
