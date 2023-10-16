@@ -4,9 +4,7 @@
     "relinkAccount"
   ],
   "ja": [
-    "followsAccount",
-    "errorAccountRelink",
-    "relinkAccount"
+    "followsAccount"
   ],
   "de": [
     "confirmDeleteColumnTitle",
