@@ -246,5 +246,7 @@
   "show": "見る",
   "confirmDeleteColumnTitle": "カラムの削除",
   "confirmDeleteColumnContent": "このカラムを削除してもいいですか？",
-  "settingsCompactMode": "コンパクトモードを有効化"
+  "settingsCompactMode": "コンパクトモードを有効化",
+  "errorAccountRelink": "アカウントを再リンクできませんでした。もう一度お試しください。",
+  "relinkAccount": "再リンク"
 }
