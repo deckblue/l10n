@@ -54,9 +54,5 @@ String _getLangCode(final File file) {
   final fileName = file.path.split('/').last.split('.').first;
   final tokens = fileName.split('_');
 
-  if (tokens.length > 2) {
-    return '${tokens[1]}_${tokens[2]}';
-  }
-
-  return tokens[1];
+  return tokens.length > 2 ? tokens.sublist(1).join('_') : tokens[1];
 }
