@@ -37,6 +37,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.DECKBLUE_TOKEN }}
 
+      - name: Clean Arb Files
+        run: dart run ./bin/clean_arb_file.dart
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:

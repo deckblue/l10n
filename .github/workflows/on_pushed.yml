@@ -1,4 +1,4 @@
-name: Auto Update Untranslated
+name: Clean Files and Update Untranslated
 
 on:
   workflow_dispatch:
@@ -13,14 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      # Give the default GITHUB_TOKEN write permission to commit and push the
-      # added or changed files to the repository.
       contents: write
 
     steps:
       - uses: actions/checkout@v3
 
       - uses: dart-lang/setup-dart@v1.3
+
+      - name: Clean Arb Files
+        run: dart run ./bin/clean_arb_file.dart
 
       - name: Auto Update Untranslated
         run: dart run ./bin/update_untranslated.dart
