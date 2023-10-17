@@ -36,5 +36,5 @@ sequenceDiagram
     A->>R: Approve the PR
     R->>R: Merge PR to main
     R->>GHA: Trigger GitHub Actions
-    GHA->>R: Update untranslated.json
+    GHA->>R: Clean files and update untranslated.json
 ```
