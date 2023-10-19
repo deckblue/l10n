@@ -1,8 +1,8 @@
-# Contribution Guidelines
+# How to help
 
-There are mainly two ways to contribute to **[deck.blue](https://deck.blue)** from this repository. The first, and easiest, is to **edit the translation files directly in this repository on GitHub**. The second is to **clone this repository to your local machine, edit the translation files with an editor such as VSCode**, and then make a pull request.
+There are mainly two ways to contribute to **[deck.blue](https://deck.blue)**'s localization from this repository. The first, and easiest, is to **edit the translation files directly in this repository on GitHub**. The second is to **clone this repository to your local machine, edit the translation files with an editor such as VSCode**, and then make a pull request.
 
-We recommend the second method within the above, but for non-techies this is not an easy way. So you can edit this repository in either of the two ways mentioned above. Either way you create a pull request and then contribute with confidence that the reviewers will make sure there are no mistakes in your changes. **Take it easy!**
+We recommend the second method within the above, but for non-techies this is not straight-forward. In either way you'll create a pull request and then contribute with confidence that the reviewers will make sure there are no mistakes in your changes. **Take it easy!**
 
 ## For non-techies
 
@@ -16,21 +16,19 @@ All translation information for deck.blue is in the [strings](https://github.com
 | ------------------------------------------------- | ------------------------------------------------- |
 | ![guide1](./assets/imgs/contribution_guide_1.png) | ![guide2](./assets/imgs/contribution_guide_2.png) |
 
-A file in the language you want to translate does not exist? Then create a new file from the next menu. Please read [this section](https://github.com/deckblue/l10n?tab=readme-ov-file#adding-a-new-language) for naming conventions for translation files.
+### Adding a new language
 
-| Add new language                                    |
-| --------------------------------------------------- |
-| ![guide10](./assets/imgs/contribution_guide_10.png) |
+Start by copying the full `strings_en.arb` file, then rename it to have the language tag based on the [IANA list](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). For example, to add French, you would rename the file to `strings_fr.arb`. If it's a language that needs the full tag, such as Spanish (es) vs Latin America Spanish (es-419), the files would be `strings_es.arb` and `strings_es_419.arb` respectively.
 
 ### Edit translation file
 
-Next, let's edit the arb file. But before that, let's check [untranslated.json](https://github.com/deckblue/l10n/blob/main/untranslated.json) first. This file contains all untranslated items based on `strings_en.arb`, in other words the items listed in this file have not yet been translated by anyone. This time, I will add these untranslated items to `strings_ja.arb`.
+Before editing an `.arb` file, check [untranslated.json](https://github.com/deckblue/l10n/blob/main/untranslated.json) first. This file contains all untranslated items based on `strings_en.arb`, in other words the items listed in this file have not yet been translated by anyone. For this example, I will add these untranslated items to `strings_ja.arb`.
 
 | Untranslated items                                |
 | ------------------------------------------------- |
 | ![guide3](./assets/imgs/contribution_guide_3.png) |
 
-First, click on the arb file you wish to edit to open it. In this example I opened `strings_ja.arb`. Then you should see a pen icon in the upper right corner of the editor as shown in the next image. Click on it to open the editing window. And then please edit file as you want!
+First, click on the arb file you wish to edit to open it. In this example I opened `strings_ja.arb`. Then you should see a pen (edit) icon in the upper right corner of the editor as shown in the next image. Click on it to open the editing window. And then please edit file as you want!
 
 | Press edit icon                                   | Edit file                                         |
 | ------------------------------------------------- | ------------------------------------------------- |
@@ -48,7 +46,7 @@ Then you will get a pop-up to enter information about the commit, and you can pr
 | ------------------------------------------------- | ------------------------------------------------- |
 | ![guide6](./assets/imgs/contribution_guide_6.png) | ![guide7](./assets/imgs/contribution_guide_7.png) |
 
-**Okay we're almost there!**
+**We're almost there!**
 
 Pressing the `Process changes` button in the previous step finally opens the screen for creating a pull request. There is an input field to enter a description of the pull request, please write a brief description of the changes you have made. Or simply say `Hello!`.
 
@@ -58,4 +56,4 @@ Then, just press `Create pull request` button. Congrats, your pull request is fi
 | ------------------------------------------------- | ------------------------------------------------- |
 | ![guide8](./assets/imgs/contribution_guide_8.png) | ![guide9](./assets/imgs/contribution_guide_9.png) |
 
-Your pull request will then be merged into the repository once the review is complete. Please wait to hear good news from maintainers!
+Your pull request will then be merged into the repository once the review is complete. Please wait to hear good news from reviewers!
