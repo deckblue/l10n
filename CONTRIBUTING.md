@@ -16,11 +16,11 @@ All translation information for deck.blue is in the [strings](https://github.com
 | ------------------------------------------------- | ------------------------------------------------- |
 | ![guide1](./assets/imgs/contribution_guide_1.png) | ![guide2](./assets/imgs/contribution_guide_2.png) |
 
-### Adding a new language
+#### Adding a new language
 
 Start by copying the full `strings_en.arb` file, then rename it to have the language tag based on the [IANA list](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). For example, to add French, you would rename the file to `strings_fr.arb`. If it's a language that needs the full tag, such as Spanish (es) vs Latin America Spanish (es-419), the files would be `strings_es.arb` and `strings_es_419.arb` respectively.
 
-### Edit translation file
+#### Editing an existing language
 
 Before editing an `.arb` file, check [untranslated.json](https://github.com/deckblue/l10n/blob/main/untranslated.json) first. This file contains all untranslated items based on `strings_en.arb`, in other words the items listed in this file have not yet been translated by anyone. For this example, I will add these untranslated items to `strings_ja.arb`.
 
