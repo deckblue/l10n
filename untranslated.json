@@ -9,5 +9,12 @@
     "settingsCompactMode",
     "errorAccountRelink",
     "relinkAccount"
+  ],
+  "fr": [
+    "threadTitle",
+    "emptySavedFeeds",
+    "createCuratedListHeader",
+    "editCuratedListHeader",
+    "confirmListConvertContent"
   ]
 }

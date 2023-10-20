@@ -123,7 +123,7 @@
   "@mediaSizeSetting": {
     "description": "MediaSize setting title"
   },
-  "embedTypeSetting": "Allowed embeds", //FIXME
+  "embedTypeSetting": "Autoriser le contenu intégré", //FIXME
   "@embedTypeSetting": {
     "description": "EmbedType setting title"
   },
@@ -239,7 +239,7 @@
   "@quoteDialogHint": {
     "description": "NewPostDialog quote text field hint"
   },
-  "threadTitle": "Thread", //FIXME
+  "threadTitle": "Thread", //FIXME Keep the English Thread or use the French less used Fils
   "@threadTitle": {
     "description": "Thread page title"
   },
@@ -295,11 +295,11 @@
   "@profileDialogPosts": {
     "description": "Profile dialog Posts label"
   },
-  "profileDialogFollowing": "Suivis", //FIXME
+  "profileDialogFollowing": "Suivis",
   "@profileDialogFollowing": {
     "description": "Profile dialog Following label"
   },
-  "profileDialogFollowers": "Abonnés", //FIXME
+  "profileDialogFollowers": "Abonnés",
   "@profileDialogFollowers": {
     "description": "Profile dialog Followers label"
   },
@@ -447,7 +447,7 @@
   "@cancelButton": {
     "description": "Generic Cancel button"
   },
-  "contentLabelSuggestive": "Suggestive", //FIXME
+  "contentLabelSuggestive": "Suggestive",
   "@contentLabelSuggestive": {
     "description": "Suggestive content label title"
   },
@@ -519,7 +519,7 @@
   "@aboutButton": {
     "description": "About dialog button"
   },
-  "loginSlogan1": "Get the most out of ", //FIXME
+  "loginSlogan1": "Obtenez le meilleur de ",
   "@loginSlogan1": {
     "description": "Login slogan part 1"
   },
@@ -571,19 +571,19 @@
   "@blocked": {
     "description": "Profile viewed is blocked by you"
   },
-  "muted": "muted", //FIXME
+  "muted": "Mis(e) en sourdine",
   "@muted": {
     "description": "Profile viewed is muted by you"
   },
-  "mutedByList": "muted by list", //FIXME
+  "mutedByList": "Mis(e) en sourdine par une liste",
   "@mutedByList": {
     "description": "Profile viewed is muted by list"
   },
-  "muteButton": "Mute", //FIXME
+  "muteButton": "Mettre en sourdine",
   "@muteButton": {
     "description": "Mute profile viewed button"
   },
-  "unmuteButton": "Unmute", //FIXME
+  "unmuteButton": "Retirer la sourdine",
   "@unmuteButton": {
     "description": "Unmute profile viewed button"
   },
