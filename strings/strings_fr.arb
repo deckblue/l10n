@@ -463,63 +463,63 @@
   "@clearButton": {
     "description": "Generic Clear button"
   },
-  "emptySavedFeeds": "No saved feeds available. For now, please add them through",
+  "emptySavedFeeds": "No saved feeds available. For now, please add them through", //FIXME
   "@emptySavedFeeds": {
     "description": "Feed dialog empty state"
   },
-  "appPasswordTooltip": "An App Password is a Bluesky feature which adds a layer of safety when using 3rd party apps.\nYou should create one for any app that isn't official (such as this one).",
+  "appPasswordTooltip": "Un App Password est une fonctionnalité de Bluesky qui ajoute un niveau de sécurité lors de l'utilisation d'applications tierces.\nVous devriez en créer un pour chaque application non-officielle (comme celle-ci).",
   "@appPasswordTooltip": {
     "description": "App Password tooltip"
   },
-  "contentLabelSetting": "Add a content warning",
+  "contentLabelSetting": "Ajouter un avertissement sur le contenu",
   "@contentLabelSetting": {
     "description": "Content label setting for posts"
   },
-  "postErrorTooLarge": "Unable to post. An image used surpasses the 1MB limit.",
+  "postErrorTooLarge": "Impossible de poster. Une image utilisée dépasse la limite de 1 Mo.",
   "@postErrorTooLarge": {
     "description": "PostErrorType repost description"
   },
-  "tooltipKofi": "Donate a coffee!",
+  "tooltipKofi": "Donner un café !",
   "@tooltipKofi": {
     "description": "Ko-fi button tooltip"
   },
-  "linkButton": "Add link card: ",
+  "linkButton": "Ajouter une carte de lien : ",
   "@linkButton": {
     "description": "Add a link button"
   },
-  "quoteLinkButton": "Quote post",
+  "quoteLinkButton": "Citer le post",
   "@quoteLinkButton": {
     "description": "Add a post link"
   },
-  "aboutHeader1": "What is deck.blue?",
+  "aboutHeader1": "Qu'est-ce que deck.blue ?",
   "@aboutHeader1": {
     "description": "About dialog header 1"
   },
-  "aboutHeader2": "How does this work?",
+  "aboutHeader2": "Comment ça marche ?",
   "@aboutHeader2": {
     "description": "About dialog header 2"
   },
-  "aboutHeader3": "Is my data safe?",
+  "aboutHeader3": "Mes données sont-elles à l'abri ?",
   "@aboutHeader3": {
     "description": "About dialog header 3"
   },
-  "aboutDescription1": "As a 3rd party app, deck.blue is a Bluesky client that supports multi-column browsing, allowing you to check everything you care about at once (just like TweetDeck!).",
+  "aboutDescription1": "deck.blue est un client Bluesky non-officiel qui supporte la navigation sur plusieurs colonnes, vous permettant d'avoir sous les yeux tout ce qui vous intéresse en une fois (tout comme TweetDeck !).",
   "@aboutDescription1": {
     "description": "About dialog description 1"
   },
-  "aboutDescription2": "By using deck.blue, you can do everything you can already do on the official apps with the benefit of an information-efficient layout, organizing columns – updated in real time – to better fit your needs. Wanna keep track of many searched terms at once? Just add a column for each one! By using Bluesky's custom feed system, you can also follow as many communities as you want.",
+  "aboutDescription2": "En utilisant deck.blue, vous pouvez faire tout ce que vous pouvez déjà faire sur les applications officielles avec les bénéfices d'une disposition efficace, des colonnes - actualisées en temps réel - pour l'organisation pour mieux répondre à vos attentes. Besoin de garder un œil sur plusieurs mots-clés à la fois ? Ajoutez une colonne pour chacun d'entre eux ! En utilisant le système de flux personnalisés de Bluesky, vous pouvez aussi suivre autant de communautés que vous le souhaitez.",
   "@aboutDescription2": {
     "description": "About dialog description 2"
   },
-  "aboutDescription3": "deck.blue uses Google Analytics to send anonymous user events. All other data is kept between deck.blue and Bluesky's servers. Personal and sensitive data are not sent anywhere, and are kept in your browser's secure environment.\n\nTo ensure your safety, make sure to use Bluesky's App Password system, which adds a layer of security to 3rd party clients.",
+  "aboutDescription3": "deck.blue utilise Google Analytics pour envoyer des évènements utilisateurs anonymes. Toutes les autres données sont partagées entre les serveurs deck.blue et Bluesky. Les données personnelles et sensibles ne sont jamais envoyées et restent dans l'environnement sécurisé de votre navigateur.\n\nPour garantir votre sécurité, assurez-vous d'utiliser le système d'App Password de Blueskyp qui ajoute un niveau de sécurité aux clients tiers.",
   "@aboutDescription3": {
     "description": "About dialog description 3"
   },
-  "aboutButton": "About",
+  "aboutButton": "À propos",
   "@aboutButton": {
     "description": "About dialog button"
   },
-  "loginSlogan1": "Get the most out of ",
+  "loginSlogan1": "Get the most out of ", //FIXME
   "@loginSlogan1": {
     "description": "Login slogan part 1"
   },
@@ -527,15 +527,15 @@
   "@loginSlogan2": {
     "description": "Login slogan part 2"
   },
-  "updateSnackbar": "A new update is available!\nRefresh to get new features and bug fixes!",
+  "updateSnackbar": "Une mise à jour est disponible !\nActualisez la page pour obtenir les nouvelles fonctionnalités et les correctifs !",
   "@updateSnackbar": {
     "description": "Update Snackbar message"
   },
-  "refreshButton": "Refresh",
+  "refreshButton": "Actualiser",
   "@refreshButton": {
     "description": "Generic Refresh button"
   },
-  "replyCount": "{count, plural, one{Reply} other{Replies}}",
+  "replyCount": "{count, plural, one{réponse} other{réponses}}",
   "@replyCount": {
     "description": "Reply counter"
   },
@@ -547,7 +547,7 @@
   "@repostCount": {
     "description": "Repost counter"
   },
-  "emptyActorList": "Couldn't load users, try again later.",
+  "emptyActorList": "Impossible de charger les utilisateurs, réessayez ultérieurement.",
   "@emptyActorList": {
     "description": "Empty ActorListDialog message"
   },
