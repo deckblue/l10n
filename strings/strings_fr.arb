@@ -75,27 +75,27 @@
   "@errorLoginInvalidAppPassword": {
     "description": "Login invalid App Password error"
   },
-  "errorLoginServerError": "A server error has occurred. Please wait a bit and try again later.",
+  "errorLoginServerError": "Une erreur serveur est survenue. Merci d'attendre un peu pui de réessayer.",
   "@errorLoginServerError": {
     "description": "Login server error"
   },
-  "embedTypeQuote": "Quote",
+  "embedTypeQuote": "Citer",
   "@embedTypeQuote": {
     "description": "EmbedType Quote title"
   },
-  "embedTypeImageQuote": "Quote w/ media",
+  "embedTypeImageQuote": "Citer sans média",
   "@embedTypeImageQuote": {
     "description": "EmbedType ImageQuote title"
   },
-  "embedTypeLink": "Link",
+  "embedTypeLink": "Lien",
   "@embedTypeLink": {
     "description": "EmbedType Link title"
   },
-  "embedTypeImage": "Media",
+  "embedTypeImage": "Média",
   "@embedTypeImage": {
     "description": "EmbedType Image title"
   },
-  "embedTypeReply": "Replies",
+  "embedTypeReply": "Réponses",
   "@embedTypeReply": {
     "description": "EmbedType Reply title"
   },
@@ -103,15 +103,15 @@
   "@embedTypeRepost": {
     "description": "EmbedType Repost title"
   },
-  "mediaSizeHidden": "Hidden",
+  "mediaSizeHidden": "Cacher",
   "@mediaSizeHidden": {
     "description": "MediaSize Hidden title"
   },
-  "mediaSizeSmall": "Small",
+  "mediaSizeSmall": "Petit",
   "@mediaSizeSmall": {
     "description": "MediaSize Small title"
   },
-  "mediaSizeMedium": "Medium",
+  "mediaSizeMedium": "Moyen",
   "@mediaSizeMedium": {
     "description": "MediaSize Medium title"
   },
@@ -119,15 +119,15 @@
   "@mediaSizeLarge": {
     "description": "MediaSize Large title"
   },
-  "mediaSizeSetting": "Media thumbnail size",
+  "mediaSizeSetting": "Taille de l'aperçu des médias",
   "@mediaSizeSetting": {
     "description": "MediaSize setting title"
   },
-  "embedTypeSetting": "Allowed embeds",
+  "embedTypeSetting": "Allowed embeds", //FIXME
   "@embedTypeSetting": {
     "description": "EmbedType setting title"
   },
-  "postTypeSetting": "Allowed post types",
+  "postTypeSetting": "Types de posts autorisés",
   "@postTypeSetting": {
     "description": "EmbedType post setting title"
   },
@@ -135,139 +135,139 @@
   "@hiddenImageLabel": {
     "description": "Hidden image button label"
   },
-  "removeColumnButton": "Remove",
+  "removeColumnButton": "Supprimer",
   "@removeColumnButton": {
     "description": "Remove column button label"
   },
-  "addColumnDialogTitle": "Add a new column",
+  "addColumnDialogTitle": "Ajouter une nouvelle colonne",
   "@addColumnDialogTitle": {
     "description": "Add default columns dialog title"
   },
-  "addFeedColumnDialogTitle": "Add a new feed column",
+  "addFeedColumnDialogTitle": "Ajouter une nouvelle colonne de flux",
   "@addFeedColumnDialogTitle": {
     "description": "Add custom feed column dialog title"
   },
-  "columnDescriptionHome": "Your default timeline",
+  "columnDescriptionHome": "Votre timeline par défaut",
   "@columnDescriptionHome": {
     "description": "DeckColumnType Home description"
   },
-  "columnDescriptionUser": "Your own posts",
+  "columnDescriptionUser": "Vos posts",
   "@columnDescriptionUser": {
     "description": "DeckColumnType User description"
   },
-  "columnDescriptionNotifications": "Your notifications",
+  "columnDescriptionNotifications": "Vos notifications",
   "@columnDescriptionNotifications": {
     "description": "DeckColumnType Notifications description"
   },
-  "columnDescriptionLikes": "Your liked posts",
+  "columnDescriptionLikes": "Vos posts likés",
   "@columnDescriptionLikes": {
     "description": "DeckColumnType Likes description"
   },
-  "columnDescriptionMentions": "Every post that mentions you",
+  "columnDescriptionMentions": "Tous les posts qui vous mentionnent",
   "@columnDescriptionMentions": {
     "description": "DeckColumnType Mentions description"
   },
-  "columnDescriptionMedia": "Your posts with any media",
+  "columnDescriptionMedia": "Vos posts avec un média",
   "@columnDescriptionMedia": {
     "description": "DeckColumnType Media description"
   },
-  "columnDescriptionCustom": "Select a custom feed from your saved ones",
+  "columnDescriptionCustom": "Sélectionnez un flux personnalisé depuis vos flux sauvegardés",
   "@columnDescriptionCustom": {
     "description": "DeckColumnType Custom description"
   },
-  "columnDescriptionListFeed": "Create a list or select an existing one",
+  "columnDescriptionListFeed": "Créer une liste ou en choisir une existante",
   "@columnDescriptionListFeed": {
     "description": "DeckColumnType List description"
   },
-  "selectLanguageDialogTitle": "Select the language of your post",
+  "selectLanguageDialogTitle": "Selectionnez la langue de votre post",
   "@selectLanguageDialogTitle": {
     "description": "SelectLanguageDialog title"
   },
-  "selectOtherLanguage": "Other…",
+  "selectOtherLanguage": "Autre…",
   "@selectOtherLanguage": {
     "description": "SelectLanguageDialog menu option"
   },
-  "postButton": "Post",
+  "postButton": "Poster",
   "@postButton": {
     "description": "NewPostDialog button"
   },
-  "deleteButton": "Delete",
+  "deleteButton": "Supprimer",
   "@deleteButton": {
     "description": "Generic delete button"
   },
-  "postDialogHint": "What's up?",
+  "postDialogHint": "Quoi de neuf ?",
   "@postDialogHint": {
     "description": "NewPostDialog text field hint"
   },
-  "postErrorUpload": "Couldn't post. Please try again later.",
+  "postErrorUpload": "Impossible de poster. Merci de réessayer plus tard.",
   "@postErrorUpload": {
     "description": "PostErrorType upload description"
   },
-  "postErrorDelete": "Couldn't delete this post. Please try again later.",
+  "postErrorDelete": "Impossible de supprimer ce post. Merci de réessayer plus tard.",
   "@postErrorDelete": {
     "description": "PostErrorType delete description"
   },
-  "postErrorLike": "Couldn't like this post. Please try again later.",
+  "postErrorLike": "Impossible de liker ce post. Merci de réessayer plus tard.",
   "@postErrorLike": {
     "description": "PostErrorType like description"
   },
-  "postErrorRepost": "Unable to repost. Please try again later.",
+  "postErrorRepost": "Impossible de reposter. Merci de réessayer plus tard.",
   "@postErrorRepost": {
     "description": "PostErrorType repost description"
   },
-  "replyButton": "Reply",
+  "replyButton": "Répondre",
   "@replyButton": {
     "description": "Generic reply button"
   },
-  "repostButton": "Repost",
+  "repostButton": "Reposter",
   "@repostButton": {
     "description": "Generic repost button"
   },
-  "quoteButton": "Quote",
+  "quoteButton": "Citer",
   "@quoteButton": {
     "description": "Generic quote button"
   },
-  "likeButton": "Like",
+  "likeButton": "Liker",
   "@likeButton": {
     "description": "Generic like button"
   },
-  "replyDialogHint": "Write a reply to this post",
+  "replyDialogHint": "Votre réponse à ce post",
   "@replyDialogHint": {
     "description": "NewPostDialog reply text field hint"
   },
-  "quoteDialogHint": "Say something about this post",
+  "quoteDialogHint": "Dites quelque chose à propos de ce post",
   "@quoteDialogHint": {
     "description": "NewPostDialog quote text field hint"
   },
-  "threadTitle": "Thread",
+  "threadTitle": "Thread", //FIXME
   "@threadTitle": {
     "description": "Thread page title"
   },
-  "undoButton": "Undo",
+  "undoButton": "Annuler",
   "@undoButton": {
     "description": "Generic undo button"
   },
-  "postButtonCopy": "Share",
+  "postButtonCopy": "Partager",
   "@postButtonCopy": {
     "description": "Post copy URL button"
   },
-  "postCopyMessage": "Copied to clipboard",
+  "postCopyMessage": "Copié dans le presse-papier",
   "@postCopyMessage": {
     "description": "Post copy URL success message"
   },
-  "postButtonOpen": "Open in bsky",
+  "postButtonOpen": "Ouvrir dans bsky",
   "@postButtonOpen": {
     "description": "Post open in bsky button"
   },
-  "errorThreadEmptyPost": "Unable to find post",
+  "errorThreadEmptyPost": "Impossible de trouver ce post",
   "@errorThreadEmptyPost": {
     "description": "Error in thread view when unable to find a post"
   },
-  "searchDialogHint": "Search",
+  "searchDialogHint": "Chercher",
   "@searchDialogHint": {
     "description": "SearchDialog text field hint"
   },
-  "searchDialogUsers": "Users",
+  "searchDialogUsers": "Utilisateurs",
   "@searchDialogUsers": {
     "description": "SearchDialog Users tab"
   },
@@ -275,19 +275,19 @@
   "@searchDialogPosts": {
     "description": "SearchDialog Posts tab"
   },
-  "searchDialogAddColumn": "Add column",
+  "searchDialogAddColumn": "Ajouter une colonne",
   "@searchDialogAddColumn": {
     "description": "SearchDialog Add column button"
   },
-  "translateButton": "Translate",
+  "translateButton": "Traduire",
   "@translateButton": {
     "description": "Generic Translate button"
   },
-  "emptyPosts": "No posts found",
+  "emptyPosts": "Aucun post trouvé",
   "@emptyPosts": {
     "description": "Empty state for post search"
   },
-  "emptyUsers": "No profiles found",
+  "emptyUsers": "No profiles trouvé",
   "@emptyUsers": {
     "description": "Empty state for profile search"
   },
@@ -295,15 +295,15 @@
   "@profileDialogPosts": {
     "description": "Profile dialog Posts label"
   },
-  "profileDialogFollowing": "Following",
+  "profileDialogFollowing": "Suivis", //FIXME
   "@profileDialogFollowing": {
     "description": "Profile dialog Following label"
   },
-  "profileDialogFollowers": "Followers",
+  "profileDialogFollowers": "Followers", //FIXME
   "@profileDialogFollowers": {
     "description": "Profile dialog Followers label"
   },
-  "errorProfileDialog": "Couldn't load this profile. Please try again later.",
+  "errorProfileDialog": "Impossible d'ouvrir ce profil. Merci de réessayer plus tard.",
   "@errorProfileDialog": {
     "description": "Error state for profile search"
   },
@@ -311,7 +311,7 @@
   "@profileDialogPostsColumn": {
     "description": "Profile dialog Posts column label"
   },
-  "profileDialogMediaColumn": "Media",
+  "profileDialogMediaColumn": "Média",
   "@profileDialogMediaColumn": {
     "description": "Profile dialog Media column label"
   },
@@ -319,47 +319,47 @@
   "@profileDialogLikesColumn": {
     "description": "Profile dialog Likes column label"
   },
-  "profileDialogAddColumn": "Add a column",
+  "profileDialogAddColumn": "Ajouter une colonne",
   "@profileDialogAddColumn": {
     "description": "Profile dialog Add column label"
   },
-  "repostedBy": "Reposted by {actor}",
+  "repostedBy": "Reposté par {actor}",
   "@repostedBy": {
     "description": "repostedBy formatted text"
   },
-  "replyTo": "Replying to {actor}",
+  "replyTo": "En réponse à {actor}",
   "@replyTo": {
     "description": "replyTo formatted text"
   },
-  "advancedButton": "Advanced",
+  "advancedButton": "Advancé",
   "@advancedButton": {
     "description": "Generic Advanced button"
   },
-  "notificationLikeReason": "{count, plural, other{liked your post}}",
+  "notificationLikeReason": "{count, plural, one{a aimé votre post} other{ont aimé votre post}}",
   "@notificationLikeReason": {
     "description": "Notification reason like reason"
   },
-  "notificationRepostReason": "{count, plural, other{reposted your post}}",
+  "notificationRepostReason": "{count, plural, one{a reposé votre post} other{ont reposté votre post}}",
   "@notificationRepostReason": {
     "description": "Notification reason repost reason"
   },
-  "notificationFollowReason": "{count, plural, other{followed you}}",
+  "notificationFollowReason": "{count, plural, one{vous a suivi(e)} other{vous ont suivi(e)}}",
   "@notificationFollowReason": {
     "description": "Notification reason follow reason"
   },
-  "notificationMentionReason": "{count, plural, other{mentioned you}}",
+  "notificationMentionReason": "{count, plural, one{vous a mentionné(e)} other{vous ont mentionné(e)}}",
   "@notificationMentionReason": {
     "description": "Notification reason mention reason"
   },
-  "notificationQuoteReason": "{count, plural, other{quoted your post}}",
+  "notificationQuoteReason": "{count, plural, one{a cité votre post} other{ont cité votre post}}",
   "@notificationQuoteReason": {
     "description": "Notification reason quote reason"
   },
-  "notificationReplyReason": "{count, plural, other{replied to you}}",
+  "notificationReplyReason": "{count, plural, one{vous a répondu} other{vous ont répondu}}",
   "@notificationReplyReason": {
     "description": "Notification reason reply reason"
   },
-  "notificationTitleCounter": "{count, plural, other{{count} others}}",
+  "notificationTitleCounter": "{count, plural, other{{count} autres}}",
   "@notificationTitleCounter": {
     "description": "Notification title other count"
   },
@@ -367,75 +367,75 @@
   "@notificationTitleShortCounter": {
     "description": "Notification title other count"
   },
-  "notificationTitleAnd": " and ",
+  "notificationTitleAnd": " et ",
   "@notificationTitleAnd": {
     "description": "Notification title other count 'and'"
   },
-  "sizeSmallest": "Smallest",
+  "sizeSmallest": "la plus petite",
   "@sizeSmallest": {
     "description": "Settings Smallest size"
   },
-  "sizeSmall": "Small",
+  "sizeSmall": "Petite",
   "@sizeSmall": {
     "description": "Settings Small size"
   },
-  "sizeMedium": "Medium",
+  "sizeMedium": "Moyenne",
   "@sizeMedium": {
     "description": "Settings Medium size"
   },
-  "sizeLarge": "Large",
+  "sizeLarge": "Grande",
   "@sizeLarge": {
     "description": "Settings Large size"
   },
-  "sizeLargest": "Largest",
+  "sizeLargest": "La plus grande",
   "@sizeLargest": {
     "description": "Settings Largest size"
   },
-  "settingsDialogTitle": "Settings",
+  "settingsDialogTitle": "Paramètres",
   "@settingsDialogTitle": {
     "description": "Settings dialog title"
   },
-  "settingsColumnSize": "Column size",
+  "settingsColumnSize": "Taille de colonne",
   "@settingsColumnSize": {
     "description": "Settings dialog column size subtitle"
   },
-  "settingsFontSize": "Font size",
+  "settingsFontSize": "Taille du texte",
   "@settingsFontSize": {
     "description": "Settings dialog font size subtitle"
   },
-  "settingsTheme": "Theme",
+  "settingsTheme": "Thème",
   "@settingsTheme": {
     "description": "Settings dialog theme subtitle"
   },
-  "settingsLightTheme": "Light",
+  "settingsLightTheme": "Clair",
   "@settingsLightTheme": {
     "description": "Settings dialog light theme"
   },
-  "settingsDarkTheme": "Dark",
+  "settingsDarkTheme": "Sombre",
   "@settingsDarkTheme": {
     "description": "Settings dialog dark theme"
   },
-  "settingsSystemTheme": "Follow system",
+  "settingsSystemTheme": "Suivre votre système",
   "@settingsSystemTheme": {
     "description": "Settings dialog system theme"
   },
-  "settingsLocale": "Display language",
+  "settingsLocale": "Langue d'affichage",
   "@settingsLocale": {
     "description": "Settings dialog language"
   },
-  "profileDialogFollowButton": "Follow",
+  "profileDialogFollowButton": "Suivre",
   "@profileDialogFollowButton": {
     "description": "Profile Dialog follow button"
   },
-  "profileDialogFollowingButton": "Following",
+  "profileDialogFollowingButton": "Suivi(e)",
   "@profileDialogFollowingButton": {
     "description": "Profile Dialog following button"
   },
-  "imageAltDialogHint": "Describe this image",
+  "imageAltDialogHint": "Décrivez cette image",
   "@imageAltDialogHint": {
     "description": "Image Alt text Dialog input hint"
   },
-  "saveButton": "Save",
+  "saveButton": "Enregistrer",
   "@saveButton": {
     "description": "Generic Save button"
   },
@@ -443,23 +443,23 @@
   "@confirmButton": {
     "description": "Generic Confirm button"
   },
-  "cancelButton": "Cancel",
+  "cancelButton": "Annuler",
   "@cancelButton": {
     "description": "Generic Cancel button"
   },
-  "contentLabelSuggestive": "Suggestive",
+  "contentLabelSuggestive": "Suggestive", //FIXME
   "@contentLabelSuggestive": {
     "description": "Suggestive content label title"
   },
-  "contentLabelNsfw": "Porn",
+  "contentLabelNsfw": "Porno",
   "@contentLabelNsfw": {
     "description": "Nsfw content label title"
   },
-  "contentLabelNudity": "Nudity",
+  "contentLabelNudity": "Nudité",
   "@contentLabelNudity": {
     "description": "Nudity content label title"
   },
-  "clearButton": "Clear",
+  "clearButton": "Effacer", //FIXME Vider ?
   "@clearButton": {
     "description": "Generic Clear button"
   },
