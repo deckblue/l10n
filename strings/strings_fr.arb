@@ -123,7 +123,7 @@
   "@mediaSizeSetting": {
     "description": "MediaSize setting title"
   },
-  "embedTypeSetting": "Autoriser le contenu intégré",
+  "embedTypeSetting": "Autoriser certains contenus",
   "@embedTypeSetting": {
     "description": "EmbedType setting title"
   },
@@ -239,7 +239,7 @@
   "@quoteDialogHint": {
     "description": "NewPostDialog quote text field hint"
   },
-  "threadTitle": "Fil",
+  "threadTitle": "Thread",
   "@threadTitle": {
     "description": "Thread page title"
   },
@@ -463,7 +463,7 @@
   "@clearButton": {
     "description": "Generic Clear button"
   },
-  "emptySavedFeeds": "Aucun flux enregistré disponible. Pour le moment ajoutez-les via",
+  "emptySavedFeeds": "No saved feeds available. For now, please add them through",
   "@emptySavedFeeds": {
     "description": "Feed dialog empty state"
   },
@@ -983,11 +983,11 @@
   "@settingsCompactMode": {
     "description": "Settings dialog compact mode"
   },
-  "errorAccountRelink": "Impossible de se raccorder à ce compte, merci de réessayer plus tard.",
+  "errorAccountRelink": "Impossible de se reconnecter à ce compte, merci de réessayer plus tard.",
   "@errorAccountRelink": {
     "description": "Error when relinking existing account"
   },
-  "relinkAccount": "Raccorder le compte",
+  "relinkAccount": "Reconnecter le compte",
   "@relinkAccount": {
     "description": "Relink account button"
   }
