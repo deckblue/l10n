@@ -990,5 +990,13 @@
   "relinkAccount": "Relink",
   "@relinkAccount": {
     "description": "Relink account button"
+  },
+  "settingsForceAltTextInput": "Require alt text before posting",
+  "@settingsForceAltTextInput": {
+    "description": "Flag whether to force alt text input in the settings dialog"
+  },
+  "postDialogForceAltTextInputHint": "One or more images is missing alt text",
+  "@postDialogForceAltTextInputHint": {
+    "description": "Hint indicating that alt text has not been entered"
   }
 }
