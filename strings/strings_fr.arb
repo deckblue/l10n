@@ -43,14 +43,7 @@
   "columnDescriptionMentions": "Tous les posts qui vous mentionnent",
   "columnDescriptionMedia": "Vos posts avec un média",
   "columnDescriptionCustom": "Sélectionnez un flux personnalisé depuis vos flux sauvegardés",
-  "@columnDescriptionCustom": {
-    "description": "DeckColumnType Custom description"
-  },
   "columnDescriptionListFeed": "Créez une liste ou choisissez-en une existante",
-  "@columnDescriptionListFeed": {
-    "description": "DeckColumnType List description"
-  },
-  "columnDescriptionListFeed": "Créer une liste ou en choisir une existante",
   "selectLanguageDialogTitle": "Sélectionnez la langue de votre post",
   "selectOtherLanguage": "Autre…",
   "postButton": "Poster",
@@ -80,13 +73,7 @@
   "emptyPosts": "Aucun post trouvé",
   "emptyUsers": "No profiles trouvé",
   "profileDialogPosts": "Posts",
-  "@profileDialogPosts": {
-    "description": "Profile dialog Posts label"
-  },
   "profileDialogFollowing": "Abonnements",
-  "@profileDialogFollowing": {
-    "description": "Profile dialog Following label"
-  },
   "profileDialogFollowers": "Abonnés",
   "errorProfileDialog": "Impossible de charger ce profil. Merci de réessayer plus tard.",
   "profileDialogPostsColumn": "Posts",
@@ -105,23 +92,11 @@
   "notificationTitleCounter": "{count, plural, one{1 autre} other{{count} autres}}",
   "notificationTitleShortCounter": "+{count}",
   "notificationTitleAnd": " et ",
-  "@notificationTitleAnd": {
-    "description": "Notification title other count 'and'"
-  },
   "sizeSmallest": "Très petite",
-  "@sizeSmallest": {
-    "description": "Settings Smallest size"
-  },
   "sizeSmall": "Petite",
   "sizeMedium": "Moyenne",
   "sizeLarge": "Grande",
-  "@sizeLarge": {
-    "description": "Settings Large size"
-  },
   "sizeLargest": "Très grande",
-  "@sizeLargest": {
-    "description": "Settings Largest size"
-  },
   "settingsDialogTitle": "Paramètres",
   "settingsColumnSize": "Taille de colonne",
   "settingsFontSize": "Taille du texte",
