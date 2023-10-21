@@ -144,7 +144,7 @@
   "muted": "已靜音",
   "mutedByList": "已被列表靜音",
   "muteButton": "靜音",
-  "unmuteButton": 取消靜音"",
+  "unmuteButton": "取消靜音",
   "blockButton": "封鎖",
   "unblockButton": "解除封鎖",
   "errorUpdateList": "無法更新列表，請稍後再嘗試。",
