@@ -1,994 +1,250 @@
 {
   "columnTitleHome": "Accueil",
-  "@columnTitleHome": {
-    "description": "DeckColumnType Home title"
-  },
   "columnTitleUser": "Vous",
-  "@columnTitleUser": {
-    "description": "DeckColumnType User title"
-  },
   "columnTitleNotifications": "Notifications",
-  "@columnTitleNotifications": {
-    "description": "DeckColumnType Notifications title"
-  },
   "columnTitleLikes": "Likes",
-  "@columnTitleLikes": {
-    "description": "DeckColumnType Likes title"
-  },
   "columnTitleMentions": "Mentions",
-  "@columnTitleMentions": {
-    "description": "DeckColumnType Mentions title"
-  },
   "columnTitleMedia": "Média",
-  "@columnTitleMedia": {
-    "description": "DeckColumnType Media title"
-  },
   "columnTitleCustom": "Flux personnalisé",
-  "@columnTitleCustom": {
-    "description": "DeckColumnType Custom title"
-  },
   "columnTitleListFeed": "Liste",
-  "@columnTitleListFeed": {
-    "description": "DeckColumnType List title"
-  },
   "columnTitleSearch": "Rechercher",
-  "@columnTitleSearch": {
-    "description": "DeckColumnType Search title"
-  },
   "serviceLabel": "Service",
-  "@serviceLabel": {
-    "description": "Service TextField label"
-  },
   "serviceHint": "bsky.social",
-  "@serviceHint": {
-    "description": "Service TextField hint"
-  },
   "usernameLabel": "Identifiant",
-  "@usernameLabel": {
-    "description": "Username TextField label"
-  },
   "usernameHint": "Nom d'utilisateur ou adresse email",
-  "@usernameHint": {
-    "description": "Username TextField hint"
-  },
   "passwordLabel": "App Password",
-  "@passwordLabel": {
-    "description": "Password TextField label"
-  },
   "loginButton": "Connexion",
-  "@loginButton": {
-    "description": "Login button text"
-  },
   "loginFirebaseDescription": "Nous utilisons Google Analytics pour envoyer des évènements utilisateurs anonymes. Toutes les autres données sont partagées entre les serveurs deck.blue et Bluesky.",
-  "@loginFirebaseDescription": {
-    "description": "Description to users about Firebase on the login screen."
-  },
   "errorLoginUnknown": "Impossible de vous connecter, merci de réessayer ultérieurement",
-  "@errorLoginUnknown": {
-    "description": "Login unknown error"
-  },
   "errorLoginWrongCredentials": "Identifiant ou mot de passe incorrect, merci de réessayer.",
-  "@errorLoginWrongCredentials": {
-    "description": "Login wrong credentials error"
-  },
   "errorLoginInvalidAppPassword": "App Password invalide. Générez un App Password depuis l'icône ? dans le champ Mot de passe ou cliquez à nouveau sur le bouton de connexion pour ignorer cet avertissement.",
-  "@errorLoginInvalidAppPassword": {
-    "description": "Login invalid App Password error"
-  },
   "errorLoginServerError": "Une erreur serveur est survenue. Merci d'attendre un peu pui de réessayer.",
-  "@errorLoginServerError": {
-    "description": "Login server error"
-  },
   "embedTypeQuote": "Citation",
-  "@embedTypeQuote": {
-    "description": "EmbedType Quote title"
-  },
   "embedTypeImageQuote": "Citation avec média",
-  "@embedTypeImageQuote": {
-    "description": "EmbedType ImageQuote title"
-  },
   "embedTypeLink": "Lien",
-  "@embedTypeLink": {
-    "description": "EmbedType Link title"
-  },
   "embedTypeImage": "Média",
-  "@embedTypeImage": {
-    "description": "EmbedType Image title"
-  },
   "embedTypeReply": "Réponses",
-  "@embedTypeReply": {
-    "description": "EmbedType Reply title"
-  },
   "embedTypeRepost": "Reposts",
-  "@embedTypeRepost": {
-    "description": "EmbedType Repost title"
-  },
   "mediaSizeHidden": "Masquer",
-  "@mediaSizeHidden": {
-    "description": "MediaSize Hidden title"
-  },
   "mediaSizeSmall": "Petite",
-  "@mediaSizeSmall": {
-    "description": "MediaSize Small title"
-  },
   "mediaSizeMedium": "Moyenne",
-  "@mediaSizeMedium": {
-    "description": "MediaSize Medium title"
-  },
   "mediaSizeLarge": "Grande",
-  "@mediaSizeLarge": {
-    "description": "MediaSize Large title"
-  },
   "mediaSizeSetting": "Taille de l'aperçu des médias",
-  "@mediaSizeSetting": {
-    "description": "MediaSize setting title"
-  },
   "embedTypeSetting": "Autoriser certains contenus",
-  "@embedTypeSetting": {
-    "description": "EmbedType setting title"
-  },
   "postTypeSetting": "Types de posts autorisés",
-  "@postTypeSetting": {
-    "description": "EmbedType post setting title"
-  },
   "hiddenImageLabel": "Image",
-  "@hiddenImageLabel": {
-    "description": "Hidden image button label"
-  },
   "removeColumnButton": "Supprimer",
-  "@removeColumnButton": {
-    "description": "Remove column button label"
-  },
   "addColumnDialogTitle": "Ajouter une nouvelle colonne",
-  "@addColumnDialogTitle": {
-    "description": "Add default columns dialog title"
-  },
   "addFeedColumnDialogTitle": "Ajouter une nouvelle colonne de flux",
-  "@addFeedColumnDialogTitle": {
-    "description": "Add custom feed column dialog title"
-  },
   "columnDescriptionHome": "Votre timeline par défaut",
-  "@columnDescriptionHome": {
-    "description": "DeckColumnType Home description"
-  },
   "columnDescriptionUser": "Vos posts",
-  "@columnDescriptionUser": {
-    "description": "DeckColumnType User description"
-  },
   "columnDescriptionNotifications": "Vos notifications",
-  "@columnDescriptionNotifications": {
-    "description": "DeckColumnType Notifications description"
-  },
   "columnDescriptionLikes": "Vos posts likés",
-  "@columnDescriptionLikes": {
-    "description": "DeckColumnType Likes description"
-  },
   "columnDescriptionMentions": "Tous les posts qui vous mentionnent",
-  "@columnDescriptionMentions": {
-    "description": "DeckColumnType Mentions description"
-  },
   "columnDescriptionMedia": "Vos posts avec un média",
-  "@columnDescriptionMedia": {
-    "description": "DeckColumnType Media description"
-  },
   "columnDescriptionCustom": "Sélectionnez un flux personnalisé depuis vos flux sauvegardés",
-  "@columnDescriptionCustom": {
-    "description": "DeckColumnType Custom description"
-  },
   "columnDescriptionListFeed": "Créer une liste ou en choisir une existante",
-  "@columnDescriptionListFeed": {
-    "description": "DeckColumnType List description"
-  },
   "selectLanguageDialogTitle": "Sélectionnez la langue de votre post",
-  "@selectLanguageDialogTitle": {
-    "description": "SelectLanguageDialog title"
-  },
   "selectOtherLanguage": "Autre…",
-  "@selectOtherLanguage": {
-    "description": "SelectLanguageDialog menu option"
-  },
   "postButton": "Poster",
-  "@postButton": {
-    "description": "NewPostDialog button"
-  },
   "deleteButton": "Supprimer",
-  "@deleteButton": {
-    "description": "Generic delete button"
-  },
   "postDialogHint": "Quoi de neuf ?",
-  "@postDialogHint": {
-    "description": "NewPostDialog text field hint"
-  },
   "postErrorUpload": "Impossible de publier. Merci de réessayer plus tard.",
-  "@postErrorUpload": {
-    "description": "PostErrorType upload description"
-  },
   "postErrorDelete": "Impossible de supprimer ce post. Merci de réessayer plus tard.",
-  "@postErrorDelete": {
-    "description": "PostErrorType delete description"
-  },
   "postErrorLike": "Impossible de liker ce post. Merci de réessayer plus tard.",
-  "@postErrorLike": {
-    "description": "PostErrorType like description"
-  },
   "postErrorRepost": "Impossible de reposter. Merci de réessayer plus tard.",
-  "@postErrorRepost": {
-    "description": "PostErrorType repost description"
-  },
   "replyButton": "Répondre",
-  "@replyButton": {
-    "description": "Generic reply button"
-  },
   "repostButton": "Reposter",
-  "@repostButton": {
-    "description": "Generic repost button"
-  },
   "quoteButton": "Citer",
-  "@quoteButton": {
-    "description": "Generic quote button"
-  },
   "likeButton": "Liker",
-  "@likeButton": {
-    "description": "Generic like button"
-  },
   "replyDialogHint": "Écrivez votre réponse à ce post",
-  "@replyDialogHint": {
-    "description": "NewPostDialog reply text field hint"
-  },
   "quoteDialogHint": "Dites quelque chose à propos de ce post",
-  "@quoteDialogHint": {
-    "description": "NewPostDialog quote text field hint"
-  },
   "threadTitle": "Thread",
-  "@threadTitle": {
-    "description": "Thread page title"
-  },
   "undoButton": "Annuler",
-  "@undoButton": {
-    "description": "Generic undo button"
-  },
   "postButtonCopy": "Partager",
-  "@postButtonCopy": {
-    "description": "Post copy URL button"
-  },
   "postCopyMessage": "Copié dans le presse-papier",
-  "@postCopyMessage": {
-    "description": "Post copy URL success message"
-  },
   "postButtonOpen": "Ouvrir dans bsky",
-  "@postButtonOpen": {
-    "description": "Post open in bsky button"
-  },
   "errorThreadEmptyPost": "Impossible de trouver ce post",
-  "@errorThreadEmptyPost": {
-    "description": "Error in thread view when unable to find a post"
-  },
   "searchDialogHint": "Rechercher",
-  "@searchDialogHint": {
-    "description": "SearchDialog text field hint"
-  },
   "searchDialogUsers": "Utilisateurs",
-  "@searchDialogUsers": {
-    "description": "SearchDialog Users tab"
-  },
   "searchDialogPosts": "Posts",
-  "@searchDialogPosts": {
-    "description": "SearchDialog Posts tab"
-  },
   "searchDialogAddColumn": "Ajouter une colonne",
-  "@searchDialogAddColumn": {
-    "description": "SearchDialog Add column button"
-  },
   "translateButton": "Traduire",
-  "@translateButton": {
-    "description": "Generic Translate button"
-  },
   "emptyPosts": "Aucun post trouvé",
-  "@emptyPosts": {
-    "description": "Empty state for post search"
-  },
   "emptyUsers": "No profiles trouvé",
-  "@emptyUsers": {
-    "description": "Empty state for profile search"
-  },
   "profileDialogPosts": "Posts",
-  "@profileDialogPosts": {
-    "description": "Profile dialog Posts label"
-  },
   "profileDialogFollowing": "Suivis",
-  "@profileDialogFollowing": {
-    "description": "Profile dialog Following label"
-  },
   "profileDialogFollowers": "Abonnés",
-  "@profileDialogFollowers": {
-    "description": "Profile dialog Followers label"
-  },
   "errorProfileDialog": "Impossible de charger ce profil. Merci de réessayer plus tard.",
-  "@errorProfileDialog": {
-    "description": "Error state for profile search"
-  },
   "profileDialogPostsColumn": "Posts",
-  "@profileDialogPostsColumn": {
-    "description": "Profile dialog Posts column label"
-  },
   "profileDialogMediaColumn": "Média",
-  "@profileDialogMediaColumn": {
-    "description": "Profile dialog Media column label"
-  },
   "profileDialogLikesColumn": "Likes",
-  "@profileDialogLikesColumn": {
-    "description": "Profile dialog Likes column label"
-  },
   "profileDialogAddColumn": "Ajouter une colonne",
-  "@profileDialogAddColumn": {
-    "description": "Profile dialog Add column label"
-  },
   "repostedBy": "Reposté par {actor}",
-  "@repostedBy": {
-    "description": "repostedBy formatted text"
-  },
   "replyTo": "En réponse à {actor}",
-  "@replyTo": {
-    "description": "replyTo formatted text"
-  },
   "advancedButton": "Advancé",
-  "@advancedButton": {
-    "description": "Generic Advanced button"
-  },
   "notificationLikeReason": "{count, plural, one{a aimé votre post} other{ont aimé votre post}}",
-  "@notificationLikeReason": {
-    "description": "Notification reason like reason"
-  },
   "notificationRepostReason": "{count, plural, one{a reposé votre post} other{ont reposté votre post}}",
-  "@notificationRepostReason": {
-    "description": "Notification reason repost reason"
-  },
   "notificationFollowReason": "{count, plural, one{vous a suivi(e)} other{vous ont suivi(e)}}",
-  "@notificationFollowReason": {
-    "description": "Notification reason follow reason"
-  },
   "notificationMentionReason": "{count, plural, one{vous a mentionné(e)} other{vous ont mentionné(e)}}",
-  "@notificationMentionReason": {
-    "description": "Notification reason mention reason"
-  },
   "notificationQuoteReason": "{count, plural, one{a cité votre post} other{ont cité votre post}}",
-  "@notificationQuoteReason": {
-    "description": "Notification reason quote reason"
-  },
   "notificationReplyReason": "{count, plural, one{vous a répondu} other{vous ont répondu}}",
-  "@notificationReplyReason": {
-    "description": "Notification reason reply reason"
-  },
   "notificationTitleCounter": "{count, plural, one{1 autre} other{{count} autres}}",
-  "@notificationTitleCounter": {
-    "description": "Notification title other count"
-  },
   "notificationTitleShortCounter": "+{count}",
-  "@notificationTitleShortCounter": {
-    "description": "Notification title other count"
-  },
   "notificationTitleAnd": " et ",
-  "@notificationTitleAnd": {
-    "description": "Notification title other count 'and'"
-  },
   "sizeSmallest": "la plus petite",
-  "@sizeSmallest": {
-    "description": "Settings Smallest size"
-  },
   "sizeSmall": "Petite",
-  "@sizeSmall": {
-    "description": "Settings Small size"
-  },
   "sizeMedium": "Moyenne",
-  "@sizeMedium": {
-    "description": "Settings Medium size"
-  },
   "sizeLarge": "Grande",
-  "@sizeLarge": {
-    "description": "Settings Large size"
-  },
   "sizeLargest": "La plus grande",
-  "@sizeLargest": {
-    "description": "Settings Largest size"
-  },
   "settingsDialogTitle": "Paramètres",
-  "@settingsDialogTitle": {
-    "description": "Settings dialog title"
-  },
   "settingsColumnSize": "Taille de colonne",
-  "@settingsColumnSize": {
-    "description": "Settings dialog column size subtitle"
-  },
   "settingsFontSize": "Taille du texte",
-  "@settingsFontSize": {
-    "description": "Settings dialog font size subtitle"
-  },
   "settingsTheme": "Thème",
-  "@settingsTheme": {
-    "description": "Settings dialog theme subtitle"
-  },
   "settingsLightTheme": "Clair",
-  "@settingsLightTheme": {
-    "description": "Settings dialog light theme"
-  },
   "settingsDarkTheme": "Sombre",
-  "@settingsDarkTheme": {
-    "description": "Settings dialog dark theme"
-  },
   "settingsSystemTheme": "Suivre votre système",
-  "@settingsSystemTheme": {
-    "description": "Settings dialog system theme"
-  },
   "settingsLocale": "Langue d'affichage",
-  "@settingsLocale": {
-    "description": "Settings dialog language"
-  },
   "profileDialogFollowButton": "Suivre",
-  "@profileDialogFollowButton": {
-    "description": "Profile Dialog follow button"
-  },
   "profileDialogFollowingButton": "Suivi(e)",
-  "@profileDialogFollowingButton": {
-    "description": "Profile Dialog following button"
-  },
   "imageAltDialogHint": "Décrivez cette image",
-  "@imageAltDialogHint": {
-    "description": "Image Alt text Dialog input hint"
-  },
   "saveButton": "Enregistrer",
-  "@saveButton": {
-    "description": "Generic Save button"
-  },
   "confirmButton": "OK",
-  "@confirmButton": {
-    "description": "Generic Confirm button"
-  },
   "cancelButton": "Annuler",
-  "@cancelButton": {
-    "description": "Generic Cancel button"
-  },
   "contentLabelSuggestive": "Suggestif",
-  "@contentLabelSuggestive": {
-    "description": "Suggestive content label title"
-  },
   "contentLabelNsfw": "Pornographique",
-  "@contentLabelNsfw": {
-    "description": "Nsfw content label title"
-  },
   "contentLabelNudity": "Nudité",
-  "@contentLabelNudity": {
-    "description": "Nudity content label title"
-  },
   "clearButton": "Effacer",
-  "@clearButton": {
-    "description": "Generic Clear button"
-  },
   "emptySavedFeeds": "No saved feeds available. For now, please add them through",
-  "@emptySavedFeeds": {
-    "description": "Feed dialog empty state"
-  },
   "appPasswordTooltip": "Un App Password est une fonctionnalité de Bluesky qui ajoute un niveau de sécurité lors de l'utilisation d'applications tierces.\nVous devriez en créer un pour chaque application non-officielle (comme celle-ci).",
-  "@appPasswordTooltip": {
-    "description": "App Password tooltip"
-  },
   "contentLabelSetting": "Ajouter un avertissement sur le contenu",
-  "@contentLabelSetting": {
-    "description": "Content label setting for posts"
-  },
   "postErrorTooLarge": "Impossible de poster. Une image utilisée dépasse la limite de 1 Mo.",
-  "@postErrorTooLarge": {
-    "description": "PostErrorType repost description"
-  },
   "tooltipKofi": "Offrir un café !",
-  "@tooltipKofi": {
-    "description": "Ko-fi button tooltip"
-  },
   "linkButton": "Ajouter une carte de lien : ",
-  "@linkButton": {
-    "description": "Add a link button"
-  },
   "quoteLinkButton": "Citer le post",
-  "@quoteLinkButton": {
-    "description": "Add a post link"
-  },
   "aboutHeader1": "Qu'est-ce que deck.blue ?",
-  "@aboutHeader1": {
-    "description": "About dialog header 1"
-  },
   "aboutHeader2": "Comment ça marche ?",
-  "@aboutHeader2": {
-    "description": "About dialog header 2"
-  },
   "aboutHeader3": "Mes données sont-elles sécurisées ?",
-  "@aboutHeader3": {
-    "description": "About dialog header 3"
-  },
   "aboutDescription1": "deck.blue est un client Bluesky non-officiel qui supporte la navigation sur plusieurs colonnes, vous permettant d'avoir sous les yeux tout ce qui vous intéresse en une fois (tout comme TweetDeck !).",
-  "@aboutDescription1": {
-    "description": "About dialog description 1"
-  },
   "aboutDescription2": "En utilisant deck.blue, vous pouvez faire tout ce que vous pouvez déjà faire sur les applications officielles avec les bénéfices d'une disposition efficace, des colonnes - actualisées en temps réel - pour l'organisation pour mieux répondre à vos attentes. Besoin de garder un œil sur plusieurs mots-clés à la fois ? Ajoutez une colonne pour chacun d'entre eux ! En utilisant le système de flux personnalisés de Bluesky, vous pouvez aussi suivre autant de communautés que vous le souhaitez.",
-  "@aboutDescription2": {
-    "description": "About dialog description 2"
-  },
   "aboutDescription3": "deck.blue utilise Google Analytics pour envoyer des évènements utilisateurs anonymes. Toutes les autres données sont partagées entre les serveurs deck.blue et Bluesky. Les données personnelles et sensibles ne sont jamais envoyées et restent dans l'environnement sécurisé de votre navigateur.\n\nPour garantir votre sécurité, assurez-vous d'utiliser le système d'App Password de Blueskyp qui ajoute un niveau de sécurité aux clients tiers.",
-  "@aboutDescription3": {
-    "description": "About dialog description 3"
-  },
   "aboutButton": "À propos",
-  "@aboutButton": {
-    "description": "About dialog button"
-  },
   "loginSlogan1": "Obtenez le meilleur de ",
-  "@loginSlogan1": {
-    "description": "Login slogan part 1"
-  },
   "loginSlogan2": "Bluesky",
-  "@loginSlogan2": {
-    "description": "Login slogan part 2"
-  },
   "updateSnackbar": "Une mise à jour est disponible !\nActualisez la page pour obtenir les nouvelles fonctionnalités et les correctifs !",
-  "@updateSnackbar": {
-    "description": "Update Snackbar message"
-  },
   "refreshButton": "Actualiser",
-  "@refreshButton": {
-    "description": "Generic Refresh button"
-  },
   "replyCount": "{count, plural, one{réponse} other{réponses}}",
-  "@replyCount": {
-    "description": "Reply counter"
-  },
   "likeCount": "{count, plural, one{like} other{likes}}",
-  "@likeCount": {
-    "description": "Like counter"
-  },
   "repostCount": "{count, plural, one{repost} other{reposts}}",
-  "@repostCount": {
-    "description": "Repost counter"
-  },
   "emptyActorList": "Impossible de charger les utilisateurs, réessayez ultérieurement.",
-  "@emptyActorList": {
-    "description": "Empty ActorListDialog message"
-  },
   "followsYou": "vous suit",
-  "@followsYou": {
-    "description": "Profile follows selected account"
-  },
   "followsAccount": "suit ${handle}",
-  "@followsAccount": {
-    "description": "Profile follows available account"
-  },
   "soundEnabled": "Activer le son des notifications",
-  "@soundEnabled": {
-    "description": "Toggle notification sound"
-  },
   "blocksYou": "vous bloque",
-  "@blocksYou": {
-    "description": "Profile viewed blocks you"
-  },
   "blocked": "bloqué(e)",
-  "@blocked": {
-    "description": "Profile viewed is blocked by you"
-  },
   "muted": "Mis(e) en sourdine",
-  "@muted": {
-    "description": "Profile viewed is muted by you"
-  },
   "mutedByList": "Mis(e) en sourdine par une liste",
-  "@mutedByList": {
-    "description": "Profile viewed is muted by list"
-  },
   "muteButton": "Mettre en sourdine",
-  "@muteButton": {
-    "description": "Mute profile viewed button"
-  },
   "unmuteButton": "Retirer la sourdine",
-  "@unmuteButton": {
-    "description": "Unmute profile viewed button"
-  },
   "blockButton": "Bloquer",
-  "@blockButton": {
-    "description": "Block profile viewed button"
-  },
   "unblockButton": "Débloquer",
-  "@unblockButton": {
-    "description": "Unblock profile viewed button"
-  },
   "errorUpdateList": "Impossible d'actualiser la liste, merci de réessayer.",
-  "@errorUpdateList": {
-    "description": "Error on update list"
-  },
   "errorCreateList": "Impossible de créer la liste, merci de réessayer.",
-  "@errorCreateList": {
-    "description": "Error on create list"
-  },
   "emptyListItems": "Cette liste est vide !",
-  "@emptyListItems": {
-    "description": "Empty list items manage list message"
-  },
   "emptyFollowing": "Vous ne suivez personne !",
-  "@emptyFollowing": {
-    "description": "Empty following manage list message"
-  },
   "manageListHeader": "Modifier la liste {name}",
-  "@manageListHeader": {
-    "description": "ManageListDialog header title"
-  },
   "saveListButton": "Enregistrer la liste",
-  "@saveListButton": {
-    "description": "ManageListDialog save button"
-  },
   "manageListCurrentTab": "Actuel",
-  "@manageListCurrentTab": {
-    "description": "ManageListDialog first tab"
-  },
   "manageListFollowingTab": "Abonné(e)s",
-  "@manageListFollowingTab": {
-    "description": "ManageListDialog second tab"
-  },
   "manageListSearchedTab": "Cherchés",
-  "@manageListSearchedTab": {
-    "description": "ManageListDialog first tab"
-  },
   "createCuratedListHeader": "Créer une nouvelle liste personnalisée",
-  "@createCuratedListHeader": {
-    "description": "NewListDialog header title"
-  },
   "createListNameLabel": "Nom de la liste",
-  "@createListNameLabel": {
-    "description": "NewListDialog name label"
-  },
   "createListNameHint": "Personnes sympa",
-  "@createListNameHint": {
-    "description": "NewListDialog name hint"
-  },
   "createListDescriptionLabel": "Description",
-  "@createListDescriptionLabel": {
-    "description": "NewListDialog name label"
-  },
   "createListDescriptionHint": "Personnes sympa que je veux voir",
-  "@createListDescriptionHint": {
-    "description": "NewListDialog name hint"
-  },
   "createListButton": "Créer une liste",
-  "@createListButton": {
-    "description": "Generic Create a list button"
-  },
   "addListColumnDialogTitle": "Ajouter une nouvelle colonne de liste",
-  "@addListColumnDialogTitle": {
-    "description": "Add list column dialog title"
-  },
   "emptyCuratedLists": "Aucune liste sauvegardée",
-  "@emptyCuratedLists": {
-    "description": "Add list column dialog empty"
-  },
   "tooltipAddColumn": "Ajouter une colonne",
-  "@tooltipAddColumn": {
-    "description": "Add list column dialog empty"
-  },
   "tooltipColumnAdded": "Cette colonne existe déjà",
-  "@tooltipColumnAdded": {
-    "description": "Add list column dialog empty"
-  },
   "buttonManageList": "Gérer la liste",
-  "@buttonManageList": {
-    "description": "Generic Manage list button"
-  },
   "postedDateUnitNow": "maintenant",
-  "@postedDateUnitNow": {
-    "description": "Date of post just posted"
-  },
   "postedDateUnitSeconds": "{number} s",
-  "@postedDateUnitSeconds": {
-    "description": "Seconds unit of the date of the post"
-  },
   "postedDateUnitMinutes": "{number} min",
-  "@postedDateUnitMinutes": {
-    "description": "Minutes unit of the date of the post"
-  },
   "postedDateUnitHours": "{number} h",
-  "@postedDateUnitHours": {
-    "description": "Hours unit of the date of the post"
-  },
   "postedDateUnitDays": "{number} j",
-  "@postedDateUnitDays": {
-    "description": "Hours unit of the date of the post"
-  },
   "settingsMutedWords": "Mots masqués",
-  "@settingsMutedWords": {
-    "description": "Column muted words settings"
-  },
   "settingsColumn": "Paramètres de colonne",
-  "@settingsColumn": {
-    "description": "Column settings"
-  },
   "settingsScrollbars": "Montrer la barre de défilement de la colonne",
-  "@settingsScrollbars": {
-    "description": "Column settings"
-  },
   "settingsLogout": "Déconnexion",
-  "@settingsLogout": {
-    "description": "Logout button in settings"
-  },
   "editCuratedListHeader": "Modifier votre liste personnalisée",
-  "@editCuratedListHeader": {
-    "description": "NewListDialog edit header title"
-  },
   "buttonEditList": "Modifier la liste",
-  "@buttonEditList": {
-    "description": "Generic Edit list button"
-  },
   "phoneSupportMessage": "deck.blue ne supporte actuellement complètement que les ordinateurs et les tablettes, essayez-les pour une meilleure expérience !",
-  "@phoneSupportMessage": {
-    "description": "Phone support warning message"
-  },
   "allowedNotificationSetting": "Notifications autorisées",
-  "@allowedNotificationSetting": {
-    "description": "Allowed notifications column setting"
-  },
   "notificationLikeTitle": "Like",
-  "@notificationLikeTitle": {
-    "description": "Notification like"
-  },
   "notificationRepostTitle": "Repost",
-  "@notificationRepostTitle": {
-    "description": "Notification repost"
-  },
   "notificationFollowTitle": "Abonnement",
-  "@notificationFollowTitle": {
-    "description": "Notification follow"
-  },
   "notificationMentionTitle": "Mention",
-  "@notificationMentionTitle": {
-    "description": "Notification mention"
-  },
   "notificationQuoteTitle": "Citation",
-  "@notificationQuoteTitle": {
-    "description": "Notification quote"
-  },
   "notificationReplyTitle": "Réponse",
-  "@notificationReplyTitle": {
-    "description": "Notification reply"
-  },
   "timerSetting": "Actualiser tous les",
-  "@timerSetting": {
-    "description": "Timer column setting"
-  },
   "quoteTo": "Citer {actor}",
-  "@quoteTo": {
-    "description": "quoteTo formatted text"
-  },
   "followingReplies": "Filtrer les réponses par abonnements",
-  "@followingReplies": {
-    "description": "Filter replies by following toggle"
-  },
   "settingsShowAlt": "Afficher le texte alternatif par défaut",
-  "@settingsShowAlt": {
-    "description": "Settings showAlt toggle"
-  },
   "confirmUnfollowActorTitle": "Désabonnement",
-  "@confirmUnfollowActorTitle": {
-    "description": "Confirmation title when unfollowing"
-  },
   "confirmUnfollowActorContent": "Êtes-vous sûr(e) de vouloir vous désabonner de {handle}?",
-  "@confirmUnfollowActorContent": {
-    "description": "Confirmation message when unfollowing"
-  },
   "confirmBlockActorTitle": "Bloquer",
-  "@confirmBlockActorTitle": {
-    "description": "A title for confirmation dialog when blocking"
-  },
   "confirmBlockActorContent": "Les comptes bloqués ne peuvent pas répondre dans vos fils, vous mentionner ou interagir d'une autre manière avec vous. Êtes-vous sûr(e) de vouloir bloquer ce compte ?",
-  "@confirmBlockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
   "confirmUnblockActorTitle": "Débloquer",
-  "@confirmUnblockActorTitle": {
-    "description": "A title for confirmation dialog when unblocking"
-  },
   "confirmUnblockActorContent": "Le compte pourra interagir avec vous après le déblocage. Êtes-vous sûr(e) de vouloir le débloquer ?",
-  "@confirmUnblockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
   "confirmDeletePostTitle": "Supprimer le post",
-  "@confirmDeletePostTitle": {
-    "description": "A title for confirmation dialog when deleting post"
-  },
   "confirmDeletePostContent": "Êtes-vous sûr(e) de vouloir supprimer ce post ?",
-  "@confirmDeletePostContent": {
-    "description": "Confirmation message when deleting post"
-  },
   "confirmListConvertTitle": "Convertir une liste",
-  "@confirmListConvertTitle": {
-    "description": "A title for confirmation dialog when converting a list"
-  },
   "confirmListConvertContent": "Cette liste est actuellement une liste de mise en sourdine ; il est nécessaire de la convertir pour pouvoir l'afficher en colonne. Après conversion, les profiles déjà présents dans la liste ne seront plus mis en sourdine. Êtes-vous sûr(e) de vouloir la convertir ?",
-  "@confirmListConvertContent": {
-    "description": "Confirmation message when converting a list"
-  },
   "convertButton": "Convertir",
-  "@convertButton": {
-    "description": "Generic Convert button"
-  },
   "hashtags": "Hashtags",
-  "@hashtags": {
-    "description": "Generic Hashtags title"
-  },
   "warningOnPressedLinkTitle": "ATTENTION !",
-  "@warningOnPressedLinkTitle": {
-    "description": "Title of warning dialog when link is pressed"
-  },
   "warningOnPressedLinkContent": "Ce lien vous dirigera vers le site web suivant. Êtes-vous sûr(e) de vouloir y aller ?",
-  "@warningOnPressedLinkContent": {
-    "description": "Content of warning dialog when link is pressed"
-  },
   "wordSelectDialogHint": "Saisissez un ou plusieurs mots séparés par des \",\". 64 caractères maximum.",
-  "@wordSelectDialogHint": {
-    "description": "A hint for the word select dialog"
-  },
   "wordSelectDialogHintWithSpaceFilter": "Saisissez un ou plusieurs mots séparés par des \",\" ou des espaces. 64 caractères maximum.",
-  "@wordSelectDialogHintWithSpaceFilter": {
-    "description": "A hint for the word select dialog with the space filter"
-  },
   "columnTimerNone": "Manuel",
-  "@columnTimerNone": {
-    "description": "ColumnTimer none title"
-  },
   "loadMoreButton": "Afficher plus",
-  "@loadMoreButton": {
-    "description": "Generic 'Load more' button"
-  },
   "showClearButton": "Afficher le bouton Effacer",
-  "@showClearButton": {
-    "description": "showClearButton column setting"
-  },
   "manageActorInList": "Ajouter/supprimer d'une liste",
-  "@manageActorInList": {
-    "description": "manageActorInList dialog menu"
-  },
   "connectPatreon": "Connexion avec Patreon",
-  "@connectPatreon": {
-    "description": "Connect Patreon settings button"
-  },
   "disconnectPatreon": "Déconnexion de Patreon",
-  "@disconnectPatreon": {
-    "description": "Disconnect Patreon settings button"
-  },
   "disconnectPatreonConfirm": "Êtes-vous sûr(e) de vouloir vous déconnecter de Patreon ? Vous ne bénéficierez plus de vos avantages comme la programmation des posts et vos comptes additionnels seront déconnectés.",
-  "@disconnectPatreonConfirm": {
-    "description": "Disconnect Patreon confirmation"
-  },
   "patreonNoTier": "Pas un donateur",
-  "@patreonNoTier": {
-    "description": "PatreonTier null title"
-  },
   "patreonTierInitial": "Initial",
-  "@patreonTierInitial": {
-    "description": "PatreonTier initial title"
-  },
   "patreonTierHelper": "Coup de pouce",
-  "@patreonTierHelper": {
-    "description": "PatreonTier helper title"
-  },
   "patreonTierSupporter": "Supporter",
-  "@patreonTierSupporter": {
-    "description": "PatreonTier supporter title"
-  },
   "patreonTierSponsor": "Sponsor",
-  "@patreonTierSponsor": {
-    "description": "PatreonTier sponsor title"
-  },
   "errorLoginInvalidEmail": "Votre compte n'a pas d'adresse email valide ou celle-ci n'est pas vérifiée, merci de le faire depuis l'application officielle.",
-  "@errorLoginInvalidEmail": {
-    "description": "LoginError invalidEmail"
-  },
   "errorLoginChangeAppPassword": "Vous tentez de vous connecter avec un App Password différent de la dernière fois sur deck.blue. Un code de vérification a été envoyé sur votre adresse email, utilisez-le pour valider votre compte et remplacer votre mot de passe",
-  "@errorLoginChangeAppPassword": {
-    "description": "LoginError changeAppPassword"
-  },
   "errorLoginExpiredChangeCode": "Ce code de vérification est incorrect. S'il a expiré, nous vous en renvoyons un.",
-  "@errorLoginExpiredChangeCode": {
-    "description": "LoginError expiredChangeCode"
-  },
   "passwordCodeLabel": "Code de vérification",
-  "@passwordCodeLabel": {
-    "description": "Login password code label"
-  },
   "loginMigration": "Pour la mise à jour v2.0, vous devez vous reconnecter pour que vos paramètres et vos colonnes soient correctement sauvegardés.",
-  "@loginMigration": {
-    "description": "Login migration explanation"
-  },
   "settingsColor": "Couleur principale du thème",
-  "@settingsColor": {
-    "description": "Color settings"
-  },
   "accounts": "Comptes",
-  "@accounts": {
-    "description": "Generic 'Accounts' label"
-  },
   "addAccount": "Ajouter un compte",
-  "@addAccount": {
-    "description": "Generic 'Add account' button"
-  },
   "accountConfirmationStep": "Confirmation",
-  "@accountConfirmationStep": {
-    "description": "Account confirmationStep setting title"
-  },
   "accountConfirmationStepDescription": "Ajoute une confirmation avant de poster",
-  "@accountConfirmationStepDescription": {
-    "description": "Account confirmationStep setting description"
-  },
   "removeAccount": "Retirer",
-  "@removeAccount": {
-    "description": "Generic 'Remove account' button"
-  },
   "removeAccountDisclaimer": "En retirant ce compte, toutes ses colonnes et posts programmés seront également retirés. Êtes-vous sûr(e) de vouloir retirer ce compte ?",
-  "@removeAccountDisclaimer": {
-    "description": "Remove account dialog disclaimer"
-  },
   "errorAccountMaxAccounts": "Vous avez déjà atteint le nombre maximal de comptes pour votre rang Patreon.",
-  "@errorAccountMaxAccounts": {
-    "description": "Error when adding new account: max reached"
-  },
   "errorAccountAdd": "Impossible d'ajouter ce compte, merci de réessayer plus tard.",
-  "@errorAccountAdd": {
-    "description": "Unknown error when adding new account"
-  },
   "errorAccountUnknown": "Impossible de gérer ce compte, merci de réessayer plus tard.",
-  "@errorAccountUnknown": {
-    "description": "Unknown error when managing account"
-  },
   "preview": "Aperçu",
-  "@preview": {
-    "description": "Generic 'Preview' label"
-  },
   "repostDialogTitle": "Reposter avec…",
-  "@repostDialogTitle": {
-    "description": "RepostDialog title"
-  },
   "confirmationStep": "Prêt(e) ?",
-  "@confirmationStep": {
-    "description": "confirmationStep usage in NewPostWidget"
-  },
   "likeDialogTitle": "Liker avec…",
-  "@likeDialogTitle": {
-    "description": "LikeDialog title"
-  },
   "addAccountDisclaimer": "Créez un App Password différent pour chacun des comptes que vous ajoutez, sinon votre session pourra être révoquées et vous devrez les ajouter de nouveau.",
-  "@addAccountDisclaimer": {
-    "description": "Disclaimer for LoginPage to add account"
-  },
   "profileFromDialogTitle": "Profil en tant que…",
-  "@profileFromDialogTitle": {
-    "description": "ProfileFromDialog title"
-  },
   "viewFromAccount": "Voir en tant que…",
-  "@viewFromAccount": {
-    "description": "Generic 'View from account' label"
-  },
   "show": "Montrer",
-  "@show": {
-    "description": "Generic 'Show' label"
-  },
   "confirmDeleteColumnTitle": "Supprimer la colonne",
-  "@confirmDeleteColumnTitle": {
-    "description": "A title for confirmation dialog when deleting column"
-  },
   "confirmDeleteColumnContent": "Êtes-vous sûr(e) de vouloir supprimer cette colonne ?",
-  "@confirmDeleteColumnContent": {
-    "description": "Confirmation message when deleting column"
-  },
   "settingsCompactMode": "Mode compact pour les posts",
-  "@settingsCompactMode": {
-    "description": "Settings dialog compact mode"
-  },
   "errorAccountRelink": "Impossible de se reconnecter à ce compte, merci de réessayer plus tard.",
-  "@errorAccountRelink": {
-    "description": "Error when relinking existing account"
-  },
-  "relinkAccount": "Reconnecter le compte",
-  "@relinkAccount": {
-    "description": "Relink account button"
-  }
+  "relinkAccount": "Reconnecter le compte"
 }
