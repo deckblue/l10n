@@ -2,7 +2,7 @@
   "columnTitleHome": "Inicio",
   "columnTitleUser": "Tú",
   "columnTitleNotifications": "Notificaciones",
-  "columnTitleLikes": "Me gustas",
+  "columnTitleLikes": "Tus Me gusta",
   "columnTitleMentions": "Menciones",
   "columnTitleMedia": "Multimedia",
   "columnTitleCustom": "Feed personalizado",
@@ -26,8 +26,8 @@
   "embedTypeReply": "Respuestas",
   "embedTypeRepost": "Reposts",
   "mediaSizeHidden": "Oculto",
-  "mediaSizeSmall": "Pequeño",
-  "mediaSizeMedium": "Mediano",
+  "mediaSizeSmall": "Pequeña",
+  "mediaSizeMedium": "Mediana",
   "mediaSizeLarge": "Grande",
   "mediaSizeSetting": "Tamaño de la miniatura multimedia",
   "embedTypeSetting": "Incrustaciones permitidas",
@@ -91,7 +91,7 @@
   "notificationReplyReason": "{count, plural, other{te respondió}}",
   "notificationTitleCounter": "{count, plural, other{{count} others}}",
   "notificationTitleShortCounter": "+{count}",
-  "notificationTitleAnd": " and ",
+  "notificationTitleAnd": " y ",
   "sizeSmallest": "El más pequeño",
   "sizeSmall": "Pequeño",
   "sizeMedium": "Mediano",
@@ -176,7 +176,7 @@
   "settingsMutedWords": "Palabras silenciadas",
   "settingsColumn": "Ajustes de columna",
   "settingsScrollbars": "Mostrar barras de desplazamiento de columna",
-  "settingsLogout": "Logout",
+  "settingsLogout": "Cerrar sesión",
   "editCuratedListHeader": "Editar tu lista",
   "buttonEditList": "Editar lista",
   "phoneSupportMessage": "deck.blue sólo es compatible con ordenadores de sobremesa y tabletas, ¡pruébalos para disfrutar de una mejor experiencia!",
@@ -247,4 +247,6 @@
   "settingsCompactMode": "Modo compacto para posts",
   "errorAccountRelink": "No se ha podido volver a vincular esta cuenta, inténtalo de nuevo.",
   "relinkAccount": "Volver a vincular"
+  "settingsForceAltTextInput": "Requerir Texto Alt anted de postear"
+  "postDialogForceAltTextInputHint": A una o más imágenes les falta el Texto Alt
 }
