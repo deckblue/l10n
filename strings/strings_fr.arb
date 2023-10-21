@@ -83,7 +83,7 @@
   "@embedTypeQuote": {
     "description": "EmbedType Quote title"
   },
-  "embedTypeImageQuote": "Citation sans média",
+  "embedTypeImageQuote": "Citation avec média",
   "@embedTypeImageQuote": {
     "description": "EmbedType ImageQuote title"
   },
@@ -103,7 +103,7 @@
   "@embedTypeRepost": {
     "description": "EmbedType Repost title"
   },
-  "mediaSizeHidden": "Cacher",
+  "mediaSizeHidden": "Masquer",
   "@mediaSizeHidden": {
     "description": "MediaSize Hidden title"
   },
@@ -115,7 +115,7 @@
   "@mediaSizeMedium": {
     "description": "MediaSize Medium title"
   },
-  "mediaSizeLarge": "Large",
+  "mediaSizeLarge": "Grande",
   "@mediaSizeLarge": {
     "description": "MediaSize Large title"
   },
@@ -199,7 +199,7 @@
   "@postDialogHint": {
     "description": "NewPostDialog text field hint"
   },
-  "postErrorUpload": "Impossible de poster. Merci de réessayer plus tard.",
+  "postErrorUpload": "Impossible de publier. Merci de réessayer plus tard.",
   "@postErrorUpload": {
     "description": "PostErrorType upload description"
   },
@@ -231,7 +231,7 @@
   "@likeButton": {
     "description": "Generic like button"
   },
-  "replyDialogHint": "Votre réponse à ce post",
+  "replyDialogHint": "Écrivez votre réponse à ce post",
   "@replyDialogHint": {
     "description": "NewPostDialog reply text field hint"
   },
@@ -263,7 +263,7 @@
   "@errorThreadEmptyPost": {
     "description": "Error in thread view when unable to find a post"
   },
-  "searchDialogHint": "Chercher",
+  "searchDialogHint": "Rechercher",
   "@searchDialogHint": {
     "description": "SearchDialog text field hint"
   },
@@ -303,7 +303,7 @@
   "@profileDialogFollowers": {
     "description": "Profile dialog Followers label"
   },
-  "errorProfileDialog": "Impossible d'ouvrir ce profil. Merci de réessayer plus tard.",
+  "errorProfileDialog": "Impossible de charger ce profil. Merci de réessayer plus tard.",
   "@errorProfileDialog": {
     "description": "Error state for profile search"
   },
@@ -359,7 +359,7 @@
   "@notificationReplyReason": {
     "description": "Notification reason reply reason"
   },
-  "notificationTitleCounter": "{count, plural, other{{count} autres}}",
+  "notificationTitleCounter": "{count, plural, one{1 autre} other{{count} autres}}",
   "@notificationTitleCounter": {
     "description": "Notification title other count"
   },
@@ -447,11 +447,11 @@
   "@cancelButton": {
     "description": "Generic Cancel button"
   },
-  "contentLabelSuggestive": "Suggestive",
+  "contentLabelSuggestive": "Suggestif",
   "@contentLabelSuggestive": {
     "description": "Suggestive content label title"
   },
-  "contentLabelNsfw": "Porno",
+  "contentLabelNsfw": "Pornographique",
   "@contentLabelNsfw": {
     "description": "Nsfw content label title"
   },
@@ -479,7 +479,7 @@
   "@postErrorTooLarge": {
     "description": "PostErrorType repost description"
   },
-  "tooltipKofi": "Donner un café !",
+  "tooltipKofi": "Offrir un café !",
   "@tooltipKofi": {
     "description": "Ko-fi button tooltip"
   },
@@ -499,7 +499,7 @@
   "@aboutHeader2": {
     "description": "About dialog header 2"
   },
-  "aboutHeader3": "Mes données sont-elles à l'abri ?",
+  "aboutHeader3": "Mes données sont-elles sécurisées ?",
   "@aboutHeader3": {
     "description": "About dialog header 3"
   },
@@ -539,11 +539,11 @@
   "@replyCount": {
     "description": "Reply counter"
   },
-  "likeCount": "{count, plural, one{Like} other{Likes}}",
+  "likeCount": "{count, plural, one{like} other{likes}}",
   "@likeCount": {
     "description": "Like counter"
   },
-  "repostCount": "{count, plural, one{Repost} other{Reposts}}",
+  "repostCount": "{count, plural, one{repost} other{reposts}}",
   "@repostCount": {
     "description": "Repost counter"
   },
@@ -631,7 +631,7 @@
   "@manageListSearchedTab": {
     "description": "ManageListDialog first tab"
   },
-  "createCuratedListHeader": "Créer une nouvelle liste thématique",
+  "createCuratedListHeader": "Créer une nouvelle liste personnalisée",
   "@createCuratedListHeader": {
     "description": "NewListDialog header title"
   },
@@ -711,7 +711,7 @@
   "@settingsLogout": {
     "description": "Logout button in settings"
   },
-  "editCuratedListHeader": "Modifier votre liste thématique",
+  "editCuratedListHeader": "Modifier votre liste personnalisée",
   "@editCuratedListHeader": {
     "description": "NewListDialog edit header title"
   },
@@ -823,11 +823,11 @@
   "@warningOnPressedLinkContent": {
     "description": "Content of warning dialog when link is pressed"
   },
-  "wordSelectDialogHint": "Saisissez n'importe quels mots séparés par des \",\". 64 caractères maximum.",
+  "wordSelectDialogHint": "Saisissez un ou plusieurs mots séparés par des \",\". 64 caractères maximum.",
   "@wordSelectDialogHint": {
     "description": "A hint for the word select dialog"
   },
-  "wordSelectDialogHintWithSpaceFilter": "Saisissez n'importe quels mots séparés par des \",\" ou des espaces. 64 caractères maximum.",
+  "wordSelectDialogHintWithSpaceFilter": "Saisissez un ou plusieurs mots séparés par des \",\" ou des espaces. 64 caractères maximum.",
   "@wordSelectDialogHintWithSpaceFilter": {
     "description": "A hint for the word select dialog with the space filter"
   },
@@ -835,11 +835,11 @@
   "@columnTimerNone": {
     "description": "ColumnTimer none title"
   },
-  "loadMoreButton": "En charger davantage",
+  "loadMoreButton": "Afficher plus",
   "@loadMoreButton": {
     "description": "Generic 'Load more' button"
   },
-  "showClearButton": "Afficher le bouton Vider",
+  "showClearButton": "Afficher le bouton Effacer",
   "@showClearButton": {
     "description": "showClearButton column setting"
   },
