@@ -1,14 +1,33 @@
 {
-  "pt": [],
-  "ja": [
-    "followsAccount"
+  "pt": [
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint"
   ],
   "de": [
     "confirmDeleteColumnTitle",
     "confirmDeleteColumnContent",
     "settingsCompactMode",
     "errorAccountRelink",
-    "relinkAccount"
+    "relinkAccount",
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint"
   ],
-  "fr": []
+  "zh_TW": [
+    "followsAccount",
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint"
+  ],
+  "fr": [
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint"
+  ],
+  "ja": [
+    "followsAccount",
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint"
+  ],
+  "es": [
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint"
+  ]
 }
