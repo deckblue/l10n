@@ -123,7 +123,7 @@
   "@mediaSizeSetting": {
     "description": "MediaSize setting title"
   },
-  "embedTypeSetting": "Autoriser le contenu intégré", //FIXME
+  "embedTypeSetting": "Autoriser le contenu intégré",
   "@embedTypeSetting": {
     "description": "EmbedType setting title"
   },
@@ -239,7 +239,7 @@
   "@quoteDialogHint": {
     "description": "NewPostDialog quote text field hint"
   },
-  "threadTitle": "Thread", //FIXME Keep the English Thread or use the French less used Fils
+  "threadTitle": "Fil",
   "@threadTitle": {
     "description": "Thread page title"
   },
@@ -459,11 +459,11 @@
   "@contentLabelNudity": {
     "description": "Nudity content label title"
   },
-  "clearButton": "Effacer", //FIXME Vider ?
+  "clearButton": "Effacer",
   "@clearButton": {
     "description": "Generic Clear button"
   },
-  "emptySavedFeeds": "No saved feeds available. For now, please add them through", //FIXME
+  "emptySavedFeeds": "Aucun flux enregistré disponible. Pour le moment ajoutez-les via",
   "@emptySavedFeeds": {
     "description": "Feed dialog empty state"
   },
@@ -619,7 +619,7 @@
   "@saveListButton": {
     "description": "ManageListDialog save button"
   },
-  "manageListCurrentTab": "Actuel", //FIXME
+  "manageListCurrentTab": "Actuel",
   "@manageListCurrentTab": {
     "description": "ManageListDialog first tab"
   },
@@ -627,11 +627,11 @@
   "@manageListFollowingTab": {
     "description": "ManageListDialog second tab"
   },
-  "manageListSearchedTab": "Cherchés", //FIXME
+  "manageListSearchedTab": "Cherchés",
   "@manageListSearchedTab": {
     "description": "ManageListDialog first tab"
   },
-  "createCuratedListHeader": "Create a new curated list", //FIXME
+  "createCuratedListHeader": "Créer une nouvelle liste thématique",
   "@createCuratedListHeader": {
     "description": "NewListDialog header title"
   },
@@ -711,7 +711,7 @@
   "@settingsLogout": {
     "description": "Logout button in settings"
   },
-  "editCuratedListHeader": "Edit your curated list", //FIXME
+  "editCuratedListHeader": "Modifier votre liste thématique",
   "@editCuratedListHeader": {
     "description": "NewListDialog edit header title"
   },
@@ -803,7 +803,7 @@
   "@confirmListConvertTitle": {
     "description": "A title for confirmation dialog when converting a list"
   },
-  "confirmListConvertContent": "This list is currently a mute list; converting it is needed in order to use it as a column. After converting, the profiles already in the list won't be considered muted anymore. Are you sure you want to convert it?", //FIXME
+  "confirmListConvertContent": "Cette liste est actuellement une liste de mise en sourdine ; il est nécessaire de la convertir pour pouvoir l'afficher en colonne. Après conversion, les profiles déjà présents dans la liste ne seront plus mis en sourdine. Êtes-vous sûr(e) de vouloir la convertir ?",
   "@confirmListConvertContent": {
     "description": "Confirmation message when converting a list"
   },
@@ -811,7 +811,7 @@
   "@convertButton": {
     "description": "Generic Convert button"
   },
-  "hashtags": "Hashtags", //FIXME Mot-dièse is the valid French word, but no one really uses it.
+  "hashtags": "Hashtags",
   "@hashtags": {
     "description": "Generic Hashtags title"
   },
@@ -983,11 +983,11 @@
   "@settingsCompactMode": {
     "description": "Settings dialog compact mode"
   },
-  "errorAccountRelink": "Impossible de se raccorder à ce compte, merci de réessayer plus tard.", //FIXME raccorder ?
+  "errorAccountRelink": "Impossible de se raccorder à ce compte, merci de réessayer plus tard.",
   "@errorAccountRelink": {
     "description": "Error when relinking existing account"
   },
-  "relinkAccount": "Raccorder le compte", //FIXME raccorder ?
+  "relinkAccount": "Raccorder le compte",
   "@relinkAccount": {
     "description": "Relink account button"
   }
