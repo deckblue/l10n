@@ -175,7 +175,7 @@
   "@columnDescriptionCustom": {
     "description": "DeckColumnType Custom description"
   },
-  "columnDescriptionListFeed": "Créer une liste ou en choisir une existante",
+  "columnDescriptionListFeed": "Créez une liste ou choisissez-en une existante",
   "@columnDescriptionListFeed": {
     "description": "DeckColumnType List description"
   },
@@ -295,7 +295,7 @@
   "@profileDialogPosts": {
     "description": "Profile dialog Posts label"
   },
-  "profileDialogFollowing": "Suivis",
+  "profileDialogFollowing": "Abonnements",
   "@profileDialogFollowing": {
     "description": "Profile dialog Following label"
   },
@@ -371,7 +371,7 @@
   "@notificationTitleAnd": {
     "description": "Notification title other count 'and'"
   },
-  "sizeSmallest": "la plus petite",
+  "sizeSmallest": "Très petite",
   "@sizeSmallest": {
     "description": "Settings Smallest size"
   },
@@ -387,7 +387,7 @@
   "@sizeLarge": {
     "description": "Settings Large size"
   },
-  "sizeLargest": "La plus grande",
+  "sizeLargest": "Très grande",
   "@sizeLargest": {
     "description": "Settings Largest size"
   },
