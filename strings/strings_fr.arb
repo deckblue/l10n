@@ -79,11 +79,11 @@
   "@errorLoginServerError": {
     "description": "Login server error"
   },
-  "embedTypeQuote": "Citer",
+  "embedTypeQuote": "Citation",
   "@embedTypeQuote": {
     "description": "EmbedType Quote title"
   },
-  "embedTypeImageQuote": "Citer sans média",
+  "embedTypeImageQuote": "Citation sans média",
   "@embedTypeImageQuote": {
     "description": "EmbedType ImageQuote title"
   },
@@ -107,11 +107,11 @@
   "@mediaSizeHidden": {
     "description": "MediaSize Hidden title"
   },
-  "mediaSizeSmall": "Petit",
+  "mediaSizeSmall": "Petite",
   "@mediaSizeSmall": {
     "description": "MediaSize Small title"
   },
-  "mediaSizeMedium": "Moyen",
+  "mediaSizeMedium": "Moyenne",
   "@mediaSizeMedium": {
     "description": "MediaSize Medium title"
   },
