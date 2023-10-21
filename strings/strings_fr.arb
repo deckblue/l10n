@@ -1,0 +1,994 @@
+{
+  "columnTitleHome": "Accueil",
+  "@columnTitleHome": {
+    "description": "Titre de la colonne de type Accueil"
+  },
+  "columnTitleUser": "Vous",
+  "@columnTitleUser": {
+    "description": "Titre de la colonne de type Utilisateur"
+  },
+  "columnTitleNotifications": "Notifications",
+  "@columnTitleNotifications": {
+    "description": "Titre de la colonne du type Notifications"
+  },
+  "columnTitleLikes": "J'aime",
+  "@columnTitleLikes": {
+    "description": "Titre de la colonne du type J'aime"
+  },
+  "columnTitleMentions": "Mentions",
+  "@columnTitleMentions": {
+    "description": "Titre de la colonne du type Mentions"
+  },
+  "columnTitleMedia": "Médias",
+  "@columnTitleMedia": {
+    "description": "Titre de la colonne du type Média"
+  },
+  "columnTitleCustom": "Flux personnalisé",
+  "@columnTitleCustom": {
+    "description": "Titre de la colonne du type Custom"
+  },
+  "columnTitleListFeed": "Liste",
+  "@columnTitleListFeed": {
+    "description": "Titre de la colonne du type Liste"
+  },
+  "columnTitleSearch": "Recherche",
+  "@columnTitleSearch": {
+    "description": "Titre de la colonne du type Recherche"
+  },
+  "serviceLabel": "Service",
+  "@serviceLabel": {
+    "description": "Libellé du champ Service"
+  },
+  "serviceHint": "bsky.social",
+  "@serviceHint": {
+    "description": "Infobulle du champ Service"
+  },
+  "usernameLabel": "Identifiant",
+  "@usernameLabel": {
+    "description": "Libellé du champ Identifiant"
+  },
+  "usernameHint": "Nom d'utilisateur ou e-mail",
+  "@usernameHint": {
+    "description": "Infobulle du champ Identifiant"
+  },
+  "passwordLabel": "Mot de passe de l'application",
+  "@passwordLabel": {
+    "description": "Libellé du champ Mot de passe de l'application"
+  },
+  "loginButton": "Se connecter",
+  "@loginButton": {
+    "description": "Text du bouton de connexion"
+  },
+  "loginFirebaseDescription": "Nous utilisons Google Analytics pour envoyer des événements anonymes de l'utilisateur. Toutes les autres données sont conservées entre deck.blue et les serveurs Bluesky.",
+  "@loginFirebaseDescription": {
+    "description": "Description faite aux utilisateurs à propos de Firebase sur la page de connexion."
+  },
+  "errorLoginUnknown": "Impossible de se connecter. Veuillez réessayer plus tard.",
+  "@errorLoginUnknown": {
+    "description": "Erreur de connexion inconnue"
+  },
+  "errorLoginWrongCredentials": "Identifiant ou mot de passe incorrect. Veuillez réessayer.",
+  "@errorLoginWrongCredentials": {
+    "description": "Erreur de connexion d'identification incorrecte"
+  },
+  "errorLoginInvalidAppPassword": "Mot de passe de l'application non valide. Veuillez générer un mot de passe de l'application en cliquant sur l'icône '?' dans le champ du mot de passe ou appuyez à nouveau sur le bouton de connexion pour ignorer cet avertissement.",
+  "@errorLoginInvalidAppPassword": {
+    "description": "Erreur de connexion de mot de passe d'application incorrect"
+  },
+  "errorLoginServerError": "Une erreur de serveur s'est produite. Veuillez patienter un peu et réessayer plus tard.",
+  "@errorLoginServerError": {
+    "description": "Erreur de connexion serveur"
+  },
+  "embedTypeQuote": "Citation",
+  "@embedTypeQuote": {
+    "description": "Titre de contenu de type Citation"
+  },
+  "embedTypeImageQuote": "Citation avec média",
+  "@embedTypeImageQuote": {
+    "description": "Titre de contenu de type Citation avec Image"
+  },
+  "embedTypeLink": "Lien",
+  "@embedTypeLink": {
+    "description": "Titre de contenu de type Lien"
+  },
+  "embedTypeImage": "Média",
+  "@embedTypeImage": {
+    "description": "Titre de contenu de type Image"
+  },
+  "embedTypeReply": "Réponses",
+  "@embedTypeReply": {
+    "description": "Titre de contenu de type Réponse"
+  },
+  "embedTypeRepost": "Repost",
+    "@embedTypeRepost": {
+    "description": "Titre de contenu de type Repost"
+    },
+    "mediaSizeHidden": "Masqué",
+    "@mediaSizeHidden": {
+    "description": "Titre de Taille de média Masqué"
+    },
+    "mediaSizeSmall": "Petit",
+    "@mediaSizeSmall": {
+    "description": "Titre de Taille de média Petit"
+    },
+    "mediaSizeMedium": "Moyen",
+    "@mediaSizeMedium": {
+    "description": "Titre de Taille de média Moyen"
+    },
+    "mediaSizeLarge": "Grand",
+    "@mediaSizeLarge": {
+    "description": "Titre de Taille de média Grand"
+    },
+    "mediaSizeSetting": "Taille de vignette des médias",
+    "@mediaSizeSetting": {
+    "description": "Titre de Taille de vignette média"
+    },
+    "embedTypeSetting": "Intégrations autorisées",
+    "@embedTypeSetting": {
+    "description": "Titre de configuration du Type de contenu"
+    },
+    "postTypeSetting": "Types de publications autorisés",
+    "@postTypeSetting": {
+    "description": "Titre de configuration du type de publications autorisées"
+    },
+    "hiddenImageLabel": "Image",
+    "@hiddenImageLabel": {
+    "description": "Libellé du bouton d'image masquée"
+    },
+    "removeColumnButton": "Supprimer",
+    "@removeColumnButton": {
+    "description": "Libellé du bouton de suppression de colonne"
+    },
+    "addColumnDialogTitle": "Ajouter une nouvelle colonne",
+    "@addColumnDialogTitle": {
+    "description": "Titre de la boîte de dialogue Ajouter des colonnes par défaut"
+    },
+    "addFeedColumnDialogTitle": "Ajouter une nouvelle colonne de flux",
+    "@addFeedColumnDialogTitle": {
+    "description": "Titre de la boîte de dialogue Ajouter une colonne de flux personnalisée"
+    },
+    "columnDescriptionHome": "Votre chronologie par défaut",
+    "@columnDescriptionHome": {
+    "description": "Description du Type de colonne Accueil"
+    },
+    "columnDescriptionUser": "Vos propres publications",
+    "@columnDescriptionUser": {
+    "description": "Description du Type de colonne Utilisateur"
+    },
+    "columnDescriptionNotifications": "Vos notifications",
+    "@columnDescriptionNotifications": {
+    "description": "Description du Type de colonne Notifications"
+    },
+    "columnDescriptionLikes": "Vos publications aimées",
+    "@columnDescriptionLikes": {
+    "description": "Description du Type de colonne J'aime"
+    },
+    "columnDescriptionMentions": "Chaque publication qui vous mentionne",
+    "@columnDescriptionMentions": {
+    "description": "Description du Type de colonne Mentions"
+    },
+    "columnDescriptionMedia": "Vos publications avec des médias",
+    "@columnDescriptionMedia": {
+    "description": "Description du Type de colonne Média"
+    },
+    "columnDescriptionCustom": "Sélectionnez un flux personnalisé parmi vos flux sauvegardés",
+    "@columnDescriptionCustom": {
+    "description": "Description du Type de colonne Personnalisé"
+    },
+    "columnDescriptionListFeed": "Créez une liste ou sélectionnez-en une existante",
+    "@columnDescriptionListFeed": {
+    "description": "Description du Type de colonne Liste"
+    },
+    "selectLanguageDialogTitle": "Sélectionnez la langue de votre publication",
+    "@selectLanguageDialogTitle": {
+    "description": "Titre de la boîte de dialogue Sélectionner la langue"
+    },
+    "selectOtherLanguage": "Autre…",
+    "@selectOtherLanguage": {
+    "description": "Option de menu Sélectionner une autre langue"
+    },
+    "postButton": "Publier",
+    "@postButton": {
+    "description": "Bouton Nouvelle publication"
+    },
+    "deleteButton": "Supprimer",
+    "@deleteButton": {
+    "description": "Bouton de suppression générique"
+    },
+    "postDialogHint": "Quoi de neuf ?",
+    "@postDialogHint": {
+    "description": "Indication du champ de texte Nouvelle publication"
+    },
+    "postErrorUpload": "Impossible de publier. Veuillez réessayer ultérieurement.",
+    "@postErrorUpload": {
+    "description": "Description de l'erreur de publication pour le téléchargement"
+    },
+    "postErrorDelete": "Impossible de supprimer cette publication. Veuillez réessayer ultérieurement.",
+    "@postErrorDelete": {
+    "description": "Description de l'erreur de publication lors de la suppression"
+    },
+    "postErrorLike": "Impossible d'aimer cette publication. Veuillez réessayer ultérieurement.",
+    "@postErrorLike": {
+    "description": "Description de l'erreur de publication lors de l'ajout d'un j'aime"
+    },
+    "postErrorRepost": "Impossible de republier. Veuillez réessayer ultérieurement.",
+    "@postErrorRepost": {
+    "description": "Description de l'erreur de publication lors de la republication"
+    },
+    "replyButton": "Répondre",
+    "@replyButton": {
+    "description": "Bouton de réponse générique"
+    },
+    "repostButton": "Republier",
+    "@repostButton": {
+    "description": "Bouton de republication générique"
+    },
+    "quoteButton": "Citer",
+    "@quoteButton": {
+    "description": "Bouton de citation générique"
+    },
+    "likeButton": "J'aime",
+    "@likeButton": {
+    "description": "Bouton J'aime générique"
+    },
+    "replyDialogHint": "Écrivez une réponse à cette publication",
+    "@replyDialogHint": {
+    "description": "Indication du champ de texte Répondre dans la Nouvelle publication"
+    },
+    "quoteDialogHint": "Dites quelque chose à propos de cette publication",
+    "@quoteDialogHint": {
+    "description": "Indication du champ de texte Citation dans la Nouvelle publication"
+    },
+    "threadTitle": "Fil de discussion",
+    "@threadTitle": {
+    "description": "Titre de la page de fil de discussion"
+    },
+    "undoButton": "Annuler",
+    "@undoButton": {
+    "description": "Bouton Annuler générique"
+    },
+    "postButtonCopy": "Partager",
+    "@postButtonCopy": {
+    "description": "Bouton de copie de l'URL de publication"
+    },
+    "postCopyMessage": "Copié dans le presse-papiers",
+    "@postCopyMessage": {
+    "description": "Message de réussite de la copie de l'URL de publication"
+    },
+    "postButtonOpen": "Ouvrir dans bsky",
+    "@postButtonOpen": {
+    "description": "Bouton Ouvrir dans bsky"
+    },
+    "errorThreadEmptyPost": "Impossible de trouver la publication",
+    "@errorThreadEmptyPost": {
+    "description": "Erreur dans la vue de fil de discussion lorsqu'une publication est introuvable"
+    },
+    "searchDialogHint": "Rechercher",
+    "@searchDialogHint": {
+    "description": "Indication du champ de texte Rechercher dans la boîte de dialogue de recherche"
+    },
+    "searchDialogUsers": "Utilisateurs",
+    "@searchDialogUsers": {
+    "description": "Onglet Utilisateurs de la boîte de dialogue de recherche"
+    },
+    "searchDialogPosts": "Publications",
+    "@searchDialogPosts": {
+    "description": "Onglet Publications de la boîte de dialogue de recherche"
+    },
+    "searchDialogAddColumn": "Ajouter une colonne",
+    "@searchDialogAddColumn": {
+    "description": "Bouton Ajouter une colonne de la boîte de dialogue de recherche"
+    },
+    "translateButton": "Traduire",
+    "@translateButton": {
+    "description": "Bouton de traduction générique"
+    },
+    "emptyPosts": "Aucune publication trouvée",
+    "@emptyPosts": {
+    "description": "État vide pour la recherche de publications"
+    },
+    "emptyUsers": "Aucun profil trouvé",
+    "@emptyUsers": {
+    "description": "État vide pour la recherche de profils"
+    },
+    "profileDialogPosts": "Publications",
+    "@profileDialogPosts": {
+    "description": "Libellé des publications dans la boîte de dialogue de profil"
+    },
+    "profileDialogFollowing": "Abonnements",
+    "@profileDialogFollowing": {
+    "description": "Libellé des abonnements dans la boîte de dialogue de profil"
+    },
+    "profileDialogFollowers": "Abonnés",
+    "@profileDialogFollowers": {
+    "description": "Libellé des abonnés dans la boîte de dialogue de profil"
+    },
+    "errorProfileDialog": "Impossible de charger ce profil. Veuillez réessayer ultérieurement.",
+    "@errorProfileDialog": {
+    "description": "État d'erreur pour la recherche de profil"
+    },
+    "profileDialogPostsColumn": "Publications",
+    "@profileDialogPostsColumn": {
+    "description": "Libellé de la colonne Publications dans la boîte de dialogue de profil"
+    },
+    "profileDialogMediaColumn": "Média",
+    "@profileDialogMediaColumn": {
+    "description": "Libellé de la colonne Média dans la boîte de dialogue de profil"
+    },
+    "profileDialogLikesColumn": "J'aime",
+    "@profileDialogLikesColumn": {
+    "description": "Libellé de la colonne J'aime dans la boîte de dialogue de profil"
+    },
+    "profileDialogAddColumn": "Ajouter une colonne",
+    "@profileDialogAddColumn": {
+    "description": "Libellé d'ajout de colonne dans la boîte de dialogue de profil"
+    },
+    "repostedBy": "Republié par {actor}",
+    "@repostedBy": {
+    "description": "Texte formaté de l'action de republication"
+    },
+    "replyTo": "En réponse à {actor}",
+    "@replyTo": {
+    "description": "Texte formaté de la réponse"
+    },
+    "advancedButton": "Avancé",
+    "@advancedButton": {
+    "description": "Bouton Avancé générique"
+    },
+    "notificationLikeReason": "{count, plural, other{a aimé votre publication}}",
+    "@notificationLikeReason": {
+    "description": "Raison de la notification - Action 'J'aime'"
+    },
+    "notificationRepostReason": "{count, plural, other{a republié votre publication}}",
+    "@notificationRepostReason": {
+    "description": "Raison de la notification - Action 'Republier'"
+    },
+    "notificationFollowReason": "{count, plural, other{vous a suivi}}",
+    "@notificationFollowReason": {
+    "description": "Raison de la notification - Action 'Suivre'"
+    },
+    "notificationMentionReason": "{count, plural, other{vous a mentionné}}",
+    "@notificationMentionReason": {
+    "description": "Raison de la notification - Action 'Mention'"
+    },
+    "notificationQuoteReason": "{count, plural, other{a cité votre publication}}",
+    "@notificationQuoteReason": {
+    "description": "Raison de la notification - Action 'Citation'"
+    },
+    "notificationReplyReason": "{count, plural, other{a répondu à votre publication}}",
+    "@notificationReplyReason": {
+    "description": "Raison de la notification - Action 'Répondre'"
+    },
+    "notificationTitleCounter": "{count, plural, other{{count} autres}}",
+    "@notificationTitleCounter": {
+    "description": "Titre de notification - Compteur autres"
+    },
+    "notificationTitleShortCounter": "+{count}",
+    "@notificationTitleShortCounter": {
+    "description": "Titre de notification - Compteur court"
+    },
+    "notificationTitleAnd": " et ",
+    "@notificationTitleAnd": {
+    "description": "Titre de notification - 'et'"
+    },
+    "sizeSmallest": "Le plus petit",
+    "@sizeSmallest": {
+    "description": "Taille la plus petite dans les paramètres"
+    },
+    "sizeSmall": "Petit",
+    "@sizeSmall": {
+    "description": "Taille petite dans les paramètres"
+    },
+    "sizeMedium": "Moyen",
+    "@sizeMedium": {
+    "description": "Taille moyenne dans les paramètres"
+    },
+    "sizeLarge": "Grand",
+    "@sizeLarge": {
+    "description": "Taille grande dans les paramètres"
+    },
+    "sizeLargest": "Le plus grand",
+    "@sizeLargest": {
+    "description": "Taille la plus grande dans les paramètres"
+    },
+    "settingsDialogTitle": "Paramètres",
+    "@settingsDialogTitle": {
+    "description": "Titre de la boîte de dialogue des paramètres"
+    },
+    "settingsColumnSize": "Taille des colonnes",
+    "@settingsColumnSize": {
+    "description": "Sous-titre des paramètres de la taille des colonnes"
+    },
+    "settingsFontSize": "Taille de la police",
+    "@settingsFontSize": {
+    "description": "Sous-titre des paramètres de la taille de la police"
+    },
+    "settingsTheme": "Thème",
+    "@settingsTheme": {
+    "description": "Sous-titre des paramètres de thème"
+    },
+    "settingsLightTheme": "Clair",
+    "@settingsLightTheme": {
+    "description": "Thème clair des paramètres"
+    },
+    "settingsDarkTheme": "Sombre",
+    "@settingsDarkTheme": {
+    "description": "Thème sombre des paramètres"
+    },
+    "settingsSystemTheme": "Suivre le système",
+    "@settingsSystemTheme": {
+    "description": "Thème du système des paramètres"
+    },
+    "settingsLocale": "Langue d'affichage",
+    "@settingsLocale": {
+    "description": "Langue d'affichage des paramètres"
+    },
+    "profileDialogFollowButton": "Suivre",
+    "@profileDialogFollowButton": {
+    "description": "Bouton de suivi de la boîte de dialogue de profil"
+    },
+    "profileDialogFollowingButton": "Abonné",
+    "@profileDialogFollowingButton": {
+    "description": "Bouton d'abonnement de la boîte de dialogue de profil"
+    },
+    "imageAltDialogHint": "Décrire cette image",
+    "@imageAltDialogHint": {
+    "description": "Indication de saisie de texte alternatif de l'image dans la boîte de dialogue de texte alternatif de l'image"
+    },
+    "saveButton": "Enregistrer",
+    "@saveButton": {
+    "description": "Bouton Enregistrer générique"
+    },
+    "confirmButton": "OK",
+    "@confirmButton": {
+    "description": "Bouton de confirmation générique"
+    },
+    "cancelButton": "Annuler",
+    "@cancelButton": {
+    "description": "Bouton d'annulation générique"
+    },
+    "contentLabelSuggestive": "Suggestif",
+    "@contentLabelSuggestive": {
+    "description": "Titre de l'étiquette de contenu suggestif"
+    },
+    "contentLabelNsfw": "Pornographique",
+    "@contentLabelNsfw": {
+    "description": "Titre de l'étiquette de contenu pour adultes (NSFW)"
+    },
+    "contentLabelNudity": "Nudité",
+    "@contentLabelNudity": {
+    "description": "Titre de l'étiquette de contenu de nudité"
+    },
+    "clearButton": "Effacer",
+    "@clearButton": {
+    "description": "Bouton Effacer générique"
+    },
+    "emptySavedFeeds": "Aucun flux enregistré disponible. Pour l'instant, veuillez les ajouter via",
+    "@emptySavedFeeds": {
+    "description": "État vide de la boîte de dialogue de flux"
+    },
+    "appPasswordTooltip": "Un mot de passe d'application est une fonctionnalité de Bluesky qui ajoute une couche de sécurité lors de l'utilisation d'applications tierces.\nVous devriez en créer un pour toute application qui n'est pas officielle (comme celle-ci).",
+    "@appPasswordTooltip": {
+    "description": "Info-bulle du mot de passe de l'application"
+    },
+    "contentLabelSetting": "Ajouter un avertissement de contenu",
+    "@contentLabelSetting": {
+    "description": "Paramètre d'étiquette de contenu pour les publications"
+    },
+    "postErrorTooLarge": "Impossible de publier. Une image utilisée dépasse la limite de 1 Mo.",
+    "@postErrorTooLarge": {
+    "description": "Description de l'erreur de type de publication - Image trop volumineuse"
+    },
+    "tooltipKofi": "Faire un don d'un café !",
+    "@tooltipKofi": {
+    "description": "Info-bulle du bouton Ko-fi"
+    },
+    "linkButton": "Ajouter une carte de lien : ",
+    "@linkButton": {
+    "description": "Bouton d'ajout de lien"
+    },
+    "quoteLinkButton": "Citer la publication",
+    "@quoteLinkButton": {
+    "description": "Ajouter un lien vers une publication"
+    },
+    "aboutHeader1": "Qu'est-ce que deck.blue ?",
+    "@aboutHeader1": {
+    "description": "En-tête de la boîte de dialogue À propos 1"
+    },
+    "aboutHeader2": "Comment cela fonctionne-t-il ?",
+    "@aboutHeader2": {
+    "description": "En-tête de la boîte de dialogue À propos 2"
+    },
+    "aboutHeader3": "Mes données sont-elles sécurisées ?",
+    "@aboutHeader3": {
+    "description": "En-tête de la boîte de dialogue À propos 3"
+    },
+    "aboutDescription1": "En tant qu'application tierce, deck.blue est un client Bluesky qui prend en charge la navigation multi-colonnes, vous permettant de consulter tout ce qui vous intéresse en une seule fois (tout comme TweetDeck !).",
+    "@aboutDescription1": {
+    "description": "Description de la boîte de dialogue À propos 1"
+    },
+    "aboutDescription2": "En utilisant deck.blue, vous pouvez faire tout ce que vous pouvez déjà faire avec les applications officielles, avec l'avantage d'une mise en page efficace en informations, organisant des colonnes - mises à jour en temps réel - pour mieux répondre à vos besoins. Vous souhaitez suivre de nombreux termes de recherche en même temps ? Il vous suffit d'ajouter une colonne pour chacun ! En utilisant le système de flux personnalisé de Bluesky, vous pouvez également suivre autant de communautés que vous le souhaitez.",
+    "@aboutDescription2": {
+    "description": "Description de la boîte de dialogue À propos 2"
+    },
+    "aboutDescription3": "deck.blue utilise Google Analytics pour envoyer des données d'événements d'utilisateurs anonymes. Toutes les autres données restent entre deck.blue et les serveurs de Bluesky. Les données personnelles et sensibles ne sont envoyées nulle part et restent dans un environnement sécurisé de votre navigateur.\n\nPour garantir votre sécurité, assurez-vous d'utiliser le système de mot de passe d'application de Bluesky, qui ajoute une couche de sécurité aux clients tiers.",
+    "@aboutDescription3": {
+    "description": "Description de la boîte de dialogue À propos 3"
+    },
+    "aboutButton": "À propos",
+    "@aboutButton": {
+    "description": "Bouton de la boîte de dialogue À propos"
+    },
+    "loginSlogan1": "Tirez le meilleur parti de ",
+    "@loginSlogan1": {
+    "description": "Partie 1 du slogan de connexion"
+    },
+    "loginSlogan2": "Bluesky",
+    "@loginSlogan2": {
+    "description": "Partie 2 du slogan de connexion"
+    },
+    "updateSnackbar": "Une nouvelle mise à jour est disponible !\nActualisez pour obtenir de nouvelles fonctionnalités et des correctifs de bugs !",
+    "@updateSnackbar": {
+    "description": "Message de barre de notification de mise à jour"
+    },
+    "refreshButton": "Actualiser",
+    "@refreshButton": {
+    "description": "Bouton d'actualisation générique"
+    },
+    "replyCount": "{count, plural, one{Réponse} other{Réponses}}",
+    "@replyCount": {
+    "description": "Compteur de réponses"
+    },
+    "likeCount": "{count, plural, one{J'aime} other{J'aimes}}",
+    "@likeCount": {
+    "description": "Compteur de j'aime"
+    },
+    "repostCount": "{count, plural, one{Repost} other{Reposts}}",
+    "@repostCount": {
+    "description": "Compteur de reposts"
+    },
+    "emptyActorList": "Impossible de charger les utilisateurs, veuillez réessayer plus tard.",
+    "@emptyActorList": {
+    "description": "Message de la boîte de dialogue Liste d'acteurs vide"
+    },
+    "followsYou": "vous suit",
+    "@followsYou": {
+    "description": "Le profil suit le compte sélectionné"
+    },
+    "followsAccount": "suit ${handle}",
+    "@followsAccount": {
+    "description": "Profil suit le compte disponible"
+    },
+    "soundEnabled": "Activer le son de notification",
+    "@soundEnabled": {
+    "description": "Activer/désactiver le son de notification"
+    },
+    "blocksYou": "vous bloque",
+    "@blocksYou": {
+    "description": "Profil consulté vous bloque"
+    },
+    "blocked": "bloqué",
+    "@blocked": {
+    "description": "Profil consulté est bloqué par vous"
+    },
+    "muted": "sourdine",
+    "@muted": {
+    "description": "Profil consulté est en mode sourdine par vous"
+    },
+    "mutedByList": "en mode sourdine par liste",
+    "@mutedByList": {
+    "description": "Profil consulté est en mode sourdine par liste"
+    },
+    "muteButton": "Mettre en sourdine",
+    "@muteButton": {
+    "description": "Bouton de mise en sourdine du profil consulté"
+    },
+    "unmuteButton": "Activer le son",
+    "@unmuteButton": {
+    "description": "Bouton d'activation du son du profil consulté"
+    },
+    "blockButton": "Bloquer",
+    "@blockButton": {
+    "description": "Bouton de blocage du profil consulté"
+    },
+    "unblockButton": "Débloquer",
+    "@unblockButton": {
+    "description": "Bouton de déblocage du profil consulté"
+    },
+    "errorUpdateList": "Impossible de mettre à jour la liste, veuillez réessayer.",
+    "@errorUpdateList": {
+    "description": "Erreur lors de la mise à jour de la liste"
+    },
+    "errorCreateList": "Impossible de créer une liste, veuillez réessayer.",
+    "@errorCreateList": {
+    "description": "Erreur lors de la création de la liste"
+    },
+    "emptyListItems": "Cette liste est vide !",
+    "@emptyListItems": {
+    "description": "Message de gestion des éléments vides de la liste"
+    },
+    "emptyFollowing": "Vous ne suivez personne !",
+    "@emptyFollowing": {
+    "description": "Message de gestion de la liste des personnes suivies"
+    },
+    "manageListHeader": "Modifier la liste {name}",
+    "@manageListHeader": {
+    "description": "Titre de l'en-tête de la boîte de dialogue Gérer la liste"
+    },
+    "saveListButton": "Enregistrer la liste",
+    "@saveListButton": {
+    "description": "Bouton d'enregistrement de la boîte de dialogue Gérer la liste"
+    },
+    "manageListCurrentTab": "Actuelle",
+    "@manageListCurrentTab": {
+    "description": "Premier onglet de la boîte de dialogue Gérer la liste"
+    },
+    "manageListFollowingTab": "Suivies",
+    "@manageListFollowingTab": {
+    "description": "Deuxième onglet de la boîte de dialogue Gérer la liste"
+    },
+    "manageListSearchedTab": "Recherchées",
+    "@manageListSearchedTab": {
+    "description": "Premier onglet de la boîte de dialogue Gérer la liste"
+    },
+    "createCuratedListHeader": "Créer une nouvelle liste personnalisée",
+    "@createCuratedListHeader": {
+    "description": "Titre de l'en-tête de la boîte de dialogue Créer une nouvelle liste"
+    },
+    "createListNameLabel": "Nom de la liste",
+    "@createListNameLabel": {
+    "description": "Étiquette du nom de la boîte de dialogue Créer une nouvelle liste"
+    },
+    "createListNameHint": "Personnes cool",
+    "@createListNameHint": {
+    "description": "Indication du nom de la boîte de dialogue Créer une nouvelle liste"
+    },
+    "createListDescriptionLabel": "Description",
+    "@createListDescriptionLabel": {
+    "description": "Étiquette de la description de la boîte de dialogue Créer une nouvelle liste"
+    },
+    "createListDescriptionHint": "Personnes cool que je veux voir",
+    "@createListDescriptionHint": {
+    "description": "Indication de la description de la boîte de dialogue Créer une nouvelle liste"
+    },
+    "createListButton": "Créer une liste",
+    "@createListButton": {
+    "description": "Bouton de création de liste générique"
+    },
+    "addListColumnDialogTitle": "Ajouter une nouvelle colonne de liste",
+    "@addListColumnDialogTitle": {
+    "description": "Titre de la boîte de dialogue Ajouter une colonne de liste"
+    },
+    "emptyCuratedLists": "Listes enregistrées vides.",
+    "@emptyCuratedLists": {
+    "description": "Message de boîte de dialogue Ajouter une colonne de liste vide"
+    },
+    "tooltipAddColumn": "Ajouter une colonne",
+    "@tooltipAddColumn": {
+    "description": "Indication de boîte de dialogue Ajouter une colonne de liste vide"
+    },
+    "tooltipColumnAdded": "Colonne déjà ajoutée",
+    "@tooltipColumnAdded": {
+    "description": "Indication de boîte de dialogue Ajouter une colonne de liste vide"
+    },
+    "buttonManageList": "Gérer la liste",
+    "@buttonManageList": {
+    "description": "Bouton générique Gérer la liste"
+    },
+    "postedDateUnitNow": "maintenant",
+    "@postedDateUnitNow": {
+    "description": "Date de la publication juste publiée"
+    },
+    "postedDateUnitSeconds": "{number}s",
+    "@postedDateUnitSeconds": {
+    "description": "Unité de secondes de la date de la publication"
+    },
+    "postedDateUnitMinutes": "{number}m",
+    "@postedDateUnitMinutes": {
+    "description": "Unité de minutes de la date de la publication"
+    },
+    "postedDateUnitHours": "{number}h",
+    "@postedDateUnitHours": {
+    "description": "Unité d'heures de la date de la publication"
+    },
+    "postedDateUnitDays": "{number}j",
+    "@postedDateUnitDays": {
+    "description": "Unité de jours de la date de la publication"
+    },
+    "settingsMutedWords": "Mots en sourdine",
+    "@settingsMutedWords": {
+    "description": "Paramètres des mots en sourdine de la colonne"
+    },
+    "settingsColumn": "Paramètres de la colonne",
+    "@settingsColumn": {
+    "description": "Paramètres de la colonne"
+    },
+    "settingsScrollbars": "Afficher les barres de défilement de la colonne",
+    "@settingsScrollbars": {
+    "description": "Paramètres de la colonne"
+    },
+    "settingsLogout": "Se déconnecter",
+    "@settingsLogout": {
+    "description": "Bouton de déconnexion dans les paramètres"
+    },
+    "editCuratedListHeader": "Modifier votre liste personnalisée",
+    "@editCuratedListHeader": {
+    "description": "Titre de l'en-tête de la boîte de dialogue Modifier une liste"
+    },
+    "buttonEditList": "Modifier la liste",
+    "@buttonEditList": {
+    "description": "Bouton générique Modifier la liste"
+    },
+    "phoneSupportMessage": "deck.blue est actuellement entièrement pris en charge uniquement sur ordinateur de bureau et tablette, veuillez les utiliser pour une meilleure expérience !",
+    "@phoneSupportMessage": {
+    "description": "Message d'avertissement de prise en charge des téléphones"
+    },
+    "allowedNotificationSetting": "Notifications autorisées",
+    "@allowedNotificationSetting": {
+    "description": "Paramètre de colonne de notifications autorisées"
+    },
+    "notificationLikeTitle": "Like",
+    "@notificationLikeTitle": {
+    "description": "Notification de like"
+    },
+    "notificationRepostTitle": "Repost",
+    "@notificationRepostTitle": {
+    "description": "Notification de repost"
+    },
+    "notificationFollowTitle": "Follow",
+    "@notificationFollowTitle": {
+    "description": "Notification de follow"
+    },
+    "notificationMentionTitle": "Mention",
+    "@notificationMentionTitle": {
+    "description": "Notification de mention"
+    },
+    "notificationQuoteTitle": "Quote",
+    "@notificationQuoteTitle": {
+    "description": "Notification de quote"
+    },
+    "notificationReplyTitle": "Reply",
+    "@notificationReplyTitle": {
+    "description": "Notification de réponse"
+    },
+    "timerSetting": "Actualiser toutes les",
+    "@timerSetting": {
+    "description": "Paramètre de colonne de minuterie"
+    },
+    "quoteTo": "Citation de {actor}",
+    "@quoteTo": {
+    "description": "Texte formaté en citation de"
+    },
+    "followingReplies": "Filtrer les réponses par les personnes que vous suivez",
+    "@followingReplies": {
+    "description": "Bascule de filtrage des réponses par les personnes que vous suivez"
+    },
+    "settingsShowAlt": "Afficher le texte alternatif par défaut",
+    "@settingsShowAlt": {
+    "description": "Bascule d'affichage des textes alternatifs dans les paramètres"
+    },
+    "confirmUnfollowActorTitle": "Ne plus suivre",
+    "@confirmUnfollowActorTitle": {
+    "description": "Titre de confirmation pour ne plus suivre"
+    },
+    "confirmUnfollowActorContent": "Êtes-vous sûr de vouloir ne plus suivre {handle} ?",
+    "@confirmUnfollowActorContent": {
+    "description": "Message de confirmation pour ne plus suivre"
+    },
+    "confirmBlockActorTitle": "Bloquer",
+    "@confirmBlockActorTitle": {
+    "description": "Titre de la boîte de dialogue de confirmation lors du blocage"
+    },
+    "confirmBlockActorContent": "Les comptes bloqués ne peuvent pas répondre à vos messages, vous mentionner ou interagir avec vous de quelque manière que ce soit. Êtes-vous sûr de vouloir bloquer ce compte ?",
+    "@confirmBlockActorContent": {
+    "description": "Message de confirmation lors du blocage"
+    },
+    "confirmUnblockActorTitle": "Débloquer",
+    "@confirmUnblockActorTitle": {
+    "description": "Titre de la boîte de dialogue de confirmation lors du déblocage"
+    },
+    "confirmUnblockActorContent": "Le compte pourra interagir avec vous après le déblocage. Êtes-vous sûr de vouloir débloquer ce compte ?",
+    "@confirmUnblockActorContent": {
+    "description": "Message de confirmation lors du déblocage"
+    },
+    "confirmDeletePostTitle": "Supprimer la publication",
+    "@confirmDeletePostTitle": {
+    "description": "Titre de la boîte de dialogue de confirmation lors de la suppression de la publication"
+    },
+    "confirmDeletePostContent": "Êtes-vous sûr de vouloir supprimer cette publication ?",
+    "@confirmDeletePostContent": {
+    "description": "Message de confirmation lors de la suppression de la publication"
+    },
+    "confirmListConvertTitle": "Convertir la liste",
+    "@confirmListConvertTitle": {
+    "description": "Titre de la boîte de dialogue de confirmation lors de la conversion d'une liste"
+    },
+    "confirmListConvertContent": "Cette liste est actuellement une liste de masquage ; la convertir est nécessaire pour l'utiliser en tant que colonne. Après la conversion, les profils déjà présents dans la liste ne seront plus considérés comme masqués. Êtes-vous sûr de vouloir la convertir ?",
+    "@confirmListConvertContent": {
+    "description": "Message de confirmation lors de la conversion d'une liste"
+    },
+    "convertButton": "Convertir",
+    "@convertButton": {
+    "description": "Bouton de conversion générique"
+    },
+    "hashtags": "Hashtags",
+    "@hashtags": {
+    "description": "Titre générique Hashtags"
+    },
+    "warningOnPressedLinkTitle": "ATTENTION !",
+    "@warningOnPressedLinkTitle": {
+    "description": "Titre de la boîte de dialogue d'avertissement lorsqu'un lien est pressé"
+    },
+    "warningOnPressedLinkContent": "Ce lien vous dirigera vers le site web suivant. Êtes-vous sûr de vouloir accéder à ce site web ?",
+    "@warningOnPressedLinkContent": {
+    "description": "Contenu de la boîte de dialogue d'avertissement lorsqu'un lien est pressé"
+    },
+    "wordSelectDialogHint": "Saisissez un ou plusieurs mots séparés par \",\". Maximum de 64 caractères.",
+    "@wordSelectDialogHint": {
+    "description": "Conseil pour la boîte de dialogue de sélection de mots"
+    },
+    "wordSelectDialogHintWithSpaceFilter": "Saisissez un ou plusieurs mots séparés par \",\" ou un espace. Maximum de 64 caractères.",
+    "@wordSelectDialogHintWithSpaceFilter": {
+    "description": "Conseil pour la boîte de dialogue de sélection de mots avec filtre d'espace"
+    },
+    "columnTimerNone": "Manuel",
+    "@columnTimerNone": {
+    "description": "Titre de ColumnTimer 'Manuel'"
+    },
+    "loadMoreButton": "Afficher plus",
+    "@loadMoreButton": {
+    "description": "Bouton générique 'Afficher plus'"
+    },
+    "showClearButton": "Afficher le bouton de suppression",
+    "@showClearButton": {
+    "description": "Paramètre de colonne 'Afficher le bouton de suppression'"
+    },
+    "manageActorInList": "Ajouter/retirer de la liste",
+    "@manageActorInList": {
+    "description": "Menu de la boîte de dialogue de gestion des acteurs dans la liste"
+    },
+    "connectPatreon": "Se connecter avec Patreon",
+    "@connectPatreon": {
+    "description": "Bouton de paramètres 'Se connecter avec Patreon'"
+    },
+    "disconnectPatreon": "Se déconnecter de Patreon",
+    "@disconnectPatreon": {
+    "description": "Bouton de paramètres 'Se déconnecter de Patreon'"
+    },
+    "disconnectPatreonConfirm": "Êtes-vous sûr de vouloir vous déconnecter de votre compte Patreon ? Vous ne pourrez plus bénéficier des avantages tels que la programmation et vos comptes supplémentaires seront déconnectés.",
+    "@disconnectPatreonConfirm": {
+    "description": "Confirmation de la déconnexion de Patreon"
+    },
+    "patreonNoTier": "Pas un Patreon",
+    "@patreonNoTier": {
+    "description": "Titre de PatreonTier 'Pas un Patreon'"
+    },
+    "patreonTierInitial": "Initial",
+    "@patreonTierInitial": {
+    "description": "Titre de PatreonTier 'Initial'"
+    },
+    "patreonTierHelper": "Assistant",
+    "@patreonTierHelper": {
+    "description": "Titre de PatreonTier 'Assistant'"
+    },
+    "patreonTierSupporter": "Supporter",
+    "@patreonTierSupporter": {
+    "description": "Titre de PatreonTier 'Supporter'"
+    },
+    "patreonTierSponsor": "Parrain",
+    "@patreonTierSponsor": {
+    "description": "Titre de PatreonTier 'Parrain'"
+    },
+    "errorLoginInvalidEmail": "Votre compte n'a pas d'adresse e-mail valide ou l'adresse e-mail n'est pas vérifiée, veuillez effectuer cette vérification dans les applications officielles.",
+    "@errorLoginInvalidEmail": {
+    "description": "Erreur de connexion 'Adresse e-mail non valide'"
+    },
+    "errorLoginChangeAppPassword": "Vous essayez de vous connecter avec un App Password différent de celui utilisé précédemment avec deck.blue. Un code de vérification a été envoyé à votre adresse e-mail, veuillez l'utiliser pour valider votre compte et changer votre mot de passe pour le nouveau.",
+    "@errorLoginChangeAppPassword": {
+    "description": "Erreur de connexion 'Changement d'App Password'"
+    },
+    "errorLoginExpiredChangeCode": "Le code de vérification utilisé est invalide. S'il a expiré, nous en enverrons un autre.",
+    "@errorLoginExpiredChangeCode": {
+    "description": "Erreur de connexion 'Code de changement expiré'"
+    },
+    "passwordCodeLabel": "Code de vérification",
+    "@passwordCodeLabel": {
+    "description": "Étiquette de code de vérification de connexion"
+    },
+    "loginMigration": "Dans le cadre de la mise à jour v2.0, vous devez vous connecter à nouveau afin que vos paramètres et colonnes soient correctement sauvegardés.",
+    "@loginMigration": {
+    "description": "Explication de la migration de la connexion"
+    },
+    "settingsColor": "Couleur de base du thème",
+    "@settingsColor": {
+    "description": "Paramètres de couleur"
+    },
+    "accounts": "Comptes",
+    "@accounts": {
+    "description": "Libellé générique 'Comptes'"
+    },
+    "addAccount": "Ajouter un compte",
+    "@addAccount": {
+    "description": "Bouton générique 'Ajouter un compte'"
+    },
+    "accountConfirmationStep": "Étape de confirmation",
+    "@accountConfirmationStep": {
+    "description": "Titre des paramètres 'Étape de confirmation du compte'"
+    },
+    "accountConfirmationStepDescription": "Ajoute une étape de confirmation avant la publication",
+    "@accountConfirmationStepDescription": {
+    "description": "Description des paramètres 'Étape de confirmation du compte'"
+    },
+    "removeAccount": "Supprimer",
+    "@removeAccount": {
+    "description": "Bouton générique 'Supprimer le compte'"
+    },
+    "removeAccountDisclaimer": "En supprimant ce compte, toutes les colonnes ajoutées et les publications planifiées seront également supprimées. Êtes-vous sûr de vouloir supprimer ce compte ?",
+    "@removeAccountDisclaimer": {
+    "description": "Avertissement de la boîte de dialogue de suppression de compte"
+    },
+    "errorAccountMaxAccounts": "Vous avez déjà atteint le nombre maximal de comptes pour votre niveau Patreon.",
+    "@errorAccountMaxAccounts": {
+    "description": "Erreur lors de l'ajout d'un nouveau compte : maximum atteint"
+    },
+    "errorAccountAdd": "Impossible d'ajouter ce compte, veuillez réessayer ultérieurement.",
+    "@errorAccountAdd": {
+    "description": "Erreur inconnue lors de l'ajout d'un nouveau compte"
+    },
+    "errorAccountUnknown": "Impossible de gérer ce compte, veuillez réessayer ultérieurement.",
+    "@errorAccountUnknown": {
+    "description": "Erreur inconnue lors de la gestion du compte"
+    },
+    "preview": "Aperçu",
+    "@preview": {
+    "description": "Libellé générique 'Aperçu'"
+    },
+    "repostDialogTitle": "Republier de...",
+    "@repostDialogTitle": {
+    "description": "Titre de la boîte de dialogue Reposter"
+    },
+    "confirmationStep": "Prêt ?",
+    "@confirmationStep": {
+    "description": "Utilisation de 'confirmationStep' dans NewPostWidget"
+    },
+    "likeDialogTitle": "J'aime de...",
+    "@likeDialogTitle": {
+    "description": "Titre de la boîte de dialogue J'aime"
+    },
+    "addAccountDisclaimer": "Veuillez créer un App Password distinct pour chaque compte que vous ajoutez, sinon votre session peut être révoquée et vous devrez réajouter votre compte.",
+    "@addAccountDisclaimer": {
+    "description": "Avertissement pour la page de connexion pour ajouter un compte"
+    },
+    "profileFromDialogTitle": "Profil de...",
+    "@profileFromDialogTitle": {
+    "description": "Titre de la boîte de dialogue Profil depuis"
+    },
+    "viewFromAccount": "Vue de...",
+    "@viewFromAccount": {
+    "description": "Libellé générique 'Vue depuis le compte'"
+    },
+    "show": "Afficher",
+    "@show": {
+    "description": "Libellé générique 'Afficher'"
+    },
+    "confirmDeleteColumnTitle": "Supprimer la colonne",
+    "@confirmDeleteColumnTitle": {
+    "description": "Titre de la boîte de dialogue de confirmation lors de la suppression de la colonne"
+    },
+    "confirmDeleteColumnContent": "Êtes-vous sûr de vouloir supprimer cette colonne ?",
+    "@confirmDeleteColumnContent": {
+    "description": "Message de confirmation lors de la suppression de la colonne"
+    },
+    "settingsCompactMode": "Mode compact pour les publications",
+    "@settingsCompactMode": {
+    "description": "Paramètres du mode compact"
+    },
+    "errorAccountRelink": "Impossible de relier ce compte, veuillez réessayer.",
+    "@errorAccountRelink": {
+    "description": "Erreur lors de la reconnexion du compte existant"
+    },
+    "relinkAccount": "Relier",
+    "@relinkAccount": {
+    "description": "Bouton de lien du compte"
+    }
+}
