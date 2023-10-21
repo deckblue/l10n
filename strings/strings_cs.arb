@@ -1,0 +1,616 @@
+{
+  "columnTitleHome": "Domů",
+  "columnTitleUser": "Ty",
+  "columnTitleNotifications": "Upozornění",
+  "columnTitleLikes": "Oblíbené",
+  "columnTitleMentions": "Zmínění",
+  "columnTitleMedia": "Média",
+  "columnTitleCustom": "Zvláštní kanál",
+  "columnTitleListFeed": "Seznam",
+  "columnTitleSearch": "Hledání",
+  "serviceLabel": "Služba",
+  "serviceHint": "bsky.social",
+  "usernameLabel": "Identifikátor",
+  "usernameHint": "Uživatelské jméno nebo e-mail",
+  "passwordLabel": "Aplikační heslo",
+  "loginButton": "Přihlašovací jméno",
+  "loginFirebaseDescription": "Používáme Google Analytics pro odesílání anonymních událostí v aplikaci. Všechny ostatní data jsou uchovány mezi servery deck.blue a Bluesky.",
+  "errorLoginUnknown": "Přihlášení selhalo. Zkuste to prosím později.",
+  "errorLoginWrongCredentials": "Chybný identifikátor nebo heslo. Zkuste to prosím znovu.",
+  "errorLoginInvalidAppPassword": "Neplatné aplikační heslo. Prosím vygenerujte si nové aplikační heslo pomocí ikony ? v poli s heslem nebo klikněte znovu na tlačítko přihlášení pro ignorování tohoto upozornění.",
+  "errorLoginServerError": "Nastala chyba na serveru. Prosíme vyčkejte a zkusto to znovu později.",
+  "embedTypeQuote": "Citace",
+  "embedTypeImageQuote": "Citace s médii",
+  "embedTypeLink": "Odkaz",
+  "embedTypeImage": "Média",
+  "embedTypeReply": "Odpovědi",
+  "embedTypeRepost": "Reposty",
+  "mediaSizeHidden": "Skryté",
+  "mediaSizeSmall": "Malý",
+  "mediaSizeMedium": "Střední",
+  "mediaSizeLarge": "Velký",
+  "mediaSizeSetting": "Velikost náhledu média",
+  "embedTypeSetting": "Povolené vkládání",
+  "postTypeSetting": "Povolené typy příspěvků",
+  "hiddenImageLabel": "Obrázek",
+  "removeColumnButton": "Odstranit",
+  "addColumnDialogTitle": "Přidat nový sloupec",
+  "addFeedColumnDialogTitle": "Přidat nový sloupec s kanálem",
+  "columnDescriptionHome": "Vaše základní timeline",
+  "columnDescriptionUser": "Vaše příspěvky",
+  "columnDescriptionNotifications": "Vaše notifikace",
+  "columnDescriptionLikes": "Vaše oblíbené příspěvky",
+  "columnDescriptionMentions": "Všechny příspěvky se zmínkou o Vás",
+  "columnDescriptionMedia": "Vaše příspěvky s médii",
+  "columnDescriptionCustom": "Zvolte zvláštní kanál z Vámi uložených",
+  "columnDescriptionListFeed": "Vytvořte seznam, nebo zvolte existující",
+  "selectLanguageDialogTitle": "Zvolte jazyk příspěvku",
+  "selectOtherLanguage": "Ostatní…",
+  "postButton": "Příspěvek",
+  "deleteButton": "Smazat",
+  "postDialogHint": "Jak to jde?",
+  "postErrorUpload": "Nemohu zveřejnit příspěvek. Zkuste to později.",
+  "postErrorDelete": "Nemohu tento příspěvek smazat. Zkuste to později.",
+  "postErrorLike": "Nemohu tento příspěvek oblíbit. Zkuste to později.",
+  "postErrorRepost": "Nemohu znovu zveřejnit tento příspěvek. Zkuste to později.",
+  "replyButton": "Odpověď",
+  "repostButton": "Znovu zveřejnit",
+  "quoteButton": "Citovat",
+  "likeButton": "Oblíbit",
+  "replyDialogHint": "Napište odpověď na tento příspěvek",
+  "quoteDialogHint": "Napišt něco o tomto příspěvku",
+  "threadTitle": "Vlákno",
+  "undoButton": "Vrátit zpět",
+  "postButtonCopy": "Sdílet",
+  "postCopyMessage": "Zkopírováno do schránky",
+  "postButtonOpen": "Otevřít na Bsky",
+  "errorThreadEmptyPost": "Nemůžu najít příspěvek",
+  "searchDialogHint": "Vyhledat",
+  "searchDialogUsers": "Uživatelé",
+  "searchDialogPosts": "Příspěvky",
+  "searchDialogAddColumn": "Přidat sloupec",
+  "translateButton": "Přeložit",
+  "emptyPosts": "Nebyly nalezeny žádné příspěvky,
+  "emptyUsers": "Nebyl nalezen žádný uživatelský profil",
+  "profileDialogPosts": "Příspěvky",
+  "profileDialogFollowing": "Sledovaní",
+  "profileDialogFollowers": "Sledující",
+  "errorProfileDialog": "Nemohu načíst tento uživatelský profil. Zkuste to prosím později.",
+  "profileDialogPostsColumn": "Příspěvky",
+  "profileDialogMediaColumn": "Média",
+  "profileDialogLikesColumn": "Oblíbené",
+  "profileDialogAddColumn": "Přidat sloupec",
+  "repostedBy": "Znovu zveřejněno {actor}",
+  "replyTo": "Odpověď na {actor}",
+  "advancedButton": "Pokročilé",
+  "notificationLikeReason": "{count, plural, other{si oblíbilo Váš příspěvek}}",
+  "notificationRepostReason": "{count, plural, other{znovu zveřejnilo Váš příspěvek}}",
+  "notificationFollowReason": "{count, plural, other{Vás sleduje}}",
+  "notificationMentionReason": "{count, plural, other{Vás zmínilo}}",
+  "notificationQuoteReason": "{count, plural, other{citovalo Váš příspěvek}}",
+  "notificationReplyReason": "{count, plural, other{Vám odpovědělo}}",
+  "notificationTitleCounter": "{count, plural, other{{count} ostatní}}",
+  "notificationTitleShortCounter": "+{count}",
+  "notificationTitleAnd": " a ",
+  "sizeSmallest": "Nejmenší",
+  "sizeSmall": "Malý",
+  "sizeMedium": "Střední",
+  "sizeLarge": "Velký",
+  "sizeLargest": "Největší",
+  "settingsDialogTitle": "Nastavení",
+  "settingsColumnSize": "Velikost sloupce",
+  "settingsFontSize": "Velikost písma",
+  "settingsTheme": "Téma",
+  "settingsLightTheme": "Světlé",
+  "settingsDarkTheme": "Tmavé",
+  "settingsSystemTheme": "Podle systému",
+  "settingsLocale": "Jazyk prostředí",
+  "profileDialogFollowButton": "Sledovat",
+  "profileDialogFollowingButton": "Sledujete",
+  "imageAltDialogHint": "Popište tento obrázek",
+  "saveButton": "Uložit",
+  "confirmButton": "OK",
+  "cancelButton": "Storno",
+  "contentLabelSuggestive": "Sugestivní",
+  "contentLabelNsfw": "Porno",
+  "contentLabelNudity": "Nahota",
+  "clearButton": "Vyčistit",
+  "emptySavedFeeds": "Nejsou uložené žádné seznamy. Zatím je přidejte přes",
+  "appPasswordTooltip": "Aplikační heslo je funkce Blueskye pro vyšší bezpečnost pri používání aplikací třetích stran.\nMěli byste ho vytvořit pro každou aplikaci, která není oficiální (jako je tato).",
+  "contentLabelSetting": "Přidejte varování o obsahu",
+  "postErrorTooLarge": "Není možné zveřejnit příspěvek. Obrázek přesáhl limit 1 MB.",
+  "tooltipKofi": "Darujte kávu!",
+  "linkButton": "Přidejte odkaz: ",
+  "quoteLinkButton": "Citujte příspěvek",
+  "aboutHeader1": "Co je deck.blue?",
+  "aboutHeader2": "Jak deck.blue funguje?",
+  "aboutHeader3": "Jsou má data v bezpečí?",
+  "aboutDescription1": "As a 3rd party app, deck.blue is a Bluesky client that supports multi-column browsing, allowing you to check everything you care about at once (just like TweetDeck!).",
+  "@aboutDescription1": {
+    "description": "About dialog description 1"
+  },
+  "aboutDescription2": "By using deck.blue, you can do everything you can already do on the official apps with the benefit of an information-efficient layout, organizing columns – updated in real time – to better fit your needs. Wanna keep track of many searched terms at once? Just add a column for each one! By using Bluesky's custom feed system, you can also follow as many communities as you want.",
+  "@aboutDescription2": {
+    "description": "About dialog description 2"
+  },
+  "aboutDescription3": "deck.blue uses Google Analytics to send anonymous user events. All other data is kept between deck.blue and Bluesky's servers. Personal and sensitive data are not sent anywhere, and are kept in your browser's secure environment.\n\nTo ensure your safety, make sure to use Bluesky's App Password system, which adds a layer of security to 3rd party clients.",
+  "@aboutDescription3": {
+    "description": "About dialog description 3"
+  },
+  "aboutButton": "About",
+  "@aboutButton": {
+    "description": "About dialog button"
+  },
+  "loginSlogan1": "Get the most out of ",
+  "@loginSlogan1": {
+    "description": "Login slogan part 1"
+  },
+  "loginSlogan2": "Bluesky",
+  "@loginSlogan2": {
+    "description": "Login slogan part 2"
+  },
+  "updateSnackbar": "A new update is available!\nRefresh to get new features and bug fixes!",
+  "@updateSnackbar": {
+    "description": "Update Snackbar message"
+  },
+  "refreshButton": "Refresh",
+  "@refreshButton": {
+    "description": "Generic Refresh button"
+  },
+  "replyCount": "{count, plural, one{Reply} other{Replies}}",
+  "@replyCount": {
+    "description": "Reply counter"
+  },
+  "likeCount": "{count, plural, one{Like} other{Likes}}",
+  "@likeCount": {
+    "description": "Like counter"
+  },
+  "repostCount": "{count, plural, one{Repost} other{Reposts}}",
+  "@repostCount": {
+    "description": "Repost counter"
+  },
+  "emptyActorList": "Couldn't load users, try again later.",
+  "@emptyActorList": {
+    "description": "Empty ActorListDialog message"
+  },
+  "followsYou": "follows you",
+  "@followsYou": {
+    "description": "Profile follows selected account"
+  },
+  "followsAccount": "follows ${handle}",
+  "@followsAccount": {
+    "description": "Profile follows available account"
+  },
+  "soundEnabled": "Enable notification sound",
+  "@soundEnabled": {
+    "description": "Toggle notification sound"
+  },
+  "blocksYou": "blocks you",
+  "@blocksYou": {
+    "description": "Profile viewed blocks you"
+  },
+  "blocked": "blocked",
+  "@blocked": {
+    "description": "Profile viewed is blocked by you"
+  },
+  "muted": "muted",
+  "@muted": {
+    "description": "Profile viewed is muted by you"
+  },
+  "mutedByList": "muted by list",
+  "@mutedByList": {
+    "description": "Profile viewed is muted by list"
+  },
+  "muteButton": "Mute",
+  "@muteButton": {
+    "description": "Mute profile viewed button"
+  },
+  "unmuteButton": "Unmute",
+  "@unmuteButton": {
+    "description": "Unmute profile viewed button"
+  },
+  "blockButton": "Block",
+  "@blockButton": {
+    "description": "Block profile viewed button"
+  },
+  "unblockButton": "Unblock",
+  "@unblockButton": {
+    "description": "Unblock profile viewed button"
+  },
+  "errorUpdateList": "Unable to update list, please try again.",
+  "@errorUpdateList": {
+    "description": "Error on update list"
+  },
+  "errorCreateList": "Unable to create list, please try again.",
+  "@errorCreateList": {
+    "description": "Error on create list"
+  },
+  "emptyListItems": "This list is empty!",
+  "@emptyListItems": {
+    "description": "Empty list items manage list message"
+  },
+  "emptyFollowing": "You aren't following anyone!",
+  "@emptyFollowing": {
+    "description": "Empty following manage list message"
+  },
+  "manageListHeader": "Edit list {name}",
+  "@manageListHeader": {
+    "description": "ManageListDialog header title"
+  },
+  "saveListButton": "Save list",
+  "@saveListButton": {
+    "description": "ManageListDialog save button"
+  },
+  "manageListCurrentTab": "Current",
+  "@manageListCurrentTab": {
+    "description": "ManageListDialog first tab"
+  },
+  "manageListFollowingTab": "Following",
+  "@manageListFollowingTab": {
+    "description": "ManageListDialog second tab"
+  },
+  "manageListSearchedTab": "Searched",
+  "@manageListSearchedTab": {
+    "description": "ManageListDialog first tab"
+  },
+  "createCuratedListHeader": "Create a new curated list",
+  "@createCuratedListHeader": {
+    "description": "NewListDialog header title"
+  },
+  "createListNameLabel": "List name",
+  "@createListNameLabel": {
+    "description": "NewListDialog name label"
+  },
+  "createListNameHint": "Cool people",
+  "@createListNameHint": {
+    "description": "NewListDialog name hint"
+  },
+  "createListDescriptionLabel": "Description",
+  "@createListDescriptionLabel": {
+    "description": "NewListDialog name label"
+  },
+  "createListDescriptionHint": "Cool people that I want to see",
+  "@createListDescriptionHint": {
+    "description": "NewListDialog name hint"
+  },
+  "createListButton": "Create a list",
+  "@createListButton": {
+    "description": "Generic Create a list button"
+  },
+  "addListColumnDialogTitle": "Add a new list column",
+  "@addListColumnDialogTitle": {
+    "description": "Add list column dialog title"
+  },
+  "emptyCuratedLists": "Empty saved lists.",
+  "@emptyCuratedLists": {
+    "description": "Add list column dialog empty"
+  },
+  "tooltipAddColumn": "Add column",
+  "@tooltipAddColumn": {
+    "description": "Add list column dialog empty"
+  },
+  "tooltipColumnAdded": "Column already added",
+  "@tooltipColumnAdded": {
+    "description": "Add list column dialog empty"
+  },
+  "buttonManageList": "Manage list",
+  "@buttonManageList": {
+    "description": "Generic Manage list button"
+  },
+  "postedDateUnitNow": "now",
+  "@postedDateUnitNow": {
+    "description": "Date of post just posted"
+  },
+  "postedDateUnitSeconds": "{number}s",
+  "@postedDateUnitSeconds": {
+    "description": "Seconds unit of the date of the post"
+  },
+  "postedDateUnitMinutes": "{number}m",
+  "@postedDateUnitMinutes": {
+    "description": "Minutes unit of the date of the post"
+  },
+  "postedDateUnitHours": "{number}h",
+  "@postedDateUnitHours": {
+    "description": "Hours unit of the date of the post"
+  },
+  "postedDateUnitDays": "{number}d",
+  "@postedDateUnitDays": {
+    "description": "Hours unit of the date of the post"
+  },
+  "settingsMutedWords": "Muted words",
+  "@settingsMutedWords": {
+    "description": "Column muted words settings"
+  },
+  "settingsColumn": "Column settings",
+  "@settingsColumn": {
+    "description": "Column settings"
+  },
+  "settingsScrollbars": "Show column scrollbars",
+  "@settingsScrollbars": {
+    "description": "Column settings"
+  },
+  "settingsLogout": "Logout",
+  "@settingsLogout": {
+    "description": "Logout button in settings"
+  },
+  "editCuratedListHeader": "Edit your curated list",
+  "@editCuratedListHeader": {
+    "description": "NewListDialog edit header title"
+  },
+  "buttonEditList": "Edit list",
+  "@buttonEditList": {
+    "description": "Generic Edit list button"
+  },
+  "phoneSupportMessage": "deck.blue is currently only fully supported on desktop and tablet, please try those for a better experience!",
+  "@phoneSupportMessage": {
+    "description": "Phone support warning message"
+  },
+  "allowedNotificationSetting": "Allowed notifications",
+  "@allowedNotificationSetting": {
+    "description": "Allowed notifications column setting"
+  },
+  "notificationLikeTitle": "Like",
+  "@notificationLikeTitle": {
+    "description": "Notification like"
+  },
+  "notificationRepostTitle": "Repost",
+  "@notificationRepostTitle": {
+    "description": "Notification repost"
+  },
+  "notificationFollowTitle": "Follow",
+  "@notificationFollowTitle": {
+    "description": "Notification follow"
+  },
+  "notificationMentionTitle": "Mention",
+  "@notificationMentionTitle": {
+    "description": "Notification mention"
+  },
+  "notificationQuoteTitle": "Quote",
+  "@notificationQuoteTitle": {
+    "description": "Notification quote"
+  },
+  "notificationReplyTitle": "Reply",
+  "@notificationReplyTitle": {
+    "description": "Notification reply"
+  },
+  "timerSetting": "Refresh every",
+  "@timerSetting": {
+    "description": "Timer column setting"
+  },
+  "quoteTo": "Quoting {actor}",
+  "@quoteTo": {
+    "description": "quoteTo formatted text"
+  },
+  "followingReplies": "Filter replies by following",
+  "@followingReplies": {
+    "description": "Filter replies by following toggle"
+  },
+  "settingsShowAlt": "Display alt text by default",
+  "@settingsShowAlt": {
+    "description": "Settings showAlt toggle"
+  },
+  "confirmUnfollowActorTitle": "Unfollow",
+  "@confirmUnfollowActorTitle": {
+    "description": "Confirmation title when unfollowing"
+  },
+  "confirmUnfollowActorContent": "Are you sure you want to unfollow {handle}?",
+  "@confirmUnfollowActorContent": {
+    "description": "Confirmation message when unfollowing"
+  },
+  "confirmBlockActorTitle": "Block",
+  "@confirmBlockActorTitle": {
+    "description": "A title for confirmation dialog when blocking"
+  },
+  "confirmBlockActorContent": "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. Are you sure you want to block this account?",
+  "@confirmBlockActorContent": {
+    "description": "Confirmation message when blocking"
+  },
+  "confirmUnblockActorTitle": "Unblock",
+  "@confirmUnblockActorTitle": {
+    "description": "A title for confirmation dialog when unblocking"
+  },
+  "confirmUnblockActorContent": "The account will be able to interact with you after unblocking. Are you sure you want to unblock this account?",
+  "@confirmUnblockActorContent": {
+    "description": "Confirmation message when blocking"
+  },
+  "confirmDeletePostTitle": "Delete post",
+  "@confirmDeletePostTitle": {
+    "description": "A title for confirmation dialog when deleting post"
+  },
+  "confirmDeletePostContent": "Are you sure you want to delete this post?",
+  "@confirmDeletePostContent": {
+    "description": "Confirmation message when deleting post"
+  },
+  "confirmListConvertTitle": "Convert list",
+  "@confirmListConvertTitle": {
+    "description": "A title for confirmation dialog when converting a list"
+  },
+  "confirmListConvertContent": "This list is currently a mute list; converting it is needed in order to use it as a column. After converting, the profiles already in the list won't be considered muted anymore. Are you sure you want to convert it?",
+  "@confirmListConvertContent": {
+    "description": "Confirmation message when converting a list"
+  },
+  "convertButton": "Convert",
+  "@convertButton": {
+    "description": "Generic Convert button"
+  },
+  "hashtags": "Hashtags",
+  "@hashtags": {
+    "description": "Generic Hashtags title"
+  },
+  "warningOnPressedLinkTitle": "HOLD UP!",
+  "@warningOnPressedLinkTitle": {
+    "description": "Title of warning dialog when link is pressed"
+  },
+  "warningOnPressedLinkContent": "This link will take you to the following website. Are you sure you want to go this website?",
+  "@warningOnPressedLinkContent": {
+    "description": "Content of warning dialog when link is pressed"
+  },
+  "wordSelectDialogHint": "Enter any word separated by \",\". Maximum of 64 characters.",
+  "@wordSelectDialogHint": {
+    "description": "A hint for the word select dialog"
+  },
+  "wordSelectDialogHintWithSpaceFilter": "Enter any word separated by \",\" or space. Maximum of 64 characters.",
+  "@wordSelectDialogHintWithSpaceFilter": {
+    "description": "A hint for the word select dialog with the space filter"
+  },
+  "columnTimerNone": "Manual",
+  "@columnTimerNone": {
+    "description": "ColumnTimer none title"
+  },
+  "loadMoreButton": "Load more",
+  "@loadMoreButton": {
+    "description": "Generic 'Load more' button"
+  },
+  "showClearButton": "Show clear button",
+  "@showClearButton": {
+    "description": "showClearButton column setting"
+  },
+  "manageActorInList": "Add/remove from list",
+  "@manageActorInList": {
+    "description": "manageActorInList dialog menu"
+  },
+  "connectPatreon": "Connect with Patreon",
+  "@connectPatreon": {
+    "description": "Connect Patreon settings button"
+  },
+  "disconnectPatreon": "Disconnect Patreon",
+  "@disconnectPatreon": {
+    "description": "Disconnect Patreon settings button"
+  },
+  "disconnectPatreonConfirm": "Are you sure you want to disconnect your Patreon account? You won't be able to use the benefits such as scheduling and your additional accounts will be logged out.",
+  "@disconnectPatreonConfirm": {
+    "description": "Disconnect Patreon confirmation"
+  },
+  "patreonNoTier": "Not a Patron",
+  "@patreonNoTier": {
+    "description": "PatreonTier null title"
+  },
+  "patreonTierInitial": "Initial",
+  "@patreonTierInitial": {
+    "description": "PatreonTier initial title"
+  },
+  "patreonTierHelper": "Helper",
+  "@patreonTierHelper": {
+    "description": "PatreonTier helper title"
+  },
+  "patreonTierSupporter": "Supporter",
+  "@patreonTierSupporter": {
+    "description": "PatreonTier supporter title"
+  },
+  "patreonTierSponsor": "Sponsor",
+  "@patreonTierSponsor": {
+    "description": "PatreonTier sponsor title"
+  },
+  "errorLoginInvalidEmail": "Your account doesn't have a valid email or the email isn't verified, please do that within the official apps.",
+  "@errorLoginInvalidEmail": {
+    "description": "LoginError invalidEmail"
+  },
+  "errorLoginChangeAppPassword": "You're trying to login with a different App Password than the last used with deck.blue. A verification code was sent to your email, please use it to validate your account and change your password to this new one.",
+  "@errorLoginChangeAppPassword": {
+    "description": "LoginError changeAppPassword"
+  },
+  "errorLoginExpiredChangeCode": "The verification code used is invalid. If it's expired, we're sending another one.",
+  "@errorLoginExpiredChangeCode": {
+    "description": "LoginError expiredChangeCode"
+  },
+  "passwordCodeLabel": "Verification code",
+  "@passwordCodeLabel": {
+    "description": "Login password code label"
+  },
+  "loginMigration": "As part of the v2.0 update, you're required to login again so your settings and columns are properly backed up.",
+  "@loginMigration": {
+    "description": "Login migration explanation"
+  },
+  "settingsColor": "Theme's base color",
+  "@settingsColor": {
+    "description": "Color settings"
+  },
+  "accounts": "Accounts",
+  "@accounts": {
+    "description": "Generic 'Accounts' label"
+  },
+  "addAccount": "Add account",
+  "@addAccount": {
+    "description": "Generic 'Add account' button"
+  },
+  "accountConfirmationStep": "Confirmation step",
+  "@accountConfirmationStep": {
+    "description": "Account confirmationStep setting title"
+  },
+  "accountConfirmationStepDescription": "Adds a confirmation step before posting",
+  "@accountConfirmationStepDescription": {
+    "description": "Account confirmationStep setting description"
+  },
+  "removeAccount": "Remove",
+  "@removeAccount": {
+    "description": "Generic 'Remove account' button"
+  },
+  "removeAccountDisclaimer": "By removing this account, all columns added and scheduled posts from it are also going to be removed. Are you sure you want to remove this account?",
+  "@removeAccountDisclaimer": {
+    "description": "Remove account dialog disclaimer"
+  },
+  "errorAccountMaxAccounts": "You already reached the max account count for your Patreon tier.",
+  "@errorAccountMaxAccounts": {
+    "description": "Error when adding new account: max reached"
+  },
+  "errorAccountAdd": "Could not add this account, please try again later.",
+  "@errorAccountAdd": {
+    "description": "Unknown error when adding new account"
+  },
+  "errorAccountUnknown": "Couldn't manage this account, please try again later.",
+  "@errorAccountUnknown": {
+    "description": "Unknown error when managing account"
+  },
+  "preview": "Preview",
+  "@preview": {
+    "description": "Generic 'Preview' label"
+  },
+  "repostDialogTitle": "Repost from…",
+  "@repostDialogTitle": {
+    "description": "RepostDialog title"
+  },
+  "confirmationStep": "Ready?",
+  "@confirmationStep": {
+    "description": "confirmationStep usage in NewPostWidget"
+  },
+  "likeDialogTitle": "Like from…",
+  "@likeDialogTitle": {
+    "description": "LikeDialog title"
+  },
+  "addAccountDisclaimer": "Please create a separated App Password for each account you add, otherwise your session can be revoked and you'll need to re-add your account.",
+  "@addAccountDisclaimer": {
+    "description": "Disclaimer for LoginPage to add account"
+  },
+  "profileFromDialogTitle": "Profile from…",
+  "@profileFromDialogTitle": {
+    "description": "ProfileFromDialog title"
+  },
+  "viewFromAccount": "View from…",
+  "@viewFromAccount": {
+    "description": "Generic 'View from account' label"
+  },
+  "show": "Show",
+  "@show": {
+    "description": "Generic 'Show' label"
+  },
+  "confirmDeleteColumnTitle": "Delete column",
+  "@confirmDeleteColumnTitle": {
+    "description": "A title for confirmation dialog when deleting column"
+  },
+  "confirmDeleteColumnContent": "Are you sure you want to delete this column?",
+  "@confirmDeleteColumnContent": {
+    "description": "Confirmation message when deleting column"
+  },
+  "settingsCompactMode": "Compact mode for posts",
+  "@settingsCompactMode": {
+    "description": "Settings dialog compact mode"
+  },
+  "errorAccountRelink": "Couldn't relink this account, please try again.",
+  "@errorAccountRelink": {
+    "description": "Error when relinking existing account"
+  },
+  "relinkAccount": "Relink",
+  "@relinkAccount": {
+    "description": "Relink account button"
+  }
+}
