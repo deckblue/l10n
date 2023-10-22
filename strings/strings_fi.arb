@@ -191,7 +191,7 @@
   "quoteTo": "Lainaus {actor}",
   "followingReplies": "Suodata vastaukset",
   "settingsShowAlt": "Näytä alt-teksti oletusarvoisesti",
-  "confirmUnfollowActorTitle": "Lopeta seuraaminen"
+  "confirmUnfollowActorTitle": "Lopeta seuraaminen",
   "confirmUnfollowActorContent": "Oletko varma, että haluat lopettaa {handle} seuraamisen?",
   "confirmBlockActorTitle": "Estä",
   "confirmBlockActorContent": "Estetyt käyttäjät eivät voi vastata viesteihisi, mainita sinua tai muutoin olla vuorovaikutuksessa kanssasi. Oletko varma, että haluat estää tämän tilin?",
