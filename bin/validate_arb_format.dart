@@ -22,8 +22,12 @@ void main(List<String> args) {
 
     try {
       jsonDecode(arb.readAsStringSync());
-    } catch (_) {
-      throw FormatException('"${arb.path}" has not valid JSON.');
+    } on FormatException catch (e) {
+      throw FormatException(
+        '"${arb.path}" has not valid JSON.',
+        e.source,
+        e.offset,
+      );
     }
 
     if (file.path == templateFile.path) continue;
