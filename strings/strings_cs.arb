@@ -126,270 +126,72 @@
   "aboutHeader2": "Jak deck.blue funguje?",
   "aboutHeader3": "Jsou má data v bezpečí?",
   "aboutDescription1": "Jako aplikace třetí strany, deck.blue je Bluesky client, který podporuje prohlížení ve více sloupcích, abyste mohli sledovat naráz vše, co Vás zajímá (tak jako TweetDeck!).",
-  "aboutDescription2": "By using deck.blue, you can do everything you can already do on the official apps with the benefit of an information-efficient layout, organizing columns – updated in real time – to better fit your needs. Wanna keep track of many searched terms at once? Just add a column for each one! By using Bluesky's custom feed system, you can also follow as many communities as you want.",
-  "@aboutDescription2": {
-    "description": "About dialog description 2"
-  },
-  "aboutDescription3": "deck.blue uses Google Analytics to send anonymous user events. All other data is kept between deck.blue and Bluesky's servers. Personal and sensitive data are not sent anywhere, and are kept in your browser's secure environment.\n\nTo ensure your safety, make sure to use Bluesky's App Password system, which adds a layer of security to 3rd party clients.",
-  "@aboutDescription3": {
-    "description": "About dialog description 3"
-  },
-  "aboutButton": "About",
-  "@aboutButton": {
-    "description": "About dialog button"
-  },
-  "loginSlogan1": "Get the most out of ",
-  "@loginSlogan1": {
-    "description": "Login slogan part 1"
-  },
+  "aboutDescription2": "S deck.blue můžete dělat vše, co umí oficiální aplikace, ale také máte výhodu informačně-efektivního layoutu, uspořádaných sloupců - aktualizovaných v reálném čase - což lépe vyhovuje potřebámm uživatele. Chcete udržet přehled nad všemi vyhledávanými výrazy naráz? Prostě přidejte sloupec pro každý z nich! Díky systému zvláštních kanálům Bluesky můžete sledovat tolik komunit, kolik jen chcete.",
+  "aboutDescription3": "deck.blue používá Google Analytics pro odesílání anonymních uživatelských událostí. Všechny ostatní data zůstávají mezi deck.blue a servery Bluesky. Osobní a citlivé informace nejsou nikam odesílány a jsou uchovány v bezpečném prostředí Vašeho prohlížeče.\n\nPro zajištění Vaší bezpečnosti použijte systém aplikačních hesel Bluesky, který přidává další vrstvu bezpečnosti při používání aplikací třetích stran.",
+  "aboutButton": "O aplikaci",
+  "loginSlogan1": "Získejte maximum z ",
   "loginSlogan2": "Bluesky",
-  "@loginSlogan2": {
-    "description": "Login slogan part 2"
-  },
-  "updateSnackbar": "A new update is available!\nRefresh to get new features and bug fixes!",
-  "@updateSnackbar": {
-    "description": "Update Snackbar message"
-  },
-  "refreshButton": "Refresh",
-  "@refreshButton": {
-    "description": "Generic Refresh button"
-  },
-  "replyCount": "{count, plural, one{Reply} other{Replies}}",
-  "@replyCount": {
-    "description": "Reply counter"
-  },
-  "likeCount": "{count, plural, one{Like} other{Likes}}",
-  "@likeCount": {
-    "description": "Like counter"
-  },
-  "repostCount": "{count, plural, one{Repost} other{Reposts}}",
-  "@repostCount": {
-    "description": "Repost counter"
-  },
-  "emptyActorList": "Couldn't load users, try again later.",
-  "@emptyActorList": {
-    "description": "Empty ActorListDialog message"
-  },
-  "followsYou": "follows you",
-  "@followsYou": {
-    "description": "Profile follows selected account"
-  },
-  "followsAccount": "follows ${handle}",
-  "@followsAccount": {
-    "description": "Profile follows available account"
-  },
-  "soundEnabled": "Enable notification sound",
-  "@soundEnabled": {
-    "description": "Toggle notification sound"
-  },
-  "blocksYou": "blocks you",
-  "@blocksYou": {
-    "description": "Profile viewed blocks you"
-  },
-  "blocked": "blocked",
-  "@blocked": {
-    "description": "Profile viewed is blocked by you"
-  },
-  "muted": "muted",
-  "@muted": {
-    "description": "Profile viewed is muted by you"
-  },
-  "mutedByList": "muted by list",
-  "@mutedByList": {
-    "description": "Profile viewed is muted by list"
-  },
-  "muteButton": "Mute",
-  "@muteButton": {
-    "description": "Mute profile viewed button"
-  },
-  "unmuteButton": "Unmute",
-  "@unmuteButton": {
-    "description": "Unmute profile viewed button"
-  },
-  "blockButton": "Block",
-  "@blockButton": {
-    "description": "Block profile viewed button"
-  },
-  "unblockButton": "Unblock",
-  "@unblockButton": {
-    "description": "Unblock profile viewed button"
-  },
-  "errorUpdateList": "Unable to update list, please try again.",
-  "@errorUpdateList": {
-    "description": "Error on update list"
-  },
-  "errorCreateList": "Unable to create list, please try again.",
-  "@errorCreateList": {
-    "description": "Error on create list"
-  },
-  "emptyListItems": "This list is empty!",
-  "@emptyListItems": {
-    "description": "Empty list items manage list message"
-  },
-  "emptyFollowing": "You aren't following anyone!",
-  "@emptyFollowing": {
-    "description": "Empty following manage list message"
-  },
-  "manageListHeader": "Edit list {name}",
-  "@manageListHeader": {
-    "description": "ManageListDialog header title"
-  },
-  "saveListButton": "Save list",
-  "@saveListButton": {
-    "description": "ManageListDialog save button"
-  },
-  "manageListCurrentTab": "Current",
-  "@manageListCurrentTab": {
-    "description": "ManageListDialog first tab"
-  },
-  "manageListFollowingTab": "Following",
-  "@manageListFollowingTab": {
-    "description": "ManageListDialog second tab"
-  },
-  "manageListSearchedTab": "Searched",
-  "@manageListSearchedTab": {
-    "description": "ManageListDialog first tab"
-  },
-  "createCuratedListHeader": "Create a new curated list",
-  "@createCuratedListHeader": {
-    "description": "NewListDialog header title"
-  },
-  "createListNameLabel": "List name",
-  "@createListNameLabel": {
-    "description": "NewListDialog name label"
-  },
-  "createListNameHint": "Cool people",
-  "@createListNameHint": {
-    "description": "NewListDialog name hint"
-  },
-  "createListDescriptionLabel": "Description",
-  "@createListDescriptionLabel": {
-    "description": "NewListDialog name label"
-  },
-  "createListDescriptionHint": "Cool people that I want to see",
-  "@createListDescriptionHint": {
-    "description": "NewListDialog name hint"
-  },
-  "createListButton": "Create a list",
-  "@createListButton": {
-    "description": "Generic Create a list button"
-  },
-  "addListColumnDialogTitle": "Add a new list column",
-  "@addListColumnDialogTitle": {
-    "description": "Add list column dialog title"
-  },
-  "emptyCuratedLists": "Empty saved lists.",
-  "@emptyCuratedLists": {
-    "description": "Add list column dialog empty"
-  },
-  "tooltipAddColumn": "Add column",
-  "@tooltipAddColumn": {
-    "description": "Add list column dialog empty"
-  },
-  "tooltipColumnAdded": "Column already added",
-  "@tooltipColumnAdded": {
-    "description": "Add list column dialog empty"
-  },
-  "buttonManageList": "Manage list",
-  "@buttonManageList": {
-    "description": "Generic Manage list button"
-  },
-  "postedDateUnitNow": "now",
-  "@postedDateUnitNow": {
-    "description": "Date of post just posted"
-  },
-  "postedDateUnitSeconds": "{number}s",
-  "@postedDateUnitSeconds": {
-    "description": "Seconds unit of the date of the post"
-  },
-  "postedDateUnitMinutes": "{number}m",
-  "@postedDateUnitMinutes": {
-    "description": "Minutes unit of the date of the post"
-  },
-  "postedDateUnitHours": "{number}h",
-  "@postedDateUnitHours": {
-    "description": "Hours unit of the date of the post"
-  },
-  "postedDateUnitDays": "{number}d",
-  "@postedDateUnitDays": {
-    "description": "Hours unit of the date of the post"
-  },
-  "settingsMutedWords": "Muted words",
-  "@settingsMutedWords": {
-    "description": "Column muted words settings"
-  },
-  "settingsColumn": "Column settings",
-  "@settingsColumn": {
-    "description": "Column settings"
-  },
-  "settingsScrollbars": "Show column scrollbars",
-  "@settingsScrollbars": {
-    "description": "Column settings"
-  },
-  "settingsLogout": "Logout",
-  "@settingsLogout": {
-    "description": "Logout button in settings"
-  },
-  "editCuratedListHeader": "Edit your curated list",
-  "@editCuratedListHeader": {
-    "description": "NewListDialog edit header title"
-  },
-  "buttonEditList": "Edit list",
-  "@buttonEditList": {
-    "description": "Generic Edit list button"
-  },
-  "phoneSupportMessage": "deck.blue is currently only fully supported on desktop and tablet, please try those for a better experience!",
-  "@phoneSupportMessage": {
-    "description": "Phone support warning message"
-  },
-  "allowedNotificationSetting": "Allowed notifications",
-  "@allowedNotificationSetting": {
-    "description": "Allowed notifications column setting"
-  },
-  "notificationLikeTitle": "Like",
-  "@notificationLikeTitle": {
-    "description": "Notification like"
-  },
-  "notificationRepostTitle": "Repost",
-  "@notificationRepostTitle": {
-    "description": "Notification repost"
-  },
-  "notificationFollowTitle": "Follow",
-  "@notificationFollowTitle": {
-    "description": "Notification follow"
-  },
-  "notificationMentionTitle": "Mention",
-  "@notificationMentionTitle": {
-    "description": "Notification mention"
-  },
-  "notificationQuoteTitle": "Quote",
-  "@notificationQuoteTitle": {
-    "description": "Notification quote"
-  },
-  "notificationReplyTitle": "Reply",
-  "@notificationReplyTitle": {
-    "description": "Notification reply"
-  },
-  "timerSetting": "Refresh every",
-  "@timerSetting": {
-    "description": "Timer column setting"
-  },
-  "quoteTo": "Quoting {actor}",
-  "@quoteTo": {
-    "description": "quoteTo formatted text"
-  },
-  "followingReplies": "Filter replies by following",
-  "@followingReplies": {
-    "description": "Filter replies by following toggle"
-  },
-  "settingsShowAlt": "Display alt text by default",
-  "@settingsShowAlt": {
-    "description": "Settings showAlt toggle"
-  },
-  "confirmUnfollowActorTitle": "Unfollow",
-  "@confirmUnfollowActorTitle": {
-    "description": "Confirmation title when unfollowing"
-  },
+  "updateSnackbar": "Je dostupná nová aktualizace!\nObnovte stránku pro získání nových funkcí a oprav chyb!",
+  "refreshButton": "Obnovit",
+  "replyCount": "{count, plural, one{Odpověď} other{Odpovědi}}",
+  "likeCount": "{count, plural, one{Oblíbený} other{Oblíbené}}",
+  "repostCount": "{count, plural, one{Znovuzveřejnění} other{Znovuzveřejnění}}",
+  "emptyActorList": "Nepodařilo se načíst uživatele, zkuste to později.",
+  "followsYou": "sledují Vás",
+  "followsAccount": "sledují ${handle}",
+  "soundEnabled": "Zapněte zvuk notifikací",
+  "blocksYou": "blokuje Vás",
+  "blocked": "blokovaný",
+  "muted": "ztlumený",
+  "mutedByList": "ztlumený seznamem",
+  "muteButton": "Ztlumit",
+  "unmuteButton": "Zrušit ztlumení",
+  "blockButton": "Blokovat",
+  "unblockButton": "Odblokovat",
+  "errorUpdateList": "Nepodařilo se aktualizovat seznam, prosím zkuste to znovu.",
+  "errorCreateList": "Nepodařilo se vytvořit seznam, prosím zkuste to znovu.",
+  "emptyListItems": "Toto je prázdný seznam!",
+  "emptyFollowing": "Nikoho nesledujete!",
+  "manageListHeader": "Editovat seznam {name}",
+  "saveListButton": "Uložit seznam",
+  "manageListCurrentTab": "Aktuální",
+  "manageListFollowingTab": "Sledujete",
+  "manageListSearchedTab": "Vyhledáno",
+  "createCuratedListHeader": "Vytvořte nový výběrový seznam",
+  "createListNameLabel": "Jméno seznamu",
+  "createListNameHint": "Zajímaví lidé",
+  "createListDescriptionLabel": "Popis",
+  "createListDescriptionHint": "Zajímaví lidé, které chci sledovat",
+  "createListButton": "Vytvořit seznam",
+  "addListColumnDialogTitle": "Přidat nový sloupec se seznamem",
+  "emptyCuratedLists": "Prázdné uložené seznamy",
+  "tooltipAddColumn": "Přidat sloupec",
+  "tooltipColumnAdded": "Sloupec byl již přidán",
+  "buttonManageList": "Spravovat seznam",
+  "postedDateUnitNow": "nyní",
+  "postedDateUnitSeconds": "{number} sec.",
+  "postedDateUnitMinutes": "{number} min.",
+  "postedDateUnitHours": "{number} hod.",
+  "postedDateUnitDays": "{number} dnů",
+  "settingsMutedWords": "Ztlumené slova",
+  "settingsColumn": "Nastavení sloupce",
+  "settingsScrollbars": "Zobrazit scrollbary sloupce",
+  "settingsLogout": "Odhlásit",
+  "editCuratedListHeader": "Editovat Váš výběrový seznam",
+  "buttonEditList": "Editovat seznam",
+  "phoneSupportMessage": "deck.blue je aktuálně plně podporovaný jen na desktopu a tabletu, využijte je pro lepší uživatelský zážitek!",
+  "allowedNotificationSetting": "Povolené notifikace",
+  "notificationLikeTitle": "Oblíbené",
+  "notificationRepostTitle": "Znovu zveřejnění",
+  "notificationFollowTitle": "Sledování",
+  "notificationMentionTitle": "Zmínka",
+  "notificationQuoteTitle": "Citace",
+  "notificationReplyTitle": "Odpověď",
+  "timerSetting": "Obnovit každých",
+  "quoteTo": "Cituje {actor}",
+  "followingReplies": "Filtrovat odpovědi sledujícími",
+  "settingsShowAlt": "Automaticky zobrazit alternativní text obrázku",
+  "confirmUnfollowActorTitle": "Přestat sledovat",
   "confirmUnfollowActorContent": "Are you sure you want to unfollow {handle}?",
   "@confirmUnfollowActorContent": {
     "description": "Confirmation message when unfollowing"
