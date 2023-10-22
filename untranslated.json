@@ -26,8 +26,5 @@
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint"
   ],
-  "es": [
-    "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
-  ]
+  "es": []
 }
