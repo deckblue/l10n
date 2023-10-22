@@ -192,62 +192,20 @@
   "followingReplies": "Filtrovat odpovědi sledujícími",
   "settingsShowAlt": "Automaticky zobrazit alternativní text obrázku",
   "confirmUnfollowActorTitle": "Přestat sledovat",
-  "confirmUnfollowActorContent": "Are you sure you want to unfollow {handle}?",
-  "@confirmUnfollowActorContent": {
-    "description": "Confirmation message when unfollowing"
-  },
-  "confirmBlockActorTitle": "Block",
-  "@confirmBlockActorTitle": {
-    "description": "A title for confirmation dialog when blocking"
-  },
-  "confirmBlockActorContent": "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. Are you sure you want to block this account?",
-  "@confirmBlockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
-  "confirmUnblockActorTitle": "Unblock",
-  "@confirmUnblockActorTitle": {
-    "description": "A title for confirmation dialog when unblocking"
-  },
-  "confirmUnblockActorContent": "The account will be able to interact with you after unblocking. Are you sure you want to unblock this account?",
-  "@confirmUnblockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
-  "confirmDeletePostTitle": "Delete post",
-  "@confirmDeletePostTitle": {
-    "description": "A title for confirmation dialog when deleting post"
-  },
-  "confirmDeletePostContent": "Are you sure you want to delete this post?",
-  "@confirmDeletePostContent": {
-    "description": "Confirmation message when deleting post"
-  },
-  "confirmListConvertTitle": "Convert list",
-  "@confirmListConvertTitle": {
-    "description": "A title for confirmation dialog when converting a list"
-  },
-  "confirmListConvertContent": "This list is currently a mute list; converting it is needed in order to use it as a column. After converting, the profiles already in the list won't be considered muted anymore. Are you sure you want to convert it?",
-  "@confirmListConvertContent": {
-    "description": "Confirmation message when converting a list"
-  },
-  "convertButton": "Convert",
-  "@convertButton": {
-    "description": "Generic Convert button"
-  },
-  "hashtags": "Hashtags",
-  "@hashtags": {
-    "description": "Generic Hashtags title"
-  },
-  "warningOnPressedLinkTitle": "HOLD UP!",
-  "@warningOnPressedLinkTitle": {
-    "description": "Title of warning dialog when link is pressed"
-  },
-  "warningOnPressedLinkContent": "This link will take you to the following website. Are you sure you want to go this website?",
-  "@warningOnPressedLinkContent": {
-    "description": "Content of warning dialog when link is pressed"
-  },
-  "wordSelectDialogHint": "Enter any word separated by \",\". Maximum of 64 characters.",
-  "@wordSelectDialogHint": {
-    "description": "A hint for the word select dialog"
-  },
+  "confirmUnfollowActorContent": "Skutečně chcete přestat sledovat {handle}?",
+  "confirmBlockActorTitle": "Blokovat",
+  "confirmBlockActorContent": "Blokované účty nemohou odpovídat ve Vašem vlákně, zmiňovat Vás ani jinak s Vámi interagovat. Sktečně chcete tento účet blokovat?",
+  "confirmUnblockActorTitle": "Odblokovat",
+  "confirmUnblockActorContent": "Účet bude moct s Vámi interagovat po odblokování. Skutečně chcete odblokovat tento účet?",
+  "confirmDeletePostTitle": "Smazat příspěvek",
+  "confirmDeletePostContent": "Skutečně chcete smazat tento příspěvek?",
+  "confirmListConvertTitle": "Zkonvertovat seznam",
+  "confirmListConvertContent": "Toto je aktuálně seznam pro ztlumení; pro použití jako sloupec je nutná konverze. Po zkonvertování nebudou účty obsažené v seznamu považované za ztlumené. Skutečně chcete seznam zkonvertovat?",
+  "convertButton": "Zkonvertovat",
+  "hashtags": "Hashtagy",
+  "warningOnPressedLinkTitle": "POČKAT!",
+  "warningOnPressedLinkContent": "Tento odkaz tě přesměruje na externí stránku. Skutečně chcete jít na tuto stránku?",
+  "wordSelectDialogHint": "Vložte libovolné slovo oddělené \",\". Maximální počet znaků je 64.",
   "wordSelectDialogHintWithSpaceFilter": "Enter any word separated by \",\" or space. Maximum of 64 characters.",
   "@wordSelectDialogHintWithSpaceFilter": {
     "description": "A hint for the word select dialog with the space filter"
