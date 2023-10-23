@@ -1,0 +1,994 @@
+{
+  "columnTitleHome": "Главная",
+  "@columnTitleHome": {
+    "description": "DeckColumnType Home title"
+  },
+  "columnTitleUser": "Вы",
+  "@columnTitleUser": {
+    "description": "DeckColumnType User title"
+  },
+  "columnTitleNotifications": "Уведомления",
+  "@columnTitleNotifications": {
+    "description": "DeckColumnType Notifications title"
+  },
+  "columnTitleLikes": "Лайки",
+  "@columnTitleLikes": {
+    "description": "DeckColumnType Likes title"
+  },
+  "columnTitleMentions": "Упоминания",
+  "@columnTitleMentions": {
+    "description": "DeckColumnType Mentions title"
+  },
+  "columnTitleMedia": "Медиа",
+  "@columnTitleMedia": {
+    "description": "DeckColumnType Media title"
+  },
+  "columnTitleCustom": "Пользовательский фид",
+  "@columnTitleCustom": {
+    "description": "DeckColumnType Custom title"
+  },
+  "columnTitleListFeed": "Лист",
+  "@columnTitleListFeed": {
+    "description": "DeckColumnType List title"
+  },
+  "columnTitleSearch": "Поиск",
+  "@columnTitleSearch": {
+    "description": "DeckColumnType Search title"
+  },
+  "serviceLabel": "Сервис",
+  "@serviceLabel": {
+    "description": "Service TextField label"
+  },
+  "serviceHint": "bsky.social",
+  "@serviceHint": {
+    "description": "Service TextField hint"
+  },
+  "usernameLabel": "Имя пользователя",
+  "@usernameLabel": {
+    "description": "Username TextField label"
+  },
+  "usernameHint": "Имя или емэйл",
+  "@usernameHint": {
+    "description": "Username TextField hint"
+  },
+  "passwordLabel": "Пароль приложения",
+  "@passwordLabel": {
+    "description": "Password TextField label"
+  },
+  "loginButton": "Войти",
+  "@loginButton": {
+    "description": "Login button text"
+  },
+  "loginFirebaseDescription": "Мы используем Гугль Аналитику для отправки анонимных пользовательских событий. Все остальные данные хранятся между серверами deck.blue и Bluesky.",
+  "@loginFirebaseDescription": {
+    "description": "Description to users about Firebase on the login screen."
+  },
+  "errorLoginUnknown": "Не удалось войти. Пожалуйста, попробуйте позже.",
+  "@errorLoginUnknown": {
+    "description": "Login unknown error"
+  },
+  "errorLoginWrongCredentials": "Неверное имя или пароль. Пожалуйста, попробуйте еще раз.",
+  "@errorLoginWrongCredentials": {
+    "description": "Login wrong credentials error"
+  },
+  "errorLoginInvalidAppPassword": "Неверный пароль приложения. Пожалуйста, сгенерируйте пароль приложения или еще раз нажмите кнопку входа, чтобы игнорировать это предупреждение..",
+  "@errorLoginInvalidAppPassword": {
+    "description": "Login invalid App Password error"
+  },
+  "errorLoginServerError": "Ошибка сервера. Пожалуйста, попробуйте позже.",
+  "@errorLoginServerError": {
+    "description": "Login server error"
+  },
+  "embedTypeQuote": "Цитата",
+  "@embedTypeQuote": {
+    "description": "EmbedType Quote title"
+  },
+  "embedTypeImageQuote": "Цитата с изображением",
+  "@embedTypeImageQuote": {
+    "description": "EmbedType ImageQuote title"
+  },
+  "embedTypeLink": "Ссылка",
+  "@embedTypeLink": {
+    "description": "EmbedType Link title"
+  },
+  "embedTypeImage": "Медиа",
+  "@embedTypeImage": {
+    "description": "EmbedType Image title"
+  },
+  "embedTypeReply": "Ответы",
+  "@embedTypeReply": {
+    "description": "EmbedType Reply title"
+  },
+  "embedTypeRepost": "Репосты",
+  "@embedTypeRepost": {
+    "description": "EmbedType Repost title"
+  },
+  "mediaSizeHidden": "Скрытое",
+  "@mediaSizeHidden": {
+    "description": "MediaSize Hidden title"
+  },
+  "mediaSizeSmall": "Маленькое",
+  "@mediaSizeSmall": {
+    "description": "MediaSize Small title"
+  },
+  "mediaSizeMedium": "Среднее",
+  "@mediaSizeMedium": {
+    "description": "MediaSize Medium title"
+  },
+  "mediaSizeLarge": "Большое",
+  "@mediaSizeLarge": {
+    "description": "MediaSize Large title"
+  },
+  "mediaSizeSetting": "Размер медиа иконки",
+  "@mediaSizeSetting": {
+    "description": "MediaSize setting title"
+  },
+  "embedTypeSetting": "Тип встраивания",
+  "@embedTypeSetting": {
+    "description": "EmbedType setting title"
+  },
+  "postTypeSetting": "Тип поста",
+  "@postTypeSetting": {
+    "description": "EmbedType post setting title"
+  },
+  "hiddenImageLabel": "Скрытое изображение",
+  "@hiddenImageLabel": {
+    "description": "Hidden image button label"
+  },
+  "removeColumnButton": "Удалить колонку",
+  "@removeColumnButton": {
+    "description": "Remove column button label"
+  },
+  "addColumnDialogTitle": "Добавить колонку",
+  "@addColumnDialogTitle": {
+    "description": "Add default columns dialog title"
+  },
+  "addFeedColumnDialogTitle": "Добавить пользовательский фид",
+  "@addFeedColumnDialogTitle": {
+    "description": "Add custom feed column dialog title"
+  },
+  "columnDescriptionHome": "Ваша главная колонка",
+  "@columnDescriptionHome": {
+    "description": "DeckColumnType Home description"
+  },
+  "columnDescriptionUser": "Ваши посты",
+  "@columnDescriptionUser": {
+    "description": "DeckColumnType User description"
+  },
+  "columnDescriptionNotifications": "Ваши уведомления",
+  "@columnDescriptionNotifications": {
+    "description": "DeckColumnType Notifications description"
+  },
+  "columnDescriptionLikes": "Посты, которые вам понравились",
+  "@columnDescriptionLikes": {
+    "description": "DeckColumnType Likes description"
+  },
+  "columnDescriptionMentions": "Посты, в которых вас упоминали",
+  "@columnDescriptionMentions": {
+    "description": "DeckColumnType Mentions description"
+  },
+  "columnDescriptionMedia": "Посты с медиа",
+  "@columnDescriptionMedia": {
+    "description": "DeckColumnType Media description"
+  },
+  "columnDescriptionCustom": "Выберите пользовательский фид из сохраненных",
+  "@columnDescriptionCustom": {
+    "description": "DeckColumnType Custom description"
+  },
+  "columnDescriptionListFeed": "Создайте лист или выберите лист из сохраненных",
+  "@columnDescriptionListFeed": {
+    "description": "DeckColumnType List description"
+  },
+  "selectLanguageDialogTitle": "Выберите язык поста",
+  "@selectLanguageDialogTitle": {
+    "description": "SelectLanguageDialog title"
+  },
+  "selectOtherLanguage": "Другой...",
+  "@selectOtherLanguage": {
+    "description": "SelectLanguageDialog menu option"
+  },
+  "postButton": "Отправить",
+  "@postButton": {
+    "description": "NewPostDialog button"
+  },
+  "deleteButton": "Удалить",
+  "@deleteButton": {
+    "description": "Generic delete button"
+  },
+  "postDialogHint": "Напишите что-нибудь",
+  "@postDialogHint": {
+    "description": "NewPostDialog text field hint"
+  },
+  "postErrorUpload": "Не удалось создать пост. Пожалуйста, попробуйте позже.",
+  "@postErrorUpload": {
+    "description": "PostErrorType upload description"
+  },
+  "postErrorDelete": "Не удалось удалить пост. Пожалуйста, попробуйте позже",
+  "@postErrorDelete": {
+    "description": "PostErrorType delete description"
+  },
+  "postErrorLike": "Не удалось поставить лайк. Пожалуйста, попробуйте позже.",
+  "@postErrorLike": {
+    "description": "PostErrorType like description"
+  },
+  "postErrorRepost": "Не удалось репостнуть. Пожалуйста, попробуйте позже.",
+  "@postErrorRepost": {
+    "description": "PostErrorType repost description"
+  },
+  "replyButton": "Ответить",
+  "@replyButton": {
+    "description": "Generic reply button"
+  },
+  "repostButton": "Репост",
+  "@repostButton": {
+    "description": "Generic repost button"
+  },
+  "quoteButton": "Цитата",
+  "@quoteButton": {
+    "description": "Generic quote button"
+  },
+  "likeButton": "Лайк",
+  "@likeButton": {
+    "description": "Generic like button"
+  },
+  "replyDialogHint": "Ответить на пост",
+  "@replyDialogHint": {
+    "description": "NewPostDialog reply text field hint"
+  },
+  "quoteDialogHint": "Цитировать пост",
+  "@quoteDialogHint": {
+    "description": "NewPostDialog quote text field hint"
+  },
+  "threadTitle": "Тред",
+  "@threadTitle": {
+    "description": "Thread page title"
+  },
+  "undoButton": "Отменить",
+  "@undoButton": {
+    "description": "Generic undo button"
+  },
+  "postButtonCopy": "Скопировать ссылку",
+  "@postButtonCopy": {
+    "description": "Post copy URL button"
+  },
+  "postCopyMessage": "Ссылка скопирована!",
+  "@postCopyMessage": {
+    "description": "Post copy URL success message"
+  },
+  "postButtonOpen": "Открыть в bsky",
+  "@postButtonOpen": {
+    "description": "Post open in bsky button"
+  },
+  "errorThreadEmptyPost": "Не удалось найти пост.",
+  "@errorThreadEmptyPost": {
+    "description": "Error in thread view when unable to find a post"
+  },
+  "searchDialogHint": "Поиск",
+  "@searchDialogHint": {
+    "description": "SearchDialog text field hint"
+  },
+  "searchDialogUsers": "Пользователи",
+  "@searchDialogUsers": {
+    "description": "SearchDialog Users tab"
+  },
+  "searchDialogPosts": "Посты",
+  "@searchDialogPosts": {
+    "description": "SearchDialog Posts tab"
+  },
+  "searchDialogAddColumn": "Добавить колонку",
+  "@searchDialogAddColumn": {
+    "description": "SearchDialog Add column button"
+  },
+  "translateButton": "Перевести",
+  "@translateButton": {
+    "description": "Generic Translate button"
+  },
+  "emptyPosts": "Нет постов",
+  "@emptyPosts": {
+    "description": "Empty state for post search"
+  },
+  "emptyUsers": "Нет пользователей",
+  "@emptyUsers": {
+    "description": "Empty state for profile search"
+  },
+  "profileDialogPosts": "Посты",
+  "@profileDialogPosts": {
+    "description": "Profile dialog Posts label"
+  },
+  "profileDialogFollowing": "Подписки",
+  "@profileDialogFollowing": {
+    "description": "Profile dialog Following label"
+  },
+  "profileDialogFollowers": "Подписчики",
+  "@profileDialogFollowers": {
+    "description": "Profile dialog Followers label"
+  },
+  "errorProfileDialog": "Не удалось загрузить профиль. Пожалуйста, попробуйте позже",
+  "@errorProfileDialog": {
+    "description": "Error state for profile search"
+  },
+  "profileDialogPostsColumn": "Посты",
+  "@profileDialogPostsColumn": {
+    "description": "Profile dialog Posts column label"
+  },
+  "profileDialogMediaColumn": "Медиа",
+  "@profileDialogMediaColumn": {
+    "description": "Profile dialog Media column label"
+  },
+  "profileDialogLikesColumn": "Лайки",
+  "@profileDialogLikesColumn": {
+    "description": "Profile dialog Likes column label"
+  },
+  "profileDialogAddColumn": "Добавить колонку",
+  "@profileDialogAddColumn": {
+    "description": "Profile dialog Add column label"
+  },
+  "repostedBy": "Репостнул {actor}",
+  "@repostedBy": {
+    "description": "repostedBy formatted text"
+  },
+  "replyTo": "Ответить {actor}",
+  "@replyTo": {
+    "description": "replyTo formatted text"
+  },
+  "advancedButton": "Продвинутые настройки",
+  "@advancedButton": {
+    "description": "Generic Advanced button"
+  },
+  "notificationLikeReason": "{count, plural, other{залайкал ваш пост}}",
+  "@notificationLikeReason": {
+    "description": "Notification reason like reason"
+  },
+  "notificationRepostReason": "{count, plural, other{репостнул ваш пост}}",
+  "@notificationRepostReason": {
+    "description": "Notification reason repost reason"
+  },
+  "notificationFollowReason": "{count, plural, other{подписался на вас}}",
+  "@notificationFollowReason": {
+    "description": "Notification reason follow reason"
+  },
+  "notificationMentionReason": "{count, plural, other{упомянул вас}}",
+  "@notificationMentionReason": {
+    "description": "Notification reason mention reason"
+  },
+  "notificationQuoteReason": "{count, plural, other{цитировал вас}}",
+  "@notificationQuoteReason": {
+    "description": "Notification reason quote reason"
+  },
+  "notificationReplyReason": "{count, plural, other{ответил на ваш пост}}",
+  "@notificationReplyReason": {
+    "description": "Notification reason reply reason"
+  },
+  "notificationTitleCounter": "{count, plural, other{{count} еще}}",
+  "@notificationTitleCounter": {
+    "description": "Notification title other count"
+  },
+  "notificationTitleShortCounter": "+{count}",
+  "@notificationTitleShortCounter": {
+    "description": "Notification title other count"
+  },
+  "notificationTitleAnd": " и ",
+  "@notificationTitleAnd": {
+    "description": "Notification title other count 'and'"
+  },
+  "sizeSmallest": "Самый маленький",
+  "@sizeSmallest": {
+    "description": "Settings Smallest size"
+  },
+  "sizeSmall": "Маленький",
+  "@sizeSmall": {
+    "description": "Settings Small size"
+  },
+  "sizeMedium": "Средний",
+  "@sizeMedium": {
+    "description": "Settings Medium size"
+  },
+  "sizeLarge": "Большой",
+  "@sizeLarge": {
+    "description": "Settings Large size"
+  },
+  "sizeLargest": "Самый большой",
+  "@sizeLargest": {
+    "description": "Settings Largest size"
+  },
+  "settingsDialogTitle": "Настройки",
+  "@settingsDialogTitle": {
+    "description": "Settings dialog title"
+  },
+  "settingsColumnSize": "Размер колонки",
+  "@settingsColumnSize": {
+    "description": "Settings dialog column size subtitle"
+  },
+  "settingsFontSize": "Размер шрифта",
+  "@settingsFontSize": {
+    "description": "Settings dialog font size subtitle"
+  },
+  "settingsTheme": "Тема",
+  "@settingsTheme": {
+    "description": "Settings dialog theme subtitle"
+  },
+  "settingsLightTheme": "Светлая",
+  "@settingsLightTheme": {
+    "description": "Settings dialog light theme"
+  },
+  "settingsDarkTheme": "Темная",
+  "@settingsDarkTheme": {
+    "description": "Settings dialog dark theme"
+  },
+  "settingsSystemTheme": "Системная",
+  "@settingsSystemTheme": {
+    "description": "Settings dialog system theme"
+  },
+  "settingsLocale": "Язык",
+  "@settingsLocale": {
+    "description": "Settings dialog language"
+  },
+  "profileDialogFollowButton": "Подписаться",
+  "@profileDialogFollowButton": {
+    "description": "Profile Dialog follow button"
+  },
+  "profileDialogFollowingButton": "Подписан",
+  "@profileDialogFollowingButton": {
+    "description": "Profile Dialog following button"
+  },
+  "imageAltDialogHint": "Опишите изображение",
+  "@imageAltDialogHint": {
+    "description": "Image Alt text Dialog input hint"
+  },
+  "saveButton": "Сохранить",
+  "@saveButton": {
+    "description": "Generic Save button"
+  },
+  "confirmButton": "Подтвердить",
+  "@confirmButton": {
+    "description": "Generic Confirm button"
+  },
+  "cancelButton": "Отменить",
+  "@cancelButton": {
+    "description": "Generic Cancel button"
+  },
+  "contentLabelSuggestive": "Намекает",
+  "@contentLabelSuggestive": {
+    "description": "Suggestive content label title"
+  },
+  "contentLabelNsfw": "Порно",
+  "@contentLabelNsfw": {
+    "description": "Nsfw content label title"
+  },
+  "contentLabelNudity": "Обнаженные",
+  "@contentLabelNudity": {
+    "description": "Nudity content label title"
+  },
+  "clearButton": "Очистить",
+  "@clearButton": {
+    "description": "Generic Clear button"
+  },
+  "emptySavedFeeds": "Нет сохраненных фидов. Добавьте новый",
+  "@emptySavedFeeds": {
+    "description": "Feed dialog empty state"
+  },
+  "appPasswordTooltip": "Пароль приложения — это функция Bluesky, которая повышает уровень безопасности при использовании сторонних приложений.\nВам следует создать пароль для любого неофициального приложения (например, этого).",
+  "@appPasswordTooltip": {
+    "description": "App Password tooltip"
+  },
+  "contentLabelSetting": "Добавить предупреждение начет контента",
+  "@contentLabelSetting": {
+    "description": "Content label setting for posts"
+  },
+  "postErrorTooLarge": "Не удалось создать пост. Размер картинки превысил 1Мб.",
+  "@postErrorTooLarge": {
+    "description": "PostErrorType repost description"
+  },
+  "tooltipKofi": "Купите мне кофе!",
+  "@tooltipKofi": {
+    "description": "Ko-fi button tooltip"
+  },
+  "linkButton": "Добавить превью ссылки",
+  "@linkButton": {
+    "description": "Add a link button"
+  },
+  "quoteLinkButton": "Цитировать пост",
+  "@quoteLinkButton": {
+    "description": "Add a post link"
+  },
+  "aboutHeader1": "Что такое deck.blue?",
+  "@aboutHeader1": {
+    "description": "About dialog header 1"
+  },
+  "aboutHeader2": "Как оно работает?",
+  "@aboutHeader2": {
+    "description": "About dialog header 2"
+  },
+  "aboutHeader3": "Мои данные в безопасности?",
+  "@aboutHeader3": {
+    "description": "About dialog header 3"
+  },
+  "aboutDescription1": "Deck.blue — стороннее приложение, которое представляет собой клиент Bluesky, который поддерживает просмотр нескольких столбцов, позволяя вам проверять все, что вас интересует, одновременно (точно так же, как TweetDeck!)",
+  "@aboutDescription1": {
+    "description": "About dialog description 1"
+  },
+  "aboutDescription2": "Используя Deck.blue, вы можете делать все, что уже можете делать в официальных приложениях, благодаря эффективному информационному оформлению и организации столбцов, обновляемых в реальном времени, чтобы лучше соответствовать вашим потребностям. Хотите отслеживать множество поисковых запросов одновременно? Просто добавьте столбец для каждого! Используя систему настраиваемых каналов Bluesky, вы также можете следить за любым количеством сообществ.",
+  "@aboutDescription2": {
+    "description": "About dialog description 2"
+  },
+  "aboutDescription3": "Deck.blue использует Google Analytics для отправки анонимных пользовательских событий. Все остальные данные хранятся между Deck.blue и серверами Bluesky. Личные и конфиденциальные данные никуда не отправляются и хранятся в безопасной среде вашего браузера.\n\nДля обеспечения вашей безопасности обязательно используйте систему паролей приложений Bluesky, которая повышает уровень безопасности для сторонних клиентов.",
+  "@aboutDescription3": {
+    "description": "About dialog description 3"
+  },
+  "aboutButton": "О Deck.blue",
+  "@aboutButton": {
+    "description": "About dialog button"
+  },
+  "loginSlogan1": "Используйте по максимуму ",
+  "@loginSlogan1": {
+    "description": "Login slogan part 1"
+  },
+  "loginSlogan2": "Bluesky",
+  "@loginSlogan2": {
+    "description": "Login slogan part 2"
+  },
+  "updateSnackbar": "Доступно новое обновление!\nОбновите, чтобы получить новые функции и исправления ошибок!",
+  "@updateSnackbar": {
+    "description": "Update Snackbar message"
+  },
+  "refreshButton": "Обновить",
+  "@refreshButton": {
+    "description": "Generic Refresh button"
+  },
+  "replyCount": "{count, plural, one{Ответ} other{Ответов}}",
+  "@replyCount": {
+    "description": "Reply counter"
+  },
+  "likeCount": "{count, plural, one{Лайк} other{Лайков}}",
+  "@likeCount": {
+    "description": "Like counter"
+  },
+  "repostCount": "{count, plural, one{Репост} other{Репостов}}",
+  "@repostCount": {
+    "description": "Repost counter"
+  },
+  "emptyActorList": "Не удалось загрузить список аккаунтов. Пожалуйста, попробуйте позже.",
+  "@emptyActorList": {
+    "description": "Empty ActorListDialog message"
+  },
+  "followsYou": "подписан на вас",
+  "@followsYou": {
+    "description": "Profile follows selected account"
+  },
+  "followsAccount": "подписан на ${handle}",
+  "@followsAccount": {
+    "description": "Profile follows available account"
+  },
+  "soundEnabled": "Включить звук уведомлений",
+  "@soundEnabled": {
+    "description": "Toggle notification sound"
+  },
+  "blocksYou": "блокирует вас",
+  "@blocksYou": {
+    "description": "Profile viewed blocks you"
+  },
+  "blocked": "блокирован",
+  "@blocked": {
+    "description": "Profile viewed is blocked by you"
+  },
+  "muted": "заглушен",
+  "@muted": {
+    "description": "Profile viewed is muted by you"
+  },
+  "mutedByList": "заглушен через список",
+  "@mutedByList": {
+    "description": "Profile viewed is muted by list"
+  },
+  "muteButton": "Заглушить",
+  "@muteButton": {
+    "description": "Mute profile viewed button"
+  },
+  "unmuteButton": "Отменить заглушение",
+  "@unmuteButton": {
+    "description": "Unmute profile viewed button"
+  },
+  "blockButton": "Заблокировать",
+  "@blockButton": {
+    "description": "Block profile viewed button"
+  },
+  "unblockButton": "Разблокировать",
+  "@unblockButton": {
+    "description": "Unblock profile viewed button"
+  },
+  "errorUpdateList": "Не удалось обновить список. Пожалуйста, попробуйте позже.",
+  "@errorUpdateList": {
+    "description": "Error on update list"
+  },
+  "errorCreateList": "Не удалось создать список. Пожалуйста, попробуйте позже",
+  "@errorCreateList": {
+    "description": "Error on create list"
+  },
+  "emptyListItems": "Пустой список!",
+  "@emptyListItems": {
+    "description": "Empty list items manage list message"
+  },
+  "emptyFollowing": "Вы ни на кого не подписаны!",
+  "@emptyFollowing": {
+    "description": "Empty following manage list message"
+  },
+  "manageListHeader": "Отредактировать список {name}",
+  "@manageListHeader": {
+    "description": "ManageListDialog header title"
+  },
+  "saveListButton": "Сохранить список",
+  "@saveListButton": {
+    "description": "ManageListDialog save button"
+  },
+  "manageListCurrentTab": "Текущий",
+  "@manageListCurrentTab": {
+    "description": "ManageListDialog first tab"
+  },
+  "manageListFollowingTab": "Подписки",
+  "@manageListFollowingTab": {
+    "description": "ManageListDialog second tab"
+  },
+  "manageListSearchedTab": "Поиск",
+  "@manageListSearchedTab": {
+    "description": "ManageListDialog first tab"
+  },
+  "createCuratedListHeader": "Создать курированный список",
+  "@createCuratedListHeader": {
+    "description": "NewListDialog header title"
+  },
+  "createListNameLabel": "Название списка",
+  "@createListNameLabel": {
+    "description": "NewListDialog name label"
+  },
+  "createListNameHint": "Крутые ребята",
+  "@createListNameHint": {
+    "description": "NewListDialog name hint"
+  },
+  "createListDescriptionLabel": "Описание",
+  "@createListDescriptionLabel": {
+    "description": "NewListDialog name label"
+  },
+  "createListDescriptionHint": "Люди, которых я хочу читать",
+  "@createListDescriptionHint": {
+    "description": "NewListDialog name hint"
+  },
+  "createListButton": "Создать список",
+  "@createListButton": {
+    "description": "Generic Create a list button"
+  },
+  "addListColumnDialogTitle": "Добавить колонку со списком",
+  "@addListColumnDialogTitle": {
+    "description": "Add list column dialog title"
+  },
+  "emptyCuratedLists": "У вас нет курированных списков. Создайте новый!ƒ",
+  "@emptyCuratedLists": {
+    "description": "Add list column dialog empty"
+  },
+  "tooltipAddColumn": "Добавить колонку",
+  "@tooltipAddColumn": {
+    "description": "Add list column dialog empty"
+  },
+  "tooltipColumnAdded": "Колонка уже добавлена",
+  "@tooltipColumnAdded": {
+    "description": "Add list column dialog empty"
+  },
+  "buttonManageList": "Управление списком",
+  "@buttonManageList": {
+    "description": "Generic Manage list button"
+  },
+  "postedDateUnitNow": "только что",
+  "@postedDateUnitNow": {
+    "description": "Date of post just posted"
+  },
+  "postedDateUnitSeconds": "{number}s",
+  "@postedDateUnitSeconds": {
+    "description": "Seconds unit of the date of the post"
+  },
+  "postedDateUnitMinutes": "{number}m",
+  "@postedDateUnitMinutes": {
+    "description": "Minutes unit of the date of the post"
+  },
+  "postedDateUnitHours": "{number}h",
+  "@postedDateUnitHours": {
+    "description": "Hours unit of the date of the post"
+  },
+  "postedDateUnitDays": "{number}d",
+  "@postedDateUnitDays": {
+    "description": "Hours unit of the date of the post"
+  },
+  "settingsMutedWords": "Заглушенные слова",
+  "@settingsMutedWords": {
+    "description": "Column muted words settings"
+  },
+  "settingsColumn": "Настройки колонки",
+  "@settingsColumn": {
+    "description": "Column settings"
+  },
+  "settingsScrollbars": "Показать скроллбары",
+  "@settingsScrollbars": {
+    "description": "Column settings"
+  },
+  "settingsLogout": "Выйти",
+  "@settingsLogout": {
+    "description": "Logout button in settings"
+  },
+  "editCuratedListHeader": "Редактировать курированный список список",
+  "@editCuratedListHeader": {
+    "description": "NewListDialog edit header title"
+  },
+  "buttonEditList": "Редактировать список",
+  "@buttonEditList": {
+    "description": "Generic Edit list button"
+  },
+  "phoneSupportMessage": "Deck.blue в настоящее время полностью поддерживается только на настольных компьютерах и планшетах.",
+  "@phoneSupportMessage": {
+    "description": "Phone support warning message"
+  },
+  "allowedNotificationSetting": "Разрешенные уведомления",
+  "@allowedNotificationSetting": {
+    "description": "Allowed notifications column setting"
+  },
+  "notificationLikeTitle": "Лайк",
+  "@notificationLikeTitle": {
+    "description": "Notification like"
+  },
+  "notificationRepostTitle": "Репост",
+  "@notificationRepostTitle": {
+    "description": "Notification repost"
+  },
+  "notificationFollowTitle": "Подписка",
+  "@notificationFollowTitle": {
+    "description": "Notification follow"
+  },
+  "notificationMentionTitle": "Упоминание",
+  "@notificationMentionTitle": {
+    "description": "Notification mention"
+  },
+  "notificationQuoteTitle": "Цитата",
+  "@notificationQuoteTitle": {
+    "description": "Notification quote"
+  },
+  "notificationReplyTitle": "Ответ",
+  "@notificationReplyTitle": {
+    "description": "Notification reply"
+  },
+  "timerSetting": "Обновлять каждые",
+  "@timerSetting": {
+    "description": "Timer column setting"
+  },
+  "quoteTo": "Цитата {actor}",
+  "@quoteTo": {
+    "description": "quoteTo formatted text"
+  },
+  "followingReplies": "Отфильтровать ответы по",
+  "@followingReplies": {
+    "description": "Filter replies by following toggle"
+  },
+  "settingsShowAlt": "Показать alt текст по умолчанию",
+  "@settingsShowAlt": {
+    "description": "Settings showAlt toggle"
+  },
+  "confirmUnfollowActorTitle": "Отписаться",
+  "@confirmUnfollowActorTitle": {
+    "description": "Confirmation title when unfollowing"
+  },
+  "confirmUnfollowActorContent": "Вы уверены что хотите отписаться от {handle}?",
+  "@confirmUnfollowActorContent": {
+    "description": "Confirmation message when unfollowing"
+  },
+  "confirmBlockActorTitle": "Заблокировать",
+  "@confirmBlockActorTitle": {
+    "description": "A title for confirmation dialog when blocking"
+  },
+  "confirmBlockActorContent": "Заблокированные аккаунты не могут отвечать в ваших тредах, упоминать вас или иным образом взаимодействовать с вами. Вы уверены, что хотите заблокировать этот аккаунт?»",
+  "@confirmBlockActorContent": {
+    "description": "Confirmation message when blocking"
+  },
+  "confirmUnblockActorTitle": "Разблокировать",
+  "@confirmUnblockActorTitle": {
+    "description": "A title for confirmation dialog when unblocking"
+  },
+  "confirmUnblockActorContent": "Аккаунт сможет взаимодействовать с вами после разблокировки. Вы уверены, что хотите разблокировать этот аккаунт?",
+  "@confirmUnblockActorContent": {
+    "description": "Confirmation message when blocking"
+  },
+  "confirmDeletePostTitle": "Удалить пост",
+  "@confirmDeletePostTitle": {
+    "description": "A title for confirmation dialog when deleting post"
+  },
+  "confirmDeletePostContent": "Вы уверены, что хотите удалить этот пост?",
+  "@confirmDeletePostContent": {
+    "description": "Confirmation message when deleting post"
+  },
+  "confirmListConvertTitle": "Конвертировать список",
+  "@confirmListConvertTitle": {
+    "description": "A title for confirmation dialog when converting a list"
+  },
+  "confirmListConvertContent": "Этот список в настоящее время является списком заглушки; его необходимо сконвертировать для того, чтобы использовать его в качестве столбца. После конверсии профили, уже находящиеся в списке, больше не будут считаться заглушенными. Вы уверены, что хотите его сконвертировать?",
+  "@confirmListConvertContent": {
+    "description": "Confirmation message when converting a list"
+  },
+  "convertButton": "Конвертировать",
+  "@convertButton": {
+    "description": "Generic Convert button"
+  },
+  "hashtags": "Хэштеги",
+  "@hashtags": {
+    "description": "Generic Hashtags title"
+  },
+  "warningOnPressedLinkTitle": "СЕКУНДУ!",
+  "@warningOnPressedLinkTitle": {
+    "description": "Title of warning dialog when link is pressed"
+  },
+  "warningOnPressedLinkContent": "Эта ссылка приведет вас на следующий веб-сайт. Вы уверены, что хотите посетить этот сайт?",
+  "@warningOnPressedLinkContent": {
+    "description": "Content of warning dialog when link is pressed"
+  },
+  "wordSelectDialogHint": "Введите любое слово, разделенное запятой. Максимум 64 символа.",
+  "@wordSelectDialogHint": {
+    "description": "A hint for the word select dialog"
+  },
+  "wordSelectDialogHintWithSpaceFilter": "Введите любое слово, разделенное запятой. Максимум 64 символа.",
+  "@wordSelectDialogHintWithSpaceFilter": {
+    "description": "A hint for the word select dialog with the space filter"
+  },
+  "columnTimerNone": "Вручную",
+  "@columnTimerNone": {
+    "description": "ColumnTimer none title"
+  },
+  "loadMoreButton": "Загрузить еще",
+  "@loadMoreButton": {
+    "description": "Generic 'Load more' button"
+  },
+  "showClearButton": "Показать кнопку очистки",
+  "@showClearButton": {
+    "description": "showClearButton column setting"
+  },
+  "manageActorInList": "Удалить/добавит в список",
+  "@manageActorInList": {
+    "description": "manageActorInList dialog menu"
+  },
+  "connectPatreon": "Сконнектить Патреон",
+  "@connectPatreon": {
+    "description": "Connect Patreon settings button"
+  },
+  "disconnectPatreon": "Отключить Патреон",
+  "@disconnectPatreon": {
+    "description": "Disconnect Patreon settings button"
+  },
+  "disconnectPatreonConfirm": "Вы уверены, что хотите отключить Patreon? Вы не сможете использовать такие преимущества, как расписание, и ваши дополнительные аккаунты будут отключены.",
+  "@disconnectPatreonConfirm": {
+    "description": "Disconnect Patreon confirmation"
+  },
+  "patreonNoTier": "Это не Патреон",
+  "@patreonNoTier": {
+    "description": "PatreonTier null title"
+  },
+  "patreonTierInitial": "Подписчик",
+  "@patreonTierInitial": {
+    "description": "PatreonTier initial title"
+  },
+  "patreonTierHelper": "Помощник",
+  "@patreonTierHelper": {
+    "description": "PatreonTier helper title"
+  },
+  "patreonTierSupporter": "Поддержка",
+  "@patreonTierSupporter": {
+    "description": "PatreonTier supporter title"
+  },
+  "patreonTierSponsor": "Спонсор",
+  "@patreonTierSponsor": {
+    "description": "PatreonTier sponsor title"
+  },
+  "errorLoginInvalidEmail": "В вашей учетной записи нет действующего адреса электронной почты или адрес электронной почты не подтвержден. Сделайте это в официальных приложениях.",
+  "@errorLoginInvalidEmail": {
+    "description": "LoginError invalidEmail"
+  },
+  "errorLoginChangeAppPassword": "Вы пытаетесь войти в систему с паролем приложения, отличным от того, который использовался в последний раз с в deck.blue. На ваш адрес электронной почты был отправлен код подтверждения. Используйте его для подтверждения своей учетной записи и измените свой пароль на новый.",
+  "@errorLoginChangeAppPassword": {
+    "description": "LoginError changeAppPassword"
+  },
+  "errorLoginExpiredChangeCode": "Ваш код подтверждения устарел. Пожалуйста, запросите новый код подтверждения.",
+  "@errorLoginExpiredChangeCode": {
+    "description": "LoginError expiredChangeCode"
+  },
+  "passwordCodeLabel": "Код подтверждения",
+  "@passwordCodeLabel": {
+    "description": "Login password code label"
+  },
+  "loginMigration": "В рамках обновления версии 2.0 вам необходимо снова войти в систему, чтобы ваши настройки и столбцы были правильно зарезервированы.",
+  "@loginMigration": {
+    "description": "Login migration explanation"
+  },
+  "settingsColor": "Основной цвет темы",
+  "@settingsColor": {
+    "description": "Color settings"
+  },
+  "accounts": "Аккаунты",
+  "@accounts": {
+    "description": "Generic 'Accounts' label"
+  },
+  "addAccount": "Добавить аккаунт",
+  "@addAccount": {
+    "description": "Generic 'Add account' button"
+  },
+  "accountConfirmationStep": "Подтверждение поста",
+  "@accountConfirmationStep": {
+    "description": "Account confirmationStep setting title"
+  },
+  "accountConfirmationStepDescription": "Добавляет подтверждение перед отправкой поста.",
+  "@accountConfirmationStepDescription": {
+    "description": "Account confirmationStep setting description"
+  },
+  "removeAccount": "Удалить аккаунт",
+  "@removeAccount": {
+    "description": "Generic 'Remove account' button"
+  },
+  "removeAccountDisclaimer": "При удалении этой учетной записи все добавленные столбцы и запланированные публикации из нее также будут удалены. Вы уверены, что хотите удалить эту учетную запись?",
+  "@removeAccountDisclaimer": {
+    "description": "Remove account dialog disclaimer"
+  },
+  "errorAccountMaxAccounts": "Не удалось добавить новый аккаунт: максимальное количество аккаунтов для вашего уровня достигнуто.",
+  "@errorAccountMaxAccounts": {
+    "description": "Error when adding new account: max reached"
+  },
+  "errorAccountAdd": "Не удалось добавить новый аккаунт. Пожалуйста, попробуйте позже.",
+  "@errorAccountAdd": {
+    "description": "Unknown error when adding new account"
+  },
+  "errorAccountUnknown": "Не удалось управлять аккаунтом. Пожалуйста, попробуйте позже.",
+  "@errorAccountUnknown": {
+    "description": "Unknown error when managing account"
+  },
+  "preview": "Предпросмотр",
+  "@preview": {
+    "description": "Generic 'Preview' label"
+  },
+  "repostDialogTitle": "Репост от…",
+  "@repostDialogTitle": {
+    "description": "RepostDialog title"
+  },
+  "confirmationStep": "Готовы?",
+  "@confirmationStep": {
+    "description": "confirmationStep usage in NewPostWidget"
+  },
+  "likeDialogTitle": "Лайк от…",
+  "@likeDialogTitle": {
+    "description": "LikeDialog title"
+  },
+  "addAccountDisclaimer": "Создайте отдельный пароль приложения для каждой добавляемой учетной записи, иначе ваш сеанс может быть отменен, и вам придется повторно добавить свою учетную запись.",
+  "@addAccountDisclaimer": {
+    "description": "Disclaimer for LoginPage to add account"
+  },
+  "profileFromDialogTitle": "Профиль от…",
+  "@profileFromDialogTitle": {
+    "description": "ProfileFromDialog title"
+  },
+  "viewFromAccount": "Просмотр от…",
+  "@viewFromAccount": {
+    "description": "Generic 'View from account' label"
+  },
+  "show": "Показать",
+  "@show": {
+    "description": "Generic 'Show' label"
+  },
+  "confirmDeleteColumnTitle": "Удалить колонку",
+  "@confirmDeleteColumnTitle": {
+    "description": "A title for confirmation dialog when deleting column"
+  },
+  "confirmDeleteColumnContent": "Вы уверены, что хотите удалить эту колонку?",
+  "@confirmDeleteColumnContent": {
+    "description": "Confirmation message when deleting column"
+  },
+  "settingsCompactMode": "Компактный режим для постов",
+  "@settingsCompactMode": {
+    "description": "Settings dialog compact mode"
+  },
+  "errorAccountRelink": "Не удалось переподключить существующий аккаунт. Пожалуйста, попробуйте позже.",
+  "@errorAccountRelink": {
+    "description": "Error when relinking existing account"
+  },
+  "relinkAccount": "Переподключить аккаунт",
+  "@relinkAccount": {
+    "description": "Relink account button"
+  }
+}
