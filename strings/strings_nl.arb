@@ -1,13 +1,13 @@
 {
-  "columnTitleHome": "Home",
+  "columnTitleHome": "Startpagina",
   "@columnTitleHome": {
     "description": "DeckColumnType Home title"
   },
-  "columnTitleUser": "You",
+  "columnTitleUser": "Jij",
   "@columnTitleUser": {
     "description": "DeckColumnType User title"
   },
-  "columnTitleNotifications": "Notifications",
+  "columnTitleNotifications": "Notificaties",
   "@columnTitleNotifications": {
     "description": "DeckColumnType Notifications title"
   },
@@ -15,7 +15,7 @@
   "@columnTitleLikes": {
     "description": "DeckColumnType Likes title"
   },
-  "columnTitleMentions": "Mentions",
+  "columnTitleMentions": "Vermeldingen",
   "@columnTitleMentions": {
     "description": "DeckColumnType Mentions title"
   },
@@ -23,15 +23,15 @@
   "@columnTitleMedia": {
     "description": "DeckColumnType Media title"
   },
-  "columnTitleCustom": "Custom Feed",
+  "columnTitleCustom": "Aangepaste feed",
   "@columnTitleCustom": {
     "description": "DeckColumnType Custom title"
   },
-  "columnTitleListFeed": "List",
+  "columnTitleListFeed": "Lijst",
   "@columnTitleListFeed": {
     "description": "DeckColumnType List title"
   },
-  "columnTitleSearch": "Search",
+  "columnTitleSearch": "Zoeken",
   "@columnTitleSearch": {
     "description": "DeckColumnType Search title"
   },
@@ -47,11 +47,11 @@
   "@usernameLabel": {
     "description": "Username TextField label"
   },
-  "usernameHint": "Username or e-mail",
+  "usernameHint": "Gebruikersnaam of email",
   "@usernameHint": {
     "description": "Username TextField hint"
   },
-  "passwordLabel": "App Password",
+  "passwordLabel": "App wachtwoord",
   "@passwordLabel": {
     "description": "Password TextField label"
   },
@@ -59,23 +59,23 @@
   "@loginButton": {
     "description": "Login button text"
   },
-  "loginFirebaseDescription": "We use Google Analytics to send anonymous user events. All other data is kept between deck.blue and Bluesky's servers.",
+  "loginFirebaseDescription": "We maken gebruik van Google Analytics om anoniemen gebruikershandelingen te versturen. Alle overige data wordt bewaard tussen deck.blue en Bluesky's servers.",
   "@loginFirebaseDescription": {
     "description": "Description to users about Firebase on the login screen."
   },
-  "errorLoginUnknown": "Couldn't login. Please try again later.",
+  "errorLoginUnknown": "Kan momenteel niet inloggen. Probeer het later nog eens.",
   "@errorLoginUnknown": {
     "description": "Login unknown error"
   },
-  "errorLoginWrongCredentials": "Wrong identifier or password. Please try again.",
+  "errorLoginWrongCredentials": "Foutieve identifier of wachtwoord. Probeer het nogmaals.",
   "@errorLoginWrongCredentials": {
     "description": "Login wrong credentials error"
   },
-  "errorLoginInvalidAppPassword": "Invalid App Password. Please generate an App Password from the ? icon in the password field or press the login button again to ignore this warning.",
+  "errorLoginInvalidAppPassword": "Ongeldig App wachtwoord. Maak een App wachtwoord aan via het ? icoon in het wachtwoord veld of druk op nogmaals op de login knop om deze melding te negeren.",
   "@errorLoginInvalidAppPassword": {
     "description": "Login invalid App Password error"
   },
-  "errorLoginServerError": "A server error has occurred. Please wait a bit and try again later.",
+  "errorLoginServerError": "Een server fout is opgetreden. Wacht een moment en probeer het dan nog eens.",
   "@errorLoginServerError": {
     "description": "Login server error"
   },
