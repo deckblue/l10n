@@ -255,5 +255,5 @@
   "quoteFeedButton": "Ajouter le lien d'un flux",
   "quoteListButton": "Ajouter le lien d'une liste",
   "settingsForceAltTextInput": "Exiger le texte alternatif avant de pouvoir poster",
-  "postDialogForceAltTextInputHint": "Le texte alternatif est manquant pour une ou plusieurs images",
+  "postDialogForceAltTextInputHint": "Le texte alternatif est manquant pour une ou plusieurs images"
 }
