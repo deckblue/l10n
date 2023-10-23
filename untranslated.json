@@ -22,6 +22,10 @@
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint"
   ],
+  "fi": [
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint"
+  ],
   "ru": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint"
@@ -31,6 +35,5 @@
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint"
   ],
-  "es": [],
-  "fi": []
+  "es": []
 }

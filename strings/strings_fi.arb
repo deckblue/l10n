@@ -242,9 +242,9 @@
   "profileFromDialogTitle": "Profiilin tili",
   "viewFromAccount": "Näytä tililtä…",
   "show": "Näytä",
-  "confirmDeleteColumnTitle":"Poista sarake",
-  "confirmDeleteColumnContent":"Oletko varma, että haluat poistaa tämän sarakkeen?",
-  "settingsCompactMode":"Tiivis esitysmuoto",
-  "errorAccountRelink":"Tilin uudelleenyhdistäminen epäonnistui. Yritä uudelleen myöhemmin.",
-  "relinkAccount":"Yhdistä uudelleen"
+  "confirmDeleteColumnTitle": "Poista sarake",
+  "confirmDeleteColumnContent": "Oletko varma, että haluat poistaa tämän sarakkeen?",
+  "settingsCompactMode": "Tiivis esitysmuoto",
+  "errorAccountRelink": "Tilin uudelleenyhdistäminen epäonnistui. Yritä uudelleen myöhemmin.",
+  "relinkAccount": "Yhdistä uudelleen"
 }
