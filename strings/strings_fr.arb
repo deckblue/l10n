@@ -244,5 +244,16 @@
   "confirmDeleteColumnContent": "Êtes-vous sûr(e) de vouloir supprimer cette colonne ?",
   "settingsCompactMode": "Mode compact pour les posts",
   "errorAccountRelink": "Impossible de se reconnecter à ce compte, merci de réessayer plus tard.",
-  "relinkAccount": "Reconnecter le compte"
+  "relinkAccount": "Reconnecter le compte",
+  "loginDisclaimer1": "En vous connectant, vous acceptez les",
+  "loginDisclaimer2": "conditions générales d'utilisation",
+  "loginDisclaimer3": " et la",
+  "loginDisclaimer4": "politique de protection des données personnelles",
+  "loginDisclaimer5": "",
+  "searchDialogFeeds": "Flux",
+  "emptyFeeds": "Aucun flux trouvé",
+  "quoteFeedButton": "Ajouter le lien d'un flux",
+  "quoteListButton": "Ajouter le lien d'une liste",
+  "settingsForceAltTextInput": "Exiger le texte alternatif avant de pouvoir poster",
+  "postDialogForceAltTextInputHint": "Le texte alternatif est manquant pour une ou plusieurs images"
 }
