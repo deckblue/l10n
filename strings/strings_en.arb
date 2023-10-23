@@ -489,7 +489,7 @@
   },
   "quoteLinkButton": "Quote post",
   "@quoteLinkButton": {
-    "description": "Add a post link"
+    "description": "Quote a post from a link"
   },
   "aboutHeader1": "What is deck.blue?",
   "@aboutHeader1": {
@@ -499,10 +499,6 @@
   "@aboutHeader2": {
     "description": "About dialog header 2"
   },
-  "aboutHeader3": "Is my data safe?",
-  "@aboutHeader3": {
-    "description": "About dialog header 3"
-  },
   "aboutDescription1": "As a 3rd party app, deck.blue is a Bluesky client that supports multi-column browsing, allowing you to check everything you care about at once (just like TweetDeck!).",
   "@aboutDescription1": {
     "description": "About dialog description 1"
@@ -510,10 +506,6 @@
   "aboutDescription2": "By using deck.blue, you can do everything you can already do on the official apps with the benefit of an information-efficient layout, organizing columns – updated in real time – to better fit your needs. Wanna keep track of many searched terms at once? Just add a column for each one! By using Bluesky's custom feed system, you can also follow as many communities as you want.",
   "@aboutDescription2": {
     "description": "About dialog description 2"
-  },
-  "aboutDescription3": "deck.blue uses Google Analytics to send anonymous user events. All other data is kept between deck.blue and Bluesky's servers. Personal and sensitive data are not sent anywhere, and are kept in your browser's secure environment.\n\nTo ensure your safety, make sure to use Bluesky's App Password system, which adds a layer of security to 3rd party clients.",
-  "@aboutDescription3": {
-    "description": "About dialog description 3"
   },
   "aboutButton": "About",
   "@aboutButton": {
@@ -998,5 +990,37 @@
   "postDialogForceAltTextInputHint": "One or more images is missing alt text",
   "@postDialogForceAltTextInputHint": {
     "description": "Hint indicating that alt text has not been entered"
+  },
+  "loginDisclaimer1": "By logging in, you agree to the",
+  "@loginDisclaimer1": {
+    "description": "Login disclaimer part 1"
+  },
+  "loginDisclaimer2": "Terms of Service",
+  "@loginDisclaimer2": {
+    "description": "Login disclaimer part 2"
+  },
+  "loginDisclaimer3": "and",
+  "@loginDisclaimer3": {
+    "description": "Login disclaimer part 3"
+  },
+  "loginDisclaimer4": "Privacy Policy",
+  "@loginDisclaimer4": {
+    "description": "Login disclaimer part 4"
+  },
+  "searchDialogFeeds": "Feeds",
+  "@searchDialogFeeds": {
+    "description": "SearchDialog Feeds tab"
+  },
+  "emptyFeeds": "No feeds found",
+  "@emptyFeeds": {
+    "description": "Empty state for feed search"
+  },
+  "quoteFeedButton": "Add Feed link",
+  "@quoteFeedButton": {
+    "description": "Add a feed embed"
+  },
+  "quoteListButton": "Add List link",
+  "@quoteListButton": {
+    "description": "Add a list embed"
   }
 }
