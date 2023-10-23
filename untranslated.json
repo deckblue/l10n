@@ -48,19 +48,7 @@
     "quoteFeedButton",
     "quoteListButton"
   ],
-  "fr": [
-    "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint",
-    "loginDisclaimer1",
-    "loginDisclaimer2",
-    "loginDisclaimer3",
-    "loginDisclaimer4",
-    "loginDisclaimer5",
-    "searchDialogFeeds",
-    "emptyFeeds",
-    "quoteFeedButton",
-    "quoteListButton"
-  ],
+  "fr": [],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
