@@ -1,7 +1,9 @@
 {
   "pt": [
-    "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -10,30 +12,96 @@
     "errorAccountRelink",
     "relinkAccount",
     "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
-  "id": [],
+  "id": [
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
+  ],
   "zh_TW": [
     "followsAccount",
     "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
   "fr": [
     "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
   "fi": [
     "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
   "ru": [
     "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
   "ja": [
     "followsAccount",
     "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint"
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
-  "es": []
+  "es": [
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
+  ]
 }
