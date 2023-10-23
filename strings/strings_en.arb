@@ -1007,6 +1007,10 @@
   "@loginDisclaimer4": {
     "description": "Login disclaimer part 4"
   },
+  "loginDisclaimer5": "",
+  "@loginDisclaimer5": {
+    "description": "Login disclaimer part 5. This can be empty depending on the language."
+  },
   "searchDialogFeeds": "Feeds",
   "@searchDialogFeeds": {
     "description": "SearchDialog Feeds tab"

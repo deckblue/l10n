@@ -243,5 +243,16 @@
   "confirmDeleteColumnContent": "このカラムを削除してもいいですか？",
   "settingsCompactMode": "コンパクトモードを有効化",
   "errorAccountRelink": "アカウントを再リンクできませんでした。もう一度お試しください。",
-  "relinkAccount": "再リンク"
+  "relinkAccount": "再リンク",
+  "settingsForceAltTextInput": "画像のAltテキスト入力を必須化",
+  "postDialogForceAltTextInputHint": "画像にAltテキストを入力してください",
+  "loginDisclaimer1": "ログインすることで、",
+  "loginDisclaimer2": "利用規約",
+  "loginDisclaimer3": "と",
+  "loginDisclaimer4": "プライバシーポリシー",
+  "loginDisclaimer5": "に同意したことになります。",
+  "searchDialogFeeds": "フィード",
+  "emptyFeeds": "フィードが見つかりませんでした",
+  "quoteFeedButton": "フィードのリンクを追加",
+  "quoteListButton": "リストのリンクを追加"
 }
