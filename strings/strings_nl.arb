@@ -83,7 +83,7 @@
   "@embedTypeQuote": {
     "description": "EmbedType Quote title"
   },
-  "embedTypeImageQuote": "Quote w/ media",
+  "embedTypeImageQuote": "Quote met media",
   "@embedTypeImageQuote": {
     "description": "EmbedType ImageQuote title"
   },
@@ -95,7 +95,7 @@
   "@embedTypeImage": {
     "description": "EmbedType Image title"
   },
-  "embedTypeReply": "Replies",
+  "embedTypeReply": "Antwoorden",
   "@embedTypeReply": {
     "description": "EmbedType Reply title"
   },
@@ -103,7 +103,7 @@
   "@embedTypeRepost": {
     "description": "EmbedType Repost title"
   },
-  "mediaSizeHidden": "Hidden",
+  "mediaSizeHidden": "Verborgen",
   "@mediaSizeHidden": {
     "description": "MediaSize Hidden title"
   },
