@@ -124,10 +124,8 @@
   "quoteLinkButton": "Comentar post",
   "aboutHeader1": "O que é o deck.blue?",
   "aboutHeader2": "Como funciona?",
-  "aboutHeader3": "Meus dados estão seguros?",
   "aboutDescription1": "Como um aplicativo não oficial, o deck.blue é uma interface para o Bluesky que suporta múltiplas colunas, permitindo que você consiga acompanhar tudo que importa de uma vez só! (igual o TweetDeck!).",
   "aboutDescription2": "Ao usar o deck.blue, você pode fazer tudo que já faz nos aplicativos oficiais, com o benefício de um layout que prioriza o consumo de informações, com colunas - atualizadas ao vivo - que podem ser customizadas de acordo com o seu conforto. Quer ficar de olho em vários termos de busca? Basta adicionar uma coluna pra cada! Ao usar a funcionalidade de feeds customizados do Bluesky, você também pode acompanhar quantas comunidades quiser.",
-  "aboutDescription3": "Utilizamos a ferramenta Google Analytics para enviar eventos anonimizados relacionados ao seu uso. Todos os outros dados são trafegados apenas entre o deck.blue e os servidores do Bluesky. Dados pessoais e sensíveis não são enviados para lugar algum, ficando apenas no ambiente criptografado local do seu navegador.\n\nPara garantir ainda mais a sua segurança, crie uma App Password pelo Bluesky, que garante controle total sobre qualquer aplicativo não oficial.",
   "aboutButton": "Sobre",
   "loginSlogan1": "Aproveite ao máximo o ",
   "loginSlogan2": "Bluesky",
@@ -246,5 +244,12 @@
   "confirmDeleteColumnContent": "Tem certeza de que quer deletar esta coluna?",
   "settingsCompactMode": "Modo compacto nos posts",
   "errorAccountRelink": "Não foi possível atualizar esta conta, por favor tente novamente.",
-  "relinkAccount": "Revincular"
+  "relinkAccount": "Revincular",
+  "settingsForceAltTextInput": "Tornar texto ALT obrigatório",
+  "postDialogForceAltTextInputHint": "Uma ou mais imagens estão sem texto ALT",
+  "loginDisclaimer1": "Ao logar, você concorda com os",
+  "loginDisclaimer2": "Termos de Serviço",
+  "loginDisclaimer3": "e a",
+  "loginDisclaimer4": "Política de Privacidade",
+  "loginDisclaimer5": ""
 }

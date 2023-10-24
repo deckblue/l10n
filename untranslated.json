@@ -1,14 +1,92 @@
 {
-  "pt": [],
-  "ja": [
-    "followsAccount"
+  "pt": [
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
   "de": [
     "confirmDeleteColumnTitle",
     "confirmDeleteColumnContent",
     "settingsCompactMode",
     "errorAccountRelink",
-    "relinkAccount"
+    "relinkAccount",
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "loginDisclaimer5",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
   ],
-  "fr": []
+  "id": [
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "loginDisclaimer5",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
+  ],
+  "zh_TW": [
+    "followsAccount",
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "loginDisclaimer5",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
+  ],
+  "fr": [],
+  "fi": [
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "loginDisclaimer5",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
+  ],
+  "ru": [
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "loginDisclaimer5",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
+  ],
+  "ja": [
+    "followsAccount"
+  ],
+  "es": [
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "loginDisclaimer5",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton"
+  ]
 }
