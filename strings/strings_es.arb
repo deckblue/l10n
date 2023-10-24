@@ -998,5 +998,41 @@
   "postDialogForceAltTextInputHint": "A una o más imágenes les falta el Texto Alt",
   "@postDialogForceAltTextInputHint": {
     "description": "Hint indicating that alt text has not been entered"
+  },
+  "loginDisclaimer1": "Al iniciar sesión, acepta las",
+  "@loginDisclaimer1": {
+    "description": "Login disclaimer part 1"
+  },
+  "loginDisclaimer2": "Condiciones de uso",
+  "@loginDisclaimer2": {
+    "description": "Login disclaimer part 2"
+  },
+  "loginDisclaimer3": "y",
+  "@loginDisclaimer3": {
+    "description": "Login disclaimer part 3"
+  },
+  "loginDisclaimer4": "Política de privacidad",
+  "@loginDisclaimer4": {
+    "description": "Login disclaimer part 4"
+  },
+  "loginDisclaimer5": "",
+  "@loginDisclaimer5": {
+    "description": "Login disclaimer part 5. This can be empty depending on the language."
+  },
+  "searchDialogFeeds": "Feeds",
+  "@searchDialogFeeds": {
+    "description": "SearchDialog Feeds tab"
+  },
+  "emptyFeeds": "No se han encontrado feeds",
+  "@emptyFeeds": {
+    "description": "Empty state for feed search"
+  },
+  "quoteFeedButton": "Añadir enlace de Feed",
+  "@quoteFeedButton": {
+    "description": "Add a feed embed"
+  },
+  "quoteListButton": "Añadir enlace de lista",
+  "@quoteListButton": {
+    "description": "Add a list embed"
   }
 }
