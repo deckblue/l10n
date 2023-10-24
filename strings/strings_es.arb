@@ -707,7 +707,7 @@
   "@settingsScrollbars": {
     "description": "Column settings"
   },
-  "settingsLogout": "Cerrar sesión",
+  "settingsLogout": "Cerrar Sesión",
   "@settingsLogout": {
     "description": "Logout button in settings"
   },
