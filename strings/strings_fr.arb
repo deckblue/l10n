@@ -124,10 +124,8 @@
   "quoteLinkButton": "Citer le post",
   "aboutHeader1": "Qu'est-ce que deck.blue ?",
   "aboutHeader2": "Comment ça marche ?",
-  "aboutHeader3": "Mes données sont-elles sécurisées ?",
   "aboutDescription1": "deck.blue est un client Bluesky non-officiel qui supporte la navigation sur plusieurs colonnes, vous permettant d'avoir sous les yeux tout ce qui vous intéresse en une fois (tout comme TweetDeck !).",
   "aboutDescription2": "En utilisant deck.blue, vous pouvez faire tout ce que vous pouvez déjà faire sur les applications officielles avec les bénéfices d'une disposition efficace, des colonnes - actualisées en temps réel - pour l'organisation pour mieux répondre à vos attentes. Besoin de garder un œil sur plusieurs mots-clés à la fois ? Ajoutez une colonne pour chacun d'entre eux ! En utilisant le système de flux personnalisés de Bluesky, vous pouvez aussi suivre autant de communautés que vous le souhaitez.",
-  "aboutDescription3": "deck.blue utilise Google Analytics pour envoyer des évènements utilisateurs anonymes. Toutes les autres données sont partagées entre les serveurs deck.blue et Bluesky. Les données personnelles et sensibles ne sont jamais envoyées et restent dans l'environnement sécurisé de votre navigateur.\n\nPour garantir votre sécurité, assurez-vous d'utiliser le système d'App Password de Blueskyp qui ajoute un niveau de sécurité aux clients tiers.",
   "aboutButton": "À propos",
   "loginSlogan1": "Obtenez le meilleur de ",
   "loginSlogan2": "Bluesky",
@@ -246,5 +244,16 @@
   "confirmDeleteColumnContent": "Êtes-vous sûr(e) de vouloir supprimer cette colonne ?",
   "settingsCompactMode": "Mode compact pour les posts",
   "errorAccountRelink": "Impossible de se reconnecter à ce compte, merci de réessayer plus tard.",
-  "relinkAccount": "Reconnecter le compte"
+  "relinkAccount": "Reconnecter le compte",
+  "settingsForceAltTextInput": "Exiger le texte alternatif avant de pouvoir poster",
+  "postDialogForceAltTextInputHint": "Le texte alternatif est manquant pour une ou plusieurs images",
+  "loginDisclaimer1": "En vous connectant, vous acceptez les",
+  "loginDisclaimer2": "conditions générales d'utilisation",
+  "loginDisclaimer3": " et la",
+  "loginDisclaimer4": "politique de protection des données personnelles",
+  "loginDisclaimer5": "",
+  "searchDialogFeeds": "Flux",
+  "emptyFeeds": "Aucun flux trouvé",
+  "quoteFeedButton": "Ajouter le lien d'un flux",
+  "quoteListButton": "Ajouter le lien d'une liste"
 }

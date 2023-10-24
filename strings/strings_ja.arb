@@ -124,10 +124,8 @@
   "quoteLinkButton": "ポストを引用",
   "aboutHeader1": "deck.blueとはなんですか？",
   "aboutHeader2": "どう機能しますか？",
-  "aboutHeader3": "私のデータは安全ですか？",
   "aboutDescription1": "deck.blueはBlueskyのサードパーティークライアントです。deck.blueはマルチカラムレイアウトをサポートしており、あなたの好みに合わせてカラムをカスタマイズすることで、あなたにとって重要な複数の情報を一度に把握することができます。",
   "aboutDescription2": "deck.blueを使うと、リアルタイムで自動更新されるカスタマイズ可能なカラムで、公式のBlueskyクライアントですでにできるすべてのことをあなたのニーズに合わせてより効率的に行うことができます。deck.blueであなたが検索した複数のフィードを一気に確認したければ、ただカラムを追加するだけです！Blueskyのカスタムフィードを使用することでも、あなたの好みに応じたコミュニティーの話題を好きなだけフォローすることができます。",
-  "aboutDescription3": "deck.blueはエラーログを解析するためにSentryを使用し、匿名のユーザーイベントを解析するためにGoogle Analyticsを使用しています。 その他のすべてのデータは、deck.blueとBlueskyの特定のサーバー間で通信をする際に安全に使用されます。アプリケーションを動作させるために必要な認証情報などの個人情報はすべて安全にご使用のブラウザで保管されます。\n\ndeck.blueではあなたの情報の安全性をより確実にするために、ログインの際にBlueskyが提供しているアプリパスワードの使用を推奨しています。",
   "aboutButton": "deck.blueについて",
   "loginSlogan1": "Get the most out of ",
   "loginSlogan2": "Bluesky",
@@ -245,5 +243,16 @@
   "confirmDeleteColumnContent": "このカラムを削除してもいいですか？",
   "settingsCompactMode": "コンパクトモードを有効化",
   "errorAccountRelink": "アカウントを再リンクできませんでした。もう一度お試しください。",
-  "relinkAccount": "再リンク"
+  "relinkAccount": "再リンク",
+  "settingsForceAltTextInput": "画像のAltテキスト入力を必須化",
+  "postDialogForceAltTextInputHint": "画像にAltテキストを入力してください",
+  "loginDisclaimer1": "ログインすることで、",
+  "loginDisclaimer2": "利用規約",
+  "loginDisclaimer3": "と",
+  "loginDisclaimer4": "プライバシーポリシー",
+  "loginDisclaimer5": "に同意したことになります。",
+  "searchDialogFeeds": "フィード",
+  "emptyFeeds": "フィードが見つかりませんでした",
+  "quoteFeedButton": "フィードのリンクを追加",
+  "quoteListButton": "リストのリンクを追加"
 }

@@ -4,7 +4,12 @@ import 'package:github/github.dart';
 
 const _repoOwner = 'deckblue';
 const _repoName = 'deckblue';
-const _templateFileName = 'strings_en.arb';
+
+const _templateFileNames = <String>[
+  'strings_en.arb',
+  'strings_ja.arb',
+  'strings_pt.arb',
+];
 
 final _repositorySlug = RepositorySlug(_repoOwner, _repoName);
 
@@ -15,12 +20,14 @@ Future<void> main(List<String> args) async {
     ),
   );
 
-  final latestTemplate = await github.repositories.getContents(
-    _repositorySlug,
-    'lib/l10n/$_templateFileName',
-  );
+  for (final templateFileName in _templateFileNames) {
+    final latestTemplate = await github.repositories.getContents(
+      _repositorySlug,
+      'lib/l10n/$templateFileName',
+    );
 
-  await File('strings/$_templateFileName').writeAsString(
-    latestTemplate.file!.text,
-  );
+    await File('strings/$templateFileName').writeAsString(
+      latestTemplate.file!.text,
+    );
+  }
 }
