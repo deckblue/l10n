@@ -55,7 +55,7 @@
   "@passwordLabel": {
     "description": "Password TextField label"
   },
-  "loginButton": "Iniciarar Sesión",
+  "loginButton": "iniciar Sesión",
   "@loginButton": {
     "description": "Login button text"
   },
@@ -707,7 +707,7 @@
   "@settingsScrollbars": {
     "description": "Column settings"
   },
-  "settingsLogout": "Logout",
+  "settingsLogout": "Cerrar Sesión",
   "@settingsLogout": {
     "description": "Logout button in settings"
   },
