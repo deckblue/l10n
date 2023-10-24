@@ -143,7 +143,7 @@
   "@addColumnDialogTitle": {
     "description": "Add default columns dialog title"
   },
-  "addFeedColumnDialogTitle": "Add a new feed column",
+  "addFeedColumnDialogTitle": "Add a Feed column",
   "@addFeedColumnDialogTitle": {
     "description": "Add custom feed column dialog title"
   },
@@ -647,7 +647,7 @@
   "@createListButton": {
     "description": "Generic Create a list button"
   },
-  "addListColumnDialogTitle": "Add a new list column",
+  "addListColumnDialogTitle": "Add a List column",
   "@addListColumnDialogTitle": {
     "description": "Add list column dialog title"
   },
@@ -1026,5 +1026,69 @@
   "quoteListButton": "Add List link",
   "@quoteListButton": {
     "description": "Add a list embed"
+  },
+  "shortcutsDialogTitle": "Shortcuts",
+  "@shortcutsDialogTitle": {
+    "description": "Shortcuts dialog title"
+  },
+  "shortcutsNewPost": "New post",
+  "@shortcutsNewPost": {
+    "description": "New post shortcut"
+  },
+  "shortcutsSendPost": "Send post",
+  "@shortcutsSendPost": {
+    "description": "Send post shortcut"
+  },
+  "shortcutsScrollFirst": "Scroll to first column",
+  "@shortcutsScrollFirst": {
+    "description": "1 shortcut"
+  },
+  "shortcutsScrollNumbers": "Scroll to column 2 to 9",
+  "@shortcutsScrollNumbers": {
+    "description": "2-9 shortcut"
+  },
+  "shortcutsScrollLast": "Scroll to last column",
+  "@shortcutsScrollLast": {
+    "description": "0 shortcut"
+  },
+  "shortcutsThread": "When viewing a thread",
+  "@shortcutsThread": {
+    "description": "Shortcuts 'Thread' category"
+  },
+  "shortcutsThreadViewer": "Open Thread Viewer",
+  "@shortcutsThreadViewer": {
+    "description": "Open Thread Viewer shortcut"
+  },
+  "shortcutsCloseThread": "Close Thread",
+  "@shortcutsCloseThread": {
+    "description": "Close Thread shortcut"
+  },
+  "shortcutsLike": "Like that post",
+  "@shortcutsLike": {
+    "description": "Like shortcut"
+  },
+  "shortcutsReply": "New reply to that post",
+  "@shortcutsReply": {
+    "description": "Like shortcut"
+  },
+  "shortcutsQuote": "Quote that post",
+  "@shortcutsQuote": {
+    "description": "Like shortcut"
+  },
+  "shortcutsRepost": "Repost that post",
+  "@shortcutsRepost": {
+    "description": "Repost shortcut"
+  },
+  "shortcutsGeneral": "General",
+  "@shortcutsGeneral": {
+    "description": "Shortcuts 'General' category"
+  },
+  "shortcutsCloseWindow": "Close window",
+  "@shortcutsCloseWindow": {
+    "description": "Close window shortcut"
+  },
+  "shortcutsThisWindow": "Shortcuts window",
+  "@shortcutsThisWindow": {
+    "description": "Shortcuts shortcut"
   }
 }
