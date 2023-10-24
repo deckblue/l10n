@@ -135,31 +135,31 @@
   "@hiddenImageLabel": {
     "description": "Hidden image button label"
   },
-  "removeColumnButton": "Remove",
+  "removeColumnButton": "Verwijder",
   "@removeColumnButton": {
     "description": "Remove column button label"
   },
-  "addColumnDialogTitle": "Add a new column",
+  "addColumnDialogTitle": "Voeg een nieuwe kolom toe",
   "@addColumnDialogTitle": {
     "description": "Add default columns dialog title"
   },
-  "addFeedColumnDialogTitle": "Add a new feed column",
+  "addFeedColumnDialogTitle": "Voeg een nieuwe feed kolom toe",
   "@addFeedColumnDialogTitle": {
     "description": "Add custom feed column dialog title"
   },
-  "columnDescriptionHome": "Your default timeline",
+  "columnDescriptionHome": "Jouw standaard tijdlijn",
   "@columnDescriptionHome": {
     "description": "DeckColumnType Home description"
   },
-  "columnDescriptionUser": "Your own posts",
+  "columnDescriptionUser": "Jouw eigen posts",
   "@columnDescriptionUser": {
     "description": "DeckColumnType User description"
   },
-  "columnDescriptionNotifications": "Your notifications",
+  "columnDescriptionNotifications": "Jouw notificaties",
   "@columnDescriptionNotifications": {
     "description": "DeckColumnType Notifications description"
   },
-  "columnDescriptionLikes": "Your liked posts",
+  "columnDescriptionLikes": "Jouw gelikete posts",
   "@columnDescriptionLikes": {
     "description": "DeckColumnType Likes description"
   },
