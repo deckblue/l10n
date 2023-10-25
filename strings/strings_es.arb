@@ -13,7 +13,7 @@
   "usernameLabel": "Identificador",
   "usernameHint": "Nombre de usuario o correo electrónico",
   "passwordLabel": "Contraseña de aplicación",
-  "loginButton": "Iniciarar Sesión",
+  "loginButton": "iniciar Sesión",
   "loginFirebaseDescription": "Utilizamos Google Analytics para enviar eventos de usuario anónimos. Todos los demás datos se mantienen entre deck.blue y los servidores de Bluesky.",
   "errorLoginUnknown": "No se ha podido iniciar sesión. Por favor, inténtalo más tarde.",
   "errorLoginWrongCredentials": "Identificador o contraseña incorrectos. Por favor, inténtalo de nuevo.",
@@ -174,7 +174,7 @@
   "settingsMutedWords": "Palabras silenciadas",
   "settingsColumn": "Ajustes de columna",
   "settingsScrollbars": "Mostrar barras de desplazamiento de columna",
-  "settingsLogout": "Logout",
+  "settingsLogout": "Cerrar Sesión",
   "editCuratedListHeader": "Editar tu lista",
   "buttonEditList": "Editar lista",
   "phoneSupportMessage": "deck.blue sólo es compatible con ordenadores de sobremesa y tabletas, ¡pruébalos para disfrutar de una mejor experiencia!",
@@ -246,5 +246,14 @@
   "errorAccountRelink": "No se ha podido volver a vincular esta cuenta, inténtalo de nuevo.",
   "relinkAccount": "Volver a vincular",
   "settingsForceAltTextInput": "Requerir Texto Alt antes de postear",
-  "postDialogForceAltTextInputHint": "A una o más imágenes les falta el Texto Alt"
+  "postDialogForceAltTextInputHint": "A una o más imágenes les falta el Texto Alt",
+  "loginDisclaimer1": "Al iniciar sesión, acepta las",
+  "loginDisclaimer2": "Condiciones de uso",
+  "loginDisclaimer3": "y",
+  "loginDisclaimer4": "Política de privacidad",
+  "loginDisclaimer5": "",
+  "searchDialogFeeds": "Feeds",
+  "emptyFeeds": "No se han encontrado feeds",
+  "quoteFeedButton": "Añadir enlace de Feed",
+  "quoteListButton": "Añadir enlace de lista"
 }
