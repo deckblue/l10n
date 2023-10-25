@@ -255,5 +255,21 @@
   "searchDialogFeeds": "Flux",
   "emptyFeeds": "Aucun flux trouvé",
   "quoteFeedButton": "Ajouter le lien d'un flux",
-  "quoteListButton": "Ajouter le lien d'une liste"
+  "quoteListButton": "Ajouter le lien d'une liste",
+  "shortcutsDialogTitle": "Raccourcis clavier",
+  "shortcutsNewPost": "Nouveau post",
+  "shortcutsSendPost": "Envoyer",
+  "shortcutsScrollFirst": "Afficher la première colonne",
+  "shortcutsScrollNumbers": "Afficher les colonnes 2 à 9",
+  "shortcutsScrollLast": "Afficher la dernière colonne",
+  "shortcutsThread": "Lors de l'affichage d'un thread",
+  "shortcutsThreadViewer": "Ouvrir la vue Thread",
+  "shortcutsCloseThread": "Fermer la vue Thread",
+  "shortcutsLike": "Liker ce post",
+  "shortcutsReply": "Répondre à ce post",
+  "shortcutsQuote": "Citer ce post",
+  "shortcutsRepost": "Reposter ce post",
+  "shortcutsGeneral": "Général",
+  "shortcutsCloseWindow": "Fermer la fenêtre",
+  "shortcutsThisWindow": "Liste des raccourcis"
 }
