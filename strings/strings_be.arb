@@ -1090,6 +1090,5 @@
   "shortcutsThisWindow": "Акно спалучэнняў клавіш",
   "@shortcutsThisWindow": {
     "description": "Shortcuts shortcut"
-  },
-  "@@locale": "be"
+  }
 }
