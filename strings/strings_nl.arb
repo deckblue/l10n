@@ -127,11 +127,11 @@
   "@embedTypeSetting": {
     "description": "EmbedType setting title"
   },
-  "postTypeSetting": "Allowed post types",
+  "postTypeSetting": "Toegestane post types",
   "@postTypeSetting": {
     "description": "EmbedType post setting title"
   },
-  "hiddenImageLabel": "Image",
+  "hiddenImageLabel": "Afbeelding",
   "@hiddenImageLabel": {
     "description": "Hidden image button label"
   },
@@ -163,7 +163,7 @@
   "@columnDescriptionLikes": {
     "description": "DeckColumnType Likes description"
   },
-  "columnDescriptionMentions": "Every post that mentions you",
+  "columnDescriptionMentions": "Iedere post die jou vermeldt",
   "@columnDescriptionMentions": {
     "description": "DeckColumnType Mentions description"
   },
