@@ -1,11 +1,36 @@
 {
   "pt": [],
-  "de": [
-    "confirmDeleteColumnTitle",
-    "confirmDeleteColumnContent",
-    "settingsCompactMode",
-    "errorAccountRelink",
-    "relinkAccount",
+  "zh_TW": [
+    "followsAccount",
+    "settingsForceAltTextInput",
+    "postDialogForceAltTextInputHint",
+    "loginDisclaimer1",
+    "loginDisclaimer2",
+    "loginDisclaimer3",
+    "loginDisclaimer4",
+    "loginDisclaimer5",
+    "searchDialogFeeds",
+    "emptyFeeds",
+    "quoteFeedButton",
+    "quoteListButton",
+    "shortcutsDialogTitle",
+    "shortcutsNewPost",
+    "shortcutsSendPost",
+    "shortcutsScrollFirst",
+    "shortcutsScrollNumbers",
+    "shortcutsScrollLast",
+    "shortcutsThread",
+    "shortcutsThreadViewer",
+    "shortcutsCloseThread",
+    "shortcutsLike",
+    "shortcutsReply",
+    "shortcutsQuote",
+    "shortcutsRepost",
+    "shortcutsGeneral",
+    "shortcutsCloseWindow",
+    "shortcutsThisWindow"
+  ],
+  "ru": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
     "loginDisclaimer1",
@@ -61,19 +86,7 @@
     "shortcutsCloseWindow",
     "shortcutsThisWindow"
   ],
-  "zh_TW": [
-    "followsAccount",
-    "settingsForceAltTextInput",
-    "postDialogForceAltTextInputHint",
-    "loginDisclaimer1",
-    "loginDisclaimer2",
-    "loginDisclaimer3",
-    "loginDisclaimer4",
-    "loginDisclaimer5",
-    "searchDialogFeeds",
-    "emptyFeeds",
-    "quoteFeedButton",
-    "quoteListButton",
+  "es": [
     "shortcutsDialogTitle",
     "shortcutsNewPost",
     "shortcutsSendPost",
@@ -92,7 +105,30 @@
     "shortcutsThisWindow"
   ],
   "fr": [],
-  "fi": [
+  "ca": [
+    "shortcutsDialogTitle",
+    "shortcutsNewPost",
+    "shortcutsSendPost",
+    "shortcutsScrollFirst",
+    "shortcutsScrollNumbers",
+    "shortcutsScrollLast",
+    "shortcutsThread",
+    "shortcutsThreadViewer",
+    "shortcutsCloseThread",
+    "shortcutsLike",
+    "shortcutsReply",
+    "shortcutsQuote",
+    "shortcutsRepost",
+    "shortcutsGeneral",
+    "shortcutsCloseWindow",
+    "shortcutsThisWindow"
+  ],
+  "de": [
+    "confirmDeleteColumnTitle",
+    "confirmDeleteColumnContent",
+    "settingsCompactMode",
+    "errorAccountRelink",
+    "relinkAccount",
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
     "loginDisclaimer1",
@@ -121,25 +157,7 @@
     "shortcutsCloseWindow",
     "shortcutsThisWindow"
   ],
-  "ca": [
-    "shortcutsDialogTitle",
-    "shortcutsNewPost",
-    "shortcutsSendPost",
-    "shortcutsScrollFirst",
-    "shortcutsScrollNumbers",
-    "shortcutsScrollLast",
-    "shortcutsThread",
-    "shortcutsThreadViewer",
-    "shortcutsCloseThread",
-    "shortcutsLike",
-    "shortcutsReply",
-    "shortcutsQuote",
-    "shortcutsRepost",
-    "shortcutsGeneral",
-    "shortcutsCloseWindow",
-    "shortcutsThisWindow"
-  ],
-  "ru": [
+  "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
     "loginDisclaimer1",
@@ -170,23 +188,5 @@
   ],
   "ja": [
     "followsAccount"
-  ],
-  "es": [
-    "shortcutsDialogTitle",
-    "shortcutsNewPost",
-    "shortcutsSendPost",
-    "shortcutsScrollFirst",
-    "shortcutsScrollNumbers",
-    "shortcutsScrollLast",
-    "shortcutsThread",
-    "shortcutsThreadViewer",
-    "shortcutsCloseThread",
-    "shortcutsLike",
-    "shortcutsReply",
-    "shortcutsQuote",
-    "shortcutsRepost",
-    "shortcutsGeneral",
-    "shortcutsCloseWindow",
-    "shortcutsThisWindow"
   ]
 }
