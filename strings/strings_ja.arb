@@ -254,5 +254,21 @@
   "searchDialogFeeds": "フィード",
   "emptyFeeds": "フィードが見つかりませんでした",
   "quoteFeedButton": "フィードのリンクを追加",
-  "quoteListButton": "リストのリンクを追加"
+  "quoteListButton": "リストのリンクを追加",
+  "shortcutsDialogTitle": "ショートカット",
+  "shortcutsNewPost": "新しいポスト",
+  "shortcutsSendPost": "ポストを送信",
+  "shortcutsScrollFirst": "最初のカラムにスクロール",
+  "shortcutsScrollNumbers": "2番目から9番目のカラムにスクロール",
+  "shortcutsScrollLast": "最後のカラムにスクロール",
+  "shortcutsThread": "スレッドを開いている時",
+  "shortcutsThreadViewer": "スレッドビューアーを開く",
+  "shortcutsCloseThread": "スレッドを閉じる",
+  "shortcutsLike": "ポストをいいねする",
+  "shortcutsReply": "ポストに返信する",
+  "shortcutsQuote": "ポストを引用する",
+  "shortcutsRepost": "ポストをリポストする",
+  "shortcutsGeneral": "全般",
+  "shortcutsCloseWindow": "画面を閉じる",
+  "shortcutsThisWindow": "このショートカット画面を開く"
 }
