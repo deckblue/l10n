@@ -1,1034 +1,259 @@
 {
   "columnTitleHome": "Inici",
-  "@columnTitleHome": {
-    "description": "DeckColumnType Home title"
-  },
   "columnTitleUser": "Tu",
-  "@columnTitleUser": {
-    "description": "DeckColumnType User title"
-  },
   "columnTitleNotifications": "Notificacions",
-  "@columnTitleNotifications": {
-    "description": "DeckColumnType Notifications title"
-  },
   "columnTitleLikes": "Els teus M'agrada",
-  "@columnTitleLikes": {
-    "description": "DeckColumnType Likes title"
-  },
   "columnTitleMentions": "Mencions",
-  "@columnTitleMentions": {
-    "description": "DeckColumnType Mentions title"
-  },
   "columnTitleMedia": "Multimèdia",
-  "@columnTitleMedia": {
-    "description": "DeckColumnType Media title"
-  },
   "columnTitleCustom": "Feed personalisat",
-  "@columnTitleCustom": {
-    "description": "DeckColumnType Custom title"
-  },
   "columnTitleListFeed": "Llista",
-  "@columnTitleListFeed": {
-    "description": "DeckColumnType List title"
-  },
   "columnTitleSearch": "Buscar",
-  "@columnTitleSearch": {
-    "description": "DeckColumnType Search title"
-  },
   "serviceLabel": "Servici",
-  "@serviceLabel": {
-    "description": "Service TextField label"
-  },
   "serviceHint": "bsky.social",
-  "@serviceHint": {
-    "description": "Service TextField hint"
-  },
   "usernameLabel": "Identificador",
-  "@usernameLabel": {
-    "description": "Username TextField label"
-  },
   "usernameHint": "Nom d'usuari o correu electrònic",
-  "@usernameHint": {
-    "description": "Username TextField hint"
-  },
   "passwordLabel": "Contrasenya d'aplicació",
-  "@passwordLabel": {
-    "description": "Password TextField label"
-  },
   "loginButton": "Iniciar Sessió",
-  "@loginButton": {
-    "description": "Login button text"
-  },
   "loginFirebaseDescription": "Utilisem Google Analytics per a enviar events d'usuari anònims. Tota la resta de senyes es mantenen entre deck.*blue i els servidors de Bluesky.",
-  "@loginFirebaseDescription": {
-    "description": "Description to users about Firebase on the login screen."
-  },
   "errorLoginUnknown": "No s'ha pogut iniciar sessió. Per favor, intenta-ho més tart.",
-  "@errorLoginUnknown": {
-    "description": "Login unknown error"
-  },
   "errorLoginWrongCredentials": "Identificador o contrasenya incorrectes. Per favor, intenta-ho de nou.",
-  "@errorLoginWrongCredentials": {
-    "description": "Login wrong credentials error"
-  },
   "errorLoginInvalidAppPassword": "Contrasenya d'aplicació no vàlida. Per favor, genera una contrasenya d'aplicació des de l'icon ? en el camp de contrasenya o pulsa el botó d'inici de sessió de nou per a ignorar esta advertència.",
-  "@errorLoginInvalidAppPassword": {
-    "description": "Login invalid App Password error"
-  },
   "errorLoginServerError": "S'ha produït un error en el servidor. Espera una miqueta i torna a intentar-ho més tart.",
-  "@errorLoginServerError": {
-    "description": "Login server error"
-  },
   "embedTypeQuote": "Citar",
-  "@embedTypeQuote": {
-    "description": "EmbedType Quote title"
-  },
   "embedTypeImageQuote": "Citar en multimèdia",
-  "@embedTypeImageQuote": {
-    "description": "EmbedType ImageQuote title"
-  },
   "embedTypeLink": "Enllaç",
-  "@embedTypeLink": {
-    "description": "EmbedType Link title"
-  },
   "embedTypeImage": "Multimèdia",
-  "@embedTypeImage": {
-    "description": "EmbedType Image title"
-  },
   "embedTypeReply": "Respostes",
-  "@embedTypeReply": {
-    "description": "EmbedType Reply title"
-  },
   "embedTypeRepost": "Reposts",
-  "@embedTypeRepost": {
-    "description": "EmbedType Repost title"
-  },
   "mediaSizeHidden": "Amagat",
-  "@mediaSizeHidden": {
-    "description": "MediaSize Hidden title"
-  },
   "mediaSizeSmall": "Menuda",
-  "@mediaSizeSmall": {
-    "description": "MediaSize Small title"
-  },
   "mediaSizeMedium": "Mijana",
-  "@mediaSizeMedium": {
-    "description": "MediaSize Medium title"
-  },
   "mediaSizeLarge": "Gran",
-  "@mediaSizeLarge": {
-    "description": "MediaSize Large title"
-  },
   "mediaSizeSetting": "Tamany de la miniatura multimèdia",
-  "@mediaSizeSetting": {
-    "description": "MediaSize setting title"
-  },
   "embedTypeSetting": "Incrustacions permeses",
-  "@embedTypeSetting": {
-    "description": "EmbedType setting title"
-  },
   "postTypeSetting": "Tipos de post permesos",
-  "@postTypeSetting": {
-    "description": "EmbedType post setting title"
-  },
   "hiddenImageLabel": "Image",
-  "@hiddenImageLabel": {
-    "description": "Hidden image button label"
-  },
   "removeColumnButton": "Eliminar",
-  "@removeColumnButton": {
-    "description": "Remove column button label"
-  },
   "addColumnDialogTitle": "Afegir una nova columna",
-  "@addColumnDialogTitle": {
-    "description": "Add default columns dialog title"
-  },
   "addFeedColumnDialogTitle": "Afegir una nova columna de Feed",
-  "@addFeedColumnDialogTitle": {
-    "description": "Add custom feed column dialog title"
-  },
   "columnDescriptionHome": "La teua cronologia per defecte",
-  "@columnDescriptionHome": {
-    "description": "DeckColumnType Home description"
-  },
   "columnDescriptionUser": "Els teus propis post",
-  "@columnDescriptionUser": {
-    "description": "DeckColumnType User description"
-  },
   "columnDescriptionNotifications": "Les teues notificacions",
-  "@columnDescriptionNotifications": {
-    "description": "DeckColumnType Notifications description"
-  },
   "columnDescriptionLikes": "Els post que t'agraden",
-  "@columnDescriptionLikes": {
-    "description": "DeckColumnType Likes description"
-  },
   "columnDescriptionMentions": "Cada post que et mencione",
-  "@columnDescriptionMentions": {
-    "description": "DeckColumnType Mentions description"
-  },
   "columnDescriptionMedia": "Els teus posts en qualsevol multimèdia",
-  "@columnDescriptionMedia": {
-    "description": "DeckColumnType Media description"
-  },
   "columnDescriptionCustom": "Selecciona un feed personalisat dels que tingues guardats",
-  "@columnDescriptionCustom": {
-    "description": "DeckColumnType Custom description"
-  },
   "columnDescriptionListFeed": "Crear una llista o seleccionar una existent",
-  "@columnDescriptionListFeed": {
-    "description": "DeckColumnType List description"
-  },
   "selectLanguageDialogTitle": "Selecciona l'idioma del teu post",
-  "@selectLanguageDialogTitle": {
-    "description": "SelectLanguageDialog title"
-  },
   "selectOtherLanguage": "Un atre…",
-  "@selectOtherLanguage": {
-    "description": "SelectLanguageDialog menu option"
-  },
   "postButton": "Post",
-  "@postButton": {
-    "description": "NewPostDialog button"
-  },
   "deleteButton": "Borrar",
-  "@deleteButton": {
-    "description": "Generic delete button"
-  },
   "postDialogHint": "¿Qué passa?",
-  "@postDialogHint": {
-    "description": "NewPostDialog text field hint"
-  },
   "postErrorUpload": "No s'ha pogut publicar. Torna a intentar-ho més tart.",
-  "@postErrorUpload": {
-    "description": "PostErrorType upload description"
-  },
   "postErrorDelete": "No s'ha pogut eliminar este mensage. Torna a intentar-ho més tart.",
-  "@postErrorDelete": {
-    "description": "PostErrorType delete description"
-  },
   "postErrorLike": "No s'ha pogut donar m'agrada este post. Torna a intentar-ho més tart.",
-  "@postErrorLike": {
-    "description": "PostErrorType like description"
-  },
   "postErrorRepost": "No es va poder repostejar. Torna a intentar-ho més tart.",
-  "@postErrorRepost": {
-    "description": "PostErrorType repost description"
-  },
   "replyButton": "Respondre",
-  "@replyButton": {
-    "description": "Generic reply button"
-  },
   "repostButton": "Repostejar",
-  "@repostButton": {
-    "description": "Generic repost button"
-  },
   "quoteButton": "Citar",
-  "@quoteButton": {
-    "description": "Generic quote button"
-  },
   "likeButton": "M'agrada",
-  "@likeButton": {
-    "description": "Generic like button"
-  },
   "replyDialogHint": "Escriure una resposta a esta publicació",
-  "@replyDialogHint": {
-    "description": "NewPostDialog reply text field hint"
-  },
   "quoteDialogHint": "Vaig donar alguna cosa sobre este post",
-  "@quoteDialogHint": {
-    "description": "NewPostDialog quote text field hint"
-  },
   "threadTitle": "Fil",
-  "@threadTitle": {
-    "description": "Thread page title"
-  },
   "undoButton": "Desfer",
-  "@undoButton": {
-    "description": "Generic undo button"
-  },
   "postButtonCopy": "Compartir",
-  "@postButtonCopy": {
-    "description": "Post copy URL button"
-  },
   "postCopyMessage": "Copiat al portapapers",
-  "@postCopyMessage": {
-    "description": "Post copy URL success message"
-  },
   "postButtonOpen": "Obrir en bsky",
-  "@postButtonOpen": {
-    "description": "Post open in bsky button"
-  },
   "errorThreadEmptyPost": "No es va poder trobar el post",
-  "@errorThreadEmptyPost": {
-    "description": "Error in thread view when unable to find a post"
-  },
   "searchDialogHint": "Buscar",
-  "@searchDialogHint": {
-    "description": "SearchDialog text field hint"
-  },
   "searchDialogUsers": "Usuaris",
-  "@searchDialogUsers": {
-    "description": "SearchDialog Users tab"
-  },
   "searchDialogPosts": "Posts",
-  "@searchDialogPosts": {
-    "description": "SearchDialog Posts tab"
-  },
   "searchDialogAddColumn": "Afegir columna",
-  "@searchDialogAddColumn": {
-    "description": "SearchDialog Add column button"
-  },
   "translateButton": "Traduir",
-  "@translateButton": {
-    "description": "Generic Translate button"
-  },
   "emptyPosts": "No s'ha trobat cap post",
-  "@emptyPosts": {
-    "description": "Empty state for post search"
-  },
   "emptyUsers": "No s'ha trobat cap perfil",
-  "@emptyUsers": {
-    "description": "Empty state for profile search"
-  },
   "profileDialogPosts": "Posts",
-  "@profileDialogPosts": {
-    "description": "Profile dialog Posts label"
-  },
   "profileDialogFollowing": "Seguint",
-  "@profileDialogFollowing": {
-    "description": "Profile dialog Following label"
-  },
   "profileDialogFollowers": "Seguidors",
-  "@profileDialogFollowers": {
-    "description": "Profile dialog Followers label"
-  },
   "errorProfileDialog": "No s'ha pogut carregar este perfil. Torna a intentar-ho més tart.",
-  "@errorProfileDialog": {
-    "description": "Error state for profile search"
-  },
   "profileDialogPostsColumn": "Posts",
-  "@profileDialogPostsColumn": {
-    "description": "Profile dialog Posts column label"
-  },
   "profileDialogMediaColumn": "Multimèdia",
-  "@profileDialogMediaColumn": {
-    "description": "Profile dialog Media column label"
-  },
   "profileDialogLikesColumn": "M'agrades",
-  "@profileDialogLikesColumn": {
-    "description": "Profile dialog Likes column label"
-  },
   "profileDialogAddColumn": "Afegir una columna",
-  "@profileDialogAddColumn": {
-    "description": "Profile dialog Add column label"
-  },
   "repostedBy": "Repostejat per {actor}",
-  "@repostedBy": {
-    "description": "repostedBy formatted text"
-  },
   "replyTo": "Responent a {actor}",
-  "@replyTo": {
-    "description": "replyTo formatted text"
-  },
   "advancedButton": "Alvançat",
-  "@advancedButton": {
-    "description": "Generic Advanced button"
-  },
   "notificationLikeReason": "{count, plural, other{li va agradar el teu post}}",
-  "@notificationLikeReason": {
-    "description": "Notification reason like reason"
-  },
   "notificationRepostReason": "{count, plural, other{va repostejar el teu post}}",
-  "@notificationRepostReason": {
-    "description": "Notification reason repost reason"
-  },
   "notificationFollowReason": "{count, plural, other{et va seguir}}",
-  "@notificationFollowReason": {
-    "description": "Notification reason follow reason"
-  },
   "notificationMentionReason": "{count, plural, other{et va mencionar}}",
-  "@notificationMentionReason": {
-    "description": "Notification reason mention reason"
-  },
   "notificationQuoteReason": "{count, plural, other{va citar el teu post}}",
-  "@notificationQuoteReason": {
-    "description": "Notification reason quote reason"
-  },
   "notificationReplyReason": "{count, plural, other{et va respondre}}",
-  "@notificationReplyReason": {
-    "description": "Notification reason reply reason"
-  },
   "notificationTitleCounter": "{count, plural, other{{count} others}}",
-  "@notificationTitleCounter": {
-    "description": "Notification title other count"
-  },
   "notificationTitleShortCounter": "+{count}",
-  "@notificationTitleShortCounter": {
-    "description": "Notification title other count"
-  },
   "notificationTitleAnd": " i ",
-  "@notificationTitleAnd": {
-    "description": "Notification title other count 'and'"
-  },
   "sizeSmallest": "La més menuda",
-  "@sizeSmallest": {
-    "description": "Settings Smallest size"
-  },
   "sizeSmall": "Menuda",
-  "@sizeSmall": {
-    "description": "Settings Small size"
-  },
   "sizeMedium": "Mijana",
-  "@sizeMedium": {
-    "description": "Settings Medium size"
-  },
   "sizeLarge": "Gran",
-  "@sizeLarge": {
-    "description": "Settings Large size"
-  },
   "sizeLargest": "La més gran",
-  "@sizeLargest": {
-    "description": "Settings Largest size"
-  },
   "settingsDialogTitle": "Ajusts",
-  "@settingsDialogTitle": {
-    "description": "Settings dialog title"
-  },
   "settingsColumnSize": "Tamany de columna",
-  "@settingsColumnSize": {
-    "description": "Settings dialog column size subtitle"
-  },
   "settingsFontSize": "Tamany de font",
-  "@settingsFontSize": {
-    "description": "Settings dialog font size subtitle"
-  },
   "settingsTheme": "Tema",
-  "@settingsTheme": {
-    "description": "Settings dialog theme subtitle"
-  },
   "settingsLightTheme": "Clar",
-  "@settingsLightTheme": {
-    "description": "Settings dialog light theme"
-  },
   "settingsDarkTheme": "Obscur",
-  "@settingsDarkTheme": {
-    "description": "Settings dialog dark theme"
-  },
   "settingsSystemTheme": "Usar el del sistema",
-  "@settingsSystemTheme": {
-    "description": "Settings dialog system theme"
-  },
   "settingsLocale": "Idioma de visualisació",
-  "@settingsLocale": {
-    "description": "Settings dialog language"
-  },
   "profileDialogFollowButton": "Seguir",
-  "@profileDialogFollowButton": {
-    "description": "Profile Dialog follow button"
-  },
   "profileDialogFollowingButton": "Seguint",
-  "@profileDialogFollowingButton": {
-    "description": "Profile Dialog following button"
-  },
   "imageAltDialogHint": "Descriu esta image",
-  "@imageAltDialogHint": {
-    "description": "Image Alt text Dialog input hint"
-  },
   "saveButton": "Guardar",
-  "@saveButton": {
-    "description": "Generic Save button"
-  },
   "confirmButton": "D'ACORT",
-  "@confirmButton": {
-    "description": "Generic Confirm button"
-  },
   "cancelButton": "Cancelar",
-  "@cancelButton": {
-    "description": "Generic Cancel button"
-  },
   "contentLabelSuggestive": "Sugerent",
-  "@contentLabelSuggestive": {
-    "description": "Suggestive content label title"
-  },
   "contentLabelNsfw": "Porno",
-  "@contentLabelNsfw": {
-    "description": "Nsfw content label title"
-  },
   "contentLabelNudity": "Desnudea",
-  "@contentLabelNudity": {
-    "description": "Nudity content label title"
-  },
   "clearButton": "Netejar",
-  "@clearButton": {
-    "description": "Generic Clear button"
-  },
   "emptySavedFeeds": "No hi ha feeds guardats disponibles. Per ara, afig-los a través de",
-  "@emptySavedFeeds": {
-    "description": "Feed dialog empty state"
-  },
   "appPasswordTooltip": "Una contrasenya d'aplicació és una funció de Bluesky que afig una capa de seguritat en utilisar aplicacions de tercers.\nDeuries crear una per a qualsevol aplicació que no siga oficial (com esta).",
-  "@appPasswordTooltip": {
-    "description": "App Password tooltip"
-  },
   "contentLabelSetting": "Afegir una advertència de contingut",
-  "@contentLabelSetting": {
-    "description": "Content label setting for posts"
-  },
   "postErrorTooLarge": "No es va poder publicar. L'image utilisada supera el llímit d'1 MB.",
-  "@postErrorTooLarge": {
-    "description": "PostErrorType repost description"
-  },
   "tooltipKofi": "¡Donar un café!",
-  "@tooltipKofi": {
-    "description": "Ko-fi button tooltip"
-  },
   "linkButton": "Afegir targeta d'enllaç: ",
-  "@linkButton": {
-    "description": "Add a link button"
-  },
   "quoteLinkButton": "Citar post",
-  "@quoteLinkButton": {
-    "description": "Add a post link"
-  },
   "aboutHeader1": "¿Qué és deck.blue?",
-  "@aboutHeader1": {
-    "description": "About dialog header 1"
-  },
   "aboutHeader2": "¿Cóm funciona?",
-  "@aboutHeader2": {
-    "description": "About dialog header 2"
-  },
   "aboutDescription1": "Com a aplicació de tercers, deck.blue és un client de Bluesky que admet la navegació en vàries columnes, lo que et permet consultar tot lo que t'interessa al mateix temps (¡igual que TweetDeck!).",
-  "@aboutDescription1": {
-    "description": "About dialog description 1"
-  },
   "aboutDescription2": "Utilisant deck.blue, pots fer tot lo que ya pots fer en les aplicacions oficials en la ventaja d'un disseny eficient de l'informació, organisant les columnes -actualisades en temps real- per a adaptar-se millor a les teues necessitats. ¿Vols fer un seguiment de molts térmens buscats al mateix temps? Afig una columna per a cada u. Gràcies al sistema de feeds personalisats de Bluesky, també podràs seguir a tantes comunitats com desiges.",
-  "@aboutDescription2": {
-    "description": "About dialog description 2"
-  },
-  "aboutDescription3": "deck.blue utilisa Google Analytics per a enviar events d'usuari anònims. Tots els demés senyes es mantenen entre deck.blue i els servidors de Bluesky. Les senyes personals i sensibles no s'envien a cap part, i es mantenen en l'entorn segur del teu navegador. Per a garantisar la teua seguritat, assegura't d'utilisar el sistema de contrasenyes per a apps de *Bluesky, que afig una capa de seguritat als clients de tercers.",
-  "@aboutDescription3": {
-    "description": "About dialog description 3"
-  },
   "aboutButton": "Sobre",
-  "@aboutButton": {
-    "description": "About dialog button"
-  },
   "loginSlogan1": "Aprofita al màxim",
-  "@loginSlogan1": {
-    "description": "Login slogan part 1"
-  },
   "loginSlogan2": "Bluesky",
-  "@loginSlogan2": {
-    "description": "Login slogan part 2"
-  },
   "updateSnackbar": "Ya està disponible una nova actualisació.\nActualisa per a obtindre noves funcions i correccions d'errors.",
-  "@updateSnackbar": {
-    "description": "Update Snackbar message"
-  },
   "refreshButton": "Actualisar",
-  "@refreshButton": {
-    "description": "Generic Refresh button"
-  },
   "replyCount": "{count, plural, one{Resposta} other{Respostes}}",
-  "@replyCount": {
-    "description": "Reply counter"
-  },
   "likeCount": "{count, plural, one{M'agrada} other{M'agrades}}",
-  "@likeCount": {
-    "description": "Like counter"
-  },
   "repostCount": "{count, plural, one{Repost} other{Reposts}}",
-  "@repostCount": {
-    "description": "Repost counter"
-  },
   "emptyActorList": "No s'han pogut carregar els usuaris, intenta-ho més tart.",
-  "@emptyActorList": {
-    "description": "Empty ActorListDialog message"
-  },
   "followsYou": "et seguix",
-  "@followsYou": {
-    "description": "Profile follows selected account"
-  },
   "followsAccount": "seguix a${handle}",
-  "@followsAccount": {
-    "description": "Profile follows available account"
-  },
   "soundEnabled": "Activar el sò de notificació",
-  "@soundEnabled": {
-    "description": "Toggle notification sound"
-  },
   "blocksYou": "t'ha bloquejat",
-  "@blocksYou": {
-    "description": "Profile viewed blocks you"
-  },
   "blocked": "bloquejat",
-  "@blocked": {
-    "description": "Profile viewed is blocked by you"
-  },
   "muted": "silenciat",
-  "@muted": {
-    "description": "Profile viewed is muted by you"
-  },
   "mutedByList": "silenciat per llista",
-  "@mutedByList": {
-    "description": "Profile viewed is muted by list"
-  },
   "muteButton": "Silenciar",
-  "@muteButton": {
-    "description": "Mute profile viewed button"
-  },
   "unmuteButton": "Desilenciar",
-  "@unmuteButton": {
-    "description": "Unmute profile viewed button"
-  },
   "blockButton": "Bloquejar",
-  "@blockButton": {
-    "description": "Block profile viewed button"
-  },
   "unblockButton": "Desbloquejar",
-  "@unblockButton": {
-    "description": "Unblock profile viewed button"
-  },
   "errorUpdateList": "No s'ha pogut actualisar la llista, intenta-ho de nou",
-  "@errorUpdateList": {
-    "description": "Error on update list"
-  },
   "errorCreateList": "No s'ha pogut crear la llista, intenta-ho de nou.",
-  "@errorCreateList": {
-    "description": "Error on create list"
-  },
   "emptyListItems": "¡La llista està buida!",
-  "@emptyListItems": {
-    "description": "Empty list items manage list message"
-  },
   "emptyFollowing": "¡No estàs seguint a ningú!",
-  "@emptyFollowing": {
-    "description": "Empty following manage list message"
-  },
   "manageListHeader": "Editar llista {name}",
-  "@manageListHeader": {
-    "description": "ManageListDialog header title"
-  },
   "saveListButton": "Guardar llista",
-  "@saveListButton": {
-    "description": "ManageListDialog save button"
-  },
   "manageListCurrentTab": "Actual",
-  "@manageListCurrentTab": {
-    "description": "ManageListDialog first tab"
-  },
   "manageListFollowingTab": "Seguint",
-  "@manageListFollowingTab": {
-    "description": "ManageListDialog second tab"
-  },
   "manageListSearchedTab": "Buscat",
-  "@manageListSearchedTab": {
-    "description": "ManageListDialog first tab"
-  },
   "createCuratedListHeader": "Crear una nova llista",
-  "@createCuratedListHeader": {
-    "description": "NewListDialog header title"
-  },
   "createListNameLabel": "Nom de la llista",
-  "@createListNameLabel": {
-    "description": "NewListDialog name label"
-  },
   "createListNameHint": "Gent genial",
-  "@createListNameHint": {
-    "description": "NewListDialog name hint"
-  },
   "createListDescriptionLabel": "Descripció",
-  "@createListDescriptionLabel": {
-    "description": "NewListDialog name label"
-  },
   "createListDescriptionHint": "Gent genial a la que vullc vore",
-  "@createListDescriptionHint": {
-    "description": "NewListDialog name hint"
-  },
   "createListButton": "Crear una llista",
-  "@createListButton": {
-    "description": "Generic Create a list button"
-  },
   "addListColumnDialogTitle": "Afegir una nova columna de llista",
-  "@addListColumnDialogTitle": {
-    "description": "Add list column dialog title"
-  },
   "emptyCuratedLists": "Buidar llistes guardades.",
-  "@emptyCuratedLists": {
-    "description": "Add list column dialog empty"
-  },
   "tooltipAddColumn": "Afegir columna",
-  "@tooltipAddColumn": {
-    "description": "Add list column dialog empty"
-  },
   "tooltipColumnAdded": "Columna ya afegida",
-  "@tooltipColumnAdded": {
-    "description": "Add list column dialog empty"
-  },
   "buttonManageList": "nar llista",
-  "@buttonManageList": {
-    "description": "Generic Manage list button"
-  },
   "postedDateUnitNow": "ara",
-  "@postedDateUnitNow": {
-    "description": "Date of post just posted"
-  },
   "postedDateUnitSeconds": "{number}s",
-  "@postedDateUnitSeconds": {
-    "description": "Seconds unit of the date of the post"
-  },
   "postedDateUnitMinutes": "{number}m",
-  "@postedDateUnitMinutes": {
-    "description": "Minutes unit of the date of the post"
-  },
   "postedDateUnitHours": "{number}h",
-  "@postedDateUnitHours": {
-    "description": "Hours unit of the date of the post"
-  },
   "postedDateUnitDays": "{number}d",
-  "@postedDateUnitDays": {
-    "description": "Hours unit of the date of the post"
-  },
   "settingsMutedWords": "Paraules silenciades",
-  "@settingsMutedWords": {
-    "description": "Column muted words settings"
-  },
   "settingsColumn": "Ajusts de columna",
-  "@settingsColumn": {
-    "description": "Column settings"
-  },
   "settingsScrollbars": "Mostrar barres de desplaçament de columna",
-  "@settingsScrollbars": {
-    "description": "Column settings"
-  },
   "settingsLogout": "Tancar sessió",
-  "@settingsLogout": {
-    "description": "Logout button in settings"
-  },
   "editCuratedListHeader": "Editar la teua llista",
-  "@editCuratedListHeader": {
-    "description": "NewListDialog edit header title"
-  },
   "buttonEditList": "Editar llista",
-  "@buttonEditList": {
-    "description": "Generic Edit list button"
-  },
   "phoneSupportMessage": "deck.blue només és compatible en ordenadors de sobretaula i tabletas, ¡prova'ls per a gojar d'una millor experiència!",
-  "@phoneSupportMessage": {
-    "description": "Phone support warning message"
-  },
   "allowedNotificationSetting": "Notificacions permeses",
-  "@allowedNotificationSetting": {
-    "description": "Allowed notifications column setting"
-  },
   "notificationLikeTitle": "M'agrada",
-  "@notificationLikeTitle": {
-    "description": "Notification like"
-  },
   "notificationRepostTitle": "Repost",
-  "@notificationRepostTitle": {
-    "description": "Notification repost"
-  },
   "notificationFollowTitle": "Seguir",
-  "@notificationFollowTitle": {
-    "description": "Notification follow"
-  },
   "notificationMentionTitle": "Menció",
-  "@notificationMentionTitle": {
-    "description": "Notification mention"
-  },
   "notificationQuoteTitle": "Cita",
-  "@notificationQuoteTitle": {
-    "description": "Notification quote"
-  },
   "notificationReplyTitle": "Resposta",
-  "@notificationReplyTitle": {
-    "description": "Notification reply"
-  },
   "timerSetting": "Actualisar cada",
-  "@timerSetting": {
-    "description": "Timer column setting"
-  },
   "quoteTo": "Citant a {actor}",
-  "@quoteTo": {
-    "description": "quoteTo formatted text"
-  },
   "followingReplies": "Filtrar les respostes per",
-  "@followingReplies": {
-    "description": "Filter replies by following toggle"
-  },
   "settingsShowAlt": "Mostrar text alternatiu per defecte",
-  "@settingsShowAlt": {
-    "description": "Settings showAlt toggle"
-  },
   "confirmUnfollowActorTitle": "Deixar de seguir",
-  "@confirmUnfollowActorTitle": {
-    "description": "Confirmation title when unfollowing"
-  },
   "confirmUnfollowActorContent": "¿Segur de que vols deixar de seguir a {handle}?",
-  "@confirmUnfollowActorContent": {
-    "description": "Confirmation message when unfollowing"
-  },
   "confirmBlockActorTitle": "Bloquejar",
-  "@confirmBlockActorTitle": {
-    "description": "A title for confirmation dialog when blocking"
-  },
   "confirmBlockActorContent": "Els contes bloquejats no poden respondre en els teus fils, mencionar-te ni interactuar en tu de cap atra forma. ¿Estàs segur de que vols bloquejar este conte?",
-  "@confirmBlockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
   "confirmUnblockActorTitle": "Desbloquejar",
-  "@confirmUnblockActorTitle": {
-    "description": "A title for confirmation dialog when unblocking"
-  },
   "confirmUnblockActorContent": "El conte podrà interactuar en tu una volta desbloquejada. ¿Estàs segur de que vols desbloquejar este conte?",
-  "@confirmUnblockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
   "confirmDeletePostTitle": "Borrar post",
-  "@confirmDeletePostTitle": {
-    "description": "A title for confirmation dialog when deleting post"
-  },
   "confirmDeletePostContent": "¿Segur que vols borrar este post?",
-  "@confirmDeletePostContent": {
-    "description": "Confirmation message when deleting post"
-  },
   "confirmListConvertTitle": "Convertir llista",
-  "@confirmListConvertTitle": {
-    "description": "A title for confirmation dialog when converting a list"
-  },
   "confirmListConvertContent": "Esta llista és actualment una llista de perfils silenciats; és necessari convertir-la per a poder utilisar-la com a columna. Despuix de la conversió, els perfils que ya estiguen en la llista deixaran de considerar-se silenciats. ¿Estàs segur de que vols convertir-la?",
-  "@confirmListConvertContent": {
-    "description": "Confirmation message when converting a list"
-  },
   "convertButton": "Convertir",
-  "@convertButton": {
-    "description": "Generic Convert button"
-  },
   "hashtags": "Hashtags",
-  "@hashtags": {
-    "description": "Generic Hashtags title"
-  },
   "warningOnPressedLinkTitle": "¡ESPERA!",
-  "@warningOnPressedLinkTitle": {
-    "description": "Title of warning dialog when link is pressed"
-  },
   "warningOnPressedLinkContent": "Este enllaç li durà al següent lloc web. ¿Estàs segur de que desijes anar a este lloc web?",
-  "@warningOnPressedLinkContent": {
-    "description": "Content of warning dialog when link is pressed"
-  },
   "wordSelectDialogHint": "Introduïx qualsevol paraula separada per \",\". Màxim 64 caràcters.",
-  "@wordSelectDialogHint": {
-    "description": "A hint for the word select dialog"
-  },
   "wordSelectDialogHintWithSpaceFilter": "Introduïx qualsevol paraula separada per \",\" o espais. Màxim 64 caràcters.",
-  "@wordSelectDialogHintWithSpaceFilter": {
-    "description": "A hint for the word select dialog with the space filter"
-  },
   "columnTimerNone": "Manual",
-  "@columnTimerNone": {
-    "description": "ColumnTimer none title"
-  },
   "loadMoreButton": "Carregar més",
-  "@loadMoreButton": {
-    "description": "Generic 'Load more' button"
-  },
   "showClearButton": "Mostrar botó de netejar",
-  "@showClearButton": {
-    "description": "showClearButton column setting"
-  },
   "manageActorInList": "Afegir/eliminar de la llista",
-  "@manageActorInList": {
-    "description": "manageActorInList dialog menu"
-  },
   "connectPatreon": "Conectar en Patreon",
-  "@connectPatreon": {
-    "description": "Connect Patreon settings button"
-  },
   "disconnectPatreon": "Desconectar Patreon",
-  "@disconnectPatreon": {
-    "description": "Disconnect Patreon settings button"
-  },
   "disconnectPatreonConfirm": "¿Estàs segur de que vols desconectar el teu conte de Patreon? No podràs utilisar les ventages com la programació i els teus contes adicionals es desconectaran.",
-  "@disconnectPatreonConfirm": {
-    "description": "Disconnect Patreon confirmation"
-  },
   "patreonNoTier": "No és mecenes",
-  "@patreonNoTier": {
-    "description": "PatreonTier null title"
-  },
   "patreonTierInitial": "Inicial",
-  "@patreonTierInitial": {
-    "description": "PatreonTier initial title"
-  },
   "patreonTierHelper": "Ajudant",
-  "@patreonTierHelper": {
-    "description": "PatreonTier helper title"
-  },
   "patreonTierSupporter": "Partidari",
-  "@patreonTierSupporter": {
-    "description": "PatreonTier supporter title"
-  },
   "patreonTierSponsor": "Patrocinador",
-  "@patreonTierSponsor": {
-    "description": "PatreonTier sponsor title"
-  },
   "errorLoginInvalidEmail": "El teu conte no té un correu electrònic vàlit o el correu electrònic no està verificat, per favor fes-ho dins de les aplicacions oficials.",
-  "@errorLoginInvalidEmail": {
-    "description": "LoginError invalidEmail"
-  },
   "errorLoginChangeAppPassword": "Estàs intentant iniciar sessió en una contrasenya d'aplicació diferent a l'última utilisada en deck.blue. S'ha enviat un còdic de verificació al teu correu electrònic. Utilisa-ho per a validar el teu conte i canviar la teua contrasenya per esta nova.",
-  "@errorLoginChangeAppPassword": {
-    "description": "LoginError changeAppPassword"
-  },
   "errorLoginExpiredChangeCode": "El còdic de verificació utilisat no és vàlit. Si ha caducat, t'enviem un atre.",
-  "@errorLoginExpiredChangeCode": {
-    "description": "LoginError expiredChangeCode"
-  },
   "passwordCodeLabel": "Còdic de verificació",
-  "@passwordCodeLabel": {
-    "description": "Login password code label"
-  },
   "loginMigration": "Com a part de l'actualisació a la versió 2.0, se't demanarà que tornes a iniciar sessió per a que es faça una còpia de seguritat dels teus ajusts i columnes.",
-  "@loginMigration": {
-    "description": "Login migration explanation"
-  },
   "settingsColor": "Color base del tema",
-  "@settingsColor": {
-    "description": "Color settings"
-  },
   "accounts": "Contes",
-  "@accounts": {
-    "description": "Generic 'Accounts' label"
-  },
   "addAccount": "Afegir conte",
-  "@addAccount": {
-    "description": "Generic 'Add account' button"
-  },
   "accountConfirmationStep": "Pas de confirmació",
-  "@accountConfirmationStep": {
-    "description": "Account confirmationStep setting title"
-  },
   "accountConfirmationStepDescription": "Afig un pas de confirmació abans de publicar",
-  "@accountConfirmationStepDescription": {
-    "description": "Account confirmationStep setting description"
-  },
   "removeAccount": "Eliminar",
-  "@removeAccount": {
-    "description": "Generic 'Remove account' button"
-  },
   "removeAccountDisclaimer": "En eliminar este conte, també s'eliminaran totes les columnes afegides i els posts programats des d'ella. ¿Segur de que desiges eliminar este conte?",
-  "@removeAccountDisclaimer": {
-    "description": "Remove account dialog disclaimer"
-  },
   "errorAccountMaxAccounts": "Ya has alcançat el número màxim de contes per al teu nivell de Patreon.",
-  "@errorAccountMaxAccounts": {
-    "description": "Error when adding new account: max reached"
-  },
   "errorAccountAdd": "No s'ha pogut afegir este conte, intenta-ho més tart.",
-  "@errorAccountAdd": {
-    "description": "Unknown error when adding new account"
-  },
   "errorAccountUnknown": "No s'ha pogut gestionar este conte, intenta-ho de nou més tart.",
-  "@errorAccountUnknown": {
-    "description": "Unknown error when managing account"
-  },
   "preview": "Vista prèvia",
-  "@preview": {
-    "description": "Generic 'Preview' label"
-  },
   "repostDialogTitle": "Repost des de…",
-  "@repostDialogTitle": {
-    "description": "RepostDialog title"
-  },
   "confirmationStep": "¿Llest?",
-  "@confirmationStep": {
-    "description": "confirmationStep usage in NewPostWidget"
-  },
   "likeDialogTitle": "M'agrada des de…",
-  "@likeDialogTitle": {
-    "description": "LikeDialog title"
-  },
   "addAccountDisclaimer": "Per favor, crea una Contrasenya d'Aplicació separada per a cada conte que afiggues, de lo contrari la teua sessió pot ser revocada i tindràs que tornar a afegir el teu conte.",
-  "@addAccountDisclaimer": {
-    "description": "Disclaimer for LoginPage to add account"
-  },
   "profileFromDialogTitle": "Perfil des de…",
-  "@profileFromDialogTitle": {
-    "description": "ProfileFromDialog title"
-  },
   "viewFromAccount": "Vore des de…",
-  "@viewFromAccount": {
-    "description": "Generic 'View from account' label"
-  },
   "show": "Mostrar",
-  "@show": {
-    "description": "Generic 'Show' label"
-  },
   "confirmDeleteColumnTitle": "Borrar columna",
-  "@confirmDeleteColumnTitle": {
-    "description": "A title for confirmation dialog when deleting column"
-  },
   "confirmDeleteColumnContent": "¿Segur que vols borrar esta columna?",
-  "@confirmDeleteColumnContent": {
-    "description": "Confirmation message when deleting column"
-  },
   "settingsCompactMode": "Modo compacte per a posts",
-  "@settingsCompactMode": {
-    "description": "Settings dialog compact mode"
-  },
   "errorAccountRelink": "No s'ha pogut tornar a vincular este conte, intenta-ho de nou.",
-  "@errorAccountRelink": {
-    "description": "Error when relinking existing account"
-  },
   "relinkAccount": "Tornar a vincular",
-  "@relinkAccount": {
-    "description": "Relink account button"
-  },
   "settingsForceAltTextInput": "Requerir Text Alt abans de postejar",
-  "@settingsForceAltTextInput": {
-    "description": "Flag whether to force alt text input in the settings dialog"
-  },
   "postDialogForceAltTextInputHint": "A una o més imàgens els falta el Text Alt",
-  "@postDialogForceAltTextInputHint": {
-    "description": "Hint indicating that alt text has not been entered"
-  },
   "loginDisclaimer1": "En iniciar sessió, accepta les",
-  "@loginDisclaimer1": {
-    "description": "Login disclaimer part 1"
-  },
   "loginDisclaimer2": "Condicions d'us",
-  "@loginDisclaimer2": {
-    "description": "Login disclaimer part 2"
-  },
   "loginDisclaimer3": "i",
-  "@loginDisclaimer3": {
-    "description": "Login disclaimer part 3"
-  },
   "loginDisclaimer4": "Política de privacitat",
-  "@loginDisclaimer4": {
-    "description": "Login disclaimer part 4"
-  },
   "loginDisclaimer5": "",
-  "@loginDisclaimer5": {
-    "description": "Login disclaimer part 5. This can be empty depending on the language."
-  },
   "searchDialogFeeds": "Feeds",
-  "@searchDialogFeeds": {
-    "description": "SearchDialog Feeds tab"
-  },
   "emptyFeeds": "No s'han trobat feeds",
-  "@emptyFeeds": {
-    "description": "Empty state for feed search"
-  },
   "quoteFeedButton": "Afegir enllaç de Feed",
-  "@quoteFeedButton": {
-    "description": "Add a feed embed"
-  },
-  "quoteListButton": "Afegir enllaç de llista",
-  "@quoteListButton": {
-    "description": "Add a list embed"
-  }
+  "quoteListButton": "Afegir enllaç de llista"
 }
