@@ -61,6 +61,24 @@
     "shortcutsCloseWindow",
     "shortcutsThisWindow"
   ],
+  "cat": [
+    "shortcutsDialogTitle",
+    "shortcutsNewPost",
+    "shortcutsSendPost",
+    "shortcutsScrollFirst",
+    "shortcutsScrollNumbers",
+    "shortcutsScrollLast",
+    "shortcutsThread",
+    "shortcutsThreadViewer",
+    "shortcutsCloseThread",
+    "shortcutsLike",
+    "shortcutsReply",
+    "shortcutsQuote",
+    "shortcutsRepost",
+    "shortcutsGeneral",
+    "shortcutsCloseWindow",
+    "shortcutsThisWindow"
+  ],
   "zh_TW": [
     "followsAccount",
     "settingsForceAltTextInput",
@@ -171,15 +189,6 @@
     "followsAccount"
   ],
   "es": [
-    "loginDisclaimer1",
-    "loginDisclaimer2",
-    "loginDisclaimer3",
-    "loginDisclaimer4",
-    "loginDisclaimer5",
-    "searchDialogFeeds",
-    "emptyFeeds",
-    "quoteFeedButton",
-    "quoteListButton",
     "shortcutsDialogTitle",
     "shortcutsNewPost",
     "shortcutsSendPost",
