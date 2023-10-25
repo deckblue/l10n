@@ -499,10 +499,6 @@
   "@aboutHeader2": {
     "description": "About dialog header 2"
   },
-  "aboutHeader3": "¿Estan segurs les meues senyes?",
-  "@aboutHeader3": {
-    "description": "About dialog header 3"
-  },
   "aboutDescription1": "Com a aplicació de tercers, deck.blue és un client de Bluesky que admet la navegació en vàries columnes, lo que et permet consultar tot lo que t'interessa al mateix temps (¡igual que TweetDeck!).",
   "@aboutDescription1": {
     "description": "About dialog description 1"
