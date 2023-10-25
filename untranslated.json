@@ -168,23 +168,7 @@
     "shortcutsThisWindow"
   ],
   "ja": [
-    "followsAccount",
-    "shortcutsDialogTitle",
-    "shortcutsNewPost",
-    "shortcutsSendPost",
-    "shortcutsScrollFirst",
-    "shortcutsScrollNumbers",
-    "shortcutsScrollLast",
-    "shortcutsThread",
-    "shortcutsThreadViewer",
-    "shortcutsCloseThread",
-    "shortcutsLike",
-    "shortcutsReply",
-    "shortcutsQuote",
-    "shortcutsRepost",
-    "shortcutsGeneral",
-    "shortcutsCloseWindow",
-    "shortcutsThisWindow"
+    "followsAccount"
   ],
   "es": [
     "loginDisclaimer1",
