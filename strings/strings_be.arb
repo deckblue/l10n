@@ -1,1094 +1,275 @@
 {
   "columnTitleHome": "Галоўная",
-  "@columnTitleHome": {
-    "description": "DeckColumnType Home title"
-  },
   "columnTitleUser": "Вы",
-  "@columnTitleUser": {
-    "description": "DeckColumnType User title"
-  },
   "columnTitleNotifications": "Апавяшчэнні",
-  "@columnTitleNotifications": {
-    "description": "DeckColumnType Notifications title"
-  },
   "columnTitleLikes": "Падабаецца",
-  "@columnTitleLikes": {
-    "description": "DeckColumnType Likes title"
-  },
   "columnTitleMentions": "Згадванні",
-  "@columnTitleMentions": {
-    "description": "DeckColumnType Mentions title"
-  },
   "columnTitleMedia": "Медыя",
-  "@columnTitleMedia": {
-    "description": "DeckColumnType Media title"
-  },
   "columnTitleCustom": "Карыстальніцкая стужка",
-  "@columnTitleCustom": {
-    "description": "DeckColumnType Custom title"
-  },
   "columnTitleListFeed": "Спіс",
-  "@columnTitleListFeed": {
-    "description": "DeckColumnType List title"
-  },
   "columnTitleSearch": "Пошук",
-  "@columnTitleSearch": {
-    "description": "DeckColumnType Search title"
-  },
   "serviceLabel": "Абслугоўванне",
-  "@serviceLabel": {
-    "description": "Service TextField label"
-  },
   "serviceHint": "bsky.social",
-  "@serviceHint": {
-    "description": "Service TextField hint"
-  },
   "usernameLabel": "Імя карыстальніка",
-  "@usernameLabel": {
-    "description": "Username TextField label"
-  },
   "usernameHint": "Імя карыстальніка або адрас электроннай пошты",
-  "@usernameHint": {
-    "description": "Username TextField hint"
-  },
   "passwordLabel": "Пароль праграмы",
-  "@passwordLabel": {
-    "description": "Password TextField label"
-  },
   "loginButton": "Увайсці",
-  "@loginButton": {
-    "description": "Login button text"
-  },
   "loginFirebaseDescription": "Мы выкарыстоўваем Google Analytics для адпраўкі ананімных дадзеных аб карыстальніках. Усе астатнія дадзеныя захоўваюцца паміж серверамі deck.blue і bluesky.",
-  "@loginFirebaseDescription": {
-    "description": "Description to users about Firebase on the login screen."
-  },
   "errorLoginUnknown": "Не атрымалася залагініцца. Калі ласка, паспрабуйце пазней.",
-  "@errorLoginUnknown": {
-    "description": "Login unknown error"
-  },
   "errorLoginWrongCredentials": "Няправільнае імя карыстальніка або пароль. Калі ласка, паспрабуйце яшчэ раз.",
-  "@errorLoginWrongCredentials": {
-    "description": "Login wrong credentials error"
-  },
   "errorLoginInvalidAppPassword": "Няверны пароль праграмы. Калі ласка, згенеруйце пароль праграмы або яшчэ раз націсніце кнопку ўваходу, каб ігнараваць гэтае папярэджанне.",
-  "@errorLoginInvalidAppPassword": {
-    "description": "Login invalid App Password error"
-  },
   "errorLoginServerError": "Адбылася памылка сервера. Калі ласка, пачакайце крыху і паўтарыце спробу пазней.",
-  "@errorLoginServerError": {
-    "description": "Login server error"
-  },
   "embedTypeQuote": "Цытата",
-  "@embedTypeQuote": {
-    "description": "EmbedType Quote title"
-  },
   "embedTypeImageQuote": "Цытата з медыя",
-  "@embedTypeImageQuote": {
-    "description": "EmbedType ImageQuote title"
-  },
   "embedTypeLink": "Спасылка",
-  "@embedTypeLink": {
-    "description": "EmbedType Link title"
-  },
   "embedTypeImage": "Медыя",
-  "@embedTypeImage": {
-    "description": "EmbedType Image title"
-  },
   "embedTypeReply": "Адказы",
-  "@embedTypeReply": {
-    "description": "EmbedType Reply title"
-  },
   "embedTypeRepost": "Пашырэнні",
-  "@embedTypeRepost": {
-    "description": "EmbedType Repost title"
-  },
   "mediaSizeHidden": "Схаваць",
-  "@mediaSizeHidden": {
-    "description": "MediaSize Hidden title"
-  },
   "mediaSizeSmall": "Маленькі",
-  "@mediaSizeSmall": {
-    "description": "MediaSize Small title"
-  },
   "mediaSizeMedium": "Сярэдні",
-  "@mediaSizeMedium": {
-    "description": "MediaSize Medium title"
-  },
   "mediaSizeLarge": "Вялікі",
-  "@mediaSizeLarge": {
-    "description": "MediaSize Large title"
-  },
   "mediaSizeSetting": "Памер медыя іконкі",
-  "@mediaSizeSetting": {
-    "description": "MediaSize setting title"
-  },
   "embedTypeSetting": "Дапушчальныя ўкладанні",
-  "@embedTypeSetting": {
-    "description": "EmbedType setting title"
-  },
   "postTypeSetting": "Дазволены выгляд допісаў",
-  "@postTypeSetting": {
-    "description": "EmbedType post setting title"
-  },
   "hiddenImageLabel": "Выява",
-  "@hiddenImageLabel": {
-    "description": "Hidden image button label"
-  },
   "removeColumnButton": "Выдаліць",
-  "@removeColumnButton": {
-    "description": "Remove column button label"
-  },
   "addColumnDialogTitle": "Дадаць новы слупок",
-  "@addColumnDialogTitle": {
-    "description": "Add default columns dialog title"
-  },
   "addFeedColumnDialogTitle": "Даданне новага фіда ў якасці слупка",
-  "@addFeedColumnDialogTitle": {
-    "description": "Add custom feed column dialog title"
-  },
   "columnDescriptionHome": "Ваш фід па змаўчанні",
-  "@columnDescriptionHome": {
-    "description": "DeckColumnType Home description"
-  },
   "columnDescriptionUser": "Вашы допісы",
-  "@columnDescriptionUser": {
-    "description": "DeckColumnType User description"
-  },
   "columnDescriptionNotifications": "Вашы паведамленні",
-  "@columnDescriptionNotifications": {
-    "description": "DeckColumnType Notifications description"
-  },
   "columnDescriptionLikes": "Упадабаныя пасты",
-  "@columnDescriptionLikes": {
-    "description": "DeckColumnType Likes description"
-  },
   "columnDescriptionMentions": "Усе пасты, у якіх вас згадваюць",
-  "@columnDescriptionMentions": {
-    "description": "DeckColumnType Mentions description"
-  },
   "columnDescriptionMedia": "Вашыя пасты з любымі медыя",
-  "@columnDescriptionMedia": {
-    "description": "DeckColumnType Media description"
-  },
   "columnDescriptionCustom": "Выберыце карыстальніцкі фід з захаваных",
-  "@columnDescriptionCustom": {
-    "description": "DeckColumnType Custom description"
-  },
   "columnDescriptionListFeed": "Стварыце спіс або абярыце існуючы",
-  "@columnDescriptionListFeed": {
-    "description": "DeckColumnType List description"
-  },
   "selectLanguageDialogTitle": "Абярыце мову вашага допісу",
-  "@selectLanguageDialogTitle": {
-    "description": "SelectLanguageDialog title"
-  },
   "selectOtherLanguage": "Іншыя…",
-  "@selectOtherLanguage": {
-    "description": "SelectLanguageDialog menu option"
-  },
   "postButton": "Допіс",
-  "@postButton": {
-    "description": "NewPostDialog button"
-  },
   "deleteButton": "Выдаліць",
-  "@deleteButton": {
-    "description": "Generic delete button"
-  },
   "postDialogHint": "Што здарылася?",
-  "@postDialogHint": {
-    "description": "NewPostDialog text field hint"
-  },
   "postErrorUpload": "Не атрымалася апублікаваць. Калі ласка, паспрабуйце пазней.",
-  "@postErrorUpload": {
-    "description": "PostErrorType upload description"
-  },
   "postErrorDelete": "Не атрымалася выдаліць гэты допіс. Калі ласка, паспрабуйце пазней.",
-  "@postErrorDelete": {
-    "description": "PostErrorType delete description"
-  },
   "postErrorLike": "Немагчыма ўпадабаць гэты допіс. Калі ласка, паспрабуйце пазней.",
-  "@postErrorLike": {
-    "description": "PostErrorType like description"
-  },
   "postErrorRepost": "Немагчыма пашырыць допіс. Калі ласка, паспрабуйце пазней.",
-  "@postErrorRepost": {
-    "description": "PostErrorType repost description"
-  },
   "replyButton": "Адказаць",
-  "@replyButton": {
-    "description": "Generic reply button"
-  },
   "repostButton": "Пашырыць",
-  "@repostButton": {
-    "description": "Generic repost button"
-  },
   "quoteButton": "Цытаваць",
-  "@quoteButton": {
-    "description": "Generic quote button"
-  },
   "likeButton": "Падабайка",
-  "@likeButton": {
-    "description": "Generic like button"
-  },
   "replyDialogHint": "Адказаць на допіс",
-  "@replyDialogHint": {
-    "description": "NewPostDialog reply text field hint"
-  },
   "quoteDialogHint": "Скажыце што-небудзь пра гэты допіс",
-  "@quoteDialogHint": {
-    "description": "NewPostDialog quote text field hint"
-  },
   "threadTitle": "Ланцуг",
-  "@threadTitle": {
-    "description": "Thread page title"
-  },
   "undoButton": "Адмяніць",
-  "@undoButton": {
-    "description": "Generic undo button"
-  },
   "postButtonCopy": "Абагуліць",
-  "@postButtonCopy": {
-    "description": "Post copy URL button"
-  },
   "postCopyMessage": "Капіраваць у буфер абмену",
-  "@postCopyMessage": {
-    "description": "Post copy URL success message"
-  },
   "postButtonOpen": "Адкрыць у bsky",
-  "@postButtonOpen": {
-    "description": "Post open in bsky button"
-  },
   "errorThreadEmptyPost": "Немагчыма знайсці допіс",
-  "@errorThreadEmptyPost": {
-    "description": "Error in thread view when unable to find a post"
-  },
   "searchDialogHint": "Пошук",
-  "@searchDialogHint": {
-    "description": "SearchDialog text field hint"
-  },
   "searchDialogUsers": "Карыстальнікі",
-  "@searchDialogUsers": {
-    "description": "SearchDialog Users tab"
-  },
   "searchDialogPosts": "Допісы",
-  "@searchDialogPosts": {
-    "description": "SearchDialog Posts tab"
-  },
   "searchDialogAddColumn": "Дадаць слупок",
-  "@searchDialogAddColumn": {
-    "description": "SearchDialog Add column button"
-  },
   "translateButton": "Перакласці",
-  "@translateButton": {
-    "description": "Generic Translate button"
-  },
   "emptyPosts": "Няма допісаў",
-  "@emptyPosts": {
-    "description": "Empty state for post search"
-  },
   "emptyUsers": "Няма карыстальнікаў",
-  "@emptyUsers": {
-    "description": "Empty state for profile search"
-  },
   "profileDialogPosts": "Допісы",
-  "@profileDialogPosts": {
-    "description": "Profile dialog Posts label"
-  },
   "profileDialogFollowing": "Падпіскі",
-  "@profileDialogFollowing": {
-    "description": "Profile dialog Following label"
-  },
   "profileDialogFollowers": "Падпісчыкі",
-  "@profileDialogFollowers": {
-    "description": "Profile dialog Followers label"
-  },
   "errorProfileDialog": "Немагчыма загрузіць гэты профіль. Калі ласка, паспрабуйце яшчэ раз пазней.",
-  "@errorProfileDialog": {
-    "description": "Error state for profile search"
-  },
   "profileDialogPostsColumn": "Допісы",
-  "@profileDialogPostsColumn": {
-    "description": "Profile dialog Posts column label"
-  },
   "profileDialogMediaColumn": "Медыя",
-  "@profileDialogMediaColumn": {
-    "description": "Profile dialog Media column label"
-  },
   "profileDialogLikesColumn": "Падабайкі",
-  "@profileDialogLikesColumn": {
-    "description": "Profile dialog Likes column label"
-  },
   "profileDialogAddColumn": "Дадаць слупок",
-  "@profileDialogAddColumn": {
-    "description": "Profile dialog Add column label"
-  },
   "repostedBy": "Пашырыў(-ла) {actor}",
-  "@repostedBy": {
-    "description": "repostedBy formatted text"
-  },
   "replyTo": "Адказаў(-ла) to {actor}",
-  "@replyTo": {
-    "description": "replyTo formatted text"
-  },
   "advancedButton": "Пашыраныя налады",
-  "@advancedButton": {
-    "description": "Generic Advanced button"
-  },
   "notificationLikeReason": "{count, plural, other{упадабаў ваш допіс}}",
-  "@notificationLikeReason": {
-    "description": "Notification reason like reason"
-  },
   "notificationRepostReason": "{count, plural, other{пашырыў ваш допіс}}",
-  "@notificationRepostReason": {
-    "description": "Notification reason repost reason"
-  },
   "notificationFollowReason": "{count, plural, other{адпісаўся на вас}}",
-  "@notificationFollowReason": {
-    "description": "Notification reason follow reason"
-  },
   "notificationMentionReason": "{count, plural, other{згадаў вас}}",
-  "@notificationMentionReason": {
-    "description": "Notification reason mention reason"
-  },
   "notificationQuoteReason": "{count, plural, other{цытаваў вас}}",
-  "@notificationQuoteReason": {
-    "description": "Notification reason quote reason"
-  },
   "notificationReplyReason": "{count, plural, other{адказаў вам}}",
-  "@notificationReplyReason": {
-    "description": "Notification reason reply reason"
-  },
   "notificationTitleCounter": "{count, plural, other{{count} іншыя}}",
-  "@notificationTitleCounter": {
-    "description": "Notification title other count"
-  },
   "notificationTitleShortCounter": "+{count}",
-  "@notificationTitleShortCounter": {
-    "description": "Notification title other count"
-  },
   "notificationTitleAnd": " і ",
-  "@notificationTitleAnd": {
-    "description": "Notification title other count 'and'"
-  },
   "sizeSmallest": "Самы маленькі",
-  "@sizeSmallest": {
-    "description": "Settings Smallest size"
-  },
   "sizeSmall": "Маленькі",
-  "@sizeSmall": {
-    "description": "Settings Small size"
-  },
   "sizeMedium": "Сярэдні",
-  "@sizeMedium": {
-    "description": "Settings Medium size"
-  },
   "sizeLarge": "Вялікі",
-  "@sizeLarge": {
-    "description": "Settings Large size"
-  },
   "sizeLargest": "Самы вялікі",
-  "@sizeLargest": {
-    "description": "Settings Largest size"
-  },
   "settingsDialogTitle": "Налады",
-  "@settingsDialogTitle": {
-    "description": "Settings dialog title"
-  },
   "settingsColumnSize": "Памер слупка",
-  "@settingsColumnSize": {
-    "description": "Settings dialog column size subtitle"
-  },
   "settingsFontSize": "Памер шрыфту",
-  "@settingsFontSize": {
-    "description": "Settings dialog font size subtitle"
-  },
   "settingsTheme": "Тэма",
-  "@settingsTheme": {
-    "description": "Settings dialog theme subtitle"
-  },
   "settingsLightTheme": "Светлая",
-  "@settingsLightTheme": {
-    "description": "Settings dialog light theme"
-  },
   "settingsDarkTheme": "Цёмная",
-  "@settingsDarkTheme": {
-    "description": "Settings dialog dark theme"
-  },
   "settingsSystemTheme": "Сістэмная",
-  "@settingsSystemTheme": {
-    "description": "Settings dialog system theme"
-  },
   "settingsLocale": "Мова",
-  "@settingsLocale": {
-    "description": "Settings dialog language"
-  },
   "profileDialogFollowButton": "Падпісацца",
-  "@profileDialogFollowButton": {
-    "description": "Profile Dialog follow button"
-  },
   "profileDialogFollowingButton": "Падпісаны",
-  "@profileDialogFollowingButton": {
-    "description": "Profile Dialog following button"
-  },
   "imageAltDialogHint": "Апішыце гэта медыя",
-  "@imageAltDialogHint": {
-    "description": "Image Alt text Dialog input hint"
-  },
   "saveButton": "Захаваць",
-  "@saveButton": {
-    "description": "Generic Save button"
-  },
   "confirmButton": "Пацвердзіць",
-  "@confirmButton": {
-    "description": "Generic Confirm button"
-  },
   "cancelButton": "Скасаваць",
-  "@cancelButton": {
-    "description": "Generic Cancel button"
-  },
   "contentLabelSuggestive": "Непрыстойны",
-  "@contentLabelSuggestive": {
-    "description": "Suggestive content label title"
-  },
   "contentLabelNsfw": "Порна",
-  "@contentLabelNsfw": {
-    "description": "Nsfw content label title"
-  },
   "contentLabelNudity": "Аголеныя",
-  "@contentLabelNudity": {
-    "description": "Nudity content label title"
-  },
   "clearButton": "Ачысціць",
-  "@clearButton": {
-    "description": "Generic Clear button"
-  },
   "emptySavedFeeds": "Няма захаваных фідаў. Дадайце новы",
-  "@emptySavedFeeds": {
-    "description": "Feed dialog empty state"
-  },
   "appPasswordTooltip": "Пароль праграмы — гэта функцыя Bluesky, якая павышае ўзровень бяспекі пры выкарыстанні іншых праграм.\nВам трэба стварыць пароль для любой неафіцыйнай праграмы (напрыклад, гэтай).",
-  "@appPasswordTooltip": {
-    "description": "App Password tooltip"
-  },
   "contentLabelSetting": "Дадаць папярэджанне аб змесціве",
-  "@contentLabelSetting": {
-    "description": "Content label setting for posts"
-  },
   "postErrorTooLarge": "Не ўдалося стварыць допіс. Памер медыя перавысіў 1Мб.",
-  "@postErrorTooLarge": {
-    "description": "PostErrorType repost description"
-  },
   "tooltipKofi": "Купіце мне каву!",
-  "@tooltipKofi": {
-    "description": "Ko-fi button tooltip"
-  },
   "linkButton": "Дадаць папярэдні прагляд спасылкі:",
-  "@linkButton": {
-    "description": "Add a link button"
-  },
   "quoteLinkButton": "Цытаваць допіс",
-  "@quoteLinkButton": {
-    "description": "Quote a post from a link"
-  },
   "aboutHeader1": "Што такое deck.blue?",
-  "@aboutHeader1": {
-    "description": "About dialog header 1"
-  },
   "aboutHeader2": "Як гэта працуе?",
-  "@aboutHeader2": {
-    "description": "About dialog header 2"
-  },
   "aboutDescription1": "Deck.blue - гэта іншы кліент Bluesky, які падтрымлівае шматкалонкавы прагляд, які дазваляе правяраць усё, што вас цікавіць, адначасова (як у TweetDeck!).",
-  "@aboutDescription1": {
-    "description": "About dialog description 1"
-  },
   "aboutDescription2": "Выкарыстоўваючы Deck.blue, вы можаце рабіць усё, што ўжо можаце рабіць у афіцыйных праграмах, дзякуючы эфектыўнаму інфармацыйнаму афармленню і арганізацыі слупкоў, якія абнаўляюцца ў рэальным часе, каб лепш адпавядаць вашым патрэбам. Хочаце адсочваць шмат пошукавых запытаў адначасова? Проста дадайце слупок для кожнага! Выкарыстоўваючы сістэму наладжвальных фідаў Bluesky, вы таксама можаце сачыць за любой колькасцю супольнасцяў.",
-  "@aboutDescription2": {
-    "description": "About dialog description 2"
-  },
   "aboutButton": "Пра нас",
-  "@aboutButton": {
-    "description": "About dialog button"
-  },
   "loginSlogan1": "Выкарыстоўвайце па максімуме ",
-  "@loginSlogan1": {
-    "description": "Login slogan part 1"
-  },
   "loginSlogan2": "Bluesky",
-  "@loginSlogan2": {
-    "description": "Login slogan part 2"
-  },
   "updateSnackbar": "Даступна новае абнаўленне!\nАбнавіце, каб атрымаць новыя функцыі і выпраўленні памылак!",
-  "@updateSnackbar": {
-    "description": "Update Snackbar message"
-  },
   "refreshButton": "Абнавіць",
-  "@refreshButton": {
-    "description": "Generic Refresh button"
-  },
   "replyCount": "{count, plural, one{Адказ} other{Адказаў}}",
-  "@replyCount": {
-    "description": "Reply counter"
-  },
   "likeCount": "{count, plural, one{Падабайка} other{Падабаек}}",
-  "@likeCount": {
-    "description": "Like counter"
-  },
   "repostCount": "{count, plural, one{Пашыренее} other{Пашырэнні}}",
-  "@repostCount": {
-    "description": "Repost counter"
-  },
   "emptyActorList": "Не атрымалася загрузіць спіс уліковых запісаў. Калі ласка, паспрабуйце пазней.",
-  "@emptyActorList": {
-    "description": "Empty ActorListDialog message"
-  },
   "followsYou": "падпісаны на вас",
-  "@followsYou": {
-    "description": "Profile follows selected account"
-  },
   "followsAccount": "падпісаны ${handle}",
-  "@followsAccount": {
-    "description": "Profile follows available account"
-  },
   "soundEnabled": "Уключыць гук апавяшчэнняў",
-  "@soundEnabled": {
-    "description": "Toggle notification sound"
-  },
   "blocksYou": "заблакаваў вас",
-  "@blocksYou": {
-    "description": "Profile viewed blocks you"
-  },
   "blocked": "заблакіраваны",
-  "@blocked": {
-    "description": "Profile viewed is blocked by you"
-  },
   "muted": "ігнаруецца",
-  "@muted": {
-    "description": "Profile viewed is muted by you"
-  },
   "mutedByList": "ігнарыруецца праз спіс",
-  "@mutedByList": {
-    "description": "Profile viewed is muted by list"
-  },
   "muteButton": "Ігнараваць",
-  "@muteButton": {
-    "description": "Mute profile viewed button"
-  },
   "unmuteButton": "Не ігнараваць",
-  "@unmuteButton": {
-    "description": "Unmute profile viewed button"
-  },
   "blockButton": "Заблакіраваць",
-  "@blockButton": {
-    "description": "Block profile viewed button"
-  },
   "unblockButton": "Разблакіраваць",
-  "@unblockButton": {
-    "description": "Unblock profile viewed button"
-  },
   "errorUpdateList": "Не атрымалася абнавіць спіс. Калі ласка, паспрабуйце пазней.",
-  "@errorUpdateList": {
-    "description": "Error on update list"
-  },
   "errorCreateList": "Не атрымалася стварыць спіс Калі ласка, паспрабуйце пазней",
-  "@errorCreateList": {
-    "description": "Error on create list"
-  },
   "emptyListItems": "Пусты спіс!",
-  "@emptyListItems": {
-    "description": "Empty list items manage list message"
-  },
   "emptyFollowing": "Вы ні на каго не падпісаны!",
-  "@emptyFollowing": {
-    "description": "Empty following manage list message"
-  },
   "manageListHeader": "Рэдагаваць спіс {name}",
-  "@manageListHeader": {
-    "description": "ManageListDialog header title"
-  },
   "saveListButton": "Захаваць спіс",
-  "@saveListButton": {
-    "description": "ManageListDialog save button"
-  },
   "manageListCurrentTab": "Бягучы",
-  "@manageListCurrentTab": {
-    "description": "ManageListDialog first tab"
-  },
   "manageListFollowingTab": "Падпіскі",
-  "@manageListFollowingTab": {
-    "description": "ManageListDialog second tab"
-  },
   "manageListSearchedTab": "Шукалі",
-  "@manageListSearchedTab": {
-    "description": "ManageListDialog first tab"
-  },
   "createCuratedListHeader": "Стварыць курыраваны спіс",
-  "@createCuratedListHeader": {
-    "description": "NewListDialog header title"
-  },
   "createListNameLabel": "Назва спісу",
-  "@createListNameLabel": {
-    "description": "NewListDialog name label"
-  },
   "createListNameHint": "Крутыя рабяты",
-  "@createListNameHint": {
-    "description": "NewListDialog name hint"
-  },
   "createListDescriptionLabel": "Апісанне",
-  "@createListDescriptionLabel": {
-    "description": "NewListDialog name label"
-  },
   "createListDescriptionHint": "Крутыя рабяты, якіх я хачу чытаць",
-  "@createListDescriptionHint": {
-    "description": "NewListDialog name hint"
-  },
   "createListButton": "Стварыць спіс",
-  "@createListButton": {
-    "description": "Generic Create a list button"
-  },
   "addListColumnDialogTitle": "Дадайце спіс у слупок",
-  "@addListColumnDialogTitle": {
-    "description": "Add list column dialog title"
-  },
   "emptyCuratedLists": "Пустыя захаваныя спісы.",
-  "@emptyCuratedLists": {
-    "description": "Add list column dialog empty"
-  },
   "tooltipAddColumn": "Дадаць слупок",
-  "@tooltipAddColumn": {
-    "description": "Add list column dialog empty"
-  },
   "tooltipColumnAdded": "Слупок ужо дададзены",
-  "@tooltipColumnAdded": {
-    "description": "Add list column dialog empty"
-  },
   "buttonManageList": "Кіраванне спісам",
-  "@buttonManageList": {
-    "description": "Generic Manage list button"
-  },
   "postedDateUnitNow": "зараз",
-  "@postedDateUnitNow": {
-    "description": "Date of post just posted"
-  },
   "postedDateUnitSeconds": "{number}с",
-  "@postedDateUnitSeconds": {
-    "description": "Seconds unit of the date of the post"
-  },
   "postedDateUnitMinutes": "{number}х",
-  "@postedDateUnitMinutes": {
-    "description": "Minutes unit of the date of the post"
-  },
   "postedDateUnitHours": "{number}г",
-  "@postedDateUnitHours": {
-    "description": "Hours unit of the date of the post"
-  },
   "postedDateUnitDays": "{number}д",
-  "@postedDateUnitDays": {
-    "description": "Hours unit of the date of the post"
-  },
   "settingsMutedWords": "Ігнараваныя словы",
-  "@settingsMutedWords": {
-    "description": "Column muted words settings"
-  },
   "settingsColumn": "Налады слупка",
-  "@settingsColumn": {
-    "description": "Column settings"
-  },
   "settingsScrollbars": "Паказаць паласы пракруткі слупкоў",
-  "@settingsScrollbars": {
-    "description": "Column settings"
-  },
   "settingsLogout": "Выйсці",
-  "@settingsLogout": {
-    "description": "Logout button in settings"
-  },
   "editCuratedListHeader": "Адрэдагуйце ваш куратарскі спіс",
-  "@editCuratedListHeader": {
-    "description": "NewListDialog edit header title"
-  },
   "buttonEditList": "Рэдагаваць спіс",
-  "@buttonEditList": {
-    "description": "Generic Edit list button"
-  },
   "phoneSupportMessage": "Цяпер deck.blue цалкам падтрымліваецца толькі на стацыянарных камп’ютарах і планшэтах, калі ласка, паспрабуйце гэтыя версіі для больш зручнай працы!",
-  "@phoneSupportMessage": {
-    "description": "Phone support warning message"
-  },
   "allowedNotificationSetting": "Дазволеныя апавяшчэнні",
-  "@allowedNotificationSetting": {
-    "description": "Allowed notifications column setting"
-  },
   "notificationLikeTitle": "Падабайка",
-  "@notificationLikeTitle": {
-    "description": "Notification like"
-  },
   "notificationRepostTitle": "Пашырыць",
-  "@notificationRepostTitle": {
-    "description": "Notification repost"
-  },
   "notificationFollowTitle": "Падпісацца",
-  "@notificationFollowTitle": {
-    "description": "Notification follow"
-  },
   "notificationMentionTitle": "Згадаць",
-  "@notificationMentionTitle": {
-    "description": "Notification mention"
-  },
   "notificationQuoteTitle": "Цытата",
-  "@notificationQuoteTitle": {
-    "description": "Notification quote"
-  },
   "notificationReplyTitle": "Адказаць",
-  "@notificationReplyTitle": {
-    "description": "Notification reply"
-  },
   "timerSetting": "Абнаўляць кожныя",
-  "@timerSetting": {
-    "description": "Timer column setting"
-  },
   "quoteTo": "Цытата {actor}",
-  "@quoteTo": {
-    "description": "quoteTo formatted text"
-  },
   "followingReplies": "Адфільтраваць адказы па",
-  "@followingReplies": {
-    "description": "Filter replies by following toggle"
-  },
   "settingsShowAlt": "Паказаць alt тэкст па змаўчанні",
-  "@settingsShowAlt": {
-    "description": "Settings showAlt toggle"
-  },
   "confirmUnfollowActorTitle": "Адпісацца",
-  "@confirmUnfollowActorTitle": {
-    "description": "Confirmation title when unfollowing"
-  },
   "confirmUnfollowActorContent": "Вы ўпэўненыя, што жадаеце адпісацца ад {handle}?",
-  "@confirmUnfollowActorContent": {
-    "description": "Confirmation message when unfollowing"
-  },
   "confirmBlockActorTitle": "Заблакіраваць",
-  "@confirmBlockActorTitle": {
-    "description": "A title for confirmation dialog when blocking"
-  },
   "confirmBlockActorContent": "Заблакіраваныя ўліковыя запісы не могуць адказваць у вашых ланцугах, згадваць вас ці іншым чынам узаемадзейнічаць з вамі. Вы ўпэўненыя, што жадаеце заблакіраваць гэты ўліковы запіс?",
-  "@confirmBlockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
   "confirmUnblockActorTitle": "Разблакіраваць",
-  "@confirmUnblockActorTitle": {
-    "description": "A title for confirmation dialog when unblocking"
-  },
   "confirmUnblockActorContent": "Пасля разблакіроўкі ўліковы запіс зможа ўзаемадзейнічаць з Вамі. Вы ўпэўненыя, што жадаеце разблакіраваць гэты ўліковы запіс?",
-  "@confirmUnblockActorContent": {
-    "description": "Confirmation message when blocking"
-  },
   "confirmDeletePostTitle": "Выдаліць допіс",
-  "@confirmDeletePostTitle": {
-    "description": "A title for confirmation dialog when deleting post"
-  },
   "confirmDeletePostContent": "Вы ўпэўненыя, што жадаеце выдаліць гэты допіс?",
-  "@confirmDeletePostContent": {
-    "description": "Confirmation message when deleting post"
-  },
   "confirmListConvertTitle": "Канвертаваць спіс",
-  "@confirmListConvertTitle": {
-    "description": "A title for confirmation dialog when converting a list"
-  },
   "confirmListConvertContent": "Цяпер гэты спіс з’яўляецца спісам адключэння гуку; каб выкарыстоўваць яго ў якасці слупка, неабходна яго канвертаваць. Пасля пераўтварэння ўліковыя запісы, якія ўжо знаходзяцца ў спісе, больш не будуць лічацца адключанымі. Вы ўпэўненыя, што хочаце пераўтварыць яго?",
-  "@confirmListConvertContent": {
-    "description": "Confirmation message when converting a list"
-  },
   "convertButton": "Канвертаваць",
-  "@convertButton": {
-    "description": "Generic Convert button"
-  },
   "hashtags": "Хэштэгі",
-  "@hashtags": {
-    "description": "Generic Hashtags title"
-  },
   "warningOnPressedLinkTitle": "ПАЧАКАЙЦЕ!",
-  "@warningOnPressedLinkTitle": {
-    "description": "Title of warning dialog when link is pressed"
-  },
   "warningOnPressedLinkContent": "Гэта спасылка прывядзе вас на наступны сайт. Вы ўпэўнены, што жадаеце перайсці на гэты сайт?",
-  "@warningOnPressedLinkContent": {
-    "description": "Content of warning dialog when link is pressed"
-  },
   "wordSelectDialogHint": "Калі ласка, увядзіце любое слова, падзеленае коскай. Максімум 64 сімвала.",
-  "@wordSelectDialogHint": {
-    "description": "A hint for the word select dialog"
-  },
   "wordSelectDialogHintWithSpaceFilter": "Калі ласка, увядзіце любое слова, падзеленае коскай. Максімум 64 сімвала.",
-  "@wordSelectDialogHintWithSpaceFilter": {
-    "description": "A hint for the word select dialog with the space filter"
-  },
   "columnTimerNone": "Уручную",
-  "@columnTimerNone": {
-    "description": "ColumnTimer none title"
-  },
   "loadMoreButton": "Загрузіць яшчэ",
-  "@loadMoreButton": {
-    "description": "Generic 'Load more' button"
-  },
   "showClearButton": "Паказаць кнопку ачысткі",
-  "@showClearButton": {
-    "description": "showClearButton column setting"
-  },
   "manageActorInList": "Дадаць/выдаліць са спісу",
-  "@manageActorInList": {
-    "description": "manageActorInList dialog menu"
-  },
   "connectPatreon": "Падключыцеся да Patreon",
-  "@connectPatreon": {
-    "description": "Connect Patreon settings button"
-  },
   "disconnectPatreon": "Адключыцеся ад Patreon",
-  "@disconnectPatreon": {
-    "description": "Disconnect Patreon settings button"
-  },
   "disconnectPatreonConfirm": "Вы ўпэўнены, што жадаеце адключыць уліковы запіс Patreon? Вы не зможаце карыстацца такімі перавагамі, як планаванне, і вашы дадатковыя ўліковыя запісы будуць выключаны.",
-  "@disconnectPatreonConfirm": {
-    "description": "Disconnect Patreon confirmation"
-  },
   "patreonNoTier": "Не маеце падпіскі на Patreon",
-  "@patreonNoTier": {
-    "description": "PatreonTier null title"
-  },
   "patreonTierInitial": "Зыходная",
-  "@patreonTierInitial": {
-    "description": "PatreonTier initial title"
-  },
   "patreonTierHelper": "Дапаможнік",
-  "@patreonTierHelper": {
-    "description": "PatreonTier helper title"
-  },
   "patreonTierSupporter": "Прыхільнік",
-  "@patreonTierSupporter": {
-    "description": "PatreonTier supporter title"
-  },
   "patreonTierSponsor": "Спонсар",
-  "@patreonTierSponsor": {
-    "description": "PatreonTier sponsor title"
-  },
   "errorLoginInvalidEmail": "Ваш уліковы запіс не мае дзейнага адрасы электроннай пошты ці яна не пацверджана, калі ласка, зрабіце гэта ў афіцыйных праграмах.",
-  "@errorLoginInvalidEmail": {
-    "description": "LoginError invalidEmail"
-  },
   "errorLoginChangeAppPassword": "Вы спрабуеце ўвайсці ў сістэму з паролем праграмы, адрозным ад таго, які выкарыстоўваўся ў апошні раз пры працы з deck.blue. На ваш электронны адрас быў адпраўлены праверачны код, скарыстайцеся ім для пацверджання вашага ўліковага запісу і зменіце пароль на новы.",
-  "@errorLoginChangeAppPassword": {
-    "description": "LoginError changeAppPassword"
-  },
   "errorLoginExpiredChangeCode": "Выкарыстоўваны праверачны код несапраўдны. Калі тэрмін яго дзеяння скончыўся, мы вышлем іншы.",
-  "@errorLoginExpiredChangeCode": {
-    "description": "LoginError expiredChangeCode"
-  },
   "passwordCodeLabel": "Код верыфікацыі",
-  "@passwordCodeLabel": {
-    "description": "Login password code label"
-  },
   "loginMigration": "У рамках абнаўлення v2.0 ад вас патрабуецца ўвайсці яшчэ раз, каб вашы налады і слупкі былі належным чынам захаваны.",
-  "@loginMigration": {
-    "description": "Login migration explanation"
-  },
   "settingsColor": "Асноўны колер тэмы",
-  "@settingsColor": {
-    "description": "Color settings"
-  },
   "accounts": "Уліковыя запісы",
-  "@accounts": {
-    "description": "Generic 'Accounts' label"
-  },
   "addAccount": "Дадаць уліковы запіс",
-  "@addAccount": {
-    "description": "Generic 'Add account' button"
-  },
   "accountConfirmationStep": "Этап пацвярджэння",
-  "@accountConfirmationStep": {
-    "description": "Account confirmationStep setting title"
-  },
   "accountConfirmationStepDescription": "Дадае этап пацверджання перад публікацыяй",
-  "@accountConfirmationStepDescription": {
-    "description": "Account confirmationStep setting description"
-  },
   "removeAccount": "Выдаліць",
-  "@removeAccount": {
-    "description": "Generic 'Remove account' button"
-  },
   "removeAccountDisclaimer": "Пры выдаленні гэтага ўліковага запісу ўсе дададзеныя ў яго слупкі і запланаваныя допісы таксама будуць выдаленыя. Вы ўпэўненыя, што жадаеце выдаліць гэты ўліковы запіс?",
-  "@removeAccountDisclaimer": {
-    "description": "Remove account dialog disclaimer"
-  },
   "errorAccountMaxAccounts": "Вы ўжо дасягнулі максімальнай колькасці ўліковых запісаў для вашага ўзроўню Patreon.",
-  "@errorAccountMaxAccounts": {
-    "description": "Error when adding new account: max reached"
-  },
   "errorAccountAdd": "Не ўдалося дадаць гэты ўліковы запіс, паспрабуйце пазней.",
-  "@errorAccountAdd": {
-    "description": "Unknown error when adding new account"
-  },
   "errorAccountUnknown": "Не ўдалося кіраваць гэтым уліковым запісам, паспрабуйце пазней.",
-  "@errorAccountUnknown": {
-    "description": "Unknown error when managing account"
-  },
   "preview": "Перадпрагляд",
-  "@preview": {
-    "description": "Generic 'Preview' label"
-  },
   "repostDialogTitle": "Пашырыць ад…",
-  "@repostDialogTitle": {
-    "description": "RepostDialog title"
-  },
   "confirmationStep": "Гатовы?",
-  "@confirmationStep": {
-    "description": "confirmationStep usage in NewPostWidget"
-  },
   "likeDialogTitle": "Падабайка ад…",
-  "@likeDialogTitle": {
-    "description": "LikeDialog title"
-  },
   "addAccountDisclaimer": "Стварыце асобны пароль праграмы для кожнага дададзенага ўліковага запісу, інакш ваш сеанс можа быць адменены, і вам давядзецца паўторна дадаць свой уліковы запіс.",
-  "@addAccountDisclaimer": {
-    "description": "Disclaimer for LoginPage to add account"
-  },
   "profileFromDialogTitle": "Профіль ад…",
-  "@profileFromDialogTitle": {
-    "description": "ProfileFromDialog title"
-  },
   "viewFromAccount": "Перадпрагляд ад…",
-  "@viewFromAccount": {
-    "description": "Generic 'View from account' label"
-  },
   "show": "Паказаць",
-  "@show": {
-    "description": "Generic 'Show' label"
-  },
   "confirmDeleteColumnTitle": "Выдаліць слупок",
-  "@confirmDeleteColumnTitle": {
-    "description": "A title for confirmation dialog when deleting column"
-  },
   "confirmDeleteColumnContent": "Вы ўпэўненыя, што жадаеце выдаліць гэты слупок?",
-  "@confirmDeleteColumnContent": {
-    "description": "Confirmation message when deleting column"
-  },
   "settingsCompactMode": "Кампактны рэжым для допісаў",
-  "@settingsCompactMode": {
-    "description": "Settings dialog compact mode"
-  },
   "errorAccountRelink": "Не ўдалося паўторна звязаць гэты ўліковы запіс, паспрабуйце яшчэ раз.",
-  "@errorAccountRelink": {
-    "description": "Error when relinking existing account"
-  },
   "relinkAccount": "Перападключыць уліковы запіс",
-  "@relinkAccount": {
-    "description": "Relink account button"
-  },
   "settingsForceAltTextInput": "Патрабаваць alt тэкст перад публікацыяй",
-  "@settingsForceAltTextInput": {
-    "description": "Flag whether to force alt text input in the settings dialog"
-  },
   "postDialogForceAltTextInputHint": "На адной або некалькіх медыя адсутнічае alt тэкст",
-  "@postDialogForceAltTextInputHint": {
-    "description": "Hint indicating that alt text has not been entered"
-  },
   "loginDisclaimer1": "Уваходзячы ў сістэму, вы згаджаецеся з тым, што",
-  "@loginDisclaimer1": {
-    "description": "Login disclaimer part 1"
-  },
   "loginDisclaimer2": "Ўмовы абслугоўвання",
-  "@loginDisclaimer2": {
-    "description": "Login disclaimer part 2"
-  },
   "loginDisclaimer3": "і",
-  "@loginDisclaimer3": {
-    "description": "Login disclaimer part 3"
-  },
   "loginDisclaimer4": "Палітыка прыватнасці",
-  "@loginDisclaimer4": {
-    "description": "Login disclaimer part 4"
-  },
   "loginDisclaimer5": "",
-  "@loginDisclaimer5": {
-    "description": "Login disclaimer part 5. This can be empty depending on the language."
-  },
   "searchDialogFeeds": "Стужкі",
-  "@searchDialogFeeds": {
-    "description": "SearchDialog Feeds tab"
-  },
   "emptyFeeds": "Стужкі не знойдзены",
-  "@emptyFeeds": {
-    "description": "Empty state for feed search"
-  },
   "quoteFeedButton": "Дадайце спасылку на стужку",
-  "@quoteFeedButton": {
-    "description": "Add a feed embed"
-  },
   "quoteListButton": "Дадаць спасылку на спіс",
-  "@quoteListButton": {
-    "description": "Add a list embed"
-  },
   "shortcutsDialogTitle": "Спалучэнні клавіш",
-  "@shortcutsDialogTitle": {
-    "description": "Shortcuts dialog title"
-  },
   "shortcutsNewPost": "Новы допіс",
-  "@shortcutsNewPost": {
-    "description": "New post shortcut"
-  },
   "shortcutsSendPost": "Адправіць допіс",
-  "@shortcutsSendPost": {
-    "description": "Send post shortcut"
-  },
   "shortcutsScrollFirst": "Пракрутка да першага слупка",
-  "@shortcutsScrollFirst": {
-    "description": "1 shortcut"
-  },
   "shortcutsScrollNumbers": "Пракрутка да слупка 2-9",
-  "@shortcutsScrollNumbers": {
-    "description": "2-9 shortcut"
-  },
   "shortcutsScrollLast": "Пракрутка да апошняга слупка",
-  "@shortcutsScrollLast": {
-    "description": "0 shortcut"
-  },
   "shortcutsThread": "Пры праглядзе ланцугоў",
-  "@shortcutsThread": {
-    "description": "Shortcuts 'Thread' category"
-  },
   "shortcutsThreadViewer": "Праграма прагляду ланцугоў",
-  "@shortcutsThreadViewer": {
-    "description": "Open Thread Viewer shortcut"
-  },
   "shortcutsCloseThread": "Закрыць ланцуг",
-  "@shortcutsCloseThread": {
-    "description": "Close Thread shortcut"
-  },
   "shortcutsLike": "Падабаецца гэты допіс",
-  "@shortcutsLike": {
-    "description": "Like shortcut"
-  },
   "shortcutsReply": "Новы адказ на гэты допіс",
-  "@shortcutsReply": {
-    "description": "Like shortcut"
-  },
   "shortcutsQuote": "Працытуйце гэты допіс",
-  "@shortcutsQuote": {
-    "description": "Like shortcut"
-  },
   "shortcutsRepost": " Пашырэнне гэтага допісу",
-  "@shortcutsRepost": {
-    "description": "Repost shortcut"
-  },
   "shortcutsGeneral": "Галоўнае",
-  "@shortcutsGeneral": {
-    "description": "Shortcuts 'General' category"
-  },
   "shortcutsCloseWindow": "Закрыць акно",
-  "@shortcutsCloseWindow": {
-    "description": "Close window shortcut"
-  },
-  "shortcutsThisWindow": "Акно спалучэнняў клавіш",
-  "@shortcutsThisWindow": {
-    "description": "Shortcuts shortcut"
-  }
+  "shortcutsThisWindow": "Акно спалучэнняў клавіш"
 }
