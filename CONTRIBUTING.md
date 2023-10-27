@@ -18,7 +18,11 @@ All translation information for deck.blue is in the [strings](https://github.com
 
 #### Adding a new language
 
-Start by copying the full `strings_en.arb` file, then rename it to have the language tag based on the [IANA list](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). For example, to add French, you would rename the file to `strings_fr.arb`. If it's a language that needs the full tag, such as Spanish (es) vs Latin America Spanish (es-419), the files would be `strings_es.arb` and `strings_es_419.arb` respectively.
+- Start by copying the full `strings_en.arb` file, then rename it to have the language tag based on the [IANA list](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).
+- For example, to add French, you would rename the file to `strings_fr.arb`.
+- If it's a language that needs the full tag, such as Spanish (es) vs Latin America Spanish (es-419), the files would be `strings_es.arb` and `strings_es_419.arb` respectively. 
+- If you're adding a language that contains variants for plurals, please check the `strings_pt.arb` file instead so you can see how those variations are used! 
+- In your PR, please add the original name of the language to be displayed! Ex: Spanish should be **Español**. 
 
 #### Editing an existing language
 
