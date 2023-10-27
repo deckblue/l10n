@@ -123,11 +123,11 @@
   "@mediaSizeSetting": {
     "description": "MediaSize setting title"
   },
-  "embedTypeSetting": "Allowed embeds",
+  "embedTypeSetting": "Toegestane embeds",
   "@embedTypeSetting": {
     "description": "EmbedType setting title"
   },
-  "postTypeSetting": "Toegestane post types",
+  "postTypeSetting": "Toegestane bericht types",
   "@postTypeSetting": {
     "description": "EmbedType post setting title"
   },
@@ -151,7 +151,7 @@
   "@columnDescriptionHome": {
     "description": "DeckColumnType Home description"
   },
-  "columnDescriptionUser": "Jouw eigen posts",
+  "columnDescriptionUser": "Jouw eigen berichten",
   "@columnDescriptionUser": {
     "description": "DeckColumnType User description"
   },
@@ -159,63 +159,63 @@
   "@columnDescriptionNotifications": {
     "description": "DeckColumnType Notifications description"
   },
-  "columnDescriptionLikes": "Jouw gelikete posts",
+  "columnDescriptionLikes": "Jouw gelikete berichten",
   "@columnDescriptionLikes": {
     "description": "DeckColumnType Likes description"
   },
-  "columnDescriptionMentions": "Iedere post die jou vermeldt",
+  "columnDescriptionMentions": "Ieder bericht dat jou vermeldt",
   "@columnDescriptionMentions": {
     "description": "DeckColumnType Mentions description"
   },
-  "columnDescriptionMedia": "Your posts with any media",
+  "columnDescriptionMedia": "Jouw berichten met ieder type media",
   "@columnDescriptionMedia": {
     "description": "DeckColumnType Media description"
   },
-  "columnDescriptionCustom": "Select a custom feed from your saved ones",
+  "columnDescriptionCustom": "Selecteer een aangepastte feed vanuit jouw opgeslagen feeds",
   "@columnDescriptionCustom": {
     "description": "DeckColumnType Custom description"
   },
-  "columnDescriptionListFeed": "Create a list or select an existing one",
+  "columnDescriptionListFeed": "Maak een lijst aan of selecteer een bestaande",
   "@columnDescriptionListFeed": {
     "description": "DeckColumnType List description"
   },
-  "selectLanguageDialogTitle": "Select the language of your post",
+  "selectLanguageDialogTitle": "Selecteer de taal van jouw bericht",
   "@selectLanguageDialogTitle": {
     "description": "SelectLanguageDialog title"
   },
-  "selectOtherLanguage": "Other…",
+  "selectOtherLanguage": "Overig…",
   "@selectOtherLanguage": {
     "description": "SelectLanguageDialog menu option"
   },
-  "postButton": "Post",
+  "postButton": "Bericht",
   "@postButton": {
     "description": "NewPostDialog button"
   },
-  "deleteButton": "Delete",
+  "deleteButton": "Verwijder",
   "@deleteButton": {
     "description": "Generic delete button"
   },
-  "postDialogHint": "What's up?",
+  "postDialogHint": "Vertel!",
   "@postDialogHint": {
     "description": "NewPostDialog text field hint"
   },
-  "postErrorUpload": "Couldn't post. Please try again later.",
+  "postErrorUpload": "Kan niet verzenden. Probeer het later nogmaals.",
   "@postErrorUpload": {
     "description": "PostErrorType upload description"
   },
-  "postErrorDelete": "Couldn't delete this post. Please try again later.",
+  "postErrorDelete": "Kan dit  bericht niet verwijderen. Probeer het later nogmaals.",
   "@postErrorDelete": {
     "description": "PostErrorType delete description"
   },
-  "postErrorLike": "Couldn't like this post. Please try again later.",
+  "postErrorLike": "Kan dit bericht niet liken. Probeer het later nogmaals.",
   "@postErrorLike": {
     "description": "PostErrorType like description"
   },
-  "postErrorRepost": "Unable to repost. Please try again later.",
+  "postErrorRepost": "Niet mogelijk om te reposten. Probeer het later nogmaals.",
   "@postErrorRepost": {
     "description": "PostErrorType repost description"
   },
-  "replyButton": "Reply",
+  "replyButton": "Antwoord",
   "@replyButton": {
     "description": "Generic reply button"
   },
@@ -231,27 +231,27 @@
   "@likeButton": {
     "description": "Generic like button"
   },
-  "replyDialogHint": "Write a reply to this post",
+  "replyDialogHint": "Antwoord op dit bericht",
   "@replyDialogHint": {
     "description": "NewPostDialog reply text field hint"
   },
-  "quoteDialogHint": "Say something about this post",
+  "quoteDialogHint": "Zeg iets over dit bericht",
   "@quoteDialogHint": {
     "description": "NewPostDialog quote text field hint"
   },
-  "threadTitle": "Thread",
+  "threadTitle": "Draad",
   "@threadTitle": {
     "description": "Thread page title"
   },
-  "undoButton": "Undo",
+  "undoButton": "Ongedaan maken",
   "@undoButton": {
     "description": "Generic undo button"
   },
-  "postButtonCopy": "Share",
+  "postButtonCopy": "Deel",
   "@postButtonCopy": {
     "description": "Post copy URL button"
   },
-  "postCopyMessage": "Copied to clipboard",
+  "postCopyMessage": "Gekopieerd naar het klembord",
   "@postCopyMessage": {
     "description": "Post copy URL success message"
   },
@@ -259,7 +259,7 @@
   "@postButtonOpen": {
     "description": "Post open in bsky button"
   },
-  "errorThreadEmptyPost": "Unable to find post",
+  "errorThreadEmptyPost": "Niet mogelijk om het bericht te vinden",
   "@errorThreadEmptyPost": {
     "description": "Error in thread view when unable to find a post"
   },
