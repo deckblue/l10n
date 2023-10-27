@@ -204,7 +204,7 @@
   "warningOnPressedLinkTitle": "ПАЧАКАЙЦЕ!",
   "warningOnPressedLinkContent": "Гэта спасылка прывядзе вас на наступны сайт. Вы ўпэўнены, што жадаеце перайсці на гэты сайт?",
   "wordSelectDialogHint": "Увядзіце любое слова, падзеленае коскай. Максімум 64 сімвала.",
-  "wordSelectDialogHintWithSpaceFilter": Увядзіце любое слова, падзеленае коскай. Максімум 64 сімвала.",
+  "wordSelectDialogHintWithSpaceFilter": "Увядзіце любое слова, падзеленае коскай. Максімум 64 сімвала.",
   "columnTimerNone": "Уручную",
   "loadMoreButton": "Загрузіць яшчэ",
   "showClearButton": "Паказаць кнопку ачысткі",
