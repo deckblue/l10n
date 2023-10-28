@@ -116,7 +116,7 @@
   "contentLabelNudity": "ヌード",
   "clearButton": "クリア",
   "emptySavedFeeds": "No saved feeds available. For now, please add them through",
-  "appPasswordTooltip": "アプリパスワードはBlueskyの機能で、サードパーティのアプリを利用する際の安全性を高めるものです。\ndeck.blueではログインの際に必ずアプリパスワードを使用する必要があります。",
+  "appPasswordTooltip": "アプリパスワードはBlueskyの機能で、サードパーティのアプリを利用する際の安全性を高めるものです。\nそのためdeck.blueにログインする際にもアプリパスワードを使用することが推奨されています。",
   "contentLabelSetting": "メディアに警告を追加",
   "postErrorTooLarge": "ポストできませんでした。メディアの最大のアップロードサイズは1MBです。",
   "tooltipKofi": "コーヒーを買ってください！",
