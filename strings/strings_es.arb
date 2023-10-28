@@ -255,5 +255,21 @@
   "searchDialogFeeds": "Feeds",
   "emptyFeeds": "No se han encontrado feeds",
   "quoteFeedButton": "Añadir enlace de Feed",
-  "quoteListButton": "Añadir enlace de lista"
+  "quoteListButton": "Añadir enlace de lista",
+  "shortcutsDialogTitle": "Atajos",
+  "shortcutsNewPost": "Nuevo post",
+  "shortcutsSendPost": "Enviar post",
+  "shortcutsScrollFirst": "Desplazarse a la primera columna",
+  "shortcutsScrollNumbers": "Desplazarse de la columna 2 a la 9",
+  "shortcutsScrollLast": "Desplazarse a la última columna",
+  "shortcutsThread": "Cuando ves un hilo",
+  "shortcutsThreadViewer": "Abrir visor de hilos",
+  "shortcutsCloseThread": "Cerrar Hilo",
+  "shortcutsLike": "Me gusta a ese post",
+  "shortcutsReply": "Nueva respuesta a ese post",
+  "shortcutsQuote": "Citar ese post",
+  "shortcutsRepost": "Repostear ese post",
+  "shortcutsGeneral": "General",
+  "shortcutsCloseWindow": "Cerrar ventana",
+  "shortcutsThisWindow": "Ventana de atajos"
 }

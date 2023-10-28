@@ -255,5 +255,21 @@
   "searchDialogFeeds": "Feeds",
   "emptyFeeds": "No s'han trobat feeds",
   "quoteFeedButton": "Afegir enllaç de Feed",
-  "quoteListButton": "Afegir enllaç de llista"
+  "quoteListButton": "Afegir enllaç de llista",
+  "shortcutsDialogTitle": "Dreceres",
+  "shortcutsNewPost": "Nou post",
+  "shortcutsSendPost": "Enviar post",
+  "shortcutsScrollFirst": "Desplaçar-se a la primera columna",
+  "shortcutsScrollNumbers": "Desplaçar-se de la columna 2 a la 9",
+  "shortcutsScrollLast": "Desplaçar-se a l'última columna",
+  "shortcutsThread": "Quan veus un fil",
+  "shortcutsThreadViewer": "Obrir visor de fils",
+  "shortcutsCloseThread": "Tancar Fil",
+  "shortcutsLike": "M'agrada a eixe post",
+  "shortcutsReply": "Nova resposta a eixe post",
+  "shortcutsQuote": "Citar eixe post",
+  "shortcutsRepost": "Repostejar eixe post",
+  "shortcutsGeneral": "General",
+  "shortcutsCloseWindow": "Tancar finestra",
+  "shortcutsThisWindow": "Finestra de dreceres"
 }
