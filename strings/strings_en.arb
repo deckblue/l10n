@@ -1090,5 +1090,17 @@
   "shortcutsThisWindow": "Shortcuts window",
   "@shortcutsThisWindow": {
     "description": "Shortcuts shortcut"
+  },
+  "settingsAutoplayGIFs": "Autoplay GIFs",
+  "@settingsAutoplayGIFs": {
+    "description": "Setting for GIF autoplay"
+  },
+  "searchTenor": "Search Tenor",
+  "@searchTenor": {
+    "description": "GIF search hint"
+  },
+  "settingsDisableGIFs": "Disable GIFs",
+  "@settingsDisableGIFs": {
+    "description": "Setting for GIF disable"
   }
 }
