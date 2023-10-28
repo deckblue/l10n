@@ -28,7 +28,10 @@
     "shortcutsRepost",
     "shortcutsGeneral",
     "shortcutsCloseWindow",
-    "shortcutsThisWindow"
+    "shortcutsThisWindow",
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -57,13 +60,36 @@
     "shortcutsRepost",
     "shortcutsGeneral",
     "shortcutsCloseWindow",
-    "shortcutsThisWindow"
+    "shortcutsThisWindow",
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
   ],
-  "be": [],
-  "id": [],
-  "es": [],
-  "fr": [],
-  "ca": [],
+  "be": [
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
+  ],
+  "id": [
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
+  ],
+  "es": [
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
+  ],
+  "fr": [
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
+  ],
+  "ca": [
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
+  ],
   "de": [
     "confirmDeleteColumnTitle",
     "confirmDeleteColumnContent",
@@ -96,7 +122,10 @@
     "shortcutsRepost",
     "shortcutsGeneral",
     "shortcutsCloseWindow",
-    "shortcutsThisWindow"
+    "shortcutsThisWindow",
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -125,9 +154,15 @@
     "shortcutsRepost",
     "shortcutsGeneral",
     "shortcutsCloseWindow",
-    "shortcutsThisWindow"
+    "shortcutsThisWindow",
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "settingsAutoplayGIFs",
+    "searchTenor",
+    "settingsDisableGIFs"
   ]
 }
