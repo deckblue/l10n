@@ -160,9 +160,6 @@
     "settingsDisableGIFs"
   ],
   "ja": [
-    "followsAccount",
-    "settingsAutoplayGIFs",
-    "searchTenor",
-    "settingsDisableGIFs"
+    "followsAccount"
   ]
 }
