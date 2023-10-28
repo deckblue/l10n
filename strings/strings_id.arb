@@ -246,7 +246,7 @@
   "errorAccountRelink": "Tidak dapat menautkan ulang akun ini, coba lagi.",
   "relinkAccount": "Tautkan kembali",
   "settingsForceAltTextInput": "Memerlukan teks alternatif sebelum memposting",
-  "postDialogForceAltTextInputHint": "Satu atau beberapa gambar tidak memiliki teks alternatif"
+  "postDialogForceAltTextInputHint": "Satu atau beberapa gambar tidak memiliki teks alternatif",
   "loginDisclaimer1": "Dengan masuk, Anda menyetujui",
   "loginDisclaimer2": "Ketentuan Layanan",
   "loginDisclaimer3": "dan",
@@ -271,5 +271,5 @@
   "shortcutsRepost": "Posting ulang postingan",
   "shortcutsGeneral": "Umum",
   "shortcutsCloseWindow": "Tutup jendela",
-  "shortcutsThisWindow": "Pintasan jendela",
+  "shortcutsThisWindow": "Pintasan jendela"
 }
