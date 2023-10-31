@@ -1102,5 +1102,13 @@
   "settingsDisableGIFs": "Disable GIFs",
   "@settingsDisableGIFs": {
     "description": "Setting for GIF disable"
+  },
+  "sponsors": "Sponsors",
+  "@sponsors": {
+    "description": "General 'Sponsors' label"
+  },
+  "blockingByList": "blocking by list",
+  "@blockingByList": {
+    "description": "Profile viewed is blocking by list"
   }
 }
