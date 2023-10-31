@@ -161,7 +161,7 @@
   "createListDescriptionLabel": "Опис",
   "createListDescriptionHint": "Цікаві люди, яких я хочу бачити",
   "createListButton": "Створити список",
-  "addListColumnDialogTitle": "Додати колонку списку",
+  "addListColumnDialogTitle": "Додати колонку Списку",
   "emptyCuratedLists": "Порожні збережені списки.",
   "tooltipAddColumn": "Додати колонку",
   "tooltipColumnAdded": "Колонка вже додана",
@@ -274,5 +274,7 @@
   "shortcutsThisWindow": "Показати клавішні сполучення",
   "settingsAutoplayGIFs": "Автовідтворення GIF",
   "searchTenor": "Шукати в Tenor",
-  "settingsDisableGIFs": "Вимкнути GIF"
+  "settingsDisableGIFs": "Вимкнути GIF",
+  "sponsors": "Спонсори",
+  "blockingByList": "заблоковано у списку"
 }
