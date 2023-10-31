@@ -1,5 +1,7 @@
 {
-  "pt": [],
+  "pt": [
+    "blockingByList"
+  ],
   "zh_TW": [
     "followsAccount",
     "settingsForceAltTextInput",
@@ -31,7 +33,9 @@
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -63,28 +67,41 @@
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
   "be": [
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
-  "id": [],
+  "id": [
+    "sponsors",
+    "blockingByList"
+  ],
   "es": [
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
   "fr": [
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
   "ca": [
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -121,9 +138,14 @@
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
-  "uk": [],
+  "uk": [
+    "sponsors",
+    "blockingByList"
+  ],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -154,7 +176,9 @@
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
     "searchTenor",
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "sponsors",
+    "blockingByList"
   ],
   "ja": [
     "followsAccount"
