@@ -150,7 +150,7 @@
   "errorCreateList": "Tidak dapat membuat daftar, coba lagi.",
   "emptyListItems": "Daftar ini kosong!",
   "emptyFollowing": "Anda tidak mengikuti siapa pun!",
-  "manageListHeader": "Sunting Daftar {nama}",
+  "manageListHeader": "Sunting Daftar {name}",
   "saveListButton": "Simpan Daftar",
   "manageListCurrentTab": "Saat Ini",
   "manageListFollowingTab": "Mengikuti",
