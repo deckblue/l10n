@@ -263,51 +263,51 @@
   "@errorThreadEmptyPost": {
     "description": "Error in thread view when unable to find a post"
   },
-  "searchDialogHint": "Search",
+  "searchDialogHint": "Zoeken",
   "@searchDialogHint": {
     "description": "SearchDialog text field hint"
   },
-  "searchDialogUsers": "Users",
+  "searchDialogUsers": "Gebruikers",
   "@searchDialogUsers": {
     "description": "SearchDialog Users tab"
   },
-  "searchDialogPosts": "Posts",
+  "searchDialogPosts": "Berichten",
   "@searchDialogPosts": {
     "description": "SearchDialog Posts tab"
   },
-  "searchDialogAddColumn": "Add column",
+  "searchDialogAddColumn": "Voeg een kolom toe",
   "@searchDialogAddColumn": {
     "description": "SearchDialog Add column button"
   },
-  "translateButton": "Translate",
+  "translateButton": "Vertaal",
   "@translateButton": {
     "description": "Generic Translate button"
   },
-  "emptyPosts": "No posts found",
+  "emptyPosts": "Geen berichten gevonden",
   "@emptyPosts": {
     "description": "Empty state for post search"
   },
-  "emptyUsers": "No profiles found",
+  "emptyUsers": "Geen profielen gevonden",
   "@emptyUsers": {
     "description": "Empty state for profile search"
   },
-  "profileDialogPosts": "Posts",
+  "profileDialogPosts": "Berichten",
   "@profileDialogPosts": {
     "description": "Profile dialog Posts label"
   },
-  "profileDialogFollowing": "Following",
+  "profileDialogFollowing": "Volgend",
   "@profileDialogFollowing": {
     "description": "Profile dialog Following label"
   },
-  "profileDialogFollowers": "Followers",
+  "profileDialogFollowers": "Volgers",
   "@profileDialogFollowers": {
     "description": "Profile dialog Followers label"
   },
-  "errorProfileDialog": "Couldn't load this profile. Please try again later.",
+  "errorProfileDialog": "Kan dit profiel niet laden. Probeer het later nogmaals.",
   "@errorProfileDialog": {
     "description": "Error state for profile search"
   },
-  "profileDialogPostsColumn": "Posts",
+  "profileDialogPostsColumn": "Berichten",
   "@profileDialogPostsColumn": {
     "description": "Profile dialog Posts column label"
   },
@@ -319,7 +319,7 @@
   "@profileDialogLikesColumn": {
     "description": "Profile dialog Likes column label"
   },
-  "profileDialogAddColumn": "Add a column",
+  "profileDialogAddColumn": "Voeg een kolom toe",
   "@profileDialogAddColumn": {
     "description": "Profile dialog Add column label"
   },
