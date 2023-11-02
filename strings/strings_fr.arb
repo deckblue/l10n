@@ -272,4 +272,9 @@
   "shortcutsGeneral": "Général",
   "shortcutsCloseWindow": "Fermer la fenêtre",
   "shortcutsThisWindow": "Liste des raccourcis"
+  "settingsAutoplayGIFs": "Lire automatiquement les GIFs",
+  "searchTenor": "Rechercher sur Tenor",
+  "settingsDisableGIFs": "Désactiver les GIFs",
+  "sponsors": "Sponsors",
+  "blockingByList": "bloqué via une liste"
 }
