@@ -271,5 +271,10 @@
   "shortcutsRepost": "Repostejar eixe post",
   "shortcutsGeneral": "General",
   "shortcutsCloseWindow": "Tancar finestra",
-  "shortcutsThisWindow": "Finestra de dreceres"
+  "shortcutsThisWindow": "Finestra de dreceres",
+  "settingsAutoplayGIFs": "Reproduir GIFs automàticament",
+  "searchTenor": "Buscar en Tenor",
+  "settingsDisableGIFs": "Deshabilitar GIFs",
+  "sponsors": "Patrocinadors",
+  "blockingByList": "bloquejat per llista"
 }

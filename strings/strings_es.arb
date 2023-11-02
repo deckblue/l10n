@@ -271,5 +271,10 @@
   "shortcutsRepost": "Repostear ese post",
   "shortcutsGeneral": "General",
   "shortcutsCloseWindow": "Cerrar ventana",
-  "shortcutsThisWindow": "Ventana de atajos"
+  "shortcutsThisWindow": "Ventana de atajos",
+  "settingsAutoplayGIFs": "Reproducir GIFs automáticamente",
+  "searchTenor": "Buscar en Tenor",
+  "settingsDisableGIFs": "Deshabilitar GIFs",
+  "sponsors": "Patrocinadores",
+  "blockingByList": "bloqueado por lista"
 }
