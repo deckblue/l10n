@@ -275,5 +275,6 @@
   "settingsAutoplayGIFs": "Autoplay em GIFs",
   "searchTenor": "Pesquisar no Tenor",
   "settingsDisableGIFs": "Desabilitar GIFs",
-  "sponsors": "Patrocinadores"
+  "sponsors": "Patrocinadores",
+  "blockingByList": "bloqueado em lista"
 }
