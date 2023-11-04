@@ -1107,7 +1107,7 @@
   "@sponsors": {
     "description": "General 'Sponsors' label"
   },
-  "blockingByList": "blocking by list",
+  "blockingByList": "blocked by list",
   "@blockingByList": {
     "description": "Profile viewed is blocking by list"
   }
