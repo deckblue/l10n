@@ -62,7 +62,7 @@
   "threadTitle": "スレッド",
   "undoButton": "取り消し",
   "postButtonCopy": "共有",
-  "postCopyMessage": "ポストのリンクをクリップボードにコピーしました",
+  "postCopyMessage": "リンクをクリップボードにコピーしました",
   "postButtonOpen": "公式アプリで見る",
   "errorThreadEmptyPost": "ポストが見つかりませんでした",
   "searchDialogHint": "検索",
