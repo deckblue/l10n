@@ -1,5 +1,7 @@
 {
-  "fr": [],
+  "fr": [
+    "postedDateUnitYears"
+  ],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -32,11 +34,15 @@
     "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
-    "blockingByList"
+    "blockingByList",
+    "postedDateUnitYears"
   ],
-  "ca": [],
+  "ca": [
+    "postedDateUnitYears"
+  ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "postedDateUnitYears"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -70,16 +76,20 @@
     "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
-    "blockingByList"
+    "blockingByList",
+    "postedDateUnitYears"
   ],
   "pt": [],
-  "uk": [],
+  "uk": [
+    "postedDateUnitYears"
+  ],
   "be": [
     "settingsAutoplayGIFs",
     "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
-    "blockingByList"
+    "blockingByList",
+    "postedDateUnitYears"
   ],
   "zh_TW": [
     "followsAccount",
@@ -114,9 +124,12 @@
     "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
-    "blockingByList"
+    "blockingByList",
+    "postedDateUnitYears"
   ],
-  "es": [],
+  "es": [
+    "postedDateUnitYears"
+  ],
   "de": [
     "confirmDeleteColumnTitle",
     "confirmDeleteColumnContent",
@@ -154,7 +167,10 @@
     "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
-    "blockingByList"
+    "blockingByList",
+    "postedDateUnitYears"
   ],
-  "id": []
+  "id": [
+    "postedDateUnitYears"
+  ]
 }
