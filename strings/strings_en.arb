@@ -685,7 +685,7 @@
   },
   "postedDateUnitDays": "{number}d",
   "@postedDateUnitDays": {
-    "description": "Hours unit of the date of the post"
+    "description": "Days unit of the date of the post"
   },
   "settingsMutedWords": "Muted words",
   "@settingsMutedWords": {
@@ -1110,5 +1110,9 @@
   "blockingByList": "blocked by list",
   "@blockingByList": {
     "description": "Profile viewed is blocking by list"
+  },
+  "postedDateUnitYears": "{number}y",
+  "@postedDateUnitYears": {
+    "description": "Years unit of the date of the post"
   }
 }
