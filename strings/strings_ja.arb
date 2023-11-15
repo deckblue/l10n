@@ -166,10 +166,10 @@
   "tooltipColumnAdded": "カラムは既に追加されています",
   "buttonManageList": "リストを管理",
   "postedDateUnitNow": "たった今",
-  "postedDateUnitSeconds": "{number}秒",
-  "postedDateUnitMinutes": "{number}分",
-  "postedDateUnitHours": "{number}時間",
-  "postedDateUnitDays": "{number}日",
+  "postedDateUnitSeconds": "{number}秒前",
+  "postedDateUnitMinutes": "{number}分前",
+  "postedDateUnitHours": "{number}時間前",
+  "postedDateUnitDays": "{number}日前",
   "settingsMutedWords": "ワードミュート",
   "settingsColumn": "カラムの設定",
   "settingsScrollbars": "カラムのスクロールバーを表示",
@@ -275,5 +275,6 @@
   "searchTenor": "GIFを検索",
   "settingsDisableGIFs": "GIFを無効化",
   "sponsors": "スポンサー",
-  "blockingByList": "リストでブロックしています"
+  "blockingByList": "リストでブロックしています",
+  "postedDateUnitYears": "{number}年前"
 }
