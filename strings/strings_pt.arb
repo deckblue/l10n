@@ -276,5 +276,6 @@
   "searchTenor": "Pesquisar no Tenor",
   "settingsDisableGIFs": "Desabilitar GIFs",
   "sponsors": "Patrocinadores",
-  "blockingByList": "bloqueado em lista"
+  "blockingByList": "bloqueado em lista",
+  "postedDateUnitYears": "{number}a"
 }
