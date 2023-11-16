@@ -272,4 +272,10 @@
   "shortcutsGeneral": "Агульныя",
   "shortcutsCloseWindow": "Закрыць акно",
   "shortcutsThisWindow": "Акно спалучэнняў клавіш"
+  "settingsAutoplayGIFs": "Аўтапрайграванне GIF"
+  "searchTenor": "Пошук Tenror"
+  "sponsors": "спонсары"
+  "blockingByList": "заблакіраваны па спісе"
+  "postedDateUnitYears": "{number}г"
+
 }
