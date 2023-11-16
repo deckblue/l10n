@@ -276,7 +276,7 @@
   "searchTenor": "Пошук Tenror",
   "sponsors": "спонсары",
   "blockingByList": "заблакіраваны па спісе",
-  "postedDateUnitYears": "{number}г"
+  "postedDateUnitYears": "{number}г",
   "settingsDisableGIFs": "Адключыць GIF",
   "settingsSubscribedLists": "Спісы падпісак",
   "settingsSubscribedListsSubtitle": "Усе мадаруемыя спісы, на якія вы падпісаны",
