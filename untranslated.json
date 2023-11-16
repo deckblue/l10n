@@ -1,6 +1,11 @@
 {
   "fr": [
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -35,10 +40,20 @@
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "ca": [
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "ja": [
     "followsAccount"
@@ -76,14 +91,29 @@
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "pt": [],
   "uk": [
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "be": [
-    "settingsDisableGIFs"
+    "settingsDisableGIFs",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "zh_TW": [
     "followsAccount",
@@ -119,10 +149,20 @@
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "es": [
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -162,9 +202,19 @@
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ],
   "id": [
-    "postedDateUnitYears"
+    "postedDateUnitYears",
+    "settingsSubscribedLists",
+    "settingsSubscribedListsSubtitle",
+    "unsubscribe",
+    "confirmUnmuteListContent",
+    "emptyMutedLists"
   ]
 }
