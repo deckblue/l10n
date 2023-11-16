@@ -277,5 +277,10 @@
   "settingsDisableGIFs": "Desabilitar GIFs",
   "sponsors": "Patrocinadores",
   "blockingByList": "bloqueado em lista",
-  "postedDateUnitYears": "{number}a"
+  "postedDateUnitYears": "{number}a",
+  "settingsSubscribedLists": "Listas de moderação",
+  "settingsSubscribedListsSubtitle": "Todas as listas de moderação ativas no momento",
+  "unsubscribe": "Desativar",
+  "confirmUnmuteListContent": "Esta lista está ativa, esta ação irá desmutar ou desbloquear todos os usuários nela. Tem certeza que quer fazer isso?",
+  "emptyMutedLists": "Você está sem nenhuma lista de moderação ativa!"
 }
