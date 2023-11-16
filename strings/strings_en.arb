@@ -1114,5 +1114,25 @@
   "postedDateUnitYears": "{number}y",
   "@postedDateUnitYears": {
     "description": "Years unit of the date of the post"
+  },
+  "settingsSubscribedLists": "Subscribed lists",
+  "@settingsSubscribedLists": {
+    "description": "Moderation list subscription dialog title in settings"
+  },
+  "settingsSubscribedListsSubtitle": "All your currently subscribed moderation lists",
+  "@settingsSubscribedListsSubtitle": {
+    "description": "Moderation list subscription dialog subtitle in settings"
+  },
+  "unsubscribe": "Unsubscribe",
+  "@unsubscribe": {
+    "description": "Unsubscribe from a moderation list"
+  },
+  "confirmUnmuteListContent": "This list is currently subscribed; this action will unmute/unblock everyone on it, are you sure you want to do this?",
+  "@confirmUnmuteListContent": {
+    "description": "Confirmation message when unsubscribing from a list"
+  },
+  "emptyMutedLists": "You aren't subscribed to any moderation lists!",
+  "@emptyMutedLists": {
+    "description": "Add list column dialog empty"
   }
 }
