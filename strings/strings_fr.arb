@@ -276,5 +276,11 @@
   "searchTenor": "Rechercher sur Tenor",
   "settingsDisableGIFs": "Désactiver les GIFs",
   "sponsors": "Sponsors",
-  "blockingByList": "bloqué via une liste"
+  "blockingByList": "bloqué via une liste",
+  "postedDateUnitYears": "{number} ans",
+  "settingsSubscribedLists": "Abonnements à des listes",
+  "settingsSubscribedListsSubtitle": "Toutes les listes de modération auxquelles vous êtes actuellement abonné(e)",
+  "unsubscribe": "désinscription",
+  "confirmUnmuteListContent": "Vous êtes actuellement abonné(e) à cette liste ; cette action va retirer la sourdine et/ou débloquer tous ses membres. Êtes-vous sûr(e) ?",
+  "emptyMutedLists": "Vous n'êtes abonné(e) à aucune liste de modération !"
 }
