@@ -68,13 +68,7 @@
     "settingsPanelToggles"
   ],
   "ja": [
-    "followsAccount",
-    "settingsDisableSpellcheck",
-    "settingsDisableCloseComposer",
-    "settingsDisableCloseComposerSubtitle",
-    "settingsPanelGeneral",
-    "settingsPanelInterface",
-    "settingsPanelToggles"
+    "followsAccount"
   ],
   "ru": [
     "settingsForceAltTextInput",
