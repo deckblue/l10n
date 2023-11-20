@@ -1,18 +1,5 @@
 {
-  "fr": [
-    "postedDateUnitYears",
-    "settingsSubscribedLists",
-    "settingsSubscribedListsSubtitle",
-    "unsubscribe",
-    "confirmUnmuteListContent",
-    "emptyMutedLists",
-    "settingsDisableSpellcheck",
-    "settingsDisableCloseComposer",
-    "settingsDisableCloseComposerSubtitle",
-    "settingsPanelGeneral",
-    "settingsPanelInterface",
-    "settingsPanelToggles"
-  ],
+  "fr": [],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
