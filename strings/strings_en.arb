@@ -1134,5 +1134,29 @@
   "emptyMutedLists": "You aren't subscribed to any moderation lists!",
   "@emptyMutedLists": {
     "description": "Add list column dialog empty"
+  },
+  "settingsDisableSpellcheck": "Disable spellcheck",
+  "@settingsDisableSpellcheck": {
+    "description": "Settings toggle to disable spellcheck (buggy right now)"
+  },
+  "settingsDisableCloseComposer": "Disable Esc while typing",
+  "@settingsDisableCloseComposer": {
+    "description": "Settings toggle to disable the Esc shortcut while typing"
+  },
+  "settingsDisableCloseComposerSubtitle": "If you don't want the Esc button to close the window you're typing on",
+  "@settingsDisableCloseComposerSubtitle": {
+    "description": "Settings toggle subtitle to disable the Esc shortcut while typing"
+  },
+  "settingsPanelGeneral": "General",
+  "@settingsPanelGeneral": {
+    "description": "General settings panel, everything that isn't the two below"
+  },
+  "settingsPanelInterface": "UI",
+  "@settingsPanelInterface": {
+    "description": "Interface/UI settings panel, themes, colors, column and font sizes"
+  },
+  "settingsPanelToggles": "Toggles",
+  "@settingsPanelToggles": {
+    "description": "Toggles settings panel, everything that can be turned on/off in one place"
   }
 }
