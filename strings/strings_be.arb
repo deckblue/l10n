@@ -280,7 +280,7 @@
   "settingsDisableGIFs": "Адключыць GIF",
   "settingsSubscribedLists": "Спісы падпісак",
   "settingsSubscribedListsSubtitle": "Усе мадаруемыя спісы, на якія вы падпісаны",
-  "unsubscribe": "Скасаваць падпіску"
+  "unsubscribe": "Скасаваць падпіску",
   "confirmUnmuteListContent": "Гэты спіс зараз падпісаны вамі; гэта дзеянне заблакіруе/разблакіруе усіх на ім, вы ўпэўнены, што жадаеце гэта зрабіць?",
   "emptyMutedLists": "Вы не падпісаны ні на якія мадаруемы спіс!"
 }
