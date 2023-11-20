@@ -282,5 +282,8 @@
   "settingsSubscribedListsSubtitle": "Todas as listas de moderação ativas no momento",
   "unsubscribe": "Desativar",
   "confirmUnmuteListContent": "Esta lista está ativa, esta ação irá desmutar ou desbloquear todos os usuários nela. Tem certeza que quer fazer isso?",
-  "emptyMutedLists": "Você está sem nenhuma lista de moderação ativa!"
+  "emptyMutedLists": "Você está sem nenhuma lista de moderação ativa!",
+  "settingsDisableSpellcheck": "Desabilitar corretor",
+  "settingsDisableCloseComposer": "Desabilitar Esc enquanto digita",
+  "settingsDisableCloseComposerSubtitle": "Se quiser que o Esc pare de fechar qualquer janela onde esteja digitando"
 }
