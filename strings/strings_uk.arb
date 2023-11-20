@@ -276,5 +276,17 @@
   "searchTenor": "Шукати в Tenor",
   "settingsDisableGIFs": "Вимкнути GIF",
   "sponsors": "Спонсори",
-  "blockingByList": "заблоковано у списку"
+  "blockingByList": "заблоковано у списку",
+  "postedDateUnitYears": "{number} р",
+  "settingsSubscribedLists": "Списки модерації",
+  "settingsSubscribedListsSubtitle": "Ваші поточні списки модерації",
+  "unsubscribe": "Відписатись",
+  "confirmUnmuteListContent": "Ви зараз підписані на цей список. Виконання цієї дії призведе до розблокування всіх облікових записів з цього списку. Ви дійсно бажаєте зробити це?",
+  "emptyMutedLists": "Зараз ви не підписані на жоден список модерації!",
+  "settingsDisableSpellcheck": "Вимкнути перевірку орфографії",
+  "settingsDisableCloseComposer": "Вимкнути Esc під час набору тексту",
+  "settingsDisableCloseComposerSubtitle": "Якщо ви не хочете, щоб кнопка Esc закривала вікно, у якому відбувається ввід",
+  "settingsPanelGeneral": "Загальні",
+  "settingsPanelInterface": "Вигляд",
+  "settingsPanelToggles": "Перемикачі"
 }
