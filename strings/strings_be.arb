@@ -274,7 +274,13 @@
   "shortcutsThisWindow": "Акно спалучэнняў клавіш",
   "settingsAutoplayGIFs": "Аўтапрайграванне GIF",
   "searchTenor": "Пошук Tenror",
+  "settingsDisableGIFs": "Адключыць GIF",
   "sponsors": "спонсары",
   "blockingByList": "заблакіраваны па спісе",
-  "postedDateUnitYears": "{number}г"
+  "postedDateUnitYears": "{number}г",
+  "settingsSubscribedLists": "Спісы падпісак",
+  "settingsSubscribedListsSubtitle": "Усе мадаруемыя спісы, на якія вы падпісаны",
+  "unsubscribe": "Скасаваць падпіску",
+  "confirmUnmuteListContent": "Гэты спіс зараз падпісаны вамі; гэта дзеянне заблакіруе/разблакіруе усіх на ім, вы ўпэўнены, што жадаеце гэта зрабіць?",
+  "emptyMutedLists": "Вы не падпісаны ні на якія мадаруемы спіс!"
 }

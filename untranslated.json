@@ -1,6 +1,5 @@
 {
-  "fr": [
-  ],
+  "fr": [],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -39,7 +38,13 @@
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -47,10 +52,22 @@
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -90,24 +107,40 @@
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
-  "pt": [],
+  "pt": [
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
+  ],
   "uk": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "be": [
-    "settingsDisableGIFs",
-    "settingsSubscribedLists",
-    "settingsSubscribedListsSubtitle",
-    "unsubscribe",
-    "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "zh_TW": [
     "followsAccount",
@@ -148,7 +181,13 @@
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "es": [
     "postedDateUnitYears",
@@ -156,7 +195,13 @@
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -201,7 +246,13 @@
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ],
   "id": [
     "postedDateUnitYears",
@@ -209,6 +260,12 @@
     "settingsSubscribedListsSubtitle",
     "unsubscribe",
     "confirmUnmuteListContent",
-    "emptyMutedLists"
+    "emptyMutedLists",
+    "settingsDisableSpellcheck",
+    "settingsDisableCloseComposer",
+    "settingsDisableCloseComposerSubtitle",
+    "settingsPanelGeneral",
+    "settingsPanelInterface",
+    "settingsPanelToggles"
   ]
 }
