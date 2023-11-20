@@ -279,7 +279,13 @@
   "postedDateUnitYears": "{number}年前",
   "settingsSubscribedLists": "使用中のモデレーションリスト",
   "settingsSubscribedListsSubtitle": "有効になっている全てのモデレーションリスト",
-  "unsubscribe": "サブスクライブ解除",
-  "confirmUnmuteListContent": "このモデレーションリストのサブスクライブを解除すると、このリストに含まれる全てのユーザーに対するミュートとブロックが解除されます。本当にサブスクライブを解除してもいいですか？",
-  "emptyMutedLists": "使用しているモデレーションリストはありません！"
+  "unsubscribe": "サブスクリプション解除",
+  "confirmUnmuteListContent": "このモデレーションリストのサブスクリプションを解除すると、このリストに含まれる全てのユーザーに対するミュートとブロックが解除されます。本当にサブスクライブを解除してもいいですか？",
+  "emptyMutedLists": "使用しているモデレーションリストはありません！",
+  "settingsDisableSpellcheck": "スペルチェッカを無効化",
+  "settingsDisableCloseComposer": "文字入力中のEscキーを無効化",
+  "settingsDisableCloseComposerSubtitle": "もし文字の入力中にEscキーでウィンドウを閉じたくない場合",
+  "settingsPanelGeneral": "一般",
+  "settingsPanelInterface": "見た目",
+  "settingsPanelToggles": "その他"
 }
