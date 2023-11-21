@@ -282,5 +282,12 @@
   "settingsSubscribedListsSubtitle": "Toutes les listes de modération auxquelles vous êtes actuellement abonné(e)",
   "unsubscribe": "désinscription",
   "confirmUnmuteListContent": "Vous êtes actuellement abonné(e) à cette liste ; cette action va retirer la sourdine et/ou débloquer tous ses membres. Êtes-vous sûr(e) ?",
-  "emptyMutedLists": "Vous n'êtes abonné(e) à aucune liste de modération !"
+  "emptyMutedLists": "Vous n'êtes abonné(e) à aucune liste de modération !",
+  "settingsDisableSpellcheck": "Désactiver le correcteur orthographique",
+  "settingsDisableCloseComposer": "Désactiver Echap pendant la frappe",
+  "settingsDisableCloseComposerSubtitle": "Si vous ne souhaitez pas que la touche Echap ferme la fenêtre dans laquelle vous écrivez",
+  "settingsPanelGeneral": "Général",
+  "settingsPanelInterface": "Interface",
+  "settingsPanelToggles": "Options",
+  "copyTextButton": "Copier le texte"
 }
