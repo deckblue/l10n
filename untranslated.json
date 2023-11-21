@@ -43,9 +43,12 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ],
-  "id": [],
+  "id": [
+    "copyTextButton"
+  ],
   "de": [
     "confirmDeleteColumnTitle",
     "confirmDeleteColumnContent",
@@ -95,7 +98,8 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ],
   "ja": [
     "followsAccount"
@@ -106,7 +110,8 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ],
   "fr": [
     "settingsDisableSpellcheck",
@@ -114,7 +119,8 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -160,9 +166,12 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ],
-  "uk": [],
+  "uk": [
+    "copyTextButton"
+  ],
   "es": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -175,7 +184,8 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ],
   "zh_TW": [
     "followsAccount",
@@ -222,7 +232,8 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -241,6 +252,7 @@
     "settingsDisableCloseComposerSubtitle",
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "copyTextButton"
   ]
 }
