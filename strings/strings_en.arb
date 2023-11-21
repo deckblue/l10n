@@ -1158,5 +1158,9 @@
   "settingsPanelToggles": "Toggles",
   "@settingsPanelToggles": {
     "description": "Toggles settings panel, everything that can be turned on/off in one place"
+  },
+  "copyTextButton": "Copy text",
+  "@copyTextButton": {
+    "description": "Generic Copy Text button"
   }
 }
