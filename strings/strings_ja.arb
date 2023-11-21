@@ -62,7 +62,7 @@
   "threadTitle": "スレッド",
   "undoButton": "取り消し",
   "postButtonCopy": "共有",
-  "postCopyMessage": "リンクをクリップボードにコピーしました",
+  "postCopyMessage": "クリップボードにコピーしました",
   "postButtonOpen": "公式アプリで見る",
   "errorThreadEmptyPost": "ポストが見つかりませんでした",
   "searchDialogHint": "検索",
@@ -287,5 +287,6 @@
   "settingsDisableCloseComposerSubtitle": "もし文字の入力中にEscキーでウィンドウを閉じたくない場合",
   "settingsPanelGeneral": "一般",
   "settingsPanelInterface": "見た目",
-  "settingsPanelToggles": "その他"
+  "settingsPanelToggles": "その他",
+  "copyTextButton": "テキストをコピー"
 }

@@ -285,5 +285,6 @@
   "emptyMutedLists": "Você está sem nenhuma lista de moderação ativa!",
   "settingsDisableSpellcheck": "Desabilitar corretor",
   "settingsDisableCloseComposer": "Desabilitar Esc enquanto digita",
-  "settingsDisableCloseComposerSubtitle": "Se quiser que o Esc pare de fechar qualquer janela onde esteja digitando"
+  "settingsDisableCloseComposerSubtitle": "Se quiser que o Esc pare de fechar qualquer janela onde esteja digitando",
+  "copyTextButton": "Copiar texto"
 }
