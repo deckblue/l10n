@@ -288,5 +288,6 @@
   "settingsDisableCloseComposerSubtitle": "Якщо ви не хочете, щоб кнопка Esc закривала вікно, у якому відбувається ввід",
   "settingsPanelGeneral": "Загальні",
   "settingsPanelInterface": "Вигляд",
-  "settingsPanelToggles": "Перемикачі"
+  "settingsPanelToggles": "Перемикачі",
+  "copyTextButton": "Копіювати текст"
 }
