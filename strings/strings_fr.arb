@@ -187,7 +187,7 @@
   "notificationReplyTitle": "Réponse",
   "timerSetting": "Actualiser tous les",
   "quoteTo": "Citer {actor}",
-  "followingReplies": "Filtrer les réponses par abonnements",
+  "followingReplies": "Montrer uniquement les réponses de vos abonné(e)s",
   "settingsShowAlt": "Afficher le texte alternatif par défaut",
   "confirmUnfollowActorTitle": "Désabonnement",
   "confirmUnfollowActorContent": "Êtes-vous sûr(e) de vouloir vous désabonner de {handle}?",
