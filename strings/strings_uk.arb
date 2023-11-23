@@ -289,5 +289,6 @@
   "settingsPanelGeneral": "Загальні",
   "settingsPanelInterface": "Вигляд",
   "settingsPanelToggles": "Перемикачі",
-  "copyTextButton": "Копіювати текст"
+  "copyTextButton": "Копіювати текст",
+  "filterOwnPosts": "Приховати свої пости"
 }
