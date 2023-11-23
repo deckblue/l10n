@@ -282,5 +282,12 @@
   "settingsSubscribedListsSubtitle": "Усе мадаруемыя спісы, на якія вы падпісаны",
   "unsubscribe": "Скасаваць падпіску",
   "confirmUnmuteListContent": "Гэты спіс зараз падпісаны вамі; гэта дзеянне заблакіруе/разблакіруе усіх на ім, вы ўпэўнены, што жадаеце гэта зрабіць?",
-  "emptyMutedLists": "Вы не падпісаны ні на якія мадаруемы спіс!"
+  "emptyMutedLists": "Вы не падпісаны ні на якія мадаруемы спіс!",
+  "settingsDisableSpellcheck": "Адключыць праверку правапісу",
+  "settingsDisableCloseComposer": "Адключыць Esc пры наборы тэксту",
+  "settingsDisableCloseComposerSubtitle": "Калі вы не жадаеце, каб кнопка Esc закрывала акно, у якім вы набіраеце тэкст",
+  "settingsPanelGeneral": "Агульнае",
+  "settingsPanelInterface": "UI",
+  "settingsPanelToggles": "Пераключальнікі",
+  "copyTextButton": "Капіяваць тэкст"
 }
