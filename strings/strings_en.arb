@@ -1162,5 +1162,9 @@
   "copyTextButton": "Copy text",
   "@copyTextButton": {
     "description": "Generic Copy Text button"
+  },
+  "filterOwnPosts": "Filter own posts",
+  "@filterOwnPosts": {
+    "description": "Column setting that removes your own posts from Home/Lists"
   }
 }

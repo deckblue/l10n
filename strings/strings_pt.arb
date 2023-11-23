@@ -286,5 +286,6 @@
   "settingsDisableSpellcheck": "Desabilitar corretor",
   "settingsDisableCloseComposer": "Desabilitar Esc enquanto digita",
   "settingsDisableCloseComposerSubtitle": "Se quiser que o Esc pare de fechar qualquer janela onde esteja digitando",
-  "copyTextButton": "Copiar texto"
+  "copyTextButton": "Copiar texto",
+  "filterOwnPosts": "Filtrar seus próprios posts"
 }
