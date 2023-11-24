@@ -108,13 +108,6 @@
     "followsAccount"
   ],
   "be": [
-    "settingsDisableSpellcheck",
-    "settingsDisableCloseComposer",
-    "settingsDisableCloseComposerSubtitle",
-    "settingsPanelGeneral",
-    "settingsPanelInterface",
-    "settingsPanelToggles",
-    "copyTextButton",
     "filterOwnPosts"
   ],
   "fr": [
