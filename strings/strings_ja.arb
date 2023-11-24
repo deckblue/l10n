@@ -288,5 +288,6 @@
   "settingsPanelGeneral": "一般",
   "settingsPanelInterface": "見た目",
   "settingsPanelToggles": "その他",
-  "copyTextButton": "テキストをコピー"
+  "copyTextButton": "テキストをコピー",
+  "filterOwnPosts": "自分のポストを非表示"
 }
