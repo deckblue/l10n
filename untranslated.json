@@ -47,7 +47,10 @@
     "copyTextButton",
     "filterOwnPosts"
   ],
-  "id": [],
+  "id": [
+    "copyTextButton",
+    "filterOwnPosts"
+  ],
   "de": [
     "confirmDeleteColumnTitle",
     "confirmDeleteColumnContent",
@@ -107,9 +110,7 @@
   "be": [
     "filterOwnPosts"
   ],
-  "fr": [
-    "filterOwnPosts"
-  ],
+  "fr": [],
   "ru": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
