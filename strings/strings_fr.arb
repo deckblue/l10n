@@ -289,5 +289,6 @@
   "settingsPanelGeneral": "Général",
   "settingsPanelInterface": "Interface",
   "settingsPanelToggles": "Options",
-  "copyTextButton": "Copier le texte"
+  "copyTextButton": "Copier le texte",
+  "filterOwnPosts": "Ne pas afficher vos posts"
 }
