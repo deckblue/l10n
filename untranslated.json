@@ -44,10 +44,12 @@
     "settingsPanelGeneral",
     "settingsPanelInterface",
     "settingsPanelToggles",
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ],
   "id": [
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -99,10 +101,12 @@
     "settingsPanelGeneral",
     "settingsPanelInterface",
     "settingsPanelToggles",
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "filterOwnPosts"
   ],
   "be": [
     "settingsDisableSpellcheck",
@@ -111,9 +115,12 @@
     "settingsPanelGeneral",
     "settingsPanelInterface",
     "settingsPanelToggles",
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ],
-  "fr": [],
+  "fr": [
+    "filterOwnPosts"
+  ],
   "ru": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -159,9 +166,12 @@
     "settingsPanelGeneral",
     "settingsPanelInterface",
     "settingsPanelToggles",
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ],
-  "uk": [],
+  "uk": [
+    "filterOwnPosts"
+  ],
   "es": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -175,7 +185,8 @@
     "settingsPanelGeneral",
     "settingsPanelInterface",
     "settingsPanelToggles",
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ],
   "zh_TW": [
     "followsAccount",
@@ -223,7 +234,8 @@
     "settingsPanelGeneral",
     "settingsPanelInterface",
     "settingsPanelToggles",
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -243,6 +255,7 @@
     "settingsPanelGeneral",
     "settingsPanelInterface",
     "settingsPanelToggles",
-    "copyTextButton"
+    "copyTextButton",
+    "filterOwnPosts"
   ]
 }
