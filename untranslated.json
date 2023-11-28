@@ -110,9 +110,7 @@
   "be": [
     "filterOwnPosts"
   ],
-  "fr": [
-    "filterOwnPosts"
-  ],
+  "fr": [],
   "ru": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
