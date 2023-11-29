@@ -288,5 +288,7 @@
   "settingsDisableCloseComposerSubtitle": "Jika Anda tidak ingin tombol Esc menutup jendela yang sedang Anda ketik",
   "settingsPanelGeneral": "Umum",
   "settingsPanelInterface": "Antarmuka Pengguna",
-  "settingsPanelToggles": "Tombol Alihkan Fitur"
+  "settingsPanelToggles": "Tombol Alihkan Fitur",
+  "copyTextButton": "Salin teks",
+  "filterOwnPosts": "Filter postingan saya"
 }
