@@ -1166,5 +1166,105 @@
   "filterOwnPosts": "Filter own posts",
   "@filterOwnPosts": {
     "description": "Column setting that removes your own posts from Home/Lists"
+  },
+  "errorAccountSchedule": "Couldn't update scheduling account, please try again.",
+  "@errorAccountSchedule": {
+    "description": "Error when adding scheduling account"
+  },
+  "scheduleAccount": "Add scheduling account",
+  "@scheduleAccount": {
+    "description": "Schedule account title"
+  },
+  "scheduleAccountSubtitle": "A secondary account is used to schedule your posts so your deck.blue session is not affected.",
+  "@scheduleAccountSubtitle": {
+    "description": "Schedule account subtitle"
+  },
+  "scheduleAccountRemove": "Remove scheduling account",
+  "@scheduleAccountRemove": {
+    "description": "Remove schedule account title"
+  },
+  "scheduleAccountRemoveSubtitle": "By removing your scheduling account, all your scheduled posts will be deleted. Are you sure you want to do this?",
+  "@scheduleAccountRemoveSubtitle": {
+    "description": "Remove schedule account subtitle"
+  },
+  "schedulePost": "Will send on {scheduleTime}",
+  "@schedulePost": {
+    "description": "Schedule display in the post composer"
+  },
+  "settingsSchedule": "Scheduled posts",
+  "@settingsSchedule": {
+    "description": "Schedule tile in settings, show all scheduled posts"
+  },
+  "emptyScheduledPosts": "You don't have any scheduled posts.",
+  "@emptyScheduledPosts": {
+    "description": "Schedule tile in settings, show all scheduled posts"
+  },
+  "confirmCancelScheduledPost": "Cancel scheduled post",
+  "@confirmCancelScheduledPost": {
+    "description": "Confirmation title when canceling scheduled post"
+  },
+  "confirmCancelScheduledPostContent": "Are you sure you want to cancel this scheduled post? You won't be able to retrieve its data.",
+  "@confirmCancelScheduledPostContent": {
+    "description": "Confirmation message when canceling scheduled post"
+  },
+  "errorMaxScheduledPosts": "You can't schedule more than {maxCount} posts in your {tierName} tier!",
+  "@errorMaxScheduledPosts": {
+    "description": "Error message for when you reach the max scheduled post count"
+  },
+  "scheduledPostReply": "Replying to: ",
+  "@scheduledPostReply": {
+    "description": "Formatted reply on scheduled posts list"
+  },
+  "scheduledPostEmbed": "Embed: ",
+  "@scheduledPostEmbed": {
+    "description": "Formatted embed (quote, list, feed) on scheduled posts list"
+  },
+  "scheduledPostLink": "Link: ",
+  "@scheduledPostLink": {
+    "description": "Formatted embed link on scheduled posts list"
+  },
+  "scheduledPostText": "Text: {postText}",
+  "@scheduledPostText": {
+    "description": "Formatted text on scheduled posts list"
+  },
+  "scheduledPostLabels": "Labels: {labelList}",
+  "@scheduledPostLabels": {
+    "description": "Formatted labels on scheduled posts list"
+  },
+  "scheduledPostTags": "Tags: {tagsList}",
+  "@scheduledPostTags": {
+    "description": "Formatted tags on scheduled posts list"
+  },
+  "scheduledPostLanguages": "Languages: {languageList}",
+  "@scheduledPostLanguages": {
+    "description": "Formatted languages on scheduled posts list"
+  },
+  "sizeCustom": "Custom",
+  "@sizeCustom": {
+    "description": "Custom column size option"
+  },
+  "settingsDisableLinkWarning": "Disable link warning",
+  "@settingsDisableLinkWarning": {
+    "description": "Setting for disabling the link warning popup"
+  },
+  "settingsDisableLinkWarningSubtitle": "Won't show the link popup before you click formatted links",
+  "@settingsDisableLinkWarningSubtitle": {
+    "description": "Setting for disabling the link warning popup description"
+  },
+  "multiSelectLanguageDialogTitle": "Select languages",
+  "@multiSelectLanguageDialogTitle": {
+    "description": "MultiSelectLanguageDialog title"
+  },
+  "settingsContentLanguages": "Content languages",
+  "@settingsContentLanguages": {
+    "description": "Content languages settings tile"
+  },
+  "postButtonLikes": "Show likes",
+  "@postButtonLikes": {
+    "description": "Show likes button in the post's ... menu"
+  },
+  "postButtonReposts": "Show reposts",
+  "@postButtonReposts": {
+    "description": "Show reposts button in the post's ... menu"
   }
 }
