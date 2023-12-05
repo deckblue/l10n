@@ -301,7 +301,7 @@
   "emptyScheduledPosts": "У вас немає запланованих дописів.",
   "confirmCancelScheduledPost": "Скасувати запланований допис",
   "confirmCancelScheduledPostContent": "Ви впевнені, що бажаєте скасувати цей запланований допис? У вас не буде можливості отримати дані з нього.",
-  "errorMaxScheduledPosts": "Ви можете запланувати не більше ніж {maxCount, plural, one{{maxCount} допис}, few{{maxCount} дописи}, many{{maxCount} дописів}} на вашому рівні {tierName}!",
+  "errorMaxScheduledPosts": "Ви можете запланувати не більше ніж {maxCount, plural, one{{maxCount} допис} few{{maxCount} дописи} other{{maxCount} дописів}} на вашому рівні {tierName}!",
   "scheduledPostReply": "У відповідь до: ",
   "scheduledPostEmbed": "Вбудувати: ",
   "scheduledPostLink": "Посилання: ",
