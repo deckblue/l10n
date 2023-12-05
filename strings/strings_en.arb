@@ -1266,5 +1266,9 @@
   "postButtonReposts": "Show reposts",
   "@postButtonReposts": {
     "description": "Show reposts button in the post's ... menu"
+  },
+  "nextButton": "Next",
+  "@nextButton": {
+    "description": "Generic 'Next' button"
   }
 }
