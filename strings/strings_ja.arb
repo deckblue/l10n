@@ -314,5 +314,6 @@
   "multiSelectLanguageDialogTitle": "言語を選択",
   "settingsContentLanguages": "コンテンツ言語",
   "postButtonLikes": "いいねを表示",
-  "postButtonReposts": "リポストを表示"
+  "postButtonReposts": "リポストを表示",
+  "nextButton": "次へ"
 }
