@@ -70,7 +70,8 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
   "id": [
     "errorAccountSchedule",
@@ -97,7 +98,8 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -175,10 +177,12 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "nextButton"
   ],
   "be": [
     "filterOwnPosts",
@@ -206,7 +210,8 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
   "fr": [
     "errorAccountSchedule",
@@ -233,7 +238,8 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -306,9 +312,12 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
-  "uk": [],
+  "uk": [
+    "nextButton"
+  ],
   "es": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -348,7 +357,8 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
   "zh_TW": [
     "followsAccount",
@@ -422,7 +432,8 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -468,6 +479,7 @@
     "multiSelectLanguageDialogTitle",
     "settingsContentLanguages",
     "postButtonLikes",
-    "postButtonReposts"
+    "postButtonReposts",
+    "nextButton"
   ]
 }
