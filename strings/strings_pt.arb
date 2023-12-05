@@ -312,5 +312,6 @@
   "multiSelectLanguageDialogTitle": "Selecionar idiomas",
   "settingsContentLanguages": "Filtrar idiomas",
   "postButtonLikes": "Mostrar curtidas",
-  "postButtonReposts": "Mostrar reposts"
+  "postButtonReposts": "Mostrar reposts",
+  "nextButton": "Próximo"
 }
