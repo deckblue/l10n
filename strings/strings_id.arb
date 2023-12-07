@@ -234,7 +234,7 @@
   "errorAccountUnknown": "Tidak dapat mengelola akun ini, coba lagi nanti.",
   "preview": "Tampilkan Postingan",
   "repostDialogTitle": "Posting ulang dari…",
-  "confirmationStep": "Siap kirim postingan?",
+  "confirmationStep": "Siap?",
   "likeDialogTitle": "Suka dari…",
   "addAccountDisclaimer": "Harap buat Kata Sandi Aplikasi terpisah untuk setiap akun yang Anda tambahkan, jika tidak, sesi Anda dapat dicabut dan Anda harus menambahkan kembali akun Anda.",
   "profileFromDialogTitle": "Profil dari…",
@@ -315,5 +315,6 @@
   "multiSelectLanguageDialogTitle": "Pilih bahasa",
   "settingsContentLanguages": "Konten Bahasa",
   "postButtonLikes": "Tampilkan suka",
-  "postButtonReposts": "Tampilkan repost"
+  "postButtonReposts": "Tampilkan Posting Ulang",
+  "nextButton": "Berikutnya"
 }
