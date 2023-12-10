@@ -54,7 +54,7 @@
   "postErrorLike": "Konnte nicht geliked werden. Versuche es bitte später erneut.",
   "postErrorRepost": "Teilen ist fehlgeschlagen. Versuche es bitte später erneut.",
   "replyButton": "Antworten",
-  "repostButton": "Erneut posten",
+  "repostButton": "Teilen",
   "quoteButton": "Zitieren",
   "likeButton": "Gefällt Mir",
   "replyDialogHint": "Antworte auf diesen Beitrag",
