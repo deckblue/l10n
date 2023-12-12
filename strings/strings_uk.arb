@@ -315,5 +315,6 @@
   "multiSelectLanguageDialogTitle": "Виберіть мови",
   "settingsContentLanguages": "Мови дописів",
   "postButtonLikes": "Показати вподобайки",
-  "postButtonReposts": "Показати перепости"
+  "postButtonReposts": "Показати перепости",
+  "nextButton": "Далі"
 }
