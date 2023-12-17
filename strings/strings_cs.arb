@@ -1,0 +1,373 @@
+{
+  "columnTitleHome": "Domů",
+  "columnTitleUser": "Ty",
+  "columnTitleNotifications": "Upozornění",
+  "columnTitleLikes": "Oblíbené",
+  "columnTitleMentions": "Zmínění",
+  "columnTitleMedia": "Média",
+  "columnTitleCustom": "Zvláštní kanál",
+  "columnTitleListFeed": "Seznam",
+  "columnTitleSearch": "Hledání",
+  "serviceLabel": "Služba",
+  "serviceHint": "bsky.social",
+  "usernameLabel": "Identifikátor",
+  "usernameHint": "Uživatelské jméno nebo e-mail",
+  "passwordLabel": "Aplikační heslo",
+  "loginButton": "Přihlašovací jméno",
+  "loginFirebaseDescription": "Používáme Google Analytics pro odesílání anonymních událostí v aplikaci. Všechny ostatní data jsou uchovány mezi servery deck.blue a Bluesky.",
+  "errorLoginUnknown": "Přihlášení selhalo. Zkuste to prosím později.",
+  "errorLoginWrongCredentials": "Chybný identifikátor nebo heslo. Zkuste to prosím znovu.",
+  "errorLoginInvalidAppPassword": "Neplatné aplikační heslo. Prosím vygenerujte si nové aplikační heslo pomocí ikony ? v poli s heslem nebo klikněte znovu na tlačítko přihlášení pro ignorování tohoto upozornění.",
+  "errorLoginServerError": "Nastala chyba na serveru. Prosíme vyčkejte a zkusto to znovu později.",
+  "embedTypeQuote": "Citace",
+  "embedTypeImageQuote": "Citace s médii",
+  "embedTypeLink": "Odkaz",
+  "embedTypeImage": "Média",
+  "embedTypeReply": "Odpovědi",
+  "embedTypeRepost": "Reposty",
+  "mediaSizeHidden": "Skryté",
+  "mediaSizeSmall": "Malý",
+  "mediaSizeMedium": "Střední",
+  "mediaSizeLarge": "Velký",
+  "mediaSizeSetting": "Velikost náhledu média",
+  "embedTypeSetting": "Povolené vkládání",
+  "postTypeSetting": "Povolené typy příspěvků",
+  "hiddenImageLabel": "Obrázek",
+  "removeColumnButton": "Odstranit",
+  "addColumnDialogTitle": "Přidat nový sloupec",
+  "addFeedColumnDialogTitle": "Přidat nový sloupec s kanálem",
+  "columnDescriptionHome": "Vaše základní timeline",
+  "columnDescriptionUser": "Vaše příspěvky",
+  "columnDescriptionNotifications": "Vaše notifikace",
+  "columnDescriptionLikes": "Vaše oblíbené příspěvky",
+  "columnDescriptionMentions": "Všechny příspěvky se zmínkou o Vás",
+  "columnDescriptionMedia": "Vaše příspěvky s médii",
+  "columnDescriptionCustom": "Zvolte zvláštní kanál z Vámi uložených",
+  "columnDescriptionListFeed": "Vytvořte seznam, nebo zvolte existující",
+  "selectLanguageDialogTitle": "Zvolte jazyk příspěvku",
+  "selectOtherLanguage": "Ostatní…",
+  "postButton": "Příspěvek",
+  "deleteButton": "Smazat",
+  "postDialogHint": "Jak to jde?",
+  "postErrorUpload": "Nemohu zveřejnit příspěvek. Zkuste to později.",
+  "postErrorDelete": "Nemohu tento příspěvek smazat. Zkuste to později.",
+  "postErrorLike": "Nemohu tento příspěvek oblíbit. Zkuste to později.",
+  "postErrorRepost": "Nemohu znovu zveřejnit tento příspěvek. Zkuste to později.",
+  "replyButton": "Odpověď",
+  "repostButton": "Znovu zveřejnit",
+  "quoteButton": "Citovat",
+  "likeButton": "Oblíbit",
+  "replyDialogHint": "Napište odpověď na tento příspěvek",
+  "quoteDialogHint": "Napišt něco o tomto příspěvku",
+  "threadTitle": "Vlákno",
+  "undoButton": "Vrátit zpět",
+  "postButtonCopy": "Sdílet",
+  "postCopyMessage": "Zkopírováno do schránky",
+  "postButtonOpen": "Otevřít na Bsky",
+  "errorThreadEmptyPost": "Nemůžu najít příspěvek",
+  "searchDialogHint": "Vyhledat",
+  "searchDialogUsers": "Uživatelé",
+  "searchDialogPosts": "Příspěvky",
+  "searchDialogAddColumn": "Přidat sloupec",
+  "translateButton": "Přeložit",
+  "emptyPosts": "Nebyly nalezeny žádné příspěvky",
+  "emptyUsers": "Nebyl nalezen žádný uživatelský profil",
+  "profileDialogPosts": "Příspěvky",
+  "profileDialogFollowing": "Sledovaní",
+  "profileDialogFollowers": "Sledující",
+  "errorProfileDialog": "Nemohu načíst tento uživatelský profil. Zkuste to prosím později.",
+  "profileDialogPostsColumn": "Příspěvky",
+  "profileDialogMediaColumn": "Média",
+  "profileDialogLikesColumn": "Oblíbené",
+  "profileDialogAddColumn": "Přidat sloupec",
+  "repostedBy": "Znovu zveřejněno {actor}",
+  "replyTo": "Odpověď na {actor}",
+  "advancedButton": "Pokročilé",
+  "notificationLikeReason": "{count, plural, other{si oblíbilo Váš příspěvek}}",
+  "notificationRepostReason": "{count, plural, other{znovu zveřejnilo Váš příspěvek}}",
+  "notificationFollowReason": "{count, plural, other{Vás sleduje}}",
+  "notificationMentionReason": "{count, plural, other{Vás zmínilo}}",
+  "notificationQuoteReason": "{count, plural, other{citovalo Váš příspěvek}}",
+  "notificationReplyReason": "{count, plural, other{Vám odpovědělo}}",
+  "notificationTitleCounter": "{count, plural, other{{count} ostatní}}",
+  "notificationTitleShortCounter": "+{count}",
+  "notificationTitleAnd": " a ",
+  "sizeSmallest": "Nejmenší",
+  "sizeSmall": "Malý",
+  "sizeMedium": "Střední",
+  "sizeLarge": "Velký",
+  "sizeLargest": "Největší",
+  "settingsDialogTitle": "Nastavení",
+  "settingsColumnSize": "Velikost sloupce",
+  "settingsFontSize": "Velikost písma",
+  "settingsTheme": "Téma",
+  "settingsLightTheme": "Světlé",
+  "settingsDarkTheme": "Tmavé",
+  "settingsSystemTheme": "Podle systému",
+  "settingsLocale": "Jazyk prostředí",
+  "profileDialogFollowButton": "Sledovat",
+  "profileDialogFollowingButton": "Sledujete",
+  "imageAltDialogHint": "Popište tento obrázek",
+  "saveButton": "Uložit",
+  "confirmButton": "OK",
+  "cancelButton": "Storno",
+  "contentLabelSuggestive": "Sugestivní",
+  "contentLabelNsfw": "Porno",
+  "contentLabelNudity": "Nahota",
+  "clearButton": "Vyčistit",
+  "emptySavedFeeds": "Nejsou uložené žádné seznamy. Zatím je přidejte přes",
+  "appPasswordTooltip": "Aplikační heslo je funkce Blueskye pro vyšší bezpečnost pri používání aplikací třetích stran.\nMěli byste ho vytvořit pro každou aplikaci, která není oficiální (jako je tato).",
+  "contentLabelSetting": "Přidejte varování o obsahu",
+  "postErrorTooLarge": "Není možné zveřejnit příspěvek. Obrázek přesáhl limit 1 MB.",
+  "tooltipKofi": "Darujte kávu!",
+  "linkButton": "Přidejte odkaz: ",
+  "quoteLinkButton": "Citujte příspěvek",
+  "aboutHeader1": "Co je deck.blue?",
+  "aboutHeader2": "Jak deck.blue funguje?",
+  "aboutHeader3": "Jsou má data v bezpečí?",
+  "aboutDescription1": "Jako aplikace třetí strany, deck.blue je Bluesky client, který podporuje prohlížení ve více sloupcích, abyste mohli sledovat naráz vše, co Vás zajímá (tak jako TweetDeck!).",
+  "aboutDescription2": "S deck.blue můžete dělat vše, co umí oficiální aplikace, ale také máte výhodu informačně-efektivního layoutu, uspořádaných sloupců - aktualizovaných v reálném čase - což lépe vyhovuje potřebámm uživatele. Chcete udržet přehled nad všemi vyhledávanými výrazy naráz? Prostě přidejte sloupec pro každý z nich! Díky systému zvláštních kanálům Bluesky můžete sledovat tolik komunit, kolik jen chcete.",
+  "aboutDescription3": "deck.blue používá Google Analytics pro odesílání anonymních uživatelských událostí. Všechny ostatní data zůstávají mezi deck.blue a servery Bluesky. Osobní a citlivé informace nejsou nikam odesílány a jsou uchovány v bezpečném prostředí Vašeho prohlížeče.\n\nPro zajištění Vaší bezpečnosti použijte systém aplikačních hesel Bluesky, který přidává další vrstvu bezpečnosti při používání aplikací třetích stran.",
+  "aboutButton": "O aplikaci",
+  "loginSlogan1": "Získejte maximum z ",
+  "loginSlogan2": "Bluesky",
+  "updateSnackbar": "Je dostupná nová aktualizace!\nObnovte stránku pro získání nových funkcí a oprav chyb!",
+  "refreshButton": "Obnovit",
+  "replyCount": "{count, plural, one{Odpověď} other{Odpovědi}}",
+  "likeCount": "{count, plural, one{Oblíbený} other{Oblíbené}}",
+  "repostCount": "{count, plural, one{Znovuzveřejnění} other{Znovuzveřejnění}}",
+  "emptyActorList": "Nepodařilo se načíst uživatele, zkuste to později.",
+  "followsYou": "sledují Vás",
+  "followsAccount": "sledují ${handle}",
+  "soundEnabled": "Zapněte zvuk notifikací",
+  "blocksYou": "blokuje Vás",
+  "blocked": "blokovaný",
+  "muted": "ztlumený",
+  "mutedByList": "ztlumený seznamem",
+  "muteButton": "Ztlumit",
+  "unmuteButton": "Zrušit ztlumení",
+  "blockButton": "Blokovat",
+  "unblockButton": "Odblokovat",
+  "errorUpdateList": "Nepodařilo se aktualizovat seznam, prosím zkuste to znovu.",
+  "errorCreateList": "Nepodařilo se vytvořit seznam, prosím zkuste to znovu.",
+  "emptyListItems": "Toto je prázdný seznam!",
+  "emptyFollowing": "Nikoho nesledujete!",
+  "manageListHeader": "Editovat seznam {name}",
+  "saveListButton": "Uložit seznam",
+  "manageListCurrentTab": "Aktuální",
+  "manageListFollowingTab": "Sledujete",
+  "manageListSearchedTab": "Vyhledáno",
+  "createCuratedListHeader": "Vytvořte nový výběrový seznam",
+  "createListNameLabel": "Jméno seznamu",
+  "createListNameHint": "Zajímaví lidé",
+  "createListDescriptionLabel": "Popis",
+  "createListDescriptionHint": "Zajímaví lidé, které chci sledovat",
+  "createListButton": "Vytvořit seznam",
+  "addListColumnDialogTitle": "Přidat nový sloupec se seznamem",
+  "emptyCuratedLists": "Prázdné uložené seznamy",
+  "tooltipAddColumn": "Přidat sloupec",
+  "tooltipColumnAdded": "Sloupec byl již přidán",
+  "buttonManageList": "Spravovat seznam",
+  "postedDateUnitNow": "nyní",
+  "postedDateUnitSeconds": "{number} sec.",
+  "postedDateUnitMinutes": "{number} min.",
+  "postedDateUnitHours": "{number} hod.",
+  "postedDateUnitDays": "{number} dnů",
+  "settingsMutedWords": "Ztlumené slova",
+  "settingsColumn": "Nastavení sloupce",
+  "settingsScrollbars": "Zobrazit scrollbary sloupce",
+  "settingsLogout": "Odhlásit",
+  "editCuratedListHeader": "Editovat Váš výběrový seznam",
+  "buttonEditList": "Editovat seznam",
+  "phoneSupportMessage": "deck.blue je aktuálně plně podporovaný jen na desktopu a tabletu, využijte je pro lepší uživatelský zážitek!",
+  "allowedNotificationSetting": "Povolené notifikace",
+  "notificationLikeTitle": "Oblíbené",
+  "notificationRepostTitle": "Znovu zveřejnění",
+  "notificationFollowTitle": "Sledování",
+  "notificationMentionTitle": "Zmínka",
+  "notificationQuoteTitle": "Citace",
+  "notificationReplyTitle": "Odpověď",
+  "timerSetting": "Obnovit každých",
+  "quoteTo": "Cituje {actor}",
+  "followingReplies": "Filtrovat odpovědi sledujícími",
+  "settingsShowAlt": "Automaticky zobrazit alternativní text obrázku",
+  "confirmUnfollowActorTitle": "Přestat sledovat",
+  "confirmUnfollowActorContent": "Skutečně chcete přestat sledovat {handle}?",
+  "confirmBlockActorTitle": "Blokovat",
+  "confirmBlockActorContent": "Blokované účty nemohou odpovídat ve Vašem vlákně, zmiňovat Vás ani jinak s Vámi interagovat. Sktečně chcete tento účet blokovat?",
+  "confirmUnblockActorTitle": "Odblokovat",
+  "confirmUnblockActorContent": "Účet bude moct s Vámi interagovat po odblokování. Skutečně chcete odblokovat tento účet?",
+  "confirmDeletePostTitle": "Smazat příspěvek",
+  "confirmDeletePostContent": "Skutečně chcete smazat tento příspěvek?",
+  "confirmListConvertTitle": "Zkonvertovat seznam",
+  "confirmListConvertContent": "Toto je aktuálně seznam pro ztlumení; pro použití jako sloupec je nutná konverze. Po zkonvertování nebudou účty obsažené v seznamu považované za ztlumené. Skutečně chcete seznam zkonvertovat?",
+  "convertButton": "Zkonvertovat",
+  "hashtags": "Hashtagy",
+  "warningOnPressedLinkTitle": "POČKAT!",
+  "warningOnPressedLinkContent": "Tento odkaz tě přesměruje na externí stránku. Skutečně chcete jít na tuto stránku?",
+  "wordSelectDialogHint": "Vložte libovolné slovo oddělené \",\". Maximální počet znaků je 64.",
+  "wordSelectDialogHintWithSpaceFilter": "Enter any word separated by \",\" or space. Maximum of 64 characters.",
+  "@wordSelectDialogHintWithSpaceFilter": {
+    "description": "A hint for the word select dialog with the space filter"
+  },
+  "columnTimerNone": "Manual",
+  "@columnTimerNone": {
+    "description": "ColumnTimer none title"
+  },
+  "loadMoreButton": "Load more",
+  "@loadMoreButton": {
+    "description": "Generic 'Load more' button"
+  },
+  "showClearButton": "Show clear button",
+  "@showClearButton": {
+    "description": "showClearButton column setting"
+  },
+  "manageActorInList": "Add/remove from list",
+  "@manageActorInList": {
+    "description": "manageActorInList dialog menu"
+  },
+  "connectPatreon": "Connect with Patreon",
+  "@connectPatreon": {
+    "description": "Connect Patreon settings button"
+  },
+  "disconnectPatreon": "Disconnect Patreon",
+  "@disconnectPatreon": {
+    "description": "Disconnect Patreon settings button"
+  },
+  "disconnectPatreonConfirm": "Are you sure you want to disconnect your Patreon account? You won't be able to use the benefits such as scheduling and your additional accounts will be logged out.",
+  "@disconnectPatreonConfirm": {
+    "description": "Disconnect Patreon confirmation"
+  },
+  "patreonNoTier": "Not a Patron",
+  "@patreonNoTier": {
+    "description": "PatreonTier null title"
+  },
+  "patreonTierInitial": "Initial",
+  "@patreonTierInitial": {
+    "description": "PatreonTier initial title"
+  },
+  "patreonTierHelper": "Helper",
+  "@patreonTierHelper": {
+    "description": "PatreonTier helper title"
+  },
+  "patreonTierSupporter": "Supporter",
+  "@patreonTierSupporter": {
+    "description": "PatreonTier supporter title"
+  },
+  "patreonTierSponsor": "Sponsor",
+  "@patreonTierSponsor": {
+    "description": "PatreonTier sponsor title"
+  },
+  "errorLoginInvalidEmail": "Your account doesn't have a valid email or the email isn't verified, please do that within the official apps.",
+  "@errorLoginInvalidEmail": {
+    "description": "LoginError invalidEmail"
+  },
+  "errorLoginChangeAppPassword": "You're trying to login with a different App Password than the last used with deck.blue. A verification code was sent to your email, please use it to validate your account and change your password to this new one.",
+  "@errorLoginChangeAppPassword": {
+    "description": "LoginError changeAppPassword"
+  },
+  "errorLoginExpiredChangeCode": "The verification code used is invalid. If it's expired, we're sending another one.",
+  "@errorLoginExpiredChangeCode": {
+    "description": "LoginError expiredChangeCode"
+  },
+  "passwordCodeLabel": "Verification code",
+  "@passwordCodeLabel": {
+    "description": "Login password code label"
+  },
+  "loginMigration": "As part of the v2.0 update, you're required to login again so your settings and columns are properly backed up.",
+  "@loginMigration": {
+    "description": "Login migration explanation"
+  },
+  "settingsColor": "Theme's base color",
+  "@settingsColor": {
+    "description": "Color settings"
+  },
+  "accounts": "Accounts",
+  "@accounts": {
+    "description": "Generic 'Accounts' label"
+  },
+  "addAccount": "Add account",
+  "@addAccount": {
+    "description": "Generic 'Add account' button"
+  },
+  "accountConfirmationStep": "Confirmation step",
+  "@accountConfirmationStep": {
+    "description": "Account confirmationStep setting title"
+  },
+  "accountConfirmationStepDescription": "Adds a confirmation step before posting",
+  "@accountConfirmationStepDescription": {
+    "description": "Account confirmationStep setting description"
+  },
+  "removeAccount": "Remove",
+  "@removeAccount": {
+    "description": "Generic 'Remove account' button"
+  },
+  "removeAccountDisclaimer": "By removing this account, all columns added and scheduled posts from it are also going to be removed. Are you sure you want to remove this account?",
+  "@removeAccountDisclaimer": {
+    "description": "Remove account dialog disclaimer"
+  },
+  "errorAccountMaxAccounts": "You already reached the max account count for your Patreon tier.",
+  "@errorAccountMaxAccounts": {
+    "description": "Error when adding new account: max reached"
+  },
+  "errorAccountAdd": "Could not add this account, please try again later.",
+  "@errorAccountAdd": {
+    "description": "Unknown error when adding new account"
+  },
+  "errorAccountUnknown": "Couldn't manage this account, please try again later.",
+  "@errorAccountUnknown": {
+    "description": "Unknown error when managing account"
+  },
+  "preview": "Preview",
+  "@preview": {
+    "description": "Generic 'Preview' label"
+  },
+  "repostDialogTitle": "Repost from…",
+  "@repostDialogTitle": {
+    "description": "RepostDialog title"
+  },
+  "confirmationStep": "Ready?",
+  "@confirmationStep": {
+    "description": "confirmationStep usage in NewPostWidget"
+  },
+  "likeDialogTitle": "Like from…",
+  "@likeDialogTitle": {
+    "description": "LikeDialog title"
+  },
+  "addAccountDisclaimer": "Please create a separated App Password for each account you add, otherwise your session can be revoked and you'll need to re-add your account.",
+  "@addAccountDisclaimer": {
+    "description": "Disclaimer for LoginPage to add account"
+  },
+  "profileFromDialogTitle": "Profile from…",
+  "@profileFromDialogTitle": {
+    "description": "ProfileFromDialog title"
+  },
+  "viewFromAccount": "View from…",
+  "@viewFromAccount": {
+    "description": "Generic 'View from account' label"
+  },
+  "show": "Show",
+  "@show": {
+    "description": "Generic 'Show' label"
+  },
+  "confirmDeleteColumnTitle": "Delete column",
+  "@confirmDeleteColumnTitle": {
+    "description": "A title for confirmation dialog when deleting column"
+  },
+  "confirmDeleteColumnContent": "Are you sure you want to delete this column?",
+  "@confirmDeleteColumnContent": {
+    "description": "Confirmation message when deleting column"
+  },
+  "settingsCompactMode": "Compact mode for posts",
+  "@settingsCompactMode": {
+    "description": "Settings dialog compact mode"
+  },
+  "errorAccountRelink": "Couldn't relink this account, please try again.",
+  "@errorAccountRelink": {
+    "description": "Error when relinking existing account"
+  },
+  "relinkAccount": "Relink",
+  "@relinkAccount": {
+    "description": "Relink account button"
+  }
+}
