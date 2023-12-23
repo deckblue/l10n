@@ -315,5 +315,21 @@
   "settingsContentLanguages": "コンテンツ言語",
   "postButtonLikes": "いいねを表示",
   "postButtonReposts": "リポストを表示",
-  "nextButton": "次へ"
+  "nextButton": "次へ",
+  "viewButton": "表示",
+  "hideButton": "非表示",
+  "mutedPost": "ミュートされたユーザーのポスト",
+  "blockedPost": "ブロックされたユーザーのポスト",
+  "threadgateHeader": "返信ルール",
+  "threadgateOptions": "以下の条件を組み合わせることもできます:",
+  "postErrorThreadgate": "あなたのポストは作成されましたが、ポストに返信ルールを適用できませんでした。",
+  "threadgateEverybody": "全員",
+  "threadgateNobody": "返信不可",
+  "threadgateMention": "メンションしたユーザーのみ",
+  "threadgateFollowing": "フォローしているユーザーのみ",
+  "threadgateList": "\"{listName}\"のユーザーのみ",
+  "threadgateViewNobody": "このポストへの返信はできません",
+  "threadgateViewMention": "このスレッドでメンションされたユーザーのみ",
+  "threadgateViewFollowing": "{username}にフォローされているユーザーのみ",
+  "threadgateViewList": "\"{listName}\"のユーザーのみ"
 }
