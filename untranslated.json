@@ -541,23 +541,7 @@
     "threadgateViewList"
   ],
   "ja": [
-    "followsAccount",
-    "viewButton",
-    "hideButton",
-    "mutedPost",
-    "blockedPost",
-    "threadgateHeader",
-    "threadgateOptions",
-    "postErrorThreadgate",
-    "threadgateEverybody",
-    "threadgateNobody",
-    "threadgateMention",
-    "threadgateFollowing",
-    "threadgateList",
-    "threadgateViewNobody",
-    "threadgateViewMention",
-    "threadgateViewFollowing",
-    "threadgateViewList"
+    "followsAccount"
   ],
   "fr": [
     "viewButton",
