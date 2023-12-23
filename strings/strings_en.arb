@@ -1270,5 +1270,69 @@
   "nextButton": "Next",
   "@nextButton": {
     "description": "Generic 'Next' button"
+  },
+  "viewButton": "View",
+  "@viewButton": {
+    "description": "Generic 'View' button"
+  },
+  "hideButton": "Hide",
+  "@hideButton": {
+    "description": "Generic 'Hide' button"
+  },
+  "mutedPost": "Post by muted user",
+  "@mutedPost": {
+    "description": "Disclaimer that shows in a post by a muted user"
+  },
+  "blockedPost": "Post by blocked user",
+  "@blockedPost": {
+    "description": "Disclaimer that shows in a post by a blocked user"
+  },
+  "threadgateHeader": "Who can reply?",
+  "@threadgateHeader": {
+    "description": "Threadgate dialog header"
+  },
+  "threadgateOptions": "Or combine any of these options:",
+  "@threadgateOptions": {
+    "description": "Threadgate dialog options separator"
+  },
+  "postErrorThreadgate": "Your post was created, but reply rules weren't applied.",
+  "@postErrorThreadgate": {
+    "description": "Error regarding a failure when applying threadgate/reply rules to a post"
+  },
+  "threadgateEverybody": "Everybody",
+  "@threadgateEverybody": {
+    "description": "Option that allows anyone to reply to your post"
+  },
+  "threadgateNobody": "Nobody",
+  "@threadgateNobody": {
+    "description": "Option that does not allow anyone to reply to your post"
+  },
+  "threadgateMention": "Mentioned users",
+  "@threadgateMention": {
+    "description": "Option that allows mentioned users to reply to your post"
+  },
+  "threadgateFollowing": "Followed users",
+  "@threadgateFollowing": {
+    "description": "Option that allows followed users to reply to your post"
+  },
+  "threadgateList": "Users in \"{listName}\"",
+  "@threadgateList": {
+    "description": "Option that allows users in list to reply to your post"
+  },
+  "threadgateViewNobody": "Replies to this post are disabled",
+  "@threadgateViewNobody": {
+    "description": "Reply rule display on a thread for: nobody"
+  },
+  "threadgateViewMention": "Users mentioned in this thread",
+  "@threadgateViewMention": {
+    "description": "Reply rule display on a thread for: mentioned users"
+  },
+  "threadgateViewFollowing": "Users followed by {username}",
+  "@threadgateViewFollowing": {
+    "description": "Reply rule display on a thread for: followed users"
+  },
+  "threadgateViewList": "Users in list \"{listName}\"",
+  "@threadgateViewList": {
+    "description": "Reply rule display on a thread for: list members"
   }
 }

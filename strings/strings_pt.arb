@@ -313,5 +313,21 @@
   "settingsContentLanguages": "Filtrar idiomas",
   "postButtonLikes": "Mostrar curtidas",
   "postButtonReposts": "Mostrar reposts",
-  "nextButton": "Próximo"
+  "nextButton": "Próximo",
+  "viewButton": "Ver",
+  "hideButton": "Esconder",
+  "mutedPost": "Post por usuário mutado",
+  "blockedPost": "Post por usuário bloqueado",
+  "threadgateHeader": "Quem pode responder?",
+  "threadgateOptions": "Ou combine estas opções:",
+  "postErrorThreadgate": "Seu post foi criado, mas as regras de resposta não foram aplicadas.",
+  "threadgateEverybody": "Todos",
+  "threadgateNobody": "Ninguém",
+  "threadgateMention": "Usuários mencionados",
+  "threadgateFollowing": "Usuários que você segue",
+  "threadgateList": "Usuários em \"{listName}\"",
+  "threadgateViewNobody": "Ninguém, as respostas estão desabilitadas",
+  "threadgateViewMention": "Usuários mencionados",
+  "threadgateViewFollowing": "Usuários seguidos por {username}",
+  "threadgateViewList": "Membros da lista \"{listName}\""
 }
