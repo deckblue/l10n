@@ -301,7 +301,7 @@
   "emptyScheduledPosts": "У вас няма запланаваных допісаў.",
   "confirmCancelScheduledPost": "Скасаваць запланаваны допіс",
   "confirmCancelScheduledPostContent": "Вы ўпэўнены, што жадаеце адмяніць гэты запланаваны допіс? Вы не зможаце атрымаць з яго дадзеныя.",
-  "errorMaxScheduledPosts": "Вы можаце запланаваць не больш за {maxCount, plural, one{{maxCount} допіс} некалькі{{maxCount} допісаў} other{{maxCount} допісаў}} на вашым узроўні {tierName}!",
+  "errorMaxScheduledPosts": "Вы можаце запланаваць не больш за {maxCount, plural, one{{maxCount} допіс} few{{maxCount} допісаў} other{{maxCount} допісаў}} на вашым узроўні {tierName}!",
   "scheduledPostReply": "У адказ на: ",
   "scheduledPostEmbed": "Уставіць: ",
   "scheduledPostLink": "Спасылка: ",
