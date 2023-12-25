@@ -428,24 +428,7 @@
     "threadgateViewFollowing",
     "threadgateViewList"
   ],
-  "uk": [
-    "viewButton",
-    "hideButton",
-    "mutedPost",
-    "blockedPost",
-    "threadgateHeader",
-    "threadgateOptions",
-    "postErrorThreadgate",
-    "threadgateEverybody",
-    "threadgateNobody",
-    "threadgateMention",
-    "threadgateFollowing",
-    "threadgateList",
-    "threadgateViewNobody",
-    "threadgateViewMention",
-    "threadgateViewFollowing",
-    "threadgateViewList"
-  ],
+  "uk": [],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
