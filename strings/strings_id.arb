@@ -321,7 +321,7 @@
   "hideButton": "Sembunyikan",
   "mutedPost": "Diposting oleh pengguna yang dibungkam",
   "blockedPost": "Diposting oleh pengguna yang diblokir",
-  "threadgateHeader": Siapa yang dapat membalas?",
+  "threadgateHeader": "Siapa yang dapat membalas?",
   "threadgateOptions": "Atau gabungkan salah satu opsi berikut:",
   "postErrorThreadgate": "Postingan Anda telah dibuat, namun aturan balasan tidak diterapkan.",
   "threadgateEverybody": "Semua orang",
