@@ -487,24 +487,7 @@
     "threadgateViewFollowing",
     "threadgateViewList"
   ],
-  "id": [
-    "viewButton",
-    "hideButton",
-    "mutedPost",
-    "blockedPost",
-    "threadgateHeader",
-    "threadgateOptions",
-    "postErrorThreadgate",
-    "threadgateEverybody",
-    "threadgateNobody",
-    "threadgateMention",
-    "threadgateFollowing",
-    "threadgateList",
-    "threadgateViewNobody",
-    "threadgateViewMention",
-    "threadgateViewFollowing",
-    "threadgateViewList"
-  ],
+  "id": [],
   "be": [
     "viewButton",
     "hideButton",
