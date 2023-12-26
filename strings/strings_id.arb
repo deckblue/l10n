@@ -1,5 +1,5 @@
 {
-  "columnTitleHome": "Linimasa",
+  "columnTitleHome": "Beranda",
   "columnTitleUser": "Profil",
   "columnTitleNotifications": "Notifikasi",
   "columnTitleLikes": "Suka",
@@ -316,5 +316,21 @@
   "settingsContentLanguages": "Konten Bahasa",
   "postButtonLikes": "Tampilkan suka",
   "postButtonReposts": "Tampilkan Posting Ulang",
-  "nextButton": "Berikutnya"
+  "nextButton": "Berikutnya",
+  "viewButton": "Lihat",
+  "hideButton": "Sembunyikan",
+  "mutedPost": "Diposting oleh pengguna yang dibungkam",
+  "blockedPost": "Diposting oleh pengguna yang diblokir",
+  "threadgateHeader": Siapa yang dapat membalas?",
+  "threadgateOptions": "Atau gabungkan salah satu opsi berikut:",
+  "postErrorThreadgate": "Postingan Anda telah dibuat, namun aturan balasan tidak diterapkan.",
+  "threadgateEverybody": "Semua orang",
+  "threadgateNobody": "Tidak ada",
+  "threadgateMention": "Pengguna yang disebutkan",
+  "threadgateFollowing": "Pengguna yang diikuti",
+  "threadgateList": "Pengguna di \"{listName}\"",
+  "threadgateViewNobody": "Balasan ke posting ini dinonaktifkan",
+  "threadgateViewMention": "Pengguna yang disebutkan dalam thread ini",
+  "threadgateViewFollowing": "Pengguna diikuti oleh {username}",
+  "threadgateViewList": "Pengguna dalam daftar \"{listName}\""
 }
