@@ -331,5 +331,6 @@
   "threadgateViewNobody": "このポストへの返信はできません",
   "threadgateViewMention": "このスレッドでメンションされたユーザーのみ",
   "threadgateViewFollowing": "{username}にフォローされているユーザーのみ",
-  "threadgateViewList": "\"{listName}\"のユーザーのみ"
+  "threadgateViewList": "\"{listName}\"のユーザーのみ",
+  "settingsPanelModeration": "モデレーション"
 }
