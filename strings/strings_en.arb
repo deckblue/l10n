@@ -1334,5 +1334,13 @@
   "threadgateViewList": "Users in list \"{listName}\"",
   "@threadgateViewList": {
     "description": "Reply rule display on a thread for: list members"
+  },
+  "settingsPanelModeration": "Moderation",
+  "@settingsPanelModeration": {
+    "description": "Moderation settings panel, content preferences, muted used, blocked users, etc"
+  },
+  "settingsSound": "Select a notification sound",
+  "@settingsSound": {
+    "description": "Label for the custom notification sound dropdown"
   }
 }
