@@ -329,5 +329,7 @@
   "threadgateViewNobody": "Ninguém, as respostas estão desabilitadas",
   "threadgateViewMention": "Usuários mencionados",
   "threadgateViewFollowing": "Usuários seguidos por {username}",
-  "threadgateViewList": "Membros da lista \"{listName}\""
+  "threadgateViewList": "Membros da lista \"{listName}\"",
+  "settingsPanelModeration": "Moderação",
+  "settingsSound": "Selecione um som"
 }
