@@ -87,7 +87,9 @@
     "threadgateViewNobody",
     "threadgateViewMention",
     "threadgateViewFollowing",
-    "threadgateViewList"
+    "threadgateViewList",
+    "settingsPanelModeration",
+    "settingsSound"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -177,7 +179,9 @@
     "threadgateViewNobody",
     "threadgateViewMention",
     "threadgateViewFollowing",
-    "threadgateViewList"
+    "threadgateViewList",
+    "settingsPanelModeration",
+    "settingsSound"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -273,7 +277,9 @@
     "threadgateViewNobody",
     "threadgateViewMention",
     "threadgateViewFollowing",
-    "threadgateViewList"
+    "threadgateViewList",
+    "settingsPanelModeration",
+    "settingsSound"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -368,7 +374,9 @@
     "threadgateViewNobody",
     "threadgateViewMention",
     "threadgateViewFollowing",
-    "threadgateViewList"
+    "threadgateViewList",
+    "settingsPanelModeration",
+    "settingsSound"
   ],
   "es": [
     "postedDateUnitYears",
@@ -426,9 +434,14 @@
     "threadgateViewNobody",
     "threadgateViewMention",
     "threadgateViewFollowing",
-    "threadgateViewList"
+    "threadgateViewList",
+    "settingsPanelModeration",
+    "settingsSound"
   ],
-  "uk": [],
+  "uk": [
+    "settingsPanelModeration",
+    "settingsSound"
+  ],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -485,9 +498,14 @@
     "threadgateViewNobody",
     "threadgateViewMention",
     "threadgateViewFollowing",
-    "threadgateViewList"
+    "threadgateViewList",
+    "settingsPanelModeration",
+    "settingsSound"
   ],
-  "id": [],
+  "id": [
+    "settingsPanelModeration",
+    "settingsSound"
+  ],
   "be": [
     "viewButton",
     "hideButton",
@@ -504,10 +522,16 @@
     "threadgateViewNobody",
     "threadgateViewMention",
     "threadgateViewFollowing",
-    "threadgateViewList"
+    "threadgateViewList",
+    "settingsPanelModeration",
+    "settingsSound"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "settingsSound"
   ],
-  "fr": []
+  "fr": [
+    "settingsPanelModeration",
+    "settingsSound"
+  ]
 }
