@@ -332,5 +332,7 @@
   "threadgateViewNobody": "Відповіді на цей пост вимкнені",
   "threadgateViewMention": "Користувачі, згадані в цій темі",
   "threadgateViewFollowing": "Користувачі за якими стежить {username}",
-  "threadgateViewList": "Користувачі зі списку \"{listName}\""
+  "threadgateViewList": "Користувачі зі списку \"{listName}\"",
+  "settingsPanelModeration": "Модерація",
+  "settingsSound": "Обрати звук сповіщення"
 }
