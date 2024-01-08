@@ -316,5 +316,21 @@
   "settingsContentLanguages": "Langues des contenus",
   "postButtonLikes": "Montrer les likes",
   "postButtonReposts": "Montrer les reposts",
-  "nextButton": "Suivant"
+  "nextButton": "Suivant",
+  "viewButton": "Voir",
+  "hideButton": "Masquer",
+  "mutedPost": "Posté par un compte masqué",
+  "blockedPost": "Posté par un compte bloqué",
+  "threadgateHeader": "Qui peut répondre ?",
+  "threadgateOptions": "Ou combiner ces options :",
+  "postErrorThreadgate": "Votre post a été créé mais les limitations de réponses n'ont pas été appliquées.",
+  "threadgateEverybody": "Tout le monde",
+  "threadgateNobody": "Personne",
+  "threadgateMention": "Les comptes mentionnés",
+  "threadgateFollowing": "Les comptes que vous suivez",
+  "threadgateList": "Les comptes dans \"{listName}\"",
+  "threadgateViewNobody": "Les réponses à ce post sont désactivées",
+  "threadgateViewMention": "Les comptes mentionnés dans ce thread",
+  "threadgateViewFollowing": "Les comptes suivis par {username}",
+  "threadgateViewList": "Les comptes dans la liste \"{listName}\""
 }
