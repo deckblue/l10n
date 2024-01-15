@@ -332,5 +332,7 @@
   "threadgateViewNobody": "Les réponses à ce post sont désactivées",
   "threadgateViewMention": "Les comptes mentionnés dans ce thread",
   "threadgateViewFollowing": "Les comptes suivis par {username}",
-  "threadgateViewList": "Les comptes dans la liste \"{listName}\""
+  "threadgateViewList": "Les comptes dans la liste \"{listName}\"",
+  "settingsPanelModeration": "Modération",
+  "settingsSound": "Sélectionnez un son de notification"
 }
