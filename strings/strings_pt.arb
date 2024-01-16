@@ -331,5 +331,9 @@
   "threadgateViewFollowing": "Usuários seguidos por {username}",
   "threadgateViewList": "Membros da lista \"{listName}\"",
   "settingsPanelModeration": "Moderação",
-  "settingsSound": "Selecione um som"
+  "settingsSound": "Selecione um som",
+  "scheduleInvalidAccount": "Você tentou agendar com uma conta de agendamento inválida. Por favor, configure-a.",
+  "confirmRetryScheduledPost": "Reenviar post agendado",
+  "confirmRetryScheduledPostContent": "Este post não pôde ser enviado. Utilize a opção de revincular sua conta de agendamento antes de tentar o reenvio. Seu post aparecerá no seu perfil 'no passado'. Deseja tentar enviar novamente?",
+  "retryScheduledPostButton": "Reenviar"
 }
