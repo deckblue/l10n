@@ -89,7 +89,11 @@
     "threadgateViewFollowing",
     "threadgateViewList",
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -181,7 +185,11 @@
     "threadgateViewFollowing",
     "threadgateViewList",
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -279,7 +287,11 @@
     "threadgateViewFollowing",
     "threadgateViewList",
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -376,7 +388,11 @@
     "threadgateViewFollowing",
     "threadgateViewList",
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
   "es": [
     "postedDateUnitYears",
@@ -436,9 +452,18 @@
     "threadgateViewFollowing",
     "threadgateViewList",
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
-  "uk": [],
+  "uk": [
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
+  ],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -497,11 +522,19 @@
     "threadgateViewFollowing",
     "threadgateViewList",
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
   "id": [
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
   "be": [
     "viewButton",
@@ -521,11 +554,24 @@
     "threadgateViewFollowing",
     "threadgateViewList",
     "settingsPanelModeration",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
   "ja": [
     "followsAccount",
-    "settingsSound"
+    "settingsSound",
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
   ],
-  "fr": []
+  "fr": [
+    "scheduleInvalidAccount",
+    "confirmRetryScheduledPost",
+    "confirmRetryScheduledPostContent",
+    "retryScheduledPostButton"
+  ]
 }
