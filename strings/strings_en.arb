@@ -1342,5 +1342,21 @@
   "settingsSound": "Select a notification sound",
   "@settingsSound": {
     "description": "Label for the custom notification sound dropdown"
+  },
+  "scheduleInvalidAccount": "You tried to schedule with an invalid scheduling account, please set it up.",
+  "@scheduleInvalidAccount": {
+    "description": "Invalid account error when scheduling"
+  },
+  "confirmRetryScheduledPost": "Retry scheduled post",
+  "@confirmRetryScheduledPost": {
+    "description": "Confirmation title when retrying scheduled post"
+  },
+  "confirmRetryScheduledPostContent": "This post failed to be sent, make sure you've relinked your schedule account properly before retrying. It'll be sent at the specified timestamp, and it'll show in your profile 'in the past'. Are you sure you want set this post to be retried?",
+  "@confirmRetryScheduledPostContent": {
+    "description": "Confirmation message when retrying scheduled post"
+  },
+  "retryScheduledPostButton": "Retry",
+  "@retryScheduledPostButton": {
+    "description": "Retry button specific for the scheduled post, can be translated to resend"
   }
 }
