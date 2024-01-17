@@ -535,16 +535,7 @@
     "relinkScheduleAccount",
     "relinkScheduleAccountSubtitle"
   ],
-  "id": [
-    "settingsPanelModeration",
-    "settingsSound",
-    "scheduleInvalidAccount",
-    "confirmRetryScheduledPost",
-    "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton",
-    "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
-  ],
+  "id": [],
   "be": [
     "viewButton",
     "hideButton",
