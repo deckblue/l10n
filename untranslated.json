@@ -93,7 +93,9 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -189,7 +191,9 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -291,7 +295,9 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -392,7 +398,9 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "es": [
     "postedDateUnitYears",
@@ -456,13 +464,17 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "uk": [
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -526,7 +538,9 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "id": [
     "settingsPanelModeration",
@@ -534,7 +548,9 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "be": [
     "viewButton",
@@ -558,7 +574,9 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "ja": [
     "followsAccount",
@@ -566,12 +584,16 @@
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ],
   "fr": [
     "scheduleInvalidAccount",
     "confirmRetryScheduledPost",
     "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton"
+    "retryScheduledPostButton",
+    "relinkScheduleAccount",
+    "relinkScheduleAccountSubtitle"
   ]
 }
