@@ -1358,5 +1358,13 @@
   "retryScheduledPostButton": "Retry",
   "@retryScheduledPostButton": {
     "description": "Retry button specific for the scheduled post, can be translated to resend"
+  },
+  "relinkScheduleAccount": "Refresh scheduling account",
+  "@relinkScheduleAccount": {
+    "description": "Relink schedule account title"
+  },
+  "relinkScheduleAccountSubtitle": "If you're having issues with scheduled posts not being sent, please use this option to login again with your scheduling account. Once that's done, please retry your failed posts.",
+  "@relinkScheduleAccountSubtitle": {
+    "description": "Relink schedule account subtitle"
   }
 }
