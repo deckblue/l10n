@@ -468,14 +468,7 @@
     "relinkScheduleAccount",
     "relinkScheduleAccountSubtitle"
   ],
-  "uk": [
-    "scheduleInvalidAccount",
-    "confirmRetryScheduledPost",
-    "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton",
-    "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
-  ],
+  "uk": [],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
