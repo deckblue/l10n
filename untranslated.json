@@ -28,7 +28,6 @@
     "shortcutsCloseWindow",
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
-    "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
@@ -95,7 +94,11 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -126,7 +129,6 @@
     "shortcutsCloseWindow",
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
-    "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
@@ -193,12 +195,18 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
   "pt": [
     "settingsPanelGeneral",
     "settingsPanelInterface",
-    "settingsPanelToggles"
+    "settingsPanelToggles",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
   "zh_TW": [
     "followsAccount",
@@ -230,7 +238,6 @@
     "shortcutsCloseWindow",
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
-    "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
@@ -297,7 +304,11 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -333,7 +344,6 @@
     "shortcutsCloseWindow",
     "shortcutsThisWindow",
     "settingsAutoplayGIFs",
-    "searchTenor",
     "settingsDisableGIFs",
     "sponsors",
     "blockingByList",
@@ -400,7 +410,11 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
   "es": [
     "postedDateUnitYears",
@@ -466,9 +480,18 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
-  "uk": [],
+  "uk": [
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
+  ],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -533,9 +556,18 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
-  "id": [],
+  "id": [
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
+  ],
   "be": [
     "viewButton",
     "hideButton",
@@ -560,7 +592,11 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
   "ja": [
     "followsAccount",
@@ -570,7 +606,11 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ],
   "fr": [
     "scheduleInvalidAccount",
@@ -578,6 +618,10 @@
     "confirmRetryScheduledPostContent",
     "retryScheduledPostButton",
     "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle"
+    "relinkScheduleAccountSubtitle",
+    "searchGIF",
+    "showReplies",
+    "columnTitleScheduled",
+    "columnDescriptionScheduled"
   ]
 }
