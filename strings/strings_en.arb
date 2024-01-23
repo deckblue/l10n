@@ -1095,10 +1095,6 @@
   "@settingsAutoplayGIFs": {
     "description": "Setting for GIF autoplay"
   },
-  "searchTenor": "Search Tenor",
-  "@searchTenor": {
-    "description": "GIF search hint"
-  },
   "settingsDisableGIFs": "Disable GIFs",
   "@settingsDisableGIFs": {
     "description": "Setting for GIF disable"
@@ -1366,5 +1362,21 @@
   "relinkScheduleAccountSubtitle": "If you're having issues with scheduled posts not being sent, please use this option to login again with your scheduling account. Once that's done, please retry your failed posts.",
   "@relinkScheduleAccountSubtitle": {
     "description": "Relink schedule account subtitle"
+  },
+  "searchGIF": "Search Tenor or GIPHY",
+  "@searchGIF": {
+    "description": "GIF search hint"
+  },
+  "showReplies": "Show replies",
+  "@showReplies": {
+    "description": "Toggle replies on/off"
+  },
+  "columnTitleScheduled": "Scheduled",
+  "@columnTitleScheduled": {
+    "description": "DeckColumnType Scheduled title"
+  },
+  "columnDescriptionScheduled": "Your scheduled posts across all accounts",
+  "@columnDescriptionScheduled": {
+    "description": "DeckColumnType Scheduled description"
   }
 }

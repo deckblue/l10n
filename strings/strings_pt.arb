@@ -273,7 +273,6 @@
   "shortcutsCloseWindow": "Fechar janela",
   "shortcutsThisWindow": "Atalhos",
   "settingsAutoplayGIFs": "Autoplay em GIFs",
-  "searchTenor": "Pesquisar no Tenor",
   "settingsDisableGIFs": "Desabilitar GIFs",
   "sponsors": "Patrocinadores",
   "blockingByList": "bloqueado em lista",
@@ -337,5 +336,7 @@
   "confirmRetryScheduledPostContent": "Este post não pôde ser enviado. Utilize a opção de revincular sua conta de agendamento antes de tentar o reenvio. Seu post aparecerá no seu perfil 'no passado'. Deseja tentar enviar novamente?",
   "retryScheduledPostButton": "Reenviar",
   "relinkScheduleAccount": "Atualizar conta de agendamento",
-  "relinkScheduleAccountSubtitle": "Se você está tendo problemas com posts agendados, por favor utilize esta opção para relogar com a sua conta de agendamento. Em seguida, tente reenviar os posts que falharam."
+  "relinkScheduleAccountSubtitle": "Se você está tendo problemas com posts agendados, por favor utilize esta opção para relogar com a sua conta de agendamento. Em seguida, tente reenviar os posts que falharam.",
+  "searchGIF": "Procurar no Tenor ou GIPHY",
+  "showReplies": "Mostrar respostas"
 }
