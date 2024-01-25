@@ -333,5 +333,15 @@
   "threadgateViewFollowing": "Les comptes suivis par {username}",
   "threadgateViewList": "Les comptes dans la liste \"{listName}\"",
   "settingsPanelModeration": "Modération",
-  "settingsSound": "Sélectionnez un son de notification"
+  "settingsSound": "Sélectionnez un son de notification",
+  "scheduleInvalidAccount": "Vous avez essayé de planifier un post avec un compte invalide, merci de le configurer.",
+  "confirmRetryScheduledPost": "Réessayer la planification",
+  "confirmRetryScheduledPostContent": "Ce post n'a pas pu être planifié, assurez-vous d'avoir correctement reconnecté votre compte avant de réessayer. Il sera envoyé à la date et heure indiquée et sera montré dans votre profil comme \"dans le passé\". Êtes-vous sûr(e) de vouloir réessayer ?",
+  "retryScheduledPostButton": "Réssayer",
+  "relinkScheduleAccount": "Reconnecter le compte de planification",
+  "relinkScheduleAccountSubtitle": "Utilisez cette option pour vous reconnecter si vos posts planifiés ne sont pas envoyés. Une fois ceci fait, replanifiez les posts en échec.",
+  "searchGIF": "Chercher sur Tenor ou GIPHY",
+  "showReplies": "Montrer les réponses (on/off)",
+  "columnTitleScheduled": "Planifiés",
+  "columnDescriptionScheduled": "Vos posts planifiés pour tous vos comptes"
 }
