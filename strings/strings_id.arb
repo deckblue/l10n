@@ -36,7 +36,7 @@
   "removeColumnButton": "Hapus Kolom",
   "addColumnDialogTitle": "Tambah Kolom Baru",
   "addFeedColumnDialogTitle": "Tambah Umpan Baru",
-  "columnDescriptionHome": "Linimasa Bluesky bawaan Anda",
+  "columnDescriptionHome": "Beranda Bluesky bawaan Anda",
   "columnDescriptionUser": "Postingan Anda sendiri",
   "columnDescriptionNotifications": "Notifikasi Anda",
   "columnDescriptionLikes": "Postingan yang Anda sukai",
@@ -339,5 +339,9 @@
   "confirmRetryScheduledPostContent": "Postingan ini gagal terkirim, pastikan Anda telah menautkan kembali akun jadwal Anda dengan benar sebelum mencoba lagi. Ini akan dikirim pada stempel waktu yang ditentukan, dan akan ditampilkan di profil Anda 'di masa lalu'. Apakah Anda yakin ingin menyetel postingan ini agar dicoba lagi?",
   "retryScheduledPostButton": "Coba Lagi",
   "relinkScheduleAccount": "Muat Ulang akun penjadwalan",
-  "relinkScheduleAccountSubtitle": "Jika Anda mengalami masalah dengan kiriman terjadwal yang tidak terkirim, silakan gunakan opsi ini untuk masuk lagi dengan akun penjadwalan Anda. Setelah selesai, silakan coba lagi postingan Anda yang gagal."
+  "relinkScheduleAccountSubtitle": "Jika Anda mengalami masalah dengan kiriman terjadwal yang tidak terkirim, silakan gunakan opsi ini untuk masuk lagi dengan akun penjadwalan Anda. Setelah selesai, silakan coba lagi postingan Anda yang gagal.",
+  "searchGIF": "Cari Tenor atau GIPHY",
+  "showReplies": "Tampilkan Balasan",
+  "columnTitleScheduled": "Dijadwalkan",
+  "columnDescriptionScheduled": "Postingan terjadwal Anda di semua akun"
 }
