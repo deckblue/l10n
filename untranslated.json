@@ -307,12 +307,7 @@
     "columnTitleScheduled",
     "columnDescriptionScheduled"
   ],
-  "id": [
-    "searchGIF",
-    "showReplies",
-    "columnTitleScheduled",
-    "columnDescriptionScheduled"
-  ],
+  "id": [],
   "pt": [
     "settingsPanelGeneral",
     "settingsPanelInterface",
