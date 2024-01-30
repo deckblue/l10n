@@ -331,5 +331,16 @@
   "threadgateViewMention": "このスレッドでメンションされたユーザーのみ",
   "threadgateViewFollowing": "{username}にフォローされているユーザーのみ",
   "threadgateViewList": "\"{listName}\"のユーザーのみ",
-  "settingsPanelModeration": "モデレーション"
+  "settingsPanelModeration": "モデレーション",
+  "settingsSound": "通知音を選択",
+  "scheduleInvalidAccount": "無効な予約アカウントです。予約アカウントを確認してください。",
+  "confirmRetryScheduledPost": "予約ポストのリトライ",
+  "confirmRetryScheduledPostContent": "この予約ポストは送信されませんでした。この予約ポストの送信をリトライする前に、あなたの予約アカウントを再リンクしてください。予約ポストの送信をリトライすると、予約ポストに設定された日時でポストが送信されます。この予約ポストをリトライしてもいいですか？",
+  "retryScheduledPostButton": "リトライ",
+  "relinkScheduleAccount": "予約アカウントを再リンク",
+  "relinkScheduleAccountSubtitle": "もし予約ポストに失敗する場合は、このオプションから予約アカウントの再リンクをしてください。",
+  "searchGIF": "GIFを検索",
+  "showReplies": "返信を表示",
+  "columnTitleScheduled": "予約済み",
+  "columnDescriptionScheduled": "すべてのリンクされたアカウントで予約されたポスト"
 }
