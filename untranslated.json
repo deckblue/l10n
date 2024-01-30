@@ -316,18 +316,7 @@
     "columnDescriptionScheduled"
   ],
   "ja": [
-    "followsAccount",
-    "settingsSound",
-    "scheduleInvalidAccount",
-    "confirmRetryScheduledPost",
-    "confirmRetryScheduledPostContent",
-    "retryScheduledPostButton",
-    "relinkScheduleAccount",
-    "relinkScheduleAccountSubtitle",
-    "searchGIF",
-    "showReplies",
-    "columnTitleScheduled",
-    "columnDescriptionScheduled"
+    "followsAccount"
   ],
   "zh_TW": [
     "followsAccount",
