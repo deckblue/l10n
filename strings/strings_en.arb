@@ -1378,5 +1378,17 @@
   "columnDescriptionScheduled": "Your scheduled posts across all accounts",
   "@columnDescriptionScheduled": {
     "description": "DeckColumnType Scheduled description"
+  },
+  "reconnectPatreon": "Reconnect Patreon",
+  "@reconnectPatreon": {
+    "description": "Reconnect Patreon settings button"
+  },
+  "lastUpdated": "Last updated: {datetime}",
+  "@lastUpdated": {
+    "description": "Generic Last updated label"
+  },
+  "hideConfirm": "Are you sure you want to hide this post? You won't be able to see it again in this deck.blue instance (hidden posts are not synced)",
+  "@hideConfirm": {
+    "description": "Confirmation when hiding a post"
   }
 }

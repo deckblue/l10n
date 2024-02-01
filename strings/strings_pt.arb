@@ -338,5 +338,8 @@
   "relinkScheduleAccount": "Atualizar conta de agendamento",
   "relinkScheduleAccountSubtitle": "Se você está tendo problemas com posts agendados, por favor utilize esta opção para relogar com a sua conta de agendamento. Em seguida, tente reenviar os posts que falharam.",
   "searchGIF": "Procurar no Tenor ou GIPHY",
-  "showReplies": "Mostrar respostas"
+  "showReplies": "Mostrar respostas",
+  "reconnectPatreon": "Reconectar Patreon",
+  "lastUpdated": "Última atualização: {datetime}",
+  "hideConfirm": "Tem certeza de que quer esconder este post? Esta ação é irreversível e você não verá mais este post nesta instância do deck.blue (posts escondidos não são sincronizados)"
 }
