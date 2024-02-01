@@ -342,5 +342,8 @@
   "searchGIF": "GIFを検索",
   "showReplies": "返信を表示",
   "columnTitleScheduled": "予約済み",
-  "columnDescriptionScheduled": "すべてのリンクされたアカウントで予約されたポスト"
+  "columnDescriptionScheduled": "すべてのリンクされたアカウントで予約されたポスト",
+  "reconnectPatreon": "Patreonアカウントを再連携",
+  "lastUpdated": "最終更新日時: {datetime}",
+  "hideConfirm": "ポストの非表示を行うとdeck.blueでこのポストを見ることができなくなります。本当にこのポストを非表示にしてもいいですか？"
 }
