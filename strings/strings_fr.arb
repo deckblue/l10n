@@ -343,5 +343,8 @@
   "searchGIF": "Chercher sur Tenor ou GIPHY",
   "showReplies": "Montrer les réponses (on/off)",
   "columnTitleScheduled": "Planifiés",
-  "columnDescriptionScheduled": "Vos posts planifiés pour tous vos comptes"
+  "columnDescriptionScheduled": "Vos posts planifiés pour tous vos comptes",
+  "reconnectPatreon": "Reconnecter Patreon",
+  "lastUpdated": "Dernière mise à jour : {datetime}",
+  "hideConfirm": "Êtes-vous sûr(e) de vouloir masquer ce post ? Vous ne pourrez plus le voir dans cette instance de deck.blue (les posts masqués ne sont pas synchronisés)"
 }
