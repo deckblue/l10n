@@ -343,5 +343,8 @@
   "searchGIF": "Cari Tenor atau GIPHY",
   "showReplies": "Tampilkan Balasan",
   "columnTitleScheduled": "Dijadwalkan",
-  "columnDescriptionScheduled": "Postingan terjadwal Anda di semua akun"
+  "columnDescriptionScheduled": "Postingan terjadwal Anda di semua akun",
+  "reconnectPatreon": "Hubungkan kembali Patreon",
+  "lastUpdated": "Terakhir diperbarui: {datetime}",
+  "hideConfirm": "Apakah Anda yakin ingin menyembunyikan postingan ini? Anda tidak akan dapat melihatnya lagi dalam contoh deck.blue ini (postingan tersembunyi tidak disinkronkan)"
 }
