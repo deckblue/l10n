@@ -395,11 +395,7 @@
     "columnTitleScheduled",
     "columnDescriptionScheduled"
   ],
-  "id": [
-    "reconnectPatreon",
-    "lastUpdated",
-    "hideConfirm"
-  ],
+  "id": [],
   "be": [
     "viewButton",
     "hideButton",
