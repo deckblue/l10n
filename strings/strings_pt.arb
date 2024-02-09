@@ -341,5 +341,8 @@
   "showReplies": "Mostrar respostas",
   "reconnectPatreon": "Reconectar Patreon",
   "lastUpdated": "Última atualização: {datetime}",
-  "hideConfirm": "Tem certeza de que quer esconder este post? Esta ação é irreversível e você não verá mais este post nesta instância do deck.blue (posts escondidos não são sincronizados)"
+  "hideConfirm": "Tem certeza de que quer esconder este post? Esta ação é irreversível e você não verá mais este post nesta instância do deck.blue (posts escondidos não são sincronizados)",
+  "turnOn": "Ligar {text}",
+  "turnOff": "Desligar {text}",
+  "autoRefresh": "Atualização automática"
 }
