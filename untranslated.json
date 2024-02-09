@@ -102,10 +102,16 @@
     "columnDescriptionScheduled",
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -178,7 +184,10 @@
     "columnDescriptionScheduled",
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -282,7 +291,10 @@
     "columnDescriptionScheduled",
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -386,7 +398,10 @@
     "columnDescriptionScheduled",
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -395,7 +410,11 @@
     "columnTitleScheduled",
     "columnDescriptionScheduled"
   ],
-  "id": [],
+  "id": [
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
+  ],
   "be": [
     "viewButton",
     "hideButton",
@@ -427,7 +446,10 @@
     "columnDescriptionScheduled",
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -536,7 +558,10 @@
     "columnDescriptionScheduled",
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "es": [
     "postedDateUnitYears",
@@ -609,12 +634,22 @@
     "columnDescriptionScheduled",
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
   "uk": [
     "reconnectPatreon",
     "lastUpdated",
-    "hideConfirm"
+    "hideConfirm",
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
   ],
-  "fr": []
+  "fr": [
+    "turnOn",
+    "turnOff",
+    "autoRefresh"
+  ]
 }
