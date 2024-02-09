@@ -1390,5 +1390,17 @@
   "hideConfirm": "Are you sure you want to hide this post? You won't be able to see it again in this deck.blue instance (hidden posts are not synced)",
   "@hideConfirm": {
     "description": "Confirmation when hiding a post"
+  },
+  "turnOn": "Turn on {text}",
+  "@turnOn": {
+    "description": "Generic toggle on label"
+  },
+  "turnOff": "Turn off {text}",
+  "@turnOff": {
+    "description": "Generic toggle off label"
+  },
+  "autoRefresh": "Auto-refresh",
+  "@autoRefresh": {
+    "description": "Generic Auto-refresh label"
   }
 }
