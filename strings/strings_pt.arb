@@ -115,7 +115,6 @@
   "contentLabelNsfw": "Pornô",
   "contentLabelNudity": "Nudez",
   "clearButton": "Limpar",
-  "emptySavedFeeds": "Nenhum feed salvo disponível. Favorite um via",
   "appPasswordTooltip": "Uma senha de app é uma funcionalidade do Bluesky que traz segurança ao usar apps de terceiros.\nVocê deve criar uma para qualquer app que não seja oficial (tipo esse).",
   "contentLabelSetting": "Adicione um aviso de conteúdo",
   "postErrorTooLarge": "Não foi possível postar. A imagem escolhida ultrapassa o tamanho máximo de 1MB.",
@@ -344,5 +343,6 @@
   "hideConfirm": "Tem certeza de que quer esconder este post? Esta ação é irreversível e você não verá mais este post nesta instância do deck.blue (posts escondidos não são sincronizados)",
   "turnOn": "Ligar {text}",
   "turnOff": "Desligar {text}",
-  "autoRefresh": "Atualização automática"
+  "autoRefresh": "Atualização automática",
+  "noSavedFeeds": "Você não tem feeds salvos! Você pode encontrá-los na aba Feeds da Busca e adicioná-los como colunas!"
 }

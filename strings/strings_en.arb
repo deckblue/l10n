@@ -463,10 +463,6 @@
   "@clearButton": {
     "description": "Generic Clear button"
   },
-  "emptySavedFeeds": "No saved feeds available. For now, please add them through",
-  "@emptySavedFeeds": {
-    "description": "Feed dialog empty state"
-  },
   "appPasswordTooltip": "An App Password is a Bluesky feature which adds a layer of safety when using 3rd party apps.\nYou should create one for any app that isn't official (such as this one).",
   "@appPasswordTooltip": {
     "description": "App Password tooltip"
@@ -1402,5 +1398,9 @@
   "autoRefresh": "Auto-refresh",
   "@autoRefresh": {
     "description": "Generic Auto-refresh label"
+  },
+  "noSavedFeeds": "No saved feeds available. You can use the Search to find them and then add them as columns!",
+  "@noSavedFeeds": {
+    "description": "Feed dialog empty state"
   }
 }

@@ -115,7 +115,6 @@
   "contentLabelNsfw": "成人",
   "contentLabelNudity": "裸露",
   "clearButton": "清除",
-  "emptySavedFeeds": "目前沒有任何已儲存的自訂來源，試著新增一個",
   "appPasswordTooltip": "應用程式密碼是 Bluesky 的功能，增加您使用第三方服務的安全性。\n您應該用於任何非官方的服務（譬如像目前這個）。",
   "contentLabelSetting": "新增內容警示",
   "postErrorTooLarge": "無法貼文。圖片超過了 1MB 的大小限制。",

@@ -115,7 +115,6 @@
   "contentLabelNsfw": "Aikuisille",
   "contentLabelNudity": "Alastomuus",
   "clearButton": "Tyhjennä",
-  "emptySavedFeeds": "Ei tallennettuja syötteitä. Voit luoda sellaisen aluksi.",
   "appPasswordTooltip": "Sovellussalasana on Blueskyn ominaisuus, joka tarjoaa lisäturvaa kolmannen osapuolen sovellusten käytössä.\nSinun tulisi luoda yksi jokaiselle epäviralliselle sovellukselle (kuten tämä).",
   "contentLabelSetting": "Lisää sisältövaroitus",
   "postErrorTooLarge": "Epäonnistui. Kuva ylittää 1 Mt:n enimmäiskoon.",

@@ -115,7 +115,6 @@
   "contentLabelNsfw": "Pornografie",
   "contentLabelNudity": "Nacktheit",
   "clearButton": "Leeren",
-  "emptySavedFeeds": "Es gibt keine gespeicherten Feeds. Fürs erste, kannst du dir einen erstellen",
   "appPasswordTooltip": "Ein App-Passwort ist ein Feature von Bluesky, welches zusätzliche Sicherheit bei der Nutzung von Drittanbieter-Apps bietet.\nDu solltest dir eins für jede inoffizielle App (wie diese) erstellen.",
   "contentLabelSetting": "Füge eine Inhaltswarnung hinzu",
   "postErrorTooLarge": "Konnte nicht abgesendet werden. Ein Bild übersteigt die maximale Größe von 1MB.",

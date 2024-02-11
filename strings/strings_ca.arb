@@ -115,7 +115,6 @@
   "contentLabelNsfw": "Porno",
   "contentLabelNudity": "Desnudea",
   "clearButton": "Netejar",
-  "emptySavedFeeds": "No hi ha feeds guardats disponibles. Per ara, afig-los a través de",
   "appPasswordTooltip": "Una contrasenya d'aplicació és una funció de Bluesky que afig una capa de seguritat en utilisar aplicacions de tercers.\nDeuries crear una per a qualsevol aplicació que no siga oficial (com esta).",
   "contentLabelSetting": "Afegir una advertència de contingut",
   "postErrorTooLarge": "No es va poder publicar. L'image utilisada supera el llímit d'1 MB.",
