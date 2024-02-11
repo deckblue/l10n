@@ -105,13 +105,15 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "ja": [
     "followsAccount",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -187,7 +189,8 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -294,7 +297,8 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -401,7 +405,8 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -413,7 +418,8 @@
   "id": [
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "be": [
     "viewButton",
@@ -449,7 +455,8 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -561,7 +568,8 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "es": [
     "postedDateUnitYears",
@@ -637,7 +645,8 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "uk": [
     "reconnectPatreon",
@@ -645,11 +654,13 @@
     "hideConfirm",
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ],
   "fr": [
     "turnOn",
     "turnOff",
-    "autoRefresh"
+    "autoRefresh",
+    "noSavedFeeds"
   ]
 }
