@@ -109,11 +109,7 @@
     "noSavedFeeds"
   ],
   "ja": [
-    "followsAccount",
-    "turnOn",
-    "turnOff",
-    "autoRefresh",
-    "noSavedFeeds"
+    "followsAccount"
   ],
   "ca": [
     "postedDateUnitYears",
