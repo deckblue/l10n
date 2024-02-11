@@ -115,7 +115,6 @@
   "contentLabelNsfw": "Porno",
   "contentLabelNudity": "Desnudez",
   "clearButton": "Limpiar",
-  "emptySavedFeeds": "No hay feeds guardados disponibles. Por ahora, añádelos a través de",
   "appPasswordTooltip": "Una contraseña de aplicación es una función de Bluesky que añade una capa de seguridad al utilizar aplicaciones de terceros.\nDeberías crear una para cualquier aplicación que no sea oficial (como ésta).",
   "contentLabelSetting": "Añadir una advertencia de contenido",
   "postErrorTooLarge": "No se pudo publicar. La imagen utilizada supera el límite de 1 MB.",
