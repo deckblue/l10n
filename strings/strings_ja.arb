@@ -344,5 +344,9 @@
   "columnDescriptionScheduled": "すべてのリンクされたアカウントで予約されたポスト",
   "reconnectPatreon": "Patreonアカウントを再連携",
   "lastUpdated": "最終更新日時: {datetime}",
-  "hideConfirm": "ポストの非表示を行うとdeck.blueでこのポストを見ることができなくなります。本当にこのポストを非表示にしてもいいですか？"
+  "hideConfirm": "ポストの非表示を行うとdeck.blueでこのポストを見ることができなくなります。本当にこのポストを非表示にしてもいいですか？",
+  "turnOn": "{text}を有効化",
+  "turnOff": "{text}を無効化",
+  "autoRefresh": "自動更新",
+  "noSavedFeeds": "利用可能なフィードがありません。フィードをカラムに追加するためには、検索から利用したいフィードを探して保存してください！"
 }
