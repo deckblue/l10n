@@ -345,5 +345,9 @@
   "columnDescriptionScheduled": "Vos posts planifiés pour tous vos comptes",
   "reconnectPatreon": "Reconnecter Patreon",
   "lastUpdated": "Dernière mise à jour : {datetime}",
-  "hideConfirm": "Êtes-vous sûr(e) de vouloir masquer ce post ? Vous ne pourrez plus le voir dans cette instance de deck.blue (les posts masqués ne sont pas synchronisés)"
+  "hideConfirm": "Êtes-vous sûr(e) de vouloir masquer ce post ? Vous ne pourrez plus le voir dans cette instance de deck.blue (les posts masqués ne sont pas synchronisés)",
+  "turnOn": "Activer {text}",
+  "turnOff": "Désactiver {text}",
+  "autoRefresh": "Rafraîchissement automatique",
+  "noSavedFeeds": "Aucun flux sauvegardé disponible. Vous pouvez utiliser la recherche pour en trouver puis les ajouter comme colonnes !"
 }
