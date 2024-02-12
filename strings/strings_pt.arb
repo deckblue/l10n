@@ -344,5 +344,20 @@
   "turnOn": "Ligar {text}",
   "turnOff": "Desligar {text}",
   "autoRefresh": "Atualização automática",
-  "noSavedFeeds": "Você não tem feeds salvos! Você pode encontrá-los na aba Feeds da Busca e adicioná-los como colunas!"
+  "noSavedFeeds": "Você não tem feeds salvos! Você pode encontrá-los na aba Feeds da Busca e adicioná-los como colunas!",
+  "galleryMode": "Modo de galeria",
+  "galleryModeDescription": "Mostra apenas posts com mídia, em grade",
+  "quoteGifButton": "Anexar GIF",
+  "editColumnDialog": "Editar coluna",
+  "renameColumn": "Renomear coluna",
+  "selectIcon": "Selecione um ícone",
+  "noResultsFor": "Nenhum resultado para:",
+  "useDefaultIcon": "Usar ícone original",
+  "resetToDefault": "Redefinir",
+  "createdBy": "Por",
+  "members": "Membros",
+  "blockList": "Bloquear todos os membros",
+  "muteList": "Silenciar todos os membros",
+  "lists": "Listas",
+  "emptyLists": "Este usuário não tem listas disponíveis!"
 }

@@ -1402,5 +1402,65 @@
   "noSavedFeeds": "No saved feeds available. You can use the Search to find them and then add them as columns!",
   "@noSavedFeeds": {
     "description": "Feed dialog empty state"
+  },
+  "galleryMode": "Gallery Mode",
+  "@galleryMode": {
+    "description": "Toggle for the gallery mode"
+  },
+  "galleryModeDescription": "Only shows posts containing media, in a grid",
+  "@galleryModeDescription": {
+    "description": "Toggle for the gallery mode"
+  },
+  "quoteGifButton": "Add GIF",
+  "@quoteGifButton": {
+    "description": "Toggle for the gallery mode"
+  },
+  "editColumnDialog": "Edit column",
+  "@editColumnDialog": {
+    "description": "Edit column dialog title"
+  },
+  "renameColumn": "Rename column",
+  "@renameColumn": {
+    "description": "Rename column text field label"
+  },
+  "selectIcon": "Select a custom icon",
+  "@selectIcon": {
+    "description": "Select custom icon label"
+  },
+  "noResultsFor": "No results for:",
+  "@noResultsFor": {
+    "description": "Generic No results text"
+  },
+  "useDefaultIcon": "Use default icon",
+  "@useDefaultIcon": {
+    "description": "Exit action on icon selector"
+  },
+  "resetToDefault": "Reset to default",
+  "@resetToDefault": {
+    "description": "Reset action on column edit selector"
+  },
+  "createdBy": "Created by",
+  "@createdBy": {
+    "description": "Generic Created by formattable text"
+  },
+  "members": "Members",
+  "@members": {
+    "description": "Generic Members text"
+  },
+  "blockList": "Block all members",
+  "@blockList": {
+    "description": "Button for blocking all members in a list"
+  },
+  "muteList": "Mute all members",
+  "@muteList": {
+    "description": "Button for muting all members in a list"
+  },
+  "lists": "Lists",
+  "@lists": {
+    "description": "Generic lists text"
+  },
+  "emptyLists": "This user doesn't have any lists available!",
+  "@emptyLists": {
+    "description": "Empty ProfileListsDialog message"
   }
 }
