@@ -124,22 +124,7 @@
     "emptyLists"
   ],
   "ja": [
-    "followsAccount",
-    "galleryMode",
-    "galleryModeDescription",
-    "quoteGifButton",
-    "editColumnDialog",
-    "renameColumn",
-    "selectIcon",
-    "noResultsFor",
-    "useDefaultIcon",
-    "resetToDefault",
-    "createdBy",
-    "members",
-    "blockList",
-    "muteList",
-    "lists",
-    "emptyLists"
+    "followsAccount"
   ],
   "ca": [
     "postedDateUnitYears",
