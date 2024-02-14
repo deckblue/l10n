@@ -308,7 +308,7 @@
   "scheduledPostLanguages": "言語: {languageList}",
   "sizeCustom": "カスタム",
   "settingsDisableLinkWarning": "リンクの警告を無効化",
-  "settingsDisableLinkWarningSubtitle": "フォーマットされたリンクを開く際の警告ポップアップ表示したくない場合",
+  "settingsDisableLinkWarningSubtitle": "インラインリンクを開く際の警告ポップアップを表示したくない場合",
   "multiSelectLanguageDialogTitle": "言語を選択",
   "settingsContentLanguages": "コンテンツ言語",
   "postButtonLikes": "いいねを表示",
