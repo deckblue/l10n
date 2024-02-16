@@ -1462,5 +1462,17 @@
   "emptyLists": "This user doesn't have any lists available!",
   "@emptyLists": {
     "description": "Empty ProfileListsDialog message"
+  },
+  "settingsDisablePostReactionCount": "Hide number of reactions on posts",
+  "@settingsDisablePostReactionCount": {
+    "description": "Setting for disabling the number of reactions on posts"
+  },
+  "settingsDisablePostReactionCountSubtitle": "Won't show the number of reactions on posts such as reply, repost and like",
+  "@settingsDisablePostReactionCountSubtitle": {
+    "description": "Setting for disabling the number of reactions on posts description"
+  },
+  "setupButton": "Setup",
+  "@setupButton": {
+    "description": "Generic Setup button"
   }
 }
