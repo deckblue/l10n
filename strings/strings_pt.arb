@@ -359,5 +359,8 @@
   "blockList": "Bloquear todos os membros",
   "muteList": "Silenciar todos os membros",
   "lists": "Listas",
-  "emptyLists": "Este usuário não tem listas disponíveis!"
+  "emptyLists": "Este usuário não tem listas disponíveis!",
+  "settingsDisablePostReactionCount": "Esconder contadores",
+  "settingsDisablePostReactionCountSubtitle": "Não mostrar contadores de curtidas/reposts/respostas",
+  "setupButton": "Configurar"
 }
