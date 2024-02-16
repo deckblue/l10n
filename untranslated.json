@@ -89,10 +89,14 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "setupButton"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -215,7 +219,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "id": [
     "turnOn",
@@ -236,7 +243,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -328,7 +338,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "be": [
     "viewButton",
@@ -380,7 +393,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "zh_TW": [
     "followsAccount",
@@ -504,7 +520,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "uk": [
     "reconnectPatreon",
@@ -528,7 +547,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -552,7 +574,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -675,7 +700,10 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -803,6 +831,9 @@
     "blockList",
     "muteList",
     "lists",
-    "emptyLists"
+    "emptyLists",
+    "settingsDisablePostReactionCount",
+    "settingsDisablePostReactionCountSubtitle",
+    "setupButton"
   ]
 }
