@@ -559,26 +559,7 @@
     "columnTitleScheduled",
     "columnDescriptionScheduled"
   ],
-  "fr": [
-    "galleryMode",
-    "galleryModeDescription",
-    "quoteGifButton",
-    "editColumnDialog",
-    "renameColumn",
-    "selectIcon",
-    "noResultsFor",
-    "useDefaultIcon",
-    "resetToDefault",
-    "createdBy",
-    "members",
-    "blockList",
-    "muteList",
-    "lists",
-    "emptyLists",
-    "settingsDisablePostReactionCount",
-    "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
-  ],
+  "fr": [],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
