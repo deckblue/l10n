@@ -111,9 +111,9 @@
   "saveButton": "決定",
   "confirmButton": "はい",
   "cancelButton": "キャンセル",
-  "contentLabelSuggestive": "過激な暗示",
+  "contentLabelSuggestive": "思わせぶりなヌード",
   "contentLabelNsfw": "ポルノ",
-  "contentLabelNudity": "ヌード",
+  "contentLabelNudity": "露骨なヌード",
   "clearButton": "クリア",
   "appPasswordTooltip": "アプリパスワードはBlueskyの機能で、サードパーティのアプリを利用する際の安全性を高めるものです。\nそのためdeck.blueにログインする際にもアプリパスワードを使用することが推奨されています。",
   "contentLabelSetting": "メディアに警告を追加",
@@ -365,5 +365,5 @@
   "lists": "リスト",
   "emptyLists": "このユーザーは利用可能なリストを持っていません！",
   "settingsDisablePostReactionCount": "ポストのリアクション数を非表示",
-  "settingsDisablePostReactionCountSubtitle": "ポストにおける返信、リポスト、いいねの数を表示したくない場合"
+  "settingsDisablePostReactionCountSubtitle": "返信、リポスト、いいねの数を表示したくない場合"
 }
