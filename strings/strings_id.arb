@@ -127,7 +127,7 @@
   "aboutDescription2": "Dengan menggunakan deck.blue, Anda dapat melakukan semua yang sudah dapat Anda lakukan di aplikasi resmi dengan memanfaatkan tata letak informasi yang efisien, mengatur kolom – diperbarui secara real-time – agar lebih sesuai dengan kebutuhan Anda. Ingin melacak banyak istilah yang dicari sekaligus? Cukup tambahkan kolom untuk masing-masing kolom! Dengan menggunakan sistem umpan kustom Bluesky, Anda juga dapat mengikuti komunitas sebanyak yang Anda inginkan.",
   "aboutButton": "Tentang",
   "loginSlogan1": "Dapatkan hasil maksimal",
-  "loginSlogan2":  "Bluesky",
+  "loginSlogan2": "Bluesky",
   "updateSnackbar": "Pembaruan baru tersedia! Muat ulang untuk mendapatkan fitur baru dan perbaikan bug!",
   "refreshButton": "Muat Ulang",
   "replyCount": "{count, plural, one{Balasan} other{Balasan}}",
