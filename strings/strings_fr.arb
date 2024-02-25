@@ -369,5 +369,5 @@
   "settingsDisablePostReactionCountSubtitle": "N'affichera plus le nombre de réactions sur les posts, comme les réponses, reposts et likes",
   "setupButton": "Configurer",
   "settingsBlurImages": "Flouter les images sensibles",
-  "settingsBlurImagesDescription": "Flouter les images sensible au lieu de les masquer"
+  "settingsBlurImagesDescription": "Flouter les images sensibles au lieu de les masquer"
 }
