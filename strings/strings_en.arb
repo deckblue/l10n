@@ -1474,5 +1474,13 @@
   "setupButton": "Setup",
   "@setupButton": {
     "description": "Generic Setup button"
+  },
+  "settingsBlurImages": "Blur restricted images",
+  "@blurImages": {
+    "description": "blurImages setting"
+  },
+  "settingsBlurImagesDescription": "Instead of hiding inappropriate images, they'll be blurred",
+  "@blurImagesDescription": {
+    "description": "blurImages setting description"
   }
 }
