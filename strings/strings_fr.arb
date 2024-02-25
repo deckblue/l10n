@@ -367,5 +367,7 @@
   "emptyLists": "Cet utilisateur n'a pas de liste disponible !",
   "settingsDisablePostReactionCount": "Cacher le nombre de réactions sur les posts",
   "settingsDisablePostReactionCountSubtitle": "N'affichera plus le nombre de réactions sur les posts, comme les réponses, reposts et likes",
-  "setupButton": "Configurer"
+  "setupButton": "Configurer",
+  "settingsBlurImages": "Flouter les images sensibles",
+  "settingsBlurImagesDescription": "Flouter les images sensibles au lieu de les masquer"
 }
