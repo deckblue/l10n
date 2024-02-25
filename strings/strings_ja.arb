@@ -366,5 +366,7 @@
   "emptyLists": "このユーザーは利用可能なリストを持っていません！",
   "settingsDisablePostReactionCount": "ポストのリアクション数を非表示",
   "settingsDisablePostReactionCountSubtitle": "返信、リポスト、いいねの数を表示したくない場合",
-  "setupButton": "セットアップ"
+  "setupButton": "セットアップ",
+  "settingsBlurImages": "画像のぼかし加工を有効化",
+  "settingsBlurImagesDescription": "不適切な画像を非表示にする代わりにぼかし加工で表示"
 }
