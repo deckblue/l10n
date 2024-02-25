@@ -92,10 +92,14 @@
     "emptyLists",
     "settingsDisablePostReactionCount",
     "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
+    "setupButton",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -221,9 +225,14 @@
     "emptyLists",
     "settingsDisablePostReactionCount",
     "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
+    "setupButton",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ],
-  "id": [],
+  "id": [
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
+  ],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -317,7 +326,9 @@
     "emptyLists",
     "settingsDisablePostReactionCount",
     "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
+    "setupButton",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ],
   "be": [
     "viewButton",
@@ -372,7 +383,9 @@
     "emptyLists",
     "settingsDisablePostReactionCount",
     "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
+    "setupButton",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ],
   "zh_TW": [
     "followsAccount",
@@ -499,9 +512,14 @@
     "emptyLists",
     "settingsDisablePostReactionCount",
     "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
+    "setupButton",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ],
-  "uk": [],
+  "uk": [
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
+  ],
   "pt": [
     "settingsPanelGeneral",
     "settingsPanelInterface",
@@ -509,7 +527,10 @@
     "columnTitleScheduled",
     "columnDescriptionScheduled"
   ],
-  "fr": [],
+  "fr": [
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
+  ],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -634,7 +655,9 @@
     "emptyLists",
     "settingsDisablePostReactionCount",
     "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
+    "setupButton",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -765,6 +788,8 @@
     "emptyLists",
     "settingsDisablePostReactionCount",
     "settingsDisablePostReactionCountSubtitle",
-    "setupButton"
+    "setupButton",
+    "settingsBlurImages",
+    "settingsBlurImagesDescription"
   ]
 }
