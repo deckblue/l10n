@@ -296,7 +296,7 @@
   "schedulePost": "このポストは{scheduleTime}に送信されます。",
   "settingsSchedule": "予約ポスト",
   "emptyScheduledPosts": "予約されたポストはありません。",
-  "confirmCancelScheduledPost": "予約ポストをキャンセル",
+  "confirmCancelScheduledPost": "予約ポストのキャンセル",
   "confirmCancelScheduledPostContent": "この予約ポストを本当にキャンセルしてもいいですか？キャンセルされた予約ポストのデータは復元できません。",
   "errorMaxScheduledPosts": "{tierName}のサブスクリプション契約では、{maxCount}以上のポストを予約することはできません！",
   "scheduledPostReply": "返信先: ",
