@@ -368,5 +368,6 @@
   "settingsDisablePostReactionCountSubtitle": "返信、リポスト、いいねの数を表示したくない場合",
   "setupButton": "セットアップ",
   "settingsBlurImages": "画像のぼかし加工を有効化",
-  "settingsBlurImagesDescription": "不適切な画像を非表示にする代わりにぼかし加工で表示"
+  "settingsBlurImagesDescription": "不適切な画像を非表示にする代わりにぼかし加工で表示",
+  "settingsLocaleDisclaimer": "deck.blueの翻訳はクラウドソーシングで行われています！もし翻訳の誤りを見つけた場合はこのリンクから修正された翻訳を投稿してください。"
 }

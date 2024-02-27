@@ -364,5 +364,6 @@
   "settingsDisablePostReactionCountSubtitle": "Não mostrar contadores de curtidas/reposts/respostas",
   "setupButton": "Configurar",
   "settingsBlurImages": "Borrar imagens inapropriadas",
-  "settingsBlurImagesDescription": "Ao invés de escondê-las, um filtro de borrão será aplicado nelas"
+  "settingsBlurImagesDescription": "Ao invés de escondê-las, um filtro de borrão será aplicado nelas",
+  "settingsLocaleDisclaimer": "deck.blue usa traduções feitas por voluntários! Se perceber algo errado no seu idioma, clique aqui para ajudar a corrigir."
 }
