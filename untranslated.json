@@ -94,7 +94,8 @@
     "settingsDisablePostReactionCountSubtitle",
     "setupButton",
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "ja": [
     "followsAccount"
@@ -225,11 +226,13 @@
     "settingsDisablePostReactionCountSubtitle",
     "setupButton",
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "id": [
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -326,7 +329,8 @@
     "settingsDisablePostReactionCountSubtitle",
     "setupButton",
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "be": [
     "viewButton",
@@ -383,7 +387,8 @@
     "settingsDisablePostReactionCountSubtitle",
     "setupButton",
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "zh_TW": [
     "followsAccount",
@@ -512,11 +517,13 @@
     "settingsDisablePostReactionCountSubtitle",
     "setupButton",
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "uk": [
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "pt": [
     "settingsPanelGeneral",
@@ -525,7 +532,9 @@
     "columnTitleScheduled",
     "columnDescriptionScheduled"
   ],
-  "fr": [],
+  "fr": [
+    "settingsLocaleDisclaimer"
+  ],
   "fi": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -652,7 +661,8 @@
     "settingsDisablePostReactionCountSubtitle",
     "setupButton",
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -785,6 +795,7 @@
     "settingsDisablePostReactionCountSubtitle",
     "setupButton",
     "settingsBlurImages",
-    "settingsBlurImagesDescription"
+    "settingsBlurImagesDescription",
+    "settingsLocaleDisclaimer"
   ]
 }
