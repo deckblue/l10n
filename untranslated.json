@@ -520,11 +520,7 @@
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer"
   ],
-  "uk": [
-    "settingsBlurImages",
-    "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
-  ],
+  "uk": [],
   "pt": [
     "settingsPanelGeneral",
     "settingsPanelInterface",
