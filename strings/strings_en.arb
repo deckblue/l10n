@@ -1476,11 +1476,15 @@
     "description": "Generic Setup button"
   },
   "settingsBlurImages": "Blur restricted images",
-  "@blurImages": {
+  "@settingsBlurImages": {
     "description": "blurImages setting"
   },
   "settingsBlurImagesDescription": "Instead of hiding inappropriate images, they'll be blurred",
-  "@blurImagesDescription": {
+  "@settingsBlurImagesDescription": {
     "description": "blurImages setting description"
+  },
+  "settingsLocaleDisclaimer": "deck.blue uses crowd-sourced translations! If you notice anything wrong in your language, click here to submit a fix.",
+  "@settingsLocaleDisclaimer": {
+    "description": "Disclaimer about crowd-sourced translations"
   }
 }
