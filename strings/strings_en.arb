@@ -1486,5 +1486,9 @@
   "settingsLocaleDisclaimer": "deck.blue uses crowd-sourced translations! If you notice anything wrong in your language, click here to submit a fix.",
   "@settingsLocaleDisclaimer": {
     "description": "Disclaimer about crowd-sourced translations"
+  },
+  "postErrorMedia": "Couldn't post due to a media upload error. Please try again later.",
+  "@postErrorMedia": {
+    "description": "PostErrorType media description"
   }
 }
