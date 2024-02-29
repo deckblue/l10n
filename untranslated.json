@@ -95,10 +95,12 @@
     "setupButton",
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "postErrorMedia"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -227,12 +229,14 @@
     "setupButton",
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
   "id": [
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -330,7 +334,8 @@
     "setupButton",
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
   "be": [
     "viewButton",
@@ -388,7 +393,8 @@
     "setupButton",
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
   "zh_TW": [
     "followsAccount",
@@ -518,9 +524,12 @@
     "setupButton",
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
-  "uk": [],
+  "uk": [
+    "postErrorMedia"
+  ],
   "pt": [
     "settingsPanelGeneral",
     "settingsPanelInterface",
@@ -529,7 +538,8 @@
     "columnDescriptionScheduled"
   ],
   "fr": [
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -658,7 +668,8 @@
     "setupButton",
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -792,6 +803,7 @@
     "setupButton",
     "settingsBlurImages",
     "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer"
+    "settingsLocaleDisclaimer",
+    "postErrorMedia"
   ]
 }
