@@ -366,5 +366,7 @@
   "settingsBlurImages": "Borrar imagens inapropriadas",
   "settingsBlurImagesDescription": "Ao invés de escondê-las, um filtro de borrão será aplicado nelas",
   "settingsLocaleDisclaimer": "deck.blue usa traduções feitas por voluntários! Se perceber algo errado no seu idioma, clique aqui para ajudar a corrigir.",
-  "postErrorMedia": "Não foi possível enviar este post por um erro relacionado ao upload de mídias. Por favor, tente novamente mais tarde."
+  "postErrorMedia": "Não foi possível enviar este post por um erro relacionado ao upload de mídias. Por favor, tente novamente mais tarde.",
+  "postButtonSearch": "Pesquisar posts",
+  "columnDescriptionSearch": "Uma coluna para uma pesquisa ou hashtag específica"
 }
