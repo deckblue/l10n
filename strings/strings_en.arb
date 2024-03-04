@@ -1490,5 +1490,13 @@
   "postErrorMedia": "Couldn't post due to a media upload error. Please try again later.",
   "@postErrorMedia": {
     "description": "PostErrorType media description"
+  },
+  "postButtonSearch": "Search posts",
+  "@postButtonSearch": {
+    "description": "Post search button"
+  },
+  "columnDescriptionSearch": "Add a column for a specific search or hashtag",
+  "@columnDescriptionSearch": {
+    "description": "DeckColumnType Search description"
   }
 }
