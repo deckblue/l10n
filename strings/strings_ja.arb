@@ -369,5 +369,18 @@
   "setupButton": "セットアップ",
   "settingsBlurImages": "画像のぼかし加工を有効化",
   "settingsBlurImagesDescription": "不適切な画像を非表示にする代わりにぼかし加工で表示",
-  "settingsLocaleDisclaimer": "deck.blueの翻訳はクラウドソーシングで行われています！もし翻訳の誤りを見つけた場合はこのリンクから修正された翻訳を投稿してください。"
+  "settingsLocaleDisclaimer": "deck.blueの翻訳はクラウドソーシングで行われています！もし翻訳の誤りを見つけた場合はこのリンクから修正された翻訳を投稿してください。",
+  "postErrorMedia": "メディアのアップロードエラーでポストに失敗しました。しばらくしてからもう一度お試しください。",
+  "postButtonSearch": "ポストを検索",
+  "columnDescriptionSearch": "特定のテキストやハッシュタグの検索結果",
+  "settingsMutedWordsSubtitle": "これらのワードミュートはdeck.blue以外のBlueskyクライアントと同期されます",
+  "confirmUnmuteWord": "ワードミュートの解除",
+  "confirmUnmuteWordContent": "ワードミュートを解除すると、ミュートされていたこのワードを含むすべてのポストが表示されるようになります。ワードミュートを解除した後でも、必要であればいつでもこのワードをミュート対象として設定することができます。本当にミュートを解除してもいいですか？",
+  "mutedWordHint": "ワードかタグを入力",
+  "mutedWordTargetAll": "テキスト & タグ",
+  "mutedWordTargetTag": "タグのみ",
+  "convertMutedWordsTitle": "ワードミュートの変換",
+  "convertMutedWordsSubtitle": "deck.blueで設定した旧仕様のワードミュートをBlueskyにアップロード",
+  "convertMutedWordsContent": "Blueskyで公式にワードミュートが実装されたことで、あなたがdeck.blueで設定したワードミュートは有効ではなくなりましたが、以下のボタンから選択された{handle}のアカウントに旧仕様のワードミュートを公式の仕様に移行させることが可能です。あなたが使用していた移行可能なワードミュートは次のものです: {mutedWords}",
+  "patreonTierBooster": "ブースター"
 }
