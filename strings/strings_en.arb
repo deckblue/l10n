@@ -1490,5 +1490,53 @@
   "postErrorMedia": "Couldn't post due to a media upload error. Please try again later.",
   "@postErrorMedia": {
     "description": "PostErrorType media description"
+  },
+  "postButtonSearch": "Search posts",
+  "@postButtonSearch": {
+    "description": "Post search button"
+  },
+  "columnDescriptionSearch": "Add a column for a specific search or hashtag",
+  "@columnDescriptionSearch": {
+    "description": "DeckColumnType Search description"
+  },
+  "settingsMutedWordsSubtitle": "These muted words are synced with other Bluesky clients",
+  "@settingsMutedWordsSubtitle": {
+    "description": "Description for the Muted words tile in the moderation settings"
+  },
+  "confirmUnmuteWord": "Unmute word",
+  "@confirmUnmuteWord": {
+    "description": "Confirmation title when unmuting a word"
+  },
+  "confirmUnmuteWordContent": "This word is currently muted, this means all posts containing it will appear again. You can always add it again if needed. Are you sure you want to unmute?",
+  "@confirmUnmuteWordContent": {
+    "description": "Confirmation message when unmuting a word"
+  },
+  "mutedWordHint": "Enter a word or tag",
+  "@mutedWordHint": {
+    "description": "Muted words input hint"
+  },
+  "mutedWordTargetAll": "Text & tags",
+  "@mutedWordTargetAll": {
+    "description": "Muted words target content and tags"
+  },
+  "mutedWordTargetTag": "Tags only",
+  "@mutedWordTargetTag": {
+    "description": "Muted words target only tags"
+  },
+  "convertMutedWordsTitle": "Convert muted words",
+  "@convertMutedWordsTitle": {
+    "description": "Convert muted words title"
+  },
+  "convertMutedWordsSubtitle": "Upload deck.blue's old muted words to Bluesky",
+  "@convertMutedWordsSubtitle": {
+    "description": "Convert muted words subtitle"
+  },
+  "convertMutedWordsContent": "Your old deck.blue muted words aren't valid/active anymore, but you can upload them to the selected {handle} account by confirming with the button below. Your old muted words are: {mutedWords}.",
+  "@convertMutedWordsContent": {
+    "description": "Convert muted words content explanation"
+  },
+  "patreonTierBooster": "Booster",
+  "@patreonTierBooster": {
+    "description": "PatreonTier booster title"
   }
 }
