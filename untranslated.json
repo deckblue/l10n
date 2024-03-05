@@ -96,11 +96,22 @@
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "ja": [
-    "followsAccount",
-    "postErrorMedia"
+    "followsAccount"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -230,13 +241,37 @@
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "id": [
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -335,7 +370,19 @@
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "be": [
     "viewButton",
@@ -394,7 +441,19 @@
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "zh_TW": [
     "followsAccount",
@@ -525,21 +584,51 @@
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "uk": [
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
-  "pt": [
-    "settingsPanelGeneral",
-    "settingsPanelInterface",
-    "settingsPanelToggles",
-    "columnTitleScheduled",
-    "columnDescriptionScheduled"
-  ],
+  "pt": [],
   "fr": [
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -669,7 +758,19 @@
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -804,6 +905,18 @@
     "settingsBlurImages",
     "settingsBlurImagesDescription",
     "settingsLocaleDisclaimer",
-    "postErrorMedia"
+    "postErrorMedia",
+    "postButtonSearch",
+    "columnDescriptionSearch",
+    "settingsMutedWordsSubtitle",
+    "confirmUnmuteWord",
+    "confirmUnmuteWordContent",
+    "mutedWordHint",
+    "mutedWordTargetAll",
+    "mutedWordTargetTag",
+    "convertMutedWordsTitle",
+    "convertMutedWordsSubtitle",
+    "convertMutedWordsContent",
+    "patreonTierBooster"
   ]
 }
