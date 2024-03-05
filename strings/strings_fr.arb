@@ -369,5 +369,19 @@
   "settingsDisablePostReactionCountSubtitle": "N'affichera plus le nombre de réactions sur les posts, comme les réponses, reposts et likes",
   "setupButton": "Configurer",
   "settingsBlurImages": "Flouter les images sensibles",
-  "settingsBlurImagesDescription": "Flouter les images sensibles au lieu de les masquer"
+  "settingsBlurImagesDescription": "Flouter les images sensibles au lieu de les masquer",
+  "settingsLocaleDisclaimer": "Les traductions de deck.blue sont fournies par des contributeurs tiers. Si vous repérez une erreur dans votre langue, cliquez ici pour proposer un correctif.",
+  "postErrorMedia": "Impossible de poster en raison d'une erreur avec le média. Merci de réessayer ultérieurement.",
+  "postButtonSearch": "Chercher parmi les posts",
+  "columnDescriptionSearch": "Ajouter une colonne pour une recherche spécifique ou un hashtag",
+  "settingsMutedWordsSubtitle": "Ces mots masqués sont synchronisés avec les autres clients Bluesky",
+  "confirmUnmuteWord": "Démasquer ce mot",
+  "confirmUnmuteWordContent": "Ce mot est actuellement masqué, cela signifie que tous les posts le contenant vont de nouveau être affichés. Vous pourrez le masquer de nouveau si besoin. Êtes-vous sûr(e) de vouloir continuer ?",
+  "mutedWordHint": "Saisir un mot ou un hashtag",
+  "mutedWordTargetAll": "Texte & hashtag",
+  "mutedWordTargetTag": "Hashtag uniquement",
+  "convertMutedWordsTitle": "Conversion des mots masqués",
+  "convertMutedWordsSubtitle": "Partager les anciens mots masqués de deck.blue avec Bluesky",
+  "convertMutedWordsContent": "Vos anciens mots masqués de deck.blue ne sont désormais plus valides/actifs, mais vous pouvez les envoyer sur le compte {handle} en cliquant sur le bouton ci-dessous. Vos anciens mots masqués sont : {mutedWords}",
+  "patreonTierBooster": "Booster"
 }
