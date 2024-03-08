@@ -383,5 +383,6 @@
   "convertMutedWordsTitle": "Converter palavras silenciadas",
   "convertMutedWordsSubtitle": "Fazer upload das palavras silenciadas do deck.blue pro Bluesky",
   "convertMutedWordsContent": "Suas palavras silenciadas do deck.blue não são mais válidas, para utilizá-las novamente na conta {handle}, basta confirmar no botão abaixo. Suas palavras silenciadas eram essas: {mutedWords}.",
-  "patreonTierBooster": "Booster"
+  "patreonTierBooster": "Booster",
+  "hiddenPost": "Post silenciado (usuário/palavra/tag silenciada)"
 }
