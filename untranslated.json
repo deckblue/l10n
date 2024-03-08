@@ -1,6 +1,7 @@
 {
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "hiddenPost"
   ],
   "pt": [],
   "be": [
@@ -72,9 +73,12 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ],
-  "uk": [],
+  "uk": [
+    "hiddenPost"
+  ],
   "ru": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -215,7 +219,8 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -362,9 +367,12 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ],
-  "fr": [],
+  "fr": [
+    "hiddenPost"
+  ],
   "es": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -474,7 +482,8 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ],
   "zh_TW": [
     "followsAccount",
@@ -617,7 +626,8 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -728,7 +738,8 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ],
   "id": [
     "settingsBlurImages",
@@ -746,7 +757,8 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -888,6 +900,7 @@
     "convertMutedWordsTitle",
     "convertMutedWordsSubtitle",
     "convertMutedWordsContent",
-    "patreonTierBooster"
+    "patreonTierBooster",
+    "hiddenPost"
   ]
 }
