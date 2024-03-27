@@ -367,5 +367,22 @@
   "emptyLists": "Pengguna ini tidak memiliki daftar apa pun yang tersedia!",
   "settingsDisablePostReactionCount": "Sembunyikan jumlah reaksi pada postingan",
   "settingsDisablePostReactionCountSubtitle": "Tidak akan menampilkan jumlah reaksi pada postingan seperti balasam, posting ulang dan suka",
-  "setupButton": "Mempersiapkan"
+  "setupButton": "Mempersiapkan",
+  "settingsBlurImages": "Memburamkan gambar yang dibatasi",
+  "settingsBlurImagesDescription": "Alih-alih menyembunyikan gambar yang tidak pantas, gambar tersebut dijadikan buram",
+  "settingsLocaleDisclaimer": "deck.blue menggunakan terjemahan yang bersumber dari banyak orang! Jika Anda melihat ada yang salah dalam bahasa Anda, klik di sini untuk mengirimkan perbaikan.",
+  "postErrorMedia": "Tidak dapat posting karena kesalahan pengunggahan media. Silakan coba lagi nanti."
+  "postButtonSearch": "Cari postingan",
+  "columnDescriptionSearch": "Tambahkan kolom untuk pencarian atau tagar tertentu",
+  "settingsMutedWordsSubtitle": "Kata-kata yang dibisukan ini disinkronkan dengan klien Bluesky lainnya",
+  "confirmUnmuteWord": "Membatalkan kata yang dibisukan",
+  "confirmUnmuteWordContent": "Kata ini sedang dibisukan, artinya semua postingan yang memuatnya akan muncul lagi. Anda selalu dapat menambahkannya lagi jika diperlukan. Apakah Anda yakin ingin mengaktifkan kata yang dibisukan?",
+  "mutedWordHint": "Masukkan kata atau tag",
+  "mutedWordTargetAll": "Teks & tag",
+  "mutedWordTargetTag": "Hanya tag",
+  "convertMutedWordsTitle": "Ubah kata-kata yang dibisukan",
+  "convertMutedWordsSubtitle": "Unggah kata-kata lama deck.blue yang tidak terdengar ke Bluesky",
+  "convertMutedWordsContent": "Kata-kata lama deck.blue Anda yang dibisukan tidak valid/aktif lagi, tetapi Anda dapat mengunggahnya ke akun {handle} yang dipilih dengan mengonfirmasi menggunakan tombol di bawah. Kata-kata lama Anda yang dibisukan adalah: {mutedWords}.",
+  "patreonTierBooster": "Tingkatkan",
+  "hiddenPost": "Pos disembunyikan (profil/kata/tag dibisukan)"
 }
