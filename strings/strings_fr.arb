@@ -383,5 +383,6 @@
   "convertMutedWordsTitle": "Conversion des mots masqués",
   "convertMutedWordsSubtitle": "Partager les anciens mots masqués de deck.blue avec Bluesky",
   "convertMutedWordsContent": "Vos anciens mots masqués de deck.blue ne sont désormais plus valides/actifs, mais vous pouvez les envoyer sur le compte {handle} en cliquant sur le bouton ci-dessous. Vos anciens mots masqués sont : {mutedWords}",
-  "patreonTierBooster": "Booster"
+  "patreonTierBooster": "Booster",
+  "hiddenPost": "Post masqué (profil/mot/tag masqué)"
 }
