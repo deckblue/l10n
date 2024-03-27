@@ -383,5 +383,6 @@
   "convertMutedWordsTitle": "Конвертувати стоп-слова",
   "convertMutedWordsSubtitle": "Надіслати старі стоп-слова з deck.blue до Bluesky",
   "convertMutedWordsContent": "Ваші старі стоп-слова з deck.blue більше не є дійсними/активними, але ви можете завантажити їх до облікового запису {handle}, підтвердивши це за допомогою кнопки нижче. Ваші старі стоп-слова: {mutedWords}.",
-  "patreonTierBooster": "Бустер"
+  "patreonTierBooster": "Бустер",
+  "hiddenPost": "Допис приховано (стишені профіль/слово/теґ)"
 }
