@@ -880,23 +880,5 @@
     "hiddenPost"
   ],
   "uk": [],
-  "id": [
-    "settingsBlurImages",
-    "settingsBlurImagesDescription",
-    "settingsLocaleDisclaimer",
-    "postErrorMedia",
-    "postButtonSearch",
-    "columnDescriptionSearch",
-    "settingsMutedWordsSubtitle",
-    "confirmUnmuteWord",
-    "confirmUnmuteWordContent",
-    "mutedWordHint",
-    "mutedWordTargetAll",
-    "mutedWordTargetTag",
-    "convertMutedWordsTitle",
-    "convertMutedWordsSubtitle",
-    "convertMutedWordsContent",
-    "patreonTierBooster",
-    "hiddenPost"
-  ]
+  "id": []
 }
