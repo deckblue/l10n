@@ -371,7 +371,7 @@
   "settingsBlurImages": "Memburamkan gambar yang dibatasi",
   "settingsBlurImagesDescription": "Alih-alih menyembunyikan gambar yang tidak pantas, gambar tersebut dijadikan buram",
   "settingsLocaleDisclaimer": "deck.blue menggunakan terjemahan yang bersumber dari banyak orang! Jika Anda melihat ada yang salah dalam bahasa Anda, klik di sini untuk mengirimkan perbaikan.",
-  "postErrorMedia": "Tidak dapat posting karena kesalahan pengunggahan media. Silakan coba lagi nanti."
+  "postErrorMedia": "Tidak dapat posting karena kesalahan pengunggahan media. Silakan coba lagi nanti.",
   "postButtonSearch": "Cari postingan",
   "columnDescriptionSearch": "Tambahkan kolom untuk pencarian atau tagar tertentu",
   "settingsMutedWordsSubtitle": "Kata-kata yang dibisukan ini disinkronkan dengan klien Bluesky lainnya",
