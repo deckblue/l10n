@@ -1542,5 +1542,57 @@
   "hiddenPost": "Post hidden (muted profile/word/tag)",
   "@hiddenPost": {
     "description": "Disclaimer that shows in a post muted by profile/word/tag"
+  },
+  "emptyDisabledReposters": "No profiles with disabled reposts yet",
+  "@emptyDisabledReposters": {
+    "description": "Profile menu option for disabling reposts"
+  },
+  "disableReposts": "Disable reposts",
+  "@disableReposts": {
+    "description": "Profile menu option for disabling reposts"
+  },
+  "enableReposts": "Enable reposts",
+  "@enableReposts": {
+    "description": "Profile menu option for enabling reposts"
+  },
+  "settingsDisabledReposters": "Disabled reposters",
+  "@settingsDisabledReposters": {
+    "description": "Settings option for showing disabled reposters"
+  },
+  "settingsDisabledRepostersSubtitle": "All profiles you've disabled reposts",
+  "@settingsDisabledRepostersSubtitle": {
+    "description": "Settings option for showing disabled reposters description"
+  },
+  "enableRepostsConfirm": "Are you sure you want to re-enable reposts for {handle}?",
+  "@enableRepostsConfirm": {
+    "description": "Confirmation when re-enabling reposts"
+  },
+  "buttonBookmark": "Bookmark",
+  "@buttonBookmark": {
+    "description": "Bookmark button on posts"
+  },
+  "emptyBookmarks": "No bookmarked posts yet",
+  "@emptyBookmarks": {
+    "description": "Settings option for showing bookmarks"
+  },
+  "settingsBookmarks": "Bookmarks",
+  "@settingsBookmarks": {
+    "description": "Settings option for showing bookmarks"
+  },
+  "settingsBookmarksSubtitle": "Your bookmarked posts on deck.blue, per account",
+  "@settingsBookmarksSubtitle": {
+    "description": "Settings option for showing bookmarks description"
+  },
+  "deleteBookmarkConfirm": "Are you sure you want to remove this bookmarked post?",
+  "@deleteBookmarkConfirm": {
+    "description": "Confirmation when removing bookmark"
+  },
+  "columnTitleBookmark": "Bookmarks",
+  "@columnTitleBookmark": {
+    "description": "DeckColumnType bookmark title"
+  },
+  "columnDescriptionBookmark": "Bookmarked posts, per account",
+  "@columnDescriptionBookmark": {
+    "description": "DeckColumnType bookmark description"
   }
 }

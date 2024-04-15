@@ -384,5 +384,18 @@
   "convertMutedWordsSubtitle": "Fazer upload das palavras silenciadas do deck.blue pro Bluesky",
   "convertMutedWordsContent": "Suas palavras silenciadas do deck.blue não são mais válidas, para utilizá-las novamente na conta {handle}, basta confirmar no botão abaixo. Suas palavras silenciadas eram essas: {mutedWords}.",
   "patreonTierBooster": "Booster",
-  "hiddenPost": "Post silenciado (usuário/palavra/tag silenciada)"
+  "hiddenPost": "Post silenciado (usuário/palavra/tag silenciada)",
+  "emptyDisabledReposters": "Nenhum perfil teve os reposts desabilitados ainda",
+  "disableReposts": "Desabilitar reposts",
+  "enableReposts": "Habilitar reposts",
+  "settingsDisabledReposters": "Disabled reposters",
+  "settingsDisabledRepostersSubtitle": "All profiles you've disabled reposts",
+  "enableRepostsConfirm": "Tem certeza de que quer habilitar os reposts da conta {handle} de novo?",
+  "buttonBookmark": "Salvar",
+  "emptyBookmarks": "Nenhum post salvo",
+  "settingsBookmarks": "Posts salvos",
+  "settingsBookmarksSubtitle": "Seus posts salvos no deck.blue, por conta",
+  "deleteBookmarkConfirm": "Tem certeza de que quer remover este post salvo?",
+  "columnTitleBookmark": "Posts salvos",
+  "columnDescriptionBookmark": "Posts salvos, por conta"
 }
