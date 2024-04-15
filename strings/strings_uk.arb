@@ -384,5 +384,18 @@
   "convertMutedWordsSubtitle": "Надіслати старі стоп-слова з deck.blue до Bluesky",
   "convertMutedWordsContent": "Ваші старі стоп-слова з deck.blue більше не є дійсними/активними, але ви можете завантажити їх до облікового запису {handle}, підтвердивши це за допомогою кнопки нижче. Ваші старі стоп-слова: {mutedWords}.",
   "patreonTierBooster": "Бустер",
-  "hiddenPost": "Допис приховано (стишені профіль/слово/теґ)"
+  "hiddenPost": "Допис приховано (стишені профіль/слово/теґ)",
+  "emptyDisabledReposters": "Ще немає профілів з вимкненими репостами",
+  "disableReposts": "Вимкнути репости",
+  "enableReposts": "Увімкнути репости",
+  "settingsDisabledReposters": "Вимкнуті репостери",
+  "settingsDisabledRepostersSubtitle": "Всі профілі, яким не дозволено робити репости",
+  "enableRepostsConfirm": "Ви дійсно бажаєте увімкнути можливість робити репости для {handle}?",
+  "buttonBookmark": "Закладка",
+  "emptyBookmarks": "Ще немає дописів у закладках",
+  "settingsBookmarks": "Закладки",
+  "settingsBookmarksSubtitle": "Ваші дописи в закладках на deck.blue, в обліковому записі",
+  "deleteBookmarkConfirm": "Ви впевнені, що хочете видалити цей пост з закладок?",
+  "columnTitleBookmark": "Закладки",
+  "columnDescriptionBookmark": "Дописи в закладках в обліковому записі"
 }
