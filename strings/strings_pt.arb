@@ -397,5 +397,6 @@
   "settingsBookmarksSubtitle": "Seus posts salvos no deck.blue, por conta",
   "deleteBookmarkConfirm": "Tem certeza de que quer remover este post salvo?",
   "columnTitleBookmark": "Posts salvos",
-  "columnDescriptionBookmark": "Posts salvos, por conta"
+  "columnDescriptionBookmark": "Posts salvos, por conta",
+  "repostAgain": "Repostar de novo"
 }

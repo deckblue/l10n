@@ -1594,5 +1594,9 @@
   "columnDescriptionBookmark": "Bookmarked posts, per account",
   "@columnDescriptionBookmark": {
     "description": "DeckColumnType bookmark description"
+  },
+  "repostAgain": "Repost again",
+  "@repostAgain": {
+    "description": "Repost again button"
   }
 }
