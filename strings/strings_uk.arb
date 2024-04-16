@@ -397,5 +397,6 @@
   "settingsBookmarksSubtitle": "Ваші дописи в закладках на deck.blue, в обліковому записі",
   "deleteBookmarkConfirm": "Ви впевнені, що хочете видалити цей пост з закладок?",
   "columnTitleBookmark": "Закладки",
-  "columnDescriptionBookmark": "Дописи в закладках в обліковому записі"
+  "columnDescriptionBookmark": "Дописи в закладках в обліковому записі",
+  "repostAgain": "Зарепостити знову"
 }
