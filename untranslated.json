@@ -918,22 +918,7 @@
     "columnDescriptionBookmark",
     "repostAgain"
   ],
-  "uk": [
-    "emptyDisabledReposters",
-    "disableReposts",
-    "enableReposts",
-    "settingsDisabledReposters",
-    "settingsDisabledRepostersSubtitle",
-    "enableRepostsConfirm",
-    "buttonBookmark",
-    "emptyBookmarks",
-    "settingsBookmarks",
-    "settingsBookmarksSubtitle",
-    "deleteBookmarkConfirm",
-    "columnTitleBookmark",
-    "columnDescriptionBookmark",
-    "repostAgain"
-  ],
+  "uk": [],
   "ja": [
     "followsAccount",
     "hiddenPost",
