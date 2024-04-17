@@ -880,22 +880,7 @@
   "uk": [],
   "pt": [],
   "ja": [
-    "followsAccount",
-    "hiddenPost",
-    "emptyDisabledReposters",
-    "disableReposts",
-    "enableReposts",
-    "settingsDisabledReposters",
-    "settingsDisabledRepostersSubtitle",
-    "enableRepostsConfirm",
-    "buttonBookmark",
-    "emptyBookmarks",
-    "settingsBookmarks",
-    "settingsBookmarksSubtitle",
-    "deleteBookmarkConfirm",
-    "columnTitleBookmark",
-    "columnDescriptionBookmark",
-    "repostAgain"
+    "followsAccount"
   ],
   "ca": [
     "postedDateUnitYears",
