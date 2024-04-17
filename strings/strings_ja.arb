@@ -382,5 +382,20 @@
   "convertMutedWordsTitle": "ワードミュートの変換",
   "convertMutedWordsSubtitle": "deck.blueで設定した旧仕様のワードミュートをBlueskyにアップロード",
   "convertMutedWordsContent": "Blueskyで公式にワードミュートが実装されたことで、あなたがdeck.blueで設定したワードミュートは有効ではなくなりましたが、以下のボタンから選択された{handle}のアカウントに旧仕様のワードミュートを公式の仕様に移行させることが可能です。あなたが使用していた移行可能なワードミュートは次のものです: {mutedWords}",
-  "patreonTierBooster": "ブースター"
+  "patreonTierBooster": "ブースター",
+  "hiddenPost": "プロフィール/ワード/タグによる非表示",
+  "emptyDisabledReposters": "リポストを無効化したプロフィールはまだありません",
+  "disableReposts": "リポストを無効化",
+  "enableReposts": "リポストを有効化",
+  "settingsDisabledReposters": "リポストを無効化したプロフィール",
+  "settingsDisabledRepostersSubtitle": "あなたがリポストを無効化した全てのプロフィール",
+  "enableRepostsConfirm": "{handle}のリポストを有効にしてもいいですか？",
+  "buttonBookmark": "ブックマーク",
+  "emptyBookmarks": "ブックマークされたポストはまだありません",
+  "settingsBookmarks": "ブックマーク",
+  "settingsBookmarksSubtitle": "deck.blueにおいてアカウントごとにブックマークされたポスト",
+  "deleteBookmarkConfirm": "このポストのブックマークを削除してもいいですか？",
+  "columnTitleBookmark": "ブックマーク",
+  "columnDescriptionBookmark": "アカウントごとにブックマークされたポスト",
+  "repostAgain": "再リポスト"
 }
