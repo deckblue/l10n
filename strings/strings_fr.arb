@@ -384,5 +384,19 @@
   "convertMutedWordsSubtitle": "Partager les anciens mots masqués de deck.blue avec Bluesky",
   "convertMutedWordsContent": "Vos anciens mots masqués de deck.blue ne sont désormais plus valides/actifs, mais vous pouvez les envoyer sur le compte {handle} en cliquant sur le bouton ci-dessous. Vos anciens mots masqués sont : {mutedWords}",
   "patreonTierBooster": "Booster",
-  "hiddenPost": "Post masqué (profil/mot/tag masqué)"
+  "hiddenPost": "Post masqué (profil/mot/tag masqué)",
+  "emptyDisabledReposters": "Aucun compte avec les reposts désactivés",
+  "disableReposts": "Désactiver les reposts",
+  "enableReposts": "Activer les reposts",
+  "settingsDisabledReposters": "Comptes avec reposts désactivés",
+  "settingsDisabledRepostersSubtitle": "Tous les comptes pour lesquels vous avez désactivé les reposts",
+  "enableRepostsConfirm": "Êtes-vous sûr(e) de vous réactiver les reposts par {handle} ?",
+  "buttonBookmark": "Mettre en favori",
+  "emptyBookmarks": "Aucun post mis en favori",
+  "settingsBookmarks": "Favoris",
+  "settingsBookmarksSubtitle": "Vos posts mis en favori sur deck.blue, par compte",
+  "deleteBookmarkConfirm": "Êtes-vous sûr(e) de vouloir retirer ce post des favoris ?",
+  "columnTitleBookmark": "Favoris",
+  "columnDescriptionBookmark": "Posts en favori, par compte",
+  "repostAgain": "Reposter à nouveau"
 }
