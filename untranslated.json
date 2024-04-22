@@ -159,20 +159,6 @@
     "successScheduledPost"
   ],
   "fr": [
-    "emptyDisabledReposters",
-    "disableReposts",
-    "enableReposts",
-    "settingsDisabledReposters",
-    "settingsDisabledRepostersSubtitle",
-    "enableRepostsConfirm",
-    "buttonBookmark",
-    "emptyBookmarks",
-    "settingsBookmarks",
-    "settingsBookmarksSubtitle",
-    "deleteBookmarkConfirm",
-    "columnTitleBookmark",
-    "columnDescriptionBookmark",
-    "repostAgain",
     "successNewPost",
     "successScheduledPost"
   ],
