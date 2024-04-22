@@ -1598,5 +1598,13 @@
   "repostAgain": "Repost again",
   "@repostAgain": {
     "description": "Repost again button"
+  },
+  "successNewPost": "Post sent successfully, updating columns…",
+  "@successNewPost": {
+    "description": "Success message after posting"
+  },
+  "successScheduledPost": "Post scheduled successfully!",
+  "@successScheduledPost": {
+    "description": "Success message after scheduling"
   }
 }

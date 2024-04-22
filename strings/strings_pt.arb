@@ -398,5 +398,7 @@
   "deleteBookmarkConfirm": "Tem certeza de que quer remover este post salvo?",
   "columnTitleBookmark": "Posts salvos",
   "columnDescriptionBookmark": "Posts salvos, por conta",
-  "repostAgain": "Repostar de novo"
+  "repostAgain": "Repostar de novo",
+  "successNewPost": "Post enviado com sucesso, atualizando colunas…",
+  "successScheduledPost": "Post agendado com sucesso!"
 }
