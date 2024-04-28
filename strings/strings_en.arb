@@ -1606,5 +1606,21 @@
   "successScheduledPost": "Post scheduled successfully!",
   "@successScheduledPost": {
     "description": "Success message after scheduling"
+  },
+  "twoFactorAuthButton": "2FA",
+  "@twoFactorAuthButton": {
+    "description": "Button for using two-factor authentication when logging in"
+  },
+  "twoFactorAuthLabel": "Sign-in code",
+  "@twoFactorAuthLabel": {
+    "description": "Label for two-factor authentication code"
+  },
+  "twoFactorAuthTooltip": "This is a code Bluesky sends you if you enabled two-factor authentication, it is NOT deck.blue's reset password code.",
+  "@twoFactorAuthTooltip": {
+    "description": "Tooltip for using two-factor authentication when logging in"
+  },
+  "errorLogin2FANeeded": "A sign-in code from Bluesky is required, it was sent to your registered email for this account.",
+  "@errorLogin2FANeeded": {
+    "description": "Error when logging in and two-factor is required"
   }
 }

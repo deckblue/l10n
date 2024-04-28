@@ -400,5 +400,9 @@
   "columnDescriptionBookmark": "Posts salvos, por conta",
   "repostAgain": "Repostar de novo",
   "successNewPost": "Post enviado com sucesso, atualizando colunas…",
-  "successScheduledPost": "Post agendado com sucesso!"
+  "successScheduledPost": "Post agendado com sucesso!",
+  "twoFactorAuthButton": "2FA",
+  "twoFactorAuthLabel": "Código de login do Bluesky",
+  "twoFactorAuthTooltip": "Este é um código que o Bluesky envia se você habilitou a autenticação de duas etapas, este NÃO é o código de resetar a senha do deck.blue.",
+  "errorLogin2FANeeded": "Um código de login do Bluesky é necessário para continuar o login, ele foi enviado para o email vinculado a esta conta."
 }
