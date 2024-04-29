@@ -156,11 +156,19 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "fr": [
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -288,7 +296,11 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "es": [
     "postedDateUnitYears",
@@ -416,7 +428,11 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -580,7 +596,11 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "pt": [],
   "zh_TW": [
@@ -741,7 +761,11 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "fi": [
     "settingsForceAltTextInput",
@@ -900,7 +924,11 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "id": [
     "emptyDisabledReposters",
@@ -918,16 +946,28 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "uk": [
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "ja": [
     "followsAccount",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ],
   "be": [
     "viewButton",
@@ -1015,6 +1055,10 @@
     "columnDescriptionBookmark",
     "repostAgain",
     "successNewPost",
-    "successScheduledPost"
+    "successScheduledPost",
+    "twoFactorAuthButton",
+    "twoFactorAuthLabel",
+    "twoFactorAuthTooltip",
+    "errorLogin2FANeeded"
   ]
 }
