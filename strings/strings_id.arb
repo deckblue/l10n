@@ -384,5 +384,21 @@
   "convertMutedWordsSubtitle": "Unggah kata-kata lama deck.blue yang tidak terdengar ke Bluesky",
   "convertMutedWordsContent": "Kata-kata lama deck.blue Anda yang dibisukan tidak valid/aktif lagi, tetapi Anda dapat mengunggahnya ke akun {handle} yang dipilih dengan mengonfirmasi menggunakan tombol di bawah. Kata-kata lama Anda yang dibisukan adalah: {mutedWords}.",
   "patreonTierBooster": "Tingkatkan",
-  "hiddenPost": "Pos disembunyikan (profil/kata/tag dibisukan)"
+  "hiddenPost": "Postingan disembunyikan (profil/kata/tag dibisukan)",
+  "emptyDisabledReposters": "Belum ada profil dengan postingan ulang yang dinonaktifkan",
+  "disableReposts": "Nonaktifkan postingan ulang",
+  "enableReposts": "Aktifkan postingan ulang",
+  "settingsDisabledReposters": "Posting ulang dinonaktifkan",
+  "settingsDisabledRepostersSubtitle": "Semua profil yang telah Anda nonaktifkan postingan ulangnya",
+  "enableRepostsConfirm": "Apakah Anda yakin ingin mengaktifkan kembali postingan ulang untuk {handle}?",
+  "buttonBookmark": "Markah",
+  "emptyBookmarks": "Belum ada postingan yang ditandai",
+  "settingsBookmarks": "Markah",
+  "settingsBookmarksSubtitle": "Postingan Anda yang ditandai di deck.blue, per akun",
+  "deleteBookmarkConfirm": "Apakah Anda yakin ingin menghapus postingan yang ditandai ini?",
+  "columnTitleBookmark": "Markah",
+  "columnDescriptionBookmark": "Postingan yang ditandai, per akun",
+  "repostAgain": "Posting ulang lagi",
+  "successNewPost": "Postingan berhasil dikirim, memperbarui kolom…",
+  "successScheduledPost": "Postingan berhasil dijadwalkan!"
 }
