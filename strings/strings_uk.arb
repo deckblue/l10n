@@ -398,5 +398,11 @@
   "deleteBookmarkConfirm": "Ви впевнені, що хочете видалити цей пост з закладок?",
   "columnTitleBookmark": "Закладки",
   "columnDescriptionBookmark": "Дописи в закладках в обліковому записі",
-  "repostAgain": "Зарепостити знову"
+  "repostAgain": "Зарепостити знову",
+  "successNewPost": "Допис опубліковано, оновлення стовпців…",
+  "successScheduledPost": "Допис заплановано!",
+  "twoFactorAuthButton": "2FA",
+  "twoFactorAuthLabel": "Код доступу",
+  "twoFactorAuthTooltip": "Це код, який Bluesky надсилає вам, якщо ви ввімкнули двофакторну автентифікацію, це НЕ код для скидання пароля deck.blue.",
+  "errorLogin2FANeeded": "Код від Bluesky потрібний для входу, він був надісланий на вашу зареєстровану електронну пошту для цього облікового запису."
 }
