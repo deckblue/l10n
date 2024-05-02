@@ -936,14 +936,7 @@
     "twoFactorAuthTooltip",
     "errorLogin2FANeeded"
   ],
-  "uk": [
-    "successNewPost",
-    "successScheduledPost",
-    "twoFactorAuthButton",
-    "twoFactorAuthLabel",
-    "twoFactorAuthTooltip",
-    "errorLogin2FANeeded"
-  ],
+  "uk": [],
   "ja": [
     "followsAccount",
     "successNewPost",
