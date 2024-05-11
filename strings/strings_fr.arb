@@ -398,5 +398,11 @@
   "deleteBookmarkConfirm": "Êtes-vous sûr(e) de vouloir retirer ce post des favoris ?",
   "columnTitleBookmark": "Favoris",
   "columnDescriptionBookmark": "Posts en favori, par compte",
-  "repostAgain": "Reposter à nouveau"
+  "repostAgain": "Reposter à nouveau",
+  "successNewPost": "Post envoyé, on actualise les colonnes…",
+  "successScheduledPost: "Post planifié !",
+  "twoFactorAuthButton": "Authentification forte",
+  "twoFactorAuthLabel": "Code d'authentification'",
+  "twoFactorAuthTooltip": "C'est un code que Bluesky vous envoie si vous activez l'authentification forte, ce n'est PAS le code de réinitialisation du mot de passe de deck.blue.",
+  "errorLogin2FANeeded": "Un code d'authentification de Bluesky est nécessaire, il a été envoyé à l'adresse email enregistrée pour ce compte."
 }
