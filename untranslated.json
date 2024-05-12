@@ -162,14 +162,7 @@
     "twoFactorAuthTooltip",
     "errorLogin2FANeeded"
   ],
-  "fr": [
-    "successNewPost",
-    "successScheduledPost",
-    "twoFactorAuthButton",
-    "twoFactorAuthLabel",
-    "twoFactorAuthTooltip",
-    "errorLogin2FANeeded"
-  ],
+  "fr": [],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
