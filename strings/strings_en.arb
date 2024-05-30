@@ -1539,9 +1539,9 @@
   "@patreonTierBooster": {
     "description": "PatreonTier booster title"
   },
-  "hiddenPost": "Post hidden (muted profile/word/tag)",
+  "hiddenPost": "Post hidden",
   "@hiddenPost": {
-    "description": "Disclaimer that shows in a post muted by profile/word/tag"
+    "description": "Disclaimer that shows in a labeled post"
   },
   "emptyDisabledReposters": "No profiles with disabled reposts yet",
   "@emptyDisabledReposters": {
@@ -1622,5 +1622,13 @@
   "errorLogin2FANeeded": "A sign-in code from Bluesky is required, it was sent to your registered email for this account.",
   "@errorLogin2FANeeded": {
     "description": "Error when logging in and two-factor is required"
+  },
+  "showLabels": "Show labels",
+  "@showLabels": {
+    "description": "showLabels toggle in column settings"
+  },
+  "showLabelsDescription": "Display labels from moderation labelers",
+  "@showLabelsDescription": {
+    "description": "showLabels toggle in column settings"
   }
 }
