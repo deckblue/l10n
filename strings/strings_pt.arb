@@ -384,7 +384,7 @@
   "convertMutedWordsSubtitle": "Fazer upload das palavras silenciadas do deck.blue pro Bluesky",
   "convertMutedWordsContent": "Suas palavras silenciadas do deck.blue não são mais válidas, para utilizá-las novamente na conta {handle}, basta confirmar no botão abaixo. Suas palavras silenciadas eram essas: {mutedWords}.",
   "patreonTierBooster": "Booster",
-  "hiddenPost": "Post silenciado (usuário/palavra/tag silenciada)",
+  "hiddenPost": "Post escondido",
   "emptyDisabledReposters": "Nenhum perfil teve os reposts desabilitados ainda",
   "disableReposts": "Desabilitar reposts",
   "enableReposts": "Habilitar reposts",
@@ -404,5 +404,7 @@
   "twoFactorAuthButton": "2FA",
   "twoFactorAuthLabel": "Código de login do Bluesky",
   "twoFactorAuthTooltip": "Este é um código que o Bluesky envia se você habilitou a autenticação de duas etapas, este NÃO é o código de resetar a senha do deck.blue.",
-  "errorLogin2FANeeded": "Um código de login do Bluesky é necessário para continuar o login, ele foi enviado para o email vinculado a esta conta."
+  "errorLogin2FANeeded": "Um código de login do Bluesky é necessário para continuar o login, ele foi enviado para o email vinculado a esta conta.",
+  "showLabels": "Ver rótulos",
+  "showLabelsDescription": "Mostrar rótulos de moderação aplicados por rotuladores"
 }
