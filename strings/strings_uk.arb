@@ -186,7 +186,7 @@
   "notificationReplyTitle": "Відповіді",
   "timerSetting": "Оновлювати кожні",
   "quoteTo": "Цитування {actor}",
-  "followingReplies": "Фільтрувати відповіді за",
+  "followingReplies": "Фільтрувати відповіді за читачами",
   "settingsShowAlt": "Показувати текст опису зображень",
   "confirmUnfollowActorTitle": "Не читати",
   "confirmUnfollowActorContent": "Ви впевнені, що бажаєте перестати читати {handle}?",
