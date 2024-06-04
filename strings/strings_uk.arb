@@ -186,7 +186,7 @@
   "notificationReplyTitle": "Відповіді",
   "timerSetting": "Оновлювати кожні",
   "quoteTo": "Цитування {actor}",
-  "followingReplies": "Фільтрувати відповіді за",
+  "followingReplies": "Фільтрувати відповіді за читачами",
   "settingsShowAlt": "Показувати текст опису зображень",
   "confirmUnfollowActorTitle": "Не читати",
   "confirmUnfollowActorContent": "Ви впевнені, що бажаєте перестати читати {handle}?",
@@ -404,5 +404,7 @@
   "twoFactorAuthButton": "2FA",
   "twoFactorAuthLabel": "Код доступу",
   "twoFactorAuthTooltip": "Це код, який Bluesky надсилає вам, якщо ви ввімкнули двофакторну автентифікацію, це НЕ код для скидання пароля deck.blue.",
-  "errorLogin2FANeeded": "Код від Bluesky потрібний для входу, він був надісланий на вашу зареєстровану електронну пошту для цього облікового запису."
+  "errorLogin2FANeeded": "Код від Bluesky потрібний для входу, він був надісланий на вашу зареєстровану електронну пошту для цього облікового запису.",
+  "showLabels": "Показувати мітки",
+  "showLabelsDescription": "Показувати мітки від модераторів"
 }
