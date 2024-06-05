@@ -169,15 +169,7 @@
     "showLabelsDescription"
   ],
   "ja": [
-    "followsAccount",
-    "successNewPost",
-    "successScheduledPost",
-    "twoFactorAuthButton",
-    "twoFactorAuthLabel",
-    "twoFactorAuthTooltip",
-    "errorLogin2FANeeded",
-    "showLabels",
-    "showLabelsDescription"
+    "followsAccount"
   ],
   "be": [
     "viewButton",
