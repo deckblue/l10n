@@ -397,5 +397,13 @@
   "deleteBookmarkConfirm": "このポストのブックマークを削除してもいいですか？",
   "columnTitleBookmark": "ブックマーク",
   "columnDescriptionBookmark": "アカウントごとにブックマークされたポスト",
-  "repostAgain": "再リポスト"
+  "repostAgain": "再リポスト",
+  "successNewPost": "ポストの送信に成功しました！カラムを更新中です...",
+  "successScheduledPost": "ポストの予約に成功しました！",
+  "twoFactorAuthButton": "2要素認証（2FA）",
+  "twoFactorAuthLabel": "サインインコード",
+  "twoFactorAuthTooltip": "サインインコードは、あなたが2要素認証（2FA）を有効化している場合に、ログインの際にBlueskyからアカウントの登録メールアドレスに送信されるコードです。deck.blueのパスワードリセットのコードではありません。",
+  "errorLogin2FANeeded": "ログインするためにはBlueskyから送信されるサインインコードが必須です。あなたのアカウントの登録メールアドレスに送信されたサインインコードを確認してください。",
+  "showLabels": "ラベルを表示",
+  "showLabelsDescription": "モデレーションラベラーによるラベルを表示"
 }
