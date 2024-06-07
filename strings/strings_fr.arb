@@ -404,5 +404,7 @@
   "twoFactorAuthButton": "Authentification forte",
   "twoFactorAuthLabel": "Code d'authentification",
   "twoFactorAuthTooltip": "C'est un code que Bluesky vous envoie si vous activez l'authentification forte, ce n'est PAS le code de réinitialisation du mot de passe de deck.blue.",
-  "errorLogin2FANeeded": "Un code d'authentification de Bluesky est nécessaire, il a été envoyé à l'adresse email enregistrée pour ce compte."
+  "errorLogin2FANeeded": "Un code d'authentification de Bluesky est nécessaire, il a été envoyé à l'adresse email enregistrée pour ce compte.",
+  "showLabels": "Montrer les labels",
+  "showLabelsDescription": "Montrer les labels posés par les modérateurs"
 }
