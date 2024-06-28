@@ -1383,7 +1383,7 @@
   "@lastUpdated": {
     "description": "Generic Last updated label"
   },
-  "hideConfirm": "Are you sure you want to hide this post? You won't be able to see it again in this deck.blue instance (hidden posts are not synced)",
+  "hideConfirm": "Are you sure you want to hide this post?",
   "@hideConfirm": {
     "description": "Confirmation when hiding a post"
   },
