@@ -1,0 +1,610 @@
+{
+  "columnTitleHome": "Domů",
+  "columnTitleUser": "Ty",
+  "columnTitleNotifications": "Upozornění",
+  "columnTitleLikes": "Oblíbené",
+  "columnTitleMentions": "Zmínění",
+  "columnTitleMedia": "Média",
+  "columnTitleCustom": "Zvláštní kanál",
+  "columnTitleListFeed": "Seznam",
+  "columnTitleSearch": "Hledání",
+  "serviceLabel": "Služba",
+  "serviceHint": "bsky.social",
+  "usernameLabel": "Identifikátor",
+  "usernameHint": "Uživatelské jméno nebo e-mail",
+  "passwordLabel": "Aplikační heslo",
+  "loginButton": "Přihlašovací jméno",
+  "loginFirebaseDescription": "Používáme Google Analytics pro odesílání anonymních událostí v aplikaci. Všechny ostatní data jsou uchovány mezi servery deck.blue a Bluesky.",
+  "errorLoginUnknown": "Přihlášení selhalo. Zkuste to prosím později.",
+  "errorLoginWrongCredentials": "Chybný identifikátor nebo heslo. Zkuste to prosím znovu.",
+  "errorLoginInvalidAppPassword": "Neplatné aplikační heslo. Prosím vygenerujte si nové aplikační heslo pomocí ikony ? v poli s heslem nebo klikněte znovu na tlačítko přihlášení pro ignorování tohoto upozornění.",
+  "errorLoginServerError": "Nastala chyba na serveru. Prosíme vyčkejte a zkusto to znovu později.",
+  "embedTypeQuote": "Citace",
+  "embedTypeImageQuote": "Citace s médii",
+  "embedTypeLink": "Odkaz",
+  "embedTypeImage": "Média",
+  "embedTypeReply": "Odpovědi",
+  "embedTypeRepost": "Reposty",
+  "mediaSizeHidden": "Skryté",
+  "mediaSizeSmall": "Malý",
+  "mediaSizeMedium": "Střední",
+  "mediaSizeLarge": "Velký",
+  "mediaSizeSetting": "Velikost náhledu média",
+  "embedTypeSetting": "Povolené vkládání",
+  "postTypeSetting": "Povolené typy příspěvků",
+  "hiddenImageLabel": "Obrázek",
+  "removeColumnButton": "Odstranit",
+  "addColumnDialogTitle": "Přidat nový sloupec",
+  "addFeedColumnDialogTitle": "Přidat nový sloupec s kanálem",
+  "columnDescriptionHome": "Vaše základní timeline",
+  "columnDescriptionUser": "Vaše příspěvky",
+  "columnDescriptionNotifications": "Vaše notifikace",
+  "columnDescriptionLikes": "Vaše oblíbené příspěvky",
+  "columnDescriptionMentions": "Všechny příspěvky se zmínkou o Vás",
+  "columnDescriptionMedia": "Vaše příspěvky s médii",
+  "columnDescriptionCustom": "Zvolte zvláštní kanál z Vámi uložených",
+  "columnDescriptionListFeed": "Vytvořte seznam, nebo zvolte existující",
+  "selectLanguageDialogTitle": "Zvolte jazyk příspěvku",
+  "selectOtherLanguage": "Ostatní…",
+  "postButton": "Příspěvek",
+  "deleteButton": "Smazat",
+  "postDialogHint": "Jak to jde?",
+  "postErrorUpload": "Nemohu zveřejnit příspěvek. Zkuste to později.",
+  "postErrorDelete": "Nemohu tento příspěvek smazat. Zkuste to později.",
+  "postErrorLike": "Nemohu tento příspěvek oblíbit. Zkuste to později.",
+  "postErrorRepost": "Nemohu znovu zveřejnit tento příspěvek. Zkuste to později.",
+  "replyButton": "Odpověď",
+  "repostButton": "Znovu zveřejnit",
+  "quoteButton": "Citovat",
+  "likeButton": "Oblíbit",
+  "replyDialogHint": "Napište odpověď na tento příspěvek",
+  "quoteDialogHint": "Napišt něco o tomto příspěvku",
+  "threadTitle": "Vlákno",
+  "undoButton": "Vrátit zpět",
+  "postButtonCopy": "Sdílet",
+  "postCopyMessage": "Zkopírováno do schránky",
+  "postButtonOpen": "Otevřít na Bsky",
+  "errorThreadEmptyPost": "Nemůžu najít příspěvek",
+  "searchDialogHint": "Vyhledat",
+  "searchDialogUsers": "Uživatelé",
+  "searchDialogPosts": "Příspěvky",
+  "searchDialogAddColumn": "Přidat sloupec",
+  "translateButton": "Přeložit",
+  "emptyPosts": "Nebyly nalezeny žádné příspěvky",
+  "emptyUsers": "Nebyl nalezen žádný uživatelský profil",
+  "profileDialogPosts": "Příspěvky",
+  "profileDialogFollowing": "Sledovaní",
+  "profileDialogFollowers": "Sledující",
+  "errorProfileDialog": "Nemohu načíst tento uživatelský profil. Zkuste to prosím později.",
+  "profileDialogPostsColumn": "Příspěvky",
+  "profileDialogMediaColumn": "Média",
+  "profileDialogLikesColumn": "Oblíbené",
+  "profileDialogAddColumn": "Přidat sloupec",
+  "repostedBy": "Znovu zveřejněno {actor}",
+  "replyTo": "Odpověď na {actor}",
+  "advancedButton": "Pokročilé",
+  "notificationLikeReason": "{count, plural, other{si oblíbilo Váš příspěvek}}",
+  "notificationRepostReason": "{count, plural, other{znovu zveřejnilo Váš příspěvek}}",
+  "notificationFollowReason": "{count, plural, other{Vás sleduje}}",
+  "notificationMentionReason": "{count, plural, other{Vás zmínilo}}",
+  "notificationQuoteReason": "{count, plural, other{citovalo Váš příspěvek}}",
+  "notificationReplyReason": "{count, plural, other{Vám odpovědělo}}",
+  "notificationTitleCounter": "{count, plural, other{{count} ostatní}}",
+  "notificationTitleShortCounter": "+{count}",
+  "notificationTitleAnd": " a ",
+  "sizeSmallest": "Nejmenší",
+  "sizeSmall": "Malý",
+  "sizeMedium": "Střední",
+  "sizeLarge": "Velký",
+  "sizeLargest": "Největší",
+  "settingsDialogTitle": "Nastavení",
+  "settingsColumnSize": "Velikost sloupce",
+  "settingsFontSize": "Velikost písma",
+  "settingsTheme": "Téma",
+  "settingsLightTheme": "Světlé",
+  "settingsDarkTheme": "Tmavé",
+  "settingsSystemTheme": "Podle systému",
+  "settingsLocale": "Jazyk prostředí",
+  "profileDialogFollowButton": "Sledovat",
+  "profileDialogFollowingButton": "Sledujete",
+  "imageAltDialogHint": "Popište tento obrázek",
+  "saveButton": "Uložit",
+  "confirmButton": "OK",
+  "cancelButton": "Storno",
+  "contentLabelSuggestive": "Sugestivní",
+  "contentLabelNsfw": "Porno",
+  "contentLabelNudity": "Nahota",
+  "clearButton": "Vyčistit",
+  "emptySavedFeeds": "Nejsou uložené žádné seznamy. Zatím je přidejte přes",
+  "appPasswordTooltip": "Aplikační heslo je funkce Blueskye pro vyšší bezpečnost pri používání aplikací třetích stran.\nMěli byste ho vytvořit pro každou aplikaci, která není oficiální (jako je tato).",
+  "contentLabelSetting": "Přidejte varování o obsahu",
+  "postErrorTooLarge": "Není možné zveřejnit příspěvek. Obrázek přesáhl limit 1 MB.",
+  "tooltipKofi": "Darujte kávu!",
+  "linkButton": "Přidejte odkaz: ",
+  "quoteLinkButton": "Citujte příspěvek",
+  "aboutHeader1": "Co je deck.blue?",
+  "aboutHeader2": "Jak deck.blue funguje?",
+  "aboutHeader3": "Jsou má data v bezpečí?",
+  "aboutDescription1": "Jako aplikace třetí strany, deck.blue je Bluesky client, který podporuje prohlížení ve více sloupcích, abyste mohli sledovat naráz vše, co Vás zajímá (tak jako TweetDeck!).",
+  "aboutDescription2": "S deck.blue můžete dělat vše, co umí oficiální aplikace, ale také máte výhodu informačně-efektivního layoutu, uspořádaných sloupců - aktualizovaných v reálném čase - což lépe vyhovuje potřebámm uživatele. Chcete udržet přehled nad všemi vyhledávanými výrazy naráz? Prostě přidejte sloupec pro každý z nich! Díky systému zvláštních kanálům Bluesky můžete sledovat tolik komunit, kolik jen chcete.",
+  "aboutDescription3": "deck.blue používá Google Analytics pro odesílání anonymních uživatelských událostí. Všechny ostatní data zůstávají mezi deck.blue a servery Bluesky. Osobní a citlivé informace nejsou nikam odesílány a jsou uchovány v bezpečném prostředí Vašeho prohlížeče.\n\nPro zajištění Vaší bezpečnosti použijte systém aplikačních hesel Bluesky, který přidává další vrstvu bezpečnosti při používání aplikací třetích stran.",
+  "aboutButton": "O aplikaci",
+  "loginSlogan1": "Získejte maximum z ",
+  "loginSlogan2": "Bluesky",
+  "updateSnackbar": "Je dostupná nová aktualizace!\nObnovte stránku pro získání nových funkcí a oprav chyb!",
+  "refreshButton": "Obnovit",
+  "replyCount": "{count, plural, one{Odpověď} other{Odpovědi}}",
+  "likeCount": "{count, plural, one{Oblíbený} other{Oblíbené}}",
+  "repostCount": "{count, plural, one{Znovuzveřejnění} other{Znovuzveřejnění}}",
+  "emptyActorList": "Nepodařilo se načíst uživatele, zkuste to později.",
+  "followsYou": "sledují Vás",
+  "followsAccount": "sledují ${handle}",
+  "soundEnabled": "Zapněte zvuk notifikací",
+  "blocksYou": "blokuje Vás",
+  "blocked": "blokovaný",
+  "muted": "ztlumený",
+  "mutedByList": "ztlumený seznamem",
+  "muteButton": "Ztlumit",
+  "unmuteButton": "Zrušit ztlumení",
+  "blockButton": "Blokovat",
+  "unblockButton": "Odblokovat",
+  "errorUpdateList": "Nepodařilo se aktualizovat seznam, prosím zkuste to znovu.",
+  "errorCreateList": "Nepodařilo se vytvořit seznam, prosím zkuste to znovu.",
+  "emptyListItems": "Toto je prázdný seznam!",
+  "emptyFollowing": "Nikoho nesledujete!",
+  "manageListHeader": "Editovat seznam {name}",
+  "saveListButton": "Uložit seznam",
+  "manageListCurrentTab": "Aktuální",
+  "manageListFollowingTab": "Sledujete",
+  "manageListSearchedTab": "Vyhledáno",
+  "createCuratedListHeader": "Vytvořte nový výběrový seznam",
+  "createListNameLabel": "Jméno seznamu",
+  "createListNameHint": "Zajímaví lidé",
+  "createListDescriptionLabel": "Popis",
+  "createListDescriptionHint": "Zajímaví lidé, které chci sledovat",
+  "createListButton": "Vytvořit seznam",
+  "addListColumnDialogTitle": "Přidat nový sloupec se seznamem",
+  "emptyCuratedLists": "Prázdné uložené seznamy",
+  "tooltipAddColumn": "Přidat sloupec",
+  "tooltipColumnAdded": "Sloupec byl již přidán",
+  "buttonManageList": "Spravovat seznam",
+  "postedDateUnitNow": "nyní",
+  "postedDateUnitSeconds": "{number} sec.",
+  "postedDateUnitMinutes": "{number} min.",
+  "postedDateUnitHours": "{number} hod.",
+  "postedDateUnitDays": "{number} dnů",
+  "settingsMutedWords": "Ztlumené slova",
+  "settingsColumn": "Nastavení sloupce",
+  "settingsScrollbars": "Zobrazit scrollbary sloupce",
+  "settingsLogout": "Odhlásit",
+  "editCuratedListHeader": "Editovat Váš výběrový seznam",
+  "buttonEditList": "Editovat seznam",
+  "phoneSupportMessage": "deck.blue je aktuálně plně podporovaný jen na desktopu a tabletu, využijte je pro lepší uživatelský zážitek!",
+  "allowedNotificationSetting": "Povolené notifikace",
+  "notificationLikeTitle": "Oblíbené",
+  "notificationRepostTitle": "Znovu zveřejnění",
+  "notificationFollowTitle": "Sledování",
+  "notificationMentionTitle": "Zmínka",
+  "notificationQuoteTitle": "Citace",
+  "notificationReplyTitle": "Odpověď",
+  "timerSetting": "Obnovit každých",
+  "quoteTo": "Cituje {actor}",
+  "followingReplies": "Filtrovat odpovědi sledujícími",
+  "settingsShowAlt": "Automaticky zobrazit alternativní text obrázku",
+  "confirmUnfollowActorTitle": "Přestat sledovat",
+  "confirmUnfollowActorContent": "Skutečně chcete přestat sledovat {handle}?",
+  "confirmBlockActorTitle": "Blokovat",
+  "confirmBlockActorContent": "Blokované účty nemohou odpovídat ve Vašem vlákně, zmiňovat Vás ani jinak s Vámi interagovat. Sktečně chcete tento účet blokovat?",
+  "confirmUnblockActorTitle": "Odblokovat",
+  "confirmUnblockActorContent": "Účet bude moct s Vámi interagovat po odblokování. Skutečně chcete odblokovat tento účet?",
+  "confirmDeletePostTitle": "Smazat příspěvek",
+  "confirmDeletePostContent": "Skutečně chcete smazat tento příspěvek?",
+  "confirmListConvertTitle": "Zkonvertovat seznam",
+  "confirmListConvertContent": "Toto je aktuálně seznam pro ztlumení; pro použití jako sloupec je nutná konverze. Po zkonvertování nebudou účty obsažené v seznamu považované za ztlumené. Skutečně chcete seznam zkonvertovat?",
+  "convertButton": "Zkonvertovat",
+  "hashtags": "Hashtagy",
+  "warningOnPressedLinkTitle": "POČKAT!",
+  "warningOnPressedLinkContent": "Tento odkaz tě přesměruje na externí stránku. Skutečně chcete jít na tuto stránku?",
+  "wordSelectDialogHint": "Vložte libovolné slovo oddělené \",\". Maximální počet znaků je 64.",
+  "wordSelectDialogHintWithSpaceFilter": "Jakékoliv slovo oddělené \",\" či mezerou. Maximální délka 64 znaků.",
+  "columnTimerNone": "Manualnální",
+  "loadMoreButton": "Načíst více",
+  "showClearButton": "Zobrazit tlačítko vyčistit",
+  "manageActorInList": "Přidat/odebrat ze seznamu",
+  "connectPatreon": "Propojit Patreon",
+  "disconnectPatreon": "Odpojit Patreon",
+  "disconnectPatreonConfirm": "Jste si jistí, že chcete odpojit Patreon účet? Nebudete mít dostupné benefity jako plánování příspěvků a dodatečné účty budou odhlášeny.",
+  "patreonNoTier": "Nejste Patron",
+  "patreonTierInitial": "Úvodní (Initial)",
+  "patreonTierHelper": "Pomocník (Helper)",
+  "patreonTierSupporter": "Podporovatel (Supporter)",
+  "patreonTierSponsor": "Sponsor (Sponsor)",
+  "errorLoginInvalidEmail": "Váš účet nemá platný e-mail nebo e-mail nebyl ověřený. Prosíme, proveďte to v oficiální aplikaci.",
+  "errorLoginChangeAppPassword": "Pokoušíte se přihlásit jiným aplikačním heslem než bylo použito minule. Ověřovací kód byl odeslaný na Váš e-mail. Prosíme, zvalidujte svůj účet a změňte heslo na nové.",
+  "errorLoginExpiredChangeCode": "Ověřovací kód je neplatný. Pokud expiroval, zašleme nový.",
+  "passwordCodeLabel": "Ověřovací kód",
+  "loginMigration": "V rámci aktualizace na v2.0 vyžadujeme opětovné přihlášení, aby se správně načetly Vaše nastavení a sloupce správně zálohovaly.",
+  "settingsColor": "Základní barva tématu",
+  "accounts": "Účty",
+  "addAccount": "Přidat účet",
+  "accountConfirmationStep": "Potvrzovací krok",
+  "accountConfirmationStepDescription": "Přidá potvrzovací krok před zveřejněním příspěvku",
+  "removeAccount": "Odstranit",
+  "removeAccountDisclaimer": "Odstraněním účtu budou odstraněny všechny sloupce a naplánované příspěvky tohoto účtu. Jste si jistí, že chcete účet odstranit?",
+  "errorAccountMaxAccounts": "Dosáhli jste maximálního počtu účtů pro svou Patreon úroveň.",
+  "errorAccountAdd": "Nepodařilo se přidat účet. Zkste to prosím později.",
+  "errorAccountUnknown": "Nepodařilo se spravovat tento účet, prosím zkuste to později.",
+  "preview": "Náhled",
+  "repostDialogTitle": "Přesdílet příspěvek…",
+  "confirmationStep": "Připraven?",
+  "likeDialogTitle": "Oblíbit z…",
+  "addAccountDisclaimer": "Prosíme, vytvořte si oddělené aplikační heslo pro každý účet, který přidáváto, jinak může být Vaše přihlášení zrušeno a budete muset znovu přidat svůj účet.",
+  "profileFromDialogTitle": "Profil z…",
+  "viewFromAccount": "Zobrazení z…",
+  "show": "Zobrazit",
+  "confirmDeleteColumnTitle": "Smazat sloupec",
+  "confirmDeleteColumnContent": "Jste si jistí, že chcete smazat tento sloupec?",
+  "settingsCompactMode": "Kompaktní zobrazení příspěvků",
+  "errorAccountRelink": "Nepodařilo se znovu propojit tento účet, prosíme zkuste to znovu.",
+  "relinkAccount": "Znovu propojit",
+  "settingsForceAltTextInput": "Require alt text before posting",
+  "@settingsForceAltTextInput": {
+    "description": "Flag whether to force alt text input in the settings dialog"
+  },
+  "postDialogForceAltTextInputHint": "One or more images is missing alt text",
+  "@postDialogForceAltTextInputHint": {
+    "description": "Hint indicating that alt text has not been entered"
+  },
+  "loginDisclaimer1": "By logging in, you agree to the",
+  "@loginDisclaimer1": {
+    "description": "Login disclaimer part 1"
+  },
+  "loginDisclaimer2": "Terms of Service",
+  "@loginDisclaimer2": {
+    "description": "Login disclaimer part 2"
+  },
+  "loginDisclaimer3": "and",
+  "@loginDisclaimer3": {
+    "description": "Login disclaimer part 3"
+  },
+  "loginDisclaimer4": "Privacy Policy",
+  "@loginDisclaimer4": {
+    "description": "Login disclaimer part 4"
+  },
+  "loginDisclaimer5": "",
+  "@loginDisclaimer5": {
+    "description": "Login disclaimer part 5. This can be empty depending on the language."
+  },
+  "searchDialogFeeds": "Feeds",
+  "@searchDialogFeeds": {
+    "description": "SearchDialog Feeds tab"
+  },
+  "emptyFeeds": "No feeds found",
+  "@emptyFeeds": {
+    "description": "Empty state for feed search"
+  },
+  "quoteFeedButton": "Add Feed link",
+  "@quoteFeedButton": {
+    "description": "Add a feed embed"
+  },
+  "quoteListButton": "Add List link",
+  "@quoteListButton": {
+    "description": "Add a list embed"
+  },
+  "shortcutsDialogTitle": "Shortcuts",
+  "@shortcutsDialogTitle": {
+    "description": "Shortcuts dialog title"
+  },
+  "shortcutsNewPost": "New post",
+  "@shortcutsNewPost": {
+    "description": "New post shortcut"
+  },
+  "shortcutsSendPost": "Send post",
+  "@shortcutsSendPost": {
+    "description": "Send post shortcut"
+  },
+  "shortcutsScrollFirst": "Scroll to first column",
+  "@shortcutsScrollFirst": {
+    "description": "1 shortcut"
+  },
+  "shortcutsScrollNumbers": "Scroll to column 2 to 9",
+  "@shortcutsScrollNumbers": {
+    "description": "2-9 shortcut"
+  },
+  "shortcutsScrollLast": "Scroll to last column",
+  "@shortcutsScrollLast": {
+    "description": "0 shortcut"
+  },
+  "shortcutsThread": "When viewing a thread",
+  "@shortcutsThread": {
+    "description": "Shortcuts 'Thread' category"
+  },
+  "shortcutsThreadViewer": "Open Thread Viewer",
+  "@shortcutsThreadViewer": {
+    "description": "Open Thread Viewer shortcut"
+  },
+  "shortcutsCloseThread": "Close Thread",
+  "@shortcutsCloseThread": {
+    "description": "Close Thread shortcut"
+  },
+  "shortcutsLike": "Like that post",
+  "@shortcutsLike": {
+    "description": "Like shortcut"
+  },
+  "shortcutsReply": "New reply to that post",
+  "@shortcutsReply": {
+    "description": "Like shortcut"
+  },
+  "shortcutsQuote": "Quote that post",
+  "@shortcutsQuote": {
+    "description": "Like shortcut"
+  },
+  "shortcutsRepost": "Repost that post",
+  "@shortcutsRepost": {
+    "description": "Repost shortcut"
+  },
+  "shortcutsGeneral": "General",
+  "@shortcutsGeneral": {
+    "description": "Shortcuts 'General' category"
+  },
+  "shortcutsCloseWindow": "Close window",
+  "@shortcutsCloseWindow": {
+    "description": "Close window shortcut"
+  },
+  "shortcutsThisWindow": "Shortcuts window",
+  "@shortcutsThisWindow": {
+    "description": "Shortcuts shortcut"
+  },
+  "settingsAutoplayGIFs": "Autoplay GIFs",
+  "@settingsAutoplayGIFs": {
+    "description": "Setting for GIF autoplay"
+  },
+  "searchTenor": "Search Tenor",
+  "@searchTenor": {
+    "description": "GIF search hint"
+  },
+  "settingsDisableGIFs": "Disable GIFs",
+  "@settingsDisableGIFs": {
+    "description": "Setting for GIF disable"
+  },
+  "sponsors": "Sponsors",
+  "@sponsors": {
+    "description": "General 'Sponsors' label"
+  },
+  "blockingByList": "blocked by list",
+  "@blockingByList": {
+    "description": "Profile viewed is blocking by list"
+  },
+  "postedDateUnitYears": "{number}y",
+  "@postedDateUnitYears": {
+    "description": "Years unit of the date of the post"
+  },
+  "settingsSubscribedLists": "Subscribed lists",
+  "@settingsSubscribedLists": {
+    "description": "Moderation list subscription dialog title in settings"
+  },
+  "settingsSubscribedListsSubtitle": "All your currently subscribed moderation lists",
+  "@settingsSubscribedListsSubtitle": {
+    "description": "Moderation list subscription dialog subtitle in settings"
+  },
+  "unsubscribe": "Unsubscribe",
+  "@unsubscribe": {
+    "description": "Unsubscribe from a moderation list"
+  },
+  "confirmUnmuteListContent": "This list is currently subscribed; this action will unmute/unblock everyone on it, are you sure you want to do this?",
+  "@confirmUnmuteListContent": {
+    "description": "Confirmation message when unsubscribing from a list"
+  },
+  "emptyMutedLists": "You aren't subscribed to any moderation lists!",
+  "@emptyMutedLists": {
+    "description": "Add list column dialog empty"
+  },
+  "settingsDisableSpellcheck": "Disable spellcheck",
+  "@settingsDisableSpellcheck": {
+    "description": "Settings toggle to disable spellcheck (buggy right now)"
+  },
+  "settingsDisableCloseComposer": "Disable Esc while typing",
+  "@settingsDisableCloseComposer": {
+    "description": "Settings toggle to disable the Esc shortcut while typing"
+  },
+  "settingsDisableCloseComposerSubtitle": "If you don't want the Esc button to close the window you're typing on",
+  "@settingsDisableCloseComposerSubtitle": {
+    "description": "Settings toggle subtitle to disable the Esc shortcut while typing"
+  },
+  "settingsPanelGeneral": "General",
+  "@settingsPanelGeneral": {
+    "description": "General settings panel, everything that isn't the two below"
+  },
+  "settingsPanelInterface": "UI",
+  "@settingsPanelInterface": {
+    "description": "Interface/UI settings panel, themes, colors, column and font sizes"
+  },
+  "settingsPanelToggles": "Toggles",
+  "@settingsPanelToggles": {
+    "description": "Toggles settings panel, everything that can be turned on/off in one place"
+  },
+  "copyTextButton": "Copy text",
+  "@copyTextButton": {
+    "description": "Generic Copy Text button"
+  },
+  "filterOwnPosts": "Filter own posts",
+  "@filterOwnPosts": {
+    "description": "Column setting that removes your own posts from Home/Lists"
+  },
+  "errorAccountSchedule": "Couldn't update scheduling account, please try again.",
+  "@errorAccountSchedule": {
+    "description": "Error when adding scheduling account"
+  },
+  "scheduleAccount": "Add scheduling account",
+  "@scheduleAccount": {
+    "description": "Schedule account title"
+  },
+  "scheduleAccountSubtitle": "A secondary account is used to schedule your posts so your deck.blue session is not affected.",
+  "@scheduleAccountSubtitle": {
+    "description": "Schedule account subtitle"
+  },
+  "scheduleAccountRemove": "Remove scheduling account",
+  "@scheduleAccountRemove": {
+    "description": "Remove schedule account title"
+  },
+  "scheduleAccountRemoveSubtitle": "By removing your scheduling account, all your scheduled posts will be deleted. Are you sure you want to do this?",
+  "@scheduleAccountRemoveSubtitle": {
+    "description": "Remove schedule account subtitle"
+  },
+  "schedulePost": "Will send on {scheduleTime}",
+  "@schedulePost": {
+    "description": "Schedule display in the post composer"
+  },
+  "settingsSchedule": "Scheduled posts",
+  "@settingsSchedule": {
+    "description": "Schedule tile in settings, show all scheduled posts"
+  },
+  "emptyScheduledPosts": "You don't have any scheduled posts.",
+  "@emptyScheduledPosts": {
+    "description": "Schedule tile in settings, show all scheduled posts"
+  },
+  "confirmCancelScheduledPost": "Cancel scheduled post",
+  "@confirmCancelScheduledPost": {
+    "description": "Confirmation title when canceling scheduled post"
+  },
+  "confirmCancelScheduledPostContent": "Are you sure you want to cancel this scheduled post? You won't be able to retrieve its data.",
+  "@confirmCancelScheduledPostContent": {
+    "description": "Confirmation message when canceling scheduled post"
+  },
+  "errorMaxScheduledPosts": "You can't schedule more than {maxCount} posts in your {tierName} tier!",
+  "@errorMaxScheduledPosts": {
+    "description": "Error message for when you reach the max scheduled post count"
+  },
+  "scheduledPostReply": "Replying to: ",
+  "@scheduledPostReply": {
+    "description": "Formatted reply on scheduled posts list"
+  },
+  "scheduledPostEmbed": "Embed: ",
+  "@scheduledPostEmbed": {
+    "description": "Formatted embed (quote, list, feed) on scheduled posts list"
+  },
+  "scheduledPostLink": "Link: ",
+  "@scheduledPostLink": {
+    "description": "Formatted embed link on scheduled posts list"
+  },
+  "scheduledPostText": "Text: {postText}",
+  "@scheduledPostText": {
+    "description": "Formatted text on scheduled posts list"
+  },
+  "scheduledPostLabels": "Labels: {labelList}",
+  "@scheduledPostLabels": {
+    "description": "Formatted labels on scheduled posts list"
+  },
+  "scheduledPostTags": "Tags: {tagsList}",
+  "@scheduledPostTags": {
+    "description": "Formatted tags on scheduled posts list"
+  },
+  "scheduledPostLanguages": "Languages: {languageList}",
+  "@scheduledPostLanguages": {
+    "description": "Formatted languages on scheduled posts list"
+  },
+  "sizeCustom": "Custom",
+  "@sizeCustom": {
+    "description": "Custom column size option"
+  },
+  "settingsDisableLinkWarning": "Disable link warning",
+  "@settingsDisableLinkWarning": {
+    "description": "Setting for disabling the link warning popup"
+  },
+  "settingsDisableLinkWarningSubtitle": "Won't show the link popup before you click formatted links",
+  "@settingsDisableLinkWarningSubtitle": {
+    "description": "Setting for disabling the link warning popup description"
+  },
+  "multiSelectLanguageDialogTitle": "Select languages",
+  "@multiSelectLanguageDialogTitle": {
+    "description": "MultiSelectLanguageDialog title"
+  },
+  "settingsContentLanguages": "Content languages",
+  "@settingsContentLanguages": {
+    "description": "Content languages settings tile"
+  },
+  "postButtonLikes": "Show likes",
+  "@postButtonLikes": {
+    "description": "Show likes button in the post's ... menu"
+  },
+  "postButtonReposts": "Show reposts",
+  "@postButtonReposts": {
+    "description": "Show reposts button in the post's ... menu"
+  },
+  "nextButton": "Next",
+  "@nextButton": {
+    "description": "Generic 'Next' button"
+  },
+  "viewButton": "View",
+  "@viewButton": {
+    "description": "Generic 'View' button"
+  },
+  "hideButton": "Hide",
+  "@hideButton": {
+    "description": "Generic 'Hide' button"
+  },
+  "mutedPost": "Post by muted user",
+  "@mutedPost": {
+    "description": "Disclaimer that shows in a post by a muted user"
+  },
+  "blockedPost": "Post by blocked user",
+  "@blockedPost": {
+    "description": "Disclaimer that shows in a post by a blocked user"
+  },
+  "threadgateHeader": "Who can reply?",
+  "@threadgateHeader": {
+    "description": "Threadgate dialog header"
+  },
+  "threadgateOptions": "Or combine any of these options:",
+  "@threadgateOptions": {
+    "description": "Threadgate dialog options separator"
+  },
+  "postErrorThreadgate": "Your post was created, but reply rules weren't applied.",
+  "@postErrorThreadgate": {
+    "description": "Error regarding a failure when applying threadgate/reply rules to a post"
+  },
+  "threadgateEverybody": "Everybody",
+  "@threadgateEverybody": {
+    "description": "Option that allows anyone to reply to your post"
+  },
+  "threadgateNobody": "Nobody",
+  "@threadgateNobody": {
+    "description": "Option that does not allow anyone to reply to your post"
+  },
+  "threadgateMention": "Mentioned users",
+  "@threadgateMention": {
+    "description": "Option that allows mentioned users to reply to your post"
+  },
+  "threadgateFollowing": "Followed users",
+  "@threadgateFollowing": {
+    "description": "Option that allows followed users to reply to your post"
+  },
+  "threadgateList": "Users in \"{listName}\"",
+  "@threadgateList": {
+    "description": "Option that allows users in list to reply to your post"
+  },
+  "threadgateViewNobody": "Replies to this post are disabled",
+  "@threadgateViewNobody": {
+    "description": "Reply rule display on a thread for: nobody"
+  },
+  "threadgateViewMention": "Users mentioned in this thread",
+  "@threadgateViewMention": {
+    "description": "Reply rule display on a thread for: mentioned users"
+  },
+  "threadgateViewFollowing": "Users followed by {username}",
+  "@threadgateViewFollowing": {
+    "description": "Reply rule display on a thread for: followed users"
+  },
+  "threadgateViewList": "Users in list \"{listName}\"",
+  "@threadgateViewList": {
+    "description": "Reply rule display on a thread for: list members"
+  },
+  "settingsPanelModeration": "Moderation",
+  "@settingsPanelModeration": {
+    "description": "Moderation settings panel, content preferences, muted used, blocked users, etc"
+  },
+  "settingsSound": "Select a notification sound",
+  "@settingsSound": {
+    "description": "Label for the custom notification sound dropdown"
+  }
+}
