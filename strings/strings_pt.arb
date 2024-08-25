@@ -406,5 +406,7 @@
   "twoFactorAuthTooltip": "Este é um código que o Bluesky envia se você habilitou a autenticação de duas etapas, este NÃO é o código de resetar a senha do deck.blue.",
   "errorLogin2FANeeded": "Um código de login do Bluesky é necessário para continuar o login, ele foi enviado para o email vinculado a esta conta.",
   "showLabels": "Ver rótulos",
-  "showLabelsDescription": "Mostrar rótulos de moderação aplicados por rotuladores"
+  "showLabelsDescription": "Mostrar rótulos de moderação aplicados por rotuladores",
+  "settingsTranslationLocale": "Idioma para tradução",
+  "settingsTranslationLocaleDisclaimer": "deck.blue usa o DeepL para traduzir posts, por padrão o idioma selecionado é o mesmo da interface"
 }
