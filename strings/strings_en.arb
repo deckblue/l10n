@@ -1630,5 +1630,13 @@
   "showLabelsDescription": "Display labels from moderation labelers",
   "@showLabelsDescription": {
     "description": "showLabels toggle in column settings"
+  },
+  "settingsTranslationLocale": "Translation language",
+  "@settingsTranslationLocale": {
+    "description": "Settings dialog translation language"
+  },
+  "settingsTranslationLocaleDisclaimer": "deck.blue uses DeepL for post translations, it defaults to your display language if not changed",
+  "@settingsTranslationLocaleDisclaimer": {
+    "description": "Disclaimer about DeepL translations"
   }
 }
