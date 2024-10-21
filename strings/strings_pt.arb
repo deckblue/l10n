@@ -408,5 +408,7 @@
   "showLabels": "Ver rótulos",
   "showLabelsDescription": "Mostrar rótulos de moderação aplicados por rotuladores",
   "settingsTranslationLocale": "Idioma para tradução",
-  "settingsTranslationLocaleDisclaimer": "deck.blue usa o DeepL para traduzir posts, por padrão o idioma selecionado é o mesmo da interface"
+  "settingsTranslationLocaleDisclaimer": "deck.blue usa o DeepL para traduzir posts, por padrão o idioma selecionado é o mesmo da interface",
+  "retryNowScheduledPostButton": "Reenviar agora",
+  "confirmRetryNowScheduledPostContent": "Este post não pôde ser enviado. Utilize a opção de revincular sua conta de agendamento antes de tentar o reenvio. Seu post aparecerá no seu perfil imediatamente ao invés do horário agendado. Deseja tentar enviar novamente agora?"
 }
