@@ -1646,5 +1646,13 @@
   "confirmRetryNowScheduledPostContent": "This post failed to be sent, make sure you've relinked your schedule account properly before retrying. It'll be sent as if it was sent now instead of the specified timestamp, and it'll show in your profile immediately. Are you sure you want set this post to be retried and sent now?",
   "@confirmRetryNowScheduledPostContent": {
     "description": "Confirmation message when retrying scheduled post now"
+  },
+  "settingsLowerVolume": "Lower volume",
+  "@settingsLowerVolume": {
+    "description": "Settings lower volume toggle"
+  },
+  "settingsLowerVolumeDescription": "Lowers notification sound volume for all columns",
+  "@settingsLowerVolumeDescription": {
+    "description": "Settings lower volume toggle descriptions"
   }
 }
