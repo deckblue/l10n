@@ -166,7 +166,9 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "be": [
     "viewButton",
@@ -264,13 +266,17 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "uk": [
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "ru": [
     "settingsForceAltTextInput",
@@ -439,13 +445,17 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "fr": [
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "id": [
     "twoFactorAuthButton",
@@ -457,7 +467,9 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "es": [
     "postedDateUnitYears",
@@ -595,7 +607,9 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "de": [
     "confirmDeleteColumnTitle",
@@ -769,14 +783,18 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "ja": [
     "followsAccount",
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "ca": [
     "postedDateUnitYears",
@@ -914,7 +932,9 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ],
   "pt": [],
   "zh_TW": [
@@ -1085,6 +1105,8 @@
     "settingsTranslationLocale",
     "settingsTranslationLocaleDisclaimer",
     "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent"
+    "confirmRetryNowScheduledPostContent",
+    "settingsLowerVolume",
+    "settingsLowerVolumeDescription"
   ]
 }
