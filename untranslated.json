@@ -787,7 +787,9 @@
     "settingsLowerVolume",
     "settingsLowerVolumeDescription"
   ],
-  "ja": ["followsAccount"],
+  "ja": [
+    "followsAccount"
+  ],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",
