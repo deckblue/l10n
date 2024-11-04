@@ -787,15 +787,7 @@
     "settingsLowerVolume",
     "settingsLowerVolumeDescription"
   ],
-  "ja": [
-    "followsAccount",
-    "settingsTranslationLocale",
-    "settingsTranslationLocaleDisclaimer",
-    "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent",
-    "settingsLowerVolume",
-    "settingsLowerVolumeDescription"
-  ],
+  "ja": ["followsAccount"],
   "ca": [
     "postedDateUnitYears",
     "settingsSubscribedLists",

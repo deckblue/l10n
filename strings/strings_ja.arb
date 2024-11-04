@@ -334,7 +334,7 @@
   "settingsSound": "通知音を選択",
   "scheduleInvalidAccount": "無効な予約アカウントです。予約アカウントを確認してください。",
   "confirmRetryScheduledPost": "予約ポストのリトライ",
-  "confirmRetryScheduledPostContent": "この予約ポストは送信されませんでした。この予約ポストの送信をリトライする前に、あなたの予約アカウントを再リンクしてください。予約ポストの送信をリトライすると、予約ポストに設定された日時でポストが送信されます。この予約ポストをリトライしてもいいですか？",
+  "confirmRetryScheduledPostContent": "予約ポストの送信に失敗しました。この予約ポストの送信をリトライする前に、あなたの予約アカウントを再リンクしてください。予約ポストの送信をリトライすると、予約ポストに設定された日時でポストが送信されます。この予約ポストをリトライしてもいいですか？",
   "retryScheduledPostButton": "リトライ",
   "relinkScheduleAccount": "予約アカウントを再リンク",
   "relinkScheduleAccountSubtitle": "もし予約ポストに失敗する場合は、このオプションから予約アカウントの再リンクをしてください。",
@@ -405,5 +405,11 @@
   "twoFactorAuthTooltip": "サインインコードは、あなたが2要素認証（2FA）を有効化している場合に、ログインの際にBlueskyからアカウントの登録メールアドレスに送信されるコードです。deck.blueのパスワードリセットのコードではありません。",
   "errorLogin2FANeeded": "ログインするためにはBlueskyから送信されるサインインコードが必須です。あなたのアカウントの登録メールアドレスに送信されたサインインコードを確認してください。",
   "showLabels": "ラベルを表示",
-  "showLabelsDescription": "モデレーションラベラーによるラベルを表示"
+  "showLabelsDescription": "モデレーションラベラーによるラベルを表示",
+  "settingsTranslationLocale": "翻訳",
+  "settingsTranslationLocaleDisclaimer": "deck.blueはポストを翻訳するためにDeepLを使用します。設定で翻訳言語を変更しない場合、あなたが設定した表示言語がデフォルトで使われます。",
+  "retryNowScheduledPostButton": "今すぐ送信",
+  "confirmRetryNowScheduledPostContent": "予約ポストの送信に失敗しました。リトライをする前にあなたの予約アカウントが適切にリンクされているか確認してください。また、このボタンからリトライをした場合、予約ポストで指定した日時ではなくボタンが押された時の日時が使用され、すぐにあなたのプロフィールにこのポストが表示されます。このポストを今すぐ送信するようにリトライしてもいいですか？",
+  "settingsLowerVolume": "通知音の低音量化",
+  "settingsLowerVolumeDescription": "全てのカラムで通知音を低音量化"
 }
