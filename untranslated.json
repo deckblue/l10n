@@ -270,14 +270,7 @@
     "settingsLowerVolume",
     "settingsLowerVolumeDescription"
   ],
-  "uk": [
-    "settingsTranslationLocale",
-    "settingsTranslationLocaleDisclaimer",
-    "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent",
-    "settingsLowerVolume",
-    "settingsLowerVolumeDescription"
-  ],
+  "uk": [],
   "ru": [
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
