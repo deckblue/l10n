@@ -406,5 +406,11 @@
   "twoFactorAuthTooltip": "C'est un code que Bluesky vous envoie si vous activez l'authentification forte, ce n'est PAS le code de réinitialisation du mot de passe de deck.blue.",
   "errorLogin2FANeeded": "Un code d'authentification de Bluesky est nécessaire, il a été envoyé à l'adresse email enregistrée pour ce compte.",
   "showLabels": "Montrer les labels",
-  "showLabelsDescription": "Montrer les labels posés par les modérateurs"
+  "showLabelsDescription": "Montrer les labels posés par les modérateurs",
+  "settingsTranslationLocale": "Traduction",
+  "settingsTranslationLocaleDisclaimer": "deck.blue utilise DeepL pour traduire les posts, par défaut vers votre langue d'affichage",
+  "retryNowScheduledPostButton": "Réessayer maintenant",
+  "confirmRetryNowScheduledPostContent": "Ce post n'a pas pu être envoyé, assurez-vous d'avoir reconnecté votre compte de planification correctement avant de réessayer. Il sera envoyé comme s'il avait été posté maintenant plutôt qu'à l'heure prévue, et il sera montré dans votre profile immédiatement. Êtes-vous sûr(e) de vouloir réessayer d'envoyer ce post maintenant ?",
+  "settingsLowerVolume": "Baisser le volume",
+  "settingsLowerVolumeDescription": "Baisse le volume des notification pour toutes les colonnes"
 }
