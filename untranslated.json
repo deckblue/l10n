@@ -442,14 +442,7 @@
     "settingsLowerVolume",
     "settingsLowerVolumeDescription"
   ],
-  "fr": [
-    "settingsTranslationLocale",
-    "settingsTranslationLocaleDisclaimer",
-    "retryNowScheduledPostButton",
-    "confirmRetryNowScheduledPostContent",
-    "settingsLowerVolume",
-    "settingsLowerVolumeDescription"
-  ],
+  "fr": [],
   "id": [
     "twoFactorAuthButton",
     "twoFactorAuthLabel",
