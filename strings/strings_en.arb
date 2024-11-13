@@ -79,7 +79,7 @@
   "@errorLoginServerError": {
     "description": "Login server error"
   },
-  "embedTypeQuote": "Quote",
+  "embedTypeQuote": "Quotes",
   "@embedTypeQuote": {
     "description": "EmbedType Quote title"
   },
@@ -94,6 +94,10 @@
   "embedTypeImage": "Media",
   "@embedTypeImage": {
     "description": "EmbedType Image title"
+  },
+  "embedTypeVideo": "Video",
+  "@embedTypeVideo": {
+    "description": "EmbedType Video title"
   },
   "embedTypeReply": "Replies",
   "@embedTypeReply": {
@@ -1654,5 +1658,45 @@
   "settingsLowerVolumeDescription": "Lowers notification sound volume for all columns",
   "@settingsLowerVolumeDescription": {
     "description": "Settings lower volume toggle descriptions"
+  },
+  "quoteCount": "{count, plural, one{Quote} other{Quotes}}",
+  "@quoteCount": {
+    "description": "Quote counter"
+  },
+  "pinPost": "Pin post",
+  "@pinPost": {
+    "description": "Pin post action"
+  },
+  "unpinPost": "Unpin post",
+  "@unpinPost": {
+    "description": "Unpin post action"
+  },
+  "knownFollowersCount": "{count, plural, one{{count} known follower} other{{count} known followers}}",
+  "@knownFollowersCount": {
+    "description": "Known followers counter"
+  },
+  "knownFollowers": "Known followers",
+  "@knownFollowers": {
+    "description": "Known followers"
+  },
+  "searchTag": "Search posts with tag",
+  "@searchTag": {
+    "description": "Search posts with tag"
+  },
+  "userSearchTag": "Search user's posts with tag",
+  "@userSearchTag": {
+    "description": "Search user posts with tag"
+  },
+  "muteTag": "Mute all posts with this tag",
+  "@muteTag": {
+    "description": "Mute posts with tag"
+  },
+  "muteThread": "Mute post",
+  "@muteThread": {
+    "description": "Mute thread"
+  },
+  "threadViewer": "See full thread",
+  "@threadViewer": {
+    "description": "Thread viewer button"
   }
 }
