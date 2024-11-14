@@ -863,7 +863,9 @@
     "muteThread",
     "threadViewer"
   ],
-  "ja": [],
+  "ja": [
+    "followsAccount"
+  ],
   "ca": [
     "embedTypeVideo",
     "postedDateUnitYears",
