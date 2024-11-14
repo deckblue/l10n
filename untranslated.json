@@ -863,20 +863,7 @@
     "muteThread",
     "threadViewer"
   ],
-  "ja": [
-    "embedTypeVideo",
-    "followsAccount",
-    "quoteCount",
-    "pinPost",
-    "unpinPost",
-    "knownFollowersCount",
-    "knownFollowers",
-    "searchTag",
-    "userSearchTag",
-    "muteTag",
-    "muteThread",
-    "threadViewer"
-  ],
+  "ja": [],
   "ca": [
     "embedTypeVideo",
     "postedDateUnitYears",

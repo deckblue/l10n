@@ -104,7 +104,7 @@
   "settingsLightTheme": "ライト",
   "settingsDarkTheme": "ダーク",
   "settingsSystemTheme": "システム設定",
-  "settingsLocale": "表示言語",
+  "settingsLocale": "言語",
   "profileDialogFollowButton": "フォロー",
   "profileDialogFollowingButton": "フォロー解除",
   "imageAltDialogHint": "画像の説明を追加",
@@ -411,5 +411,16 @@
   "retryNowScheduledPostButton": "今すぐ送信",
   "confirmRetryNowScheduledPostContent": "予約ポストの送信に失敗しました。リトライをする前にあなたの予約アカウントが適切にリンクされているか確認してください。また、このボタンからリトライをした場合、予約ポストで指定した日時ではなくボタンが押された時の日時が使用され、すぐにあなたのプロフィールにこのポストが表示されます。このポストを今すぐ送信するようにリトライしてもいいですか？",
   "settingsLowerVolume": "通知音の低音量化",
-  "settingsLowerVolumeDescription": "全てのカラムで通知音を低音量化"
+  "settingsLowerVolumeDescription": "全てのカラムで通知音を低音量化",
+  "embedTypeVideo": "動画",
+  "quoteCount": "引用",
+  "pinPost": "ポストをピン留め",
+  "unpinPost": "ポストのピン留めを解除",
+  "knownFollowersCount": "{count}人の知り合いがフォロー中",
+  "knownFollowers": "知り合い",
+  "searchTag": "このタグでポストを検索",
+  "userSearchTag": "このタグでユーザーを検索",
+  "muteTag": "このタグを含む全てのポストをミュート",
+  "muteThread": "スレッドの通知をミュート",
+  "threadViewer": "全てのスレッドを見る"
 }
