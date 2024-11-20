@@ -20,11 +20,11 @@
   "@columnTitleMentions": {
     "description": "DeckColumnType Mentions title"
   },
-  "columnTitleMedia": "Multimedia",
+  "columnTitleMedia": "Treść",
   "@columnTitleMedia": {
     "description": "DeckColumnType Media title"
   },
-  "columnTitleCustom": "Dostosowany kanał",
+  "columnTitleCustom": "Kanał",
   "@columnTitleCustom": {
     "description": "DeckColumnType Custom title"
   },
@@ -68,11 +68,11 @@
   "@errorLoginUnknown": {
     "description": "Login unknown error"
   },
-  "errorLoginWrongCredentials": "Nieprawidłowy identyfikator lub hasło. Spróboj ponownie.",
+  "errorLoginWrongCredentials": "Nieprawidłowa lub hasło. Spróboj ponownie.",
   "@errorLoginWrongCredentials": {
     "description": "Login wrong credentials error"
   },
-  "errorLoginInvalidAppPassword": "Nieprawidłowe hasło aplikacji. Wygeneruj hasło aplikacji klikając ikonę ? w polu hasła, lub ponownie naciśnij przycisk logowania aby zignorować to ostrzeżnie.",
+  "errorLoginInvalidAppPassword": "Nieprawidłowe hasło aplikacji. Wygeneruj hasło aplikacji klikając ikonę ? w polu hasła, lub ponownie naciśnij na 'Zaloguj się' aby zignorować to ostrzeżnie.",
   "@errorLoginInvalidAppPassword": {
     "description": "Login invalid App Password error"
   },
@@ -84,7 +84,7 @@
   "@embedTypeQuote": {
     "description": "EmbedType Quote title"
   },
-  "embedTypeImageQuote": "Cytaty z multimediami",
+  "embedTypeImageQuote": "Cytaty z treściami",
   "@embedTypeImageQuote": {
     "description": "EmbedType ImageQuote title"
   },
@@ -92,7 +92,7 @@
   "@embedTypeLink": {
     "description": "EmbedType Link title"
   },
-  "embedTypeImage": "Multimedia",
+  "embedTypeImage": "Treść",
   "@embedTypeImage": {
     "description": "EmbedType Image title"
   },
@@ -104,11 +104,11 @@
   "@embedTypeReply": {
     "description": "EmbedType Reply title"
   },
-  "embedTypeRepost": "Reposty",
+  "embedTypeRepost": "Podania dalej",
   "@embedTypeRepost": {
     "description": "EmbedType Repost title"
   },
-  "mediaSizeHidden": "Ukrytę posty",
+  "mediaSizeHidden": "Ukrytę wpisy",
   "@mediaSizeHidden": {
     "description": "MediaSize Hidden title"
   },
@@ -124,15 +124,15 @@
   "@mediaSizeLarge": {
     "description": "MediaSize Large title"
   },
-  "mediaSizeSetting": "Rozmiar miniatur multimediów",
+  "mediaSizeSetting": "Rozmiar miniatur treść",
   "@mediaSizeSetting": {
     "description": "MediaSize setting title"
   },
-  "embedTypeSetting": "Dozwolone osadzenia",
+  "embedTypeSetting": "Dozwolone osadzenia multimedialne",
   "@embedTypeSetting": {
     "description": "EmbedType setting title"
   },
-  "postTypeSetting": "Dozwolone rodzaje postów",
+  "postTypeSetting": "Dozwolone rodzaje wpisow",
   "@postTypeSetting": {
     "description": "EmbedType post setting title"
   },
@@ -148,7 +148,7 @@
   "@addColumnDialogTitle": {
     "description": "Add default columns dialog title"
   },
-  "addFeedColumnDialogTitle": "Dodaj kolumnę z kanałem dostosowanym",
+  "addFeedColumnDialogTitle": "Dodaj kanał",
   "@addFeedColumnDialogTitle": {
     "description": "Add custom feed column dialog title"
   },
@@ -156,27 +156,27 @@
   "@columnDescriptionHome": {
     "description": "DeckColumnType Home description"
   },
-  "columnDescriptionUser": "Twojé posty",
+  "columnDescriptionUser": "Twojé wpisy",
   "@columnDescriptionUser": {
     "description": "DeckColumnType User description"
   },
-  "columnDescriptionNotifications": "Twoję Powiadomienia",
+  "columnDescriptionNotifications": "Twoję powiadomienia",
   "@columnDescriptionNotifications": {
     "description": "DeckColumnType Notifications description"
   },
-  "columnDescriptionLikes": "Twoje polubionę posty",
+  "columnDescriptionLikes": "Twoje polubienia",
   "@columnDescriptionLikes": {
     "description": "DeckColumnType Likes description"
   },
-  "columnDescriptionMentions": "Every post that mentions you #FIX", 
+  "columnDescriptionMentions": "Twoje wzmianki", 
   "@columnDescriptionMentions": {
     "description": "DeckColumnType Mentions description"
   },
-  "columnDescriptionMedia": "Twoje posty z dowolnymi mediami",
+  "columnDescriptionMedia": "Twoje wpisy z treśćią",
   "@columnDescriptionMedia": {
     "description": "DeckColumnType Media description"
   },
-  "columnDescriptionCustom": "Wybierz dostosowany kanał z zapisanych kanałów",
+  "columnDescriptionCustom": "Wybierz kanał z zapisanych kanałów",
   "@columnDescriptionCustom": {
     "description": "DeckColumnType Custom description"
   },
@@ -184,7 +184,7 @@
   "@columnDescriptionListFeed": {
     "description": "DeckColumnType List description"
   },
-  "selectLanguageDialogTitle": "Wybierz język posta",
+  "selectLanguageDialogTitle": "Wybierz język wpisu",
   "@selectLanguageDialogTitle": {
     "description": "SelectLanguageDialog title"
   },
@@ -192,7 +192,7 @@
   "@selectOtherLanguage": {
     "description": "SelectLanguageDialog menu option"
   },
-  "postButton": "Utwórz posta",
+  "postButton": "Utwórz wpis",
   "@postButton": {
     "description": "NewPostDialog button"
   },
@@ -204,19 +204,19 @@
   "@postDialogHint": {
     "description": "NewPostDialog text field hint"
   },
-  "postErrorUpload": "Nie można było opublikować. Spróbuj ponownie później.",
+  "postErrorUpload": "Bład podczas wysylania wpisu. Spróbuj ponownie później.",
   "@postErrorUpload": {
     "description": "PostErrorType upload description"
   },
-  "postErrorDelete": "Nie można było usunąć posta. Spróbuj ponownie później.",
+  "postErrorDelete": "Bład podczas usuwania wpisu. Spróbuj ponownie później.",
   "@postErrorDelete": {
     "description": "PostErrorType delete description"
   },
-  "postErrorLike": "Nie można było polubic posta. Spróbuj ponownie później.",
+  "postErrorLike": "Bład podczas polubienia wpisu. Spróbuj ponownie później.",
   "@postErrorLike": {
     "description": "PostErrorType like description"
   },
-  "postErrorRepost": "Nie można było ponownie opublikować posta. Spróbuj ponownie później.",
+  "postErrorRepost": "Bład podczas podawaniu dalej. Spróbuj ponownie później.",
   "@postErrorRepost": {
     "description": "PostErrorType repost description"
   },
@@ -224,7 +224,7 @@
   "@replyButton": {
     "description": "Generic reply button"
   },
-  "repostButton": "Opublikój ponownie",
+  "repostButton": "Podaj dalej",
   "@repostButton": {
     "description": "Generic repost button"
   },
@@ -236,11 +236,11 @@
   "@likeButton": {
     "description": "Generic like button"
   },
-  "replyDialogHint": "Opublikuj swoją odpowiedż",
+  "replyDialogHint": "Wpisz odpowiedz do tego wpisu",
   "@replyDialogHint": {
     "description": "NewPostDialog reply text field hint"
   },
-  "quoteDialogHint": "Dodaj coś o tym poście",
+  "quoteDialogHint": "Wpisz coś o tym wpisie",
   "@quoteDialogHint": {
     "description": "NewPostDialog quote text field hint"
   },
@@ -256,7 +256,7 @@
   "@postButtonCopy": {
     "description": "Post copy URL button"
   },
-  "postCopyMessage": "Link został skopiowany",
+  "postCopyMessage": "Link skopiowany do schowka",
   "@postCopyMessage": {
     "description": "Post copy URL success message"
   },
@@ -264,7 +264,7 @@
   "@postButtonOpen": {
     "description": "Post open in bsky button"
   },
-  "errorThreadEmptyPost": "Nie można znaleźć posta",
+  "errorThreadEmptyPost": "Wpis nie znaleziony",
   "@errorThreadEmptyPost": {
     "description": "Error in thread view when unable to find a post"
   },
@@ -276,7 +276,7 @@
   "@searchDialogUsers": {
     "description": "SearchDialog Users tab"
   },
-  "searchDialogPosts": "Posty",
+  "searchDialogPosts": "Wpisy",
   "@searchDialogPosts": {
     "description": "SearchDialog Posts tab"
   },
@@ -288,35 +288,35 @@
   "@translateButton": {
     "description": "Generic Translate button"
   },
-  "emptyPosts": "Nie znaleziono żadnych postów",
+  "emptyPosts": "Brak wpisów",
   "@emptyPosts": {
     "description": "Empty state for post search"
   },
-  "emptyUsers": "Nie znaleziono żadnych profili",
+  "emptyUsers": "Brak profili",
   "@emptyUsers": {
     "description": "Empty state for profile search"
   },
-  "profileDialogPosts": "Posty",
+  "profileDialogPosts": "Wpisy",
   "@profileDialogPosts": {
     "description": "Profile dialog Posts label"
   },
-  "profileDialogFollowing": "Obserwujesz",
+  "profileDialogFollowing": "Obserwowane",
   "@profileDialogFollowing": {
     "description": "Profile dialog Following label"
   },
-  "profileDialogFollowers": "Obserwatorzy",
+  "profileDialogFollowers": "Obserwujący",
   "@profileDialogFollowers": {
     "description": "Profile dialog Followers label"
   },
-  "errorProfileDialog": "Nie można było pokazac tego profilu. Spróbuj ponownie później.",
+  "errorProfileDialog": "Bład podczas pobieraniem profilu. Spróbuj ponownie później.",
   "@errorProfileDialog": {
     "description": "Error state for profile search"
   },
-  "profileDialogPostsColumn": "Posty",
+  "profileDialogPostsColumn": "Wpisy",
   "@profileDialogPostsColumn": {
     "description": "Profile dialog Posts column label"
   },
-  "profileDialogMediaColumn": "Multimedia",
+  "profileDialogMediaColumn": "Treść",
   "@profileDialogMediaColumn": {
     "description": "Profile dialog Media column label"
   },
@@ -328,11 +328,11 @@
   "@profileDialogAddColumn": {
     "description": "Profile dialog Add column label"
   },
-  "repostedBy": "Opublikowano ponownie przez {actor}",
+  "repostedBy": "Podane dalej przez {actor}",
   "@repostedBy": {
     "description": "repostedBy formatted text"
   },
-  "replyTo": "w odpowiedzi do {actor}",
+  "replyTo": "Odpowiedz do {actor}",
   "@replyTo": {
     "description": "replyTo formatted text"
   },
@@ -340,107 +340,108 @@
   "@advancedButton": {
     "description": "Generic Advanced button"
   },
-  "notificationLikeReason": "{count, plural, other{polubił/a Twój post}}",
+  "notificationLikeReason": "{count, plural, other{polubił/a Twój wpis}}",
   "@notificationLikeReason": {
     "description": "Notification reason like reason"
   },
-  "notificationRepostReason": "{count, plural, other{reposted your post}}",
+  "notificationRepostReason": "{count, plural, other{podał/a dalej}}",
   "@notificationRepostReason": {
     "description": "Notification reason repost reason"
   },
-  "notificationFollowReason": "{count, plural, other{followed you}}",
+  "notificationFollowReason": "{count, plural, other{teraz Cię obzerwuje}}",
   "@notificationFollowReason": {
     "description": "Notification reason follow reason"
   },
-  "notificationMentionReason": "{count, plural, other{mentioned you}}",
+  "notificationMentionReason": "{count, plural, other{wspomniał/a o Tobie}}",
   "@notificationMentionReason": {
     "description": "Notification reason mention reason"
   },
-  "notificationQuoteReason": "{count, plural, other{quoted your post}}",
+  "notificationQuoteReason": "{count, plural, other{zacytował Twój wpis}}",
   "@notificationQuoteReason": {
     "description": "Notification reason quote reason"
   },
-  "notificationReplyReason": "{count, plural, other{replied to you}}",
+  "notificationReplyReason": "{count, plural, other{odpowiedział/a na twoj wpis}}",
   "@notificationReplyReason": {
     "description": "Notification reason reply reason"
   },
-  "notificationTitleCounter": "{count, plural, other{{count} others}}",
+  "notificationTitleCounter": "{count, plural, other{{count} innych}}",
   "@notificationTitleCounter": {
     "description": "Notification title other count"
-  },
+  }, 
+  // Not sure what to do about this +{count} line
   "notificationTitleShortCounter": "+{count}",
   "@notificationTitleShortCounter": {
     "description": "Notification title other count"
   },
-  "notificationTitleAnd": " and ",
+  "notificationTitleAnd": " i ",
   "@notificationTitleAnd": {
     "description": "Notification title other count 'and'"
   },
-  "sizeSmallest": "Smallest",
+  "sizeSmallest": "N",
   "@sizeSmallest": {
     "description": "Settings Smallest size"
   },
-  "sizeSmall": "Small",
+  "sizeSmall": "Najmniejszy",
   "@sizeSmall": {
     "description": "Settings Small size"
   },
-  "sizeMedium": "Medium",
+  "sizeMedium": "Średni",
   "@sizeMedium": {
     "description": "Settings Medium size"
   },
-  "sizeLarge": "Large",
+  "sizeLarge": "Duży",
   "@sizeLarge": {
     "description": "Settings Large size"
   },
-  "sizeLargest": "Largest",
+  "sizeLargest": "Największy",
   "@sizeLargest": {
     "description": "Settings Largest size"
   },
-  "settingsDialogTitle": "Settings",
+  "settingsDialogTitle": "Ustawienia",
   "@settingsDialogTitle": {
     "description": "Settings dialog title"
   },
-  "settingsColumnSize": "Column size",
+  "settingsColumnSize": "Rozmiar kolumn",
   "@settingsColumnSize": {
     "description": "Settings dialog column size subtitle"
   },
-  "settingsFontSize": "Font size",
+  "settingsFontSize": "Rozmiar czcionki",
   "@settingsFontSize": {
     "description": "Settings dialog font size subtitle"
   },
-  "settingsTheme": "Theme",
+  "settingsTheme": "Motyw",
   "@settingsTheme": {
     "description": "Settings dialog theme subtitle"
   },
-  "settingsLightTheme": "Light",
+  "settingsLightTheme": "Jasny",
   "@settingsLightTheme": {
     "description": "Settings dialog light theme"
   },
-  "settingsDarkTheme": "Dark",
+  "settingsDarkTheme": "Ciemny",
   "@settingsDarkTheme": {
     "description": "Settings dialog dark theme"
   },
-  "settingsSystemTheme": "Follow system",
+  "settingsSystemTheme": "Wedlug systemu",
   "@settingsSystemTheme": {
     "description": "Settings dialog system theme"
   },
-  "settingsLocale": "Display language",
+  "settingsLocale": "Język aplikacji",
   "@settingsLocale": {
     "description": "Settings dialog language"
   },
-  "profileDialogFollowButton": "Follow",
+  "profileDialogFollowButton": "Obserwuj",
   "@profileDialogFollowButton": {
     "description": "Profile Dialog follow button"
   },
-  "profileDialogFollowingButton": "Following",
+  "profileDialogFollowingButton": "Obserwowane",
   "@profileDialogFollowingButton": {
     "description": "Profile Dialog following button"
   },
-  "imageAltDialogHint": "Describe this image",
+  "imageAltDialogHint": "Opisz to zdjecie",
   "@imageAltDialogHint": {
     "description": "Image Alt text Dialog input hint"
   },
-  "saveButton": "Save",
+  "saveButton": "Zapisz",
   "@saveButton": {
     "description": "Generic Save button"
   },
@@ -448,71 +449,72 @@
   "@confirmButton": {
     "description": "Generic Confirm button"
   },
-  "cancelButton": "Cancel",
+  "cancelButton": "Anuluj",
   "@cancelButton": {
     "description": "Generic Cancel button"
   },
-  "contentLabelSuggestive": "Suggestive",
+  "contentLabelSuggestive": "Sugestywne seksualnie",
   "@contentLabelSuggestive": {
     "description": "Suggestive content label title"
   },
-  "contentLabelNsfw": "Porn",
+  "contentLabelNsfw": "Pornografia",
   "@contentLabelNsfw": {
     "description": "Nsfw content label title"
   },
-  "contentLabelNudity": "Nudity",
+  "contentLabelNudity": "Nagość",
   "@contentLabelNudity": {
     "description": "Nudity content label title"
   },
-  "clearButton": "Clear",
+  "clearButton": "Usuń zawartość",
   "@clearButton": {
     "description": "Generic Clear button"
   },
-  "appPasswordTooltip": "An App Password is a Bluesky feature which adds a layer of safety when using 3rd party apps.\nYou should create one for any app that isn't official (such as this one).",
+  "appPasswordTooltip": "Hasło aplikacji jest funkcją Bluesky która dodaje warstwę bezpieczeństwa podczas korzystania z aplikacji innych firm. Powinieneś utworzyć hasło dla każdej aplikacji która nie jest oficjalna (jak deck.blue).",
   "@appPasswordTooltip": {
     "description": "App Password tooltip"
   },
-  "contentLabelSetting": "Add a content warning",
+  "contentLabelSetting": "Dodaj ostrzeżenie o zawartości",
   "@contentLabelSetting": {
     "description": "Content label setting for posts"
   },
-  "postErrorTooLarge": "Unable to post. An image used surpasses the 1MB limit.",
+  "postErrorTooLarge": "Bład podczas tworzenia wpisu. Obraz przekroczył limit 1MB.",
   "@postErrorTooLarge": {
     "description": "PostErrorType repost description"
   },
-  "tooltipKofi": "Donate a coffee!",
+  "tooltipKofi": "Podaruj kawę!",
   "@tooltipKofi": {
     "description": "Ko-fi button tooltip"
   },
-  "linkButton": "Add link card: ",
+  // #FIX - Not sure where the below appears, and there's no obvious translation so it may be off
+  "linkButton": "Dodaj kartę linku: ",
   "@linkButton": {
     "description": "Add a link button"
   },
-  "quoteLinkButton": "Quote post",
+  "quoteLinkButton": "Podaj wpis dalej",
   "@quoteLinkButton": {
     "description": "Quote a post from a link"
   },
-  "aboutHeader1": "What is deck.blue?",
+  "aboutHeader1": "Co to jest deck.blue?",
   "@aboutHeader1": {
     "description": "About dialog header 1"
   },
-  "aboutHeader2": "How does this work?",
+  "aboutHeader2": "Jak to dziala?",
   "@aboutHeader2": {
     "description": "About dialog header 2"
   },
-  "aboutDescription1": "As a 3rd party app, deck.blue is a Bluesky client that supports multi-column browsing, allowing you to check everything you care about at once (just like TweetDeck!).",
+  "aboutDescription1": "Jako aplikacja zewnętrzna, deck.blue jest aplikacją która obsługuje przeglądanie wielokolumnowe, umożliwiając sprawdzenie wszystkiego co Cię interesuje na raz (podobnie jak TweetDeck!).",
   "@aboutDescription1": {
     "description": "About dialog description 1"
   },
-  "aboutDescription2": "By using deck.blue, you can do everything you can already do on the official apps with the benefit of an information-efficient layout, organizing columns – updated in real time – to better fit your needs. Wanna keep track of many searched terms at once? Just add a column for each one! By using Bluesky's custom feed system, you can also follow as many communities as you want.",
+  "aboutDescription2": "Używając deck.blue, możesz robić wszystko co możesz już robić w oficjalnych aplikacjach, korzystając z układu wydajnego pod względem informacji, organizując kolumny – aktualizowane w czasie rzeczywistym – aby lepiej dopasować je do swoich potrzeb. Chcesz śledzić wiele wyszukiwanych terminów jednocześnie? Po prostu dodaj kolumnę dla każdego z nich! Używając kanałów Bluesky, możesz również śledzić tyle społeczności ile chcesz.",
   "@aboutDescription2": {
     "description": "About dialog description 2"
   },
-  "aboutButton": "About",
+  "aboutButton": "O nas",
   "@aboutButton": {
     "description": "About dialog button"
   },
-  "loginSlogan1": "Get the most out of ",
+  "loginSlogan1": "Wykorzystaj w pełni ",
   "@loginSlogan1": {
     "description": "Login slogan part 1"
   },
@@ -520,155 +522,155 @@
   "@loginSlogan2": {
     "description": "Login slogan part 2"
   },
-  "updateSnackbar": "A new update is available!\nRefresh to get new features and bug fixes!",
+  "updateSnackbar": "Nowa aktualizacja dostępna! Odśwież aby uzyskać nowe funkcje i poprawki błędów!",
   "@updateSnackbar": {
     "description": "Update Snackbar message"
   },
-  "refreshButton": "Refresh",
+  "refreshButton": "Odśwież",
   "@refreshButton": {
     "description": "Generic Refresh button"
   },
-  "replyCount": "{count, plural, one{Reply} other{Replies}}",
+  "replyCount": "{count, plural, one{Odpowiedź} other{Odpowiedzi}}",
   "@replyCount": {
     "description": "Reply counter"
   },
-  "likeCount": "{count, plural, one{Like} other{Likes}}",
+  "likeCount": "{count, plural, one{Polubiene} other{Polubienia}}",
   "@likeCount": {
     "description": "Like counter"
   },
-  "repostCount": "{count, plural, one{Repost} other{Reposts}}",
+  "repostCount": "{count, plural, one{Podanie dalej} other{Podania dalej}}",
   "@repostCount": {
     "description": "Repost counter"
   },
-  "emptyActorList": "Couldn't load users, try again later.",
+  "emptyActorList": "Nie mogliśmy pobrac użytkowników. Spróbuj ponownie pożniej.",
   "@emptyActorList": {
     "description": "Empty ActorListDialog message"
   },
-  "followsYou": "follows you",
+  "followsYou": "obserwuje cię",
   "@followsYou": {
     "description": "Profile follows selected account"
   },
-  "followsAccount": "follows ${handle}",
+  "followsAccount": "obserwuje ${handle}",
   "@followsAccount": {
     "description": "Profile follows available account"
   },
-  "soundEnabled": "Enable notification sound",
+  "soundEnabled": "Włącz dźwięki powiadomień",
   "@soundEnabled": {
     "description": "Toggle notification sound"
   },
-  "blocksYou": "blocks you",
+  "blocksYou": "blokuje Ciebie",
   "@blocksYou": {
     "description": "Profile viewed blocks you"
   },
-  "blocked": "blocked",
+  "blocked": "zablokowany",
   "@blocked": {
     "description": "Profile viewed is blocked by you"
   },
-  "muted": "muted",
+  "muted": "wyciszony",
   "@muted": {
     "description": "Profile viewed is muted by you"
   },
-  "mutedByList": "muted by list",
+  "mutedByList": "wyciszony przez listę",
   "@mutedByList": {
     "description": "Profile viewed is muted by list"
   },
-  "muteButton": "Mute",
+  "muteButton": "Wycisz",
   "@muteButton": {
     "description": "Mute profile viewed button"
   },
-  "unmuteButton": "Unmute",
+  "unmuteButton": "Anuluj wyciszenie",
   "@unmuteButton": {
     "description": "Unmute profile viewed button"
   },
-  "blockButton": "Block",
+  "blockButton": "Zablokuj",
   "@blockButton": {
     "description": "Block profile viewed button"
   },
-  "unblockButton": "Unblock",
+  "unblockButton": "Odblokuj",
   "@unblockButton": {
     "description": "Unblock profile viewed button"
   },
-  "errorUpdateList": "Unable to update list, please try again.",
+  "errorUpdateList": "Bład podczas aktualizowaniem listy, spróboj ponownie.",
   "@errorUpdateList": {
     "description": "Error on update list"
   },
-  "errorCreateList": "Unable to create list, please try again.",
+  "errorCreateList": "Bład podczas tworzeniem listy, spróboj ponownie.",
   "@errorCreateList": {
     "description": "Error on create list"
   },
-  "emptyListItems": "This list is empty!",
+  "emptyListItems": "List jest pusta!",
   "@emptyListItems": {
     "description": "Empty list items manage list message"
   },
-  "emptyFollowing": "You aren't following anyone!",
+  "emptyFollowing": "Nie obserwujesz nikogo!",
   "@emptyFollowing": {
     "description": "Empty following manage list message"
   },
-  "manageListHeader": "Edit list {name}",
+  "manageListHeader": "Edituj listę {name}",
   "@manageListHeader": {
     "description": "ManageListDialog header title"
   },
-  "saveListButton": "Save list",
+  "saveListButton": "Zapisz listę",
   "@saveListButton": {
     "description": "ManageListDialog save button"
   },
-  "manageListCurrentTab": "Current",
+  "manageListCurrentTab": "Aktualnie",
   "@manageListCurrentTab": {
     "description": "ManageListDialog first tab"
   },
-  "manageListFollowingTab": "Following",
+  "manageListFollowingTab": "Obserwujący",
   "@manageListFollowingTab": {
     "description": "ManageListDialog second tab"
   },
-  "manageListSearchedTab": "Searched",
+  "manageListSearchedTab": "Wyszukane",
   "@manageListSearchedTab": {
     "description": "ManageListDialog first tab"
   },
-  "createCuratedListHeader": "Create a new curated list",
+  "createCuratedListHeader": "Utwórz nową listę selekcji",
   "@createCuratedListHeader": {
     "description": "NewListDialog header title"
   },
-  "createListNameLabel": "List name",
+  "createListNameLabel": "Imię listy",
   "@createListNameLabel": {
     "description": "NewListDialog name label"
   },
-  "createListNameHint": "Cool people",
+  "createListNameHint": "Fajni ludzie",
   "@createListNameHint": {
     "description": "NewListDialog name hint"
   },
-  "createListDescriptionLabel": "Description",
+  "createListDescriptionLabel": "Opis",
   "@createListDescriptionLabel": {
     "description": "NewListDialog name label"
   },
-  "createListDescriptionHint": "Cool people that I want to see",
+  "createListDescriptionHint": "Fajni ludzie, od których chciałbym usłyszeć",
   "@createListDescriptionHint": {
     "description": "NewListDialog name hint"
   },
-  "createListButton": "Create a list",
+  "createListButton": "Utwórz listę",
   "@createListButton": {
     "description": "Generic Create a list button"
   },
-  "addListColumnDialogTitle": "Add a List column",
+  "addListColumnDialogTitle": "Dodaj kolumnę listy",
   "@addListColumnDialogTitle": {
     "description": "Add list column dialog title"
   },
-  "emptyCuratedLists": "Empty saved lists.",
+  "emptyCuratedLists": "Usuń zapisane listy",
   "@emptyCuratedLists": {
     "description": "Add list column dialog empty"
   },
-  "tooltipAddColumn": "Add column",
+  "tooltipAddColumn": "Dodaj kolumnę",
   "@tooltipAddColumn": {
     "description": "Add list column dialog empty"
   },
-  "tooltipColumnAdded": "Column already added",
+  "tooltipColumnAdded": "Kolumna juz istnieję",
   "@tooltipColumnAdded": {
     "description": "Add list column dialog empty"
   },
-  "buttonManageList": "Manage list",
+  "buttonManageList": "Zarządzaj listą",
   "@buttonManageList": {
     "description": "Generic Manage list button"
   },
-  "postedDateUnitNow": "now",
+  "postedDateUnitNow": "teraz",
   "@postedDateUnitNow": {
     "description": "Date of post just posted"
   },
@@ -676,183 +678,183 @@
   "@postedDateUnitSeconds": {
     "description": "Seconds unit of the date of the post"
   },
-  "postedDateUnitMinutes": "{number}m",
+  "postedDateUnitMinutes": "{number}min",
   "@postedDateUnitMinutes": {
     "description": "Minutes unit of the date of the post"
   },
-  "postedDateUnitHours": "{number}h",
+  "postedDateUnitHours": "{number}godz",
   "@postedDateUnitHours": {
     "description": "Hours unit of the date of the post"
   },
-  "postedDateUnitDays": "{number}d",
+  "postedDateUnitDays": "{number}dni",
   "@postedDateUnitDays": {
     "description": "Days unit of the date of the post"
   },
-  "settingsMutedWords": "Muted words",
+  "settingsMutedWords": "Wyciszone słowa",
   "@settingsMutedWords": {
     "description": "Column muted words settings"
   },
-  "settingsColumn": "Column settings",
+  "settingsColumn": "Ustawienia kolumn",
   "@settingsColumn": {
     "description": "Column settings"
   },
-  "settingsScrollbars": "Show column scrollbars",
+  "settingsScrollbars": "Pokaż paski przewijania kolumn",
   "@settingsScrollbars": {
     "description": "Column settings"
   },
-  "settingsLogout": "Logout",
+  "settingsLogout": "Wyloguj się",
   "@settingsLogout": {
     "description": "Logout button in settings"
   },
-  "editCuratedListHeader": "Edit your curated list",
+  "editCuratedListHeader": "Edytuj listę selekcjonową",
   "@editCuratedListHeader": {
     "description": "NewListDialog edit header title"
   },
-  "buttonEditList": "Edit list",
+  "buttonEditList": "Edituj listę",
   "@buttonEditList": {
     "description": "Generic Edit list button"
   },
-  "phoneSupportMessage": "deck.blue is currently only fully supported on desktop and tablet, please try those for a better experience!",
+  "phoneSupportMessage": "deck.blue jest obecnie w pełni obsługiwany tylko na komputerach i tabletach.",
   "@phoneSupportMessage": {
     "description": "Phone support warning message"
   },
-  "allowedNotificationSetting": "Allowed notifications",
+  "allowedNotificationSetting": "Dozwolone powiadomienia",
   "@allowedNotificationSetting": {
     "description": "Allowed notifications column setting"
   },
-  "notificationLikeTitle": "Like",
+  "notificationLikeTitle": "Polubienie",
   "@notificationLikeTitle": {
     "description": "Notification like"
   },
-  "notificationRepostTitle": "Repost",
+  "notificationRepostTitle": "Podanie dalej",
   "@notificationRepostTitle": {
     "description": "Notification repost"
   },
-  "notificationFollowTitle": "Follow",
+  "notificationFollowTitle": "Obserwuj",
   "@notificationFollowTitle": {
     "description": "Notification follow"
   },
-  "notificationMentionTitle": "Mention",
+  "notificationMentionTitle": "Wzmianka",
   "@notificationMentionTitle": {
     "description": "Notification mention"
   },
-  "notificationQuoteTitle": "Quote",
+  "notificationQuoteTitle": "Cytat",
   "@notificationQuoteTitle": {
     "description": "Notification quote"
   },
-  "notificationReplyTitle": "Reply",
+  "notificationReplyTitle": "Odpowiedz",
   "@notificationReplyTitle": {
     "description": "Notification reply"
   },
-  "timerSetting": "Refresh every",
+  "timerSetting": "Odswież co",
   "@timerSetting": {
     "description": "Timer column setting"
   },
-  "quoteTo": "Quoting {actor}",
+  "quoteTo": "Cytuje {actor}",
   "@quoteTo": {
     "description": "quoteTo formatted text"
   },
-  "followingReplies": "Filter replies by following",
+  "followingReplies": "Pokaż odpowiedzi od obserwujących",
   "@followingReplies": {
     "description": "Filter replies by following toggle"
   },
-  "settingsShowAlt": "Display alt text by default",
+  "settingsShowAlt": "Pokazuj tekst alternatywny domyślnie",
   "@settingsShowAlt": {
     "description": "Settings showAlt toggle"
   },
-  "confirmUnfollowActorTitle": "Unfollow",
+  "confirmUnfollowActorTitle": "Przeztań obs.",
   "@confirmUnfollowActorTitle": {
     "description": "Confirmation title when unfollowing"
   },
-  "confirmUnfollowActorContent": "Are you sure you want to unfollow {handle}?",
+  "confirmUnfollowActorContent": "Czy na pewno chcesz przeztać obserwować {handle}?",
   "@confirmUnfollowActorContent": {
     "description": "Confirmation message when unfollowing"
   },
-  "confirmBlockActorTitle": "Block",
+  "confirmBlockActorTitle": "Blokuj",
   "@confirmBlockActorTitle": {
     "description": "A title for confirmation dialog when blocking"
   },
-  "confirmBlockActorContent": "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. Are you sure you want to block this account?",
+  "confirmBlockActorContent": "Zablokowane konta nie mogą odpowiadać na Twoje wpisy, wspominać Cię, lub w żaden inny sposób wchodzić w interakcję z Tobą. Czy na pewno chcesz zablokować to konto?",
   "@confirmBlockActorContent": {
     "description": "Confirmation message when blocking"
   },
-  "confirmUnblockActorTitle": "Unblock",
+  "confirmUnblockActorTitle": "Odblokuj",
   "@confirmUnblockActorTitle": {
     "description": "A title for confirmation dialog when unblocking"
   },
-  "confirmUnblockActorContent": "The account will be able to interact with you after unblocking. Are you sure you want to unblock this account?",
+  "confirmUnblockActorContent": "Konto będzie mogło wchodzić w interakcję z Tobą po odblokowaniu. Czy na pewno chcesz odblokować to konto?",
   "@confirmUnblockActorContent": {
     "description": "Confirmation message when blocking"
   },
-  "confirmDeletePostTitle": "Delete post",
+  "confirmDeletePostTitle": "Usuń wpis",
   "@confirmDeletePostTitle": {
     "description": "A title for confirmation dialog when deleting post"
   },
-  "confirmDeletePostContent": "Are you sure you want to delete this post?",
+  "confirmDeletePostContent": "Cyz na pweno chcesz usunąć ten wpis?",
   "@confirmDeletePostContent": {
     "description": "Confirmation message when deleting post"
   },
-  "confirmListConvertTitle": "Convert list",
+  "confirmListConvertTitle": "Konwertuj listę",
   "@confirmListConvertTitle": {
     "description": "A title for confirmation dialog when converting a list"
   },
-  "confirmListConvertContent": "This list is currently a mute list; converting it is needed in order to use it as a column. After converting, the profiles already in the list won't be considered muted anymore. Are you sure you want to convert it?",
+  "confirmListConvertContent": "Lista jest obecnie listą wyciszania; konwersja jest potrzebna aby używać jej jako kolumny. Po konwersji profile znajdujące się na liście nie będą już wyciszone. Czy na pewno chcesz ją przekonwertować?",
   "@confirmListConvertContent": {
     "description": "Confirmation message when converting a list"
   },
-  "convertButton": "Convert",
+  "convertButton": "Przekonwertuj",
   "@convertButton": {
     "description": "Generic Convert button"
   },
-  "hashtags": "Hashtags",
+  "hashtags": "Tagi",
   "@hashtags": {
     "description": "Generic Hashtags title"
   },
-  "warningOnPressedLinkTitle": "HOLD UP!",
+  "warningOnPressedLinkTitle": "Stój!",
   "@warningOnPressedLinkTitle": {
     "description": "Title of warning dialog when link is pressed"
   },
-  "warningOnPressedLinkContent": "This link will take you to the following website. Are you sure you want to go this website?",
+  "warningOnPressedLinkContent": "Ten link prowadzi do następującej strony. Czy na pewno chcesz przejść na tę stronę?",
   "@warningOnPressedLinkContent": {
     "description": "Content of warning dialog when link is pressed"
   },
-  "wordSelectDialogHint": "Enter any word separated by \",\". Maximum of 64 characters.",
+  "wordSelectDialogHint": "Wpisz dowolne słowo rozdzielone \",\". Maksymalnie 64 znaków.",
   "@wordSelectDialogHint": {
     "description": "A hint for the word select dialog"
   },
-  "wordSelectDialogHintWithSpaceFilter": "Enter any word separated by \",\" or space. Maximum of 64 characters.",
+  "wordSelectDialogHintWithSpaceFilter": "Wpisz dowolne słowo rozdzielone \",\" lub spacją. Maksymalnie 64 znaków.",
   "@wordSelectDialogHintWithSpaceFilter": {
     "description": "A hint for the word select dialog with the space filter"
   },
-  "columnTimerNone": "Manual",
+  "columnTimerNone": "Ręczne",
   "@columnTimerNone": {
     "description": "ColumnTimer none title"
   },
-  "loadMoreButton": "Load more",
+  "loadMoreButton": "Ładuj więcej",
   "@loadMoreButton": {
     "description": "Generic 'Load more' button"
   },
-  "showClearButton": "Show clear button",
+  "showClearButton": "Pokaż przycisk 'Usuń zawartość'",
   "@showClearButton": {
     "description": "showClearButton column setting"
   },
-  "manageActorInList": "Add/remove from list",
+  "manageActorInList": "Dodaj/usuń z listy",
   "@manageActorInList": {
     "description": "manageActorInList dialog menu"
   },
-  "connectPatreon": "Connect with Patreon",
+  "connectPatreon": "Połącz z Patreon",
   "@connectPatreon": {
     "description": "Connect Patreon settings button"
   },
-  "disconnectPatreon": "Disconnect Patreon",
+  "disconnectPatreon": "Odłącz to od Patreon",
   "@disconnectPatreon": {
     "description": "Disconnect Patreon settings button"
   },
-  "disconnectPatreonConfirm": "Are you sure you want to disconnect your Patreon account? You won't be able to use the benefits such as scheduling and your additional accounts will be logged out.",
+  "disconnectPatreonConfirm": "Czy na pewno chcesz odłączyć swoje konto Patreon? Nie będziesz mógł korzystać z takich funkcji jak planowanie wpisow, i Twoje dodatkowe konta zostaną wylogowane.",
   "@disconnectPatreonConfirm": {
     "description": "Disconnect Patreon confirmation"
   },
-  "patreonNoTier": "Not a Patron",
+  "patreonNoTier": "Konto nie wspiera na Patreon",
   "@patreonNoTier": {
     "description": "PatreonTier null title"
   },
@@ -872,23 +874,24 @@
   "@patreonTierSponsor": {
     "description": "PatreonTier sponsor title"
   },
-  "errorLoginInvalidEmail": "Your account doesn't have a valid email or the email isn't verified, please do that within the official apps.",
+  "errorLoginInvalidEmail": "Brak prawidłowego/zweryfikowanega adresu e-mail. Sprawdź to za pomocą oficjalnej aplikacji Bluesky.",
   "@errorLoginInvalidEmail": {
     "description": "LoginError invalidEmail"
   },
-  "errorLoginChangeAppPassword": "You're trying to login with a different App Password than the last used with deck.blue. A verification code was sent to your email, please use it to validate your account and change your password to this new one.",
+  "errorLoginChangeAppPassword": "Próbujesz zalogować się za pomocą innego hasła aplikacji niż ostatnio używane w deck.blue. Kod weryfikacyjny został wysłany na Twój adres e-mail. Użyj go aby zweryfikować swoje konto i zmienić hasło aplikacji na nowe.",
   "@errorLoginChangeAppPassword": {
     "description": "LoginError changeAppPassword"
   },
-  "errorLoginExpiredChangeCode": "The verification code used is invalid. If it's expired, we're sending another one.",
+  "errorLoginExpiredChangeCode": "Nieprawidłowy kod weryfikacyjny. Jeśli wygasł, wyślemy nowy.",
   "@errorLoginExpiredChangeCode": {
     "description": "LoginError expiredChangeCode"
   },
-  "passwordCodeLabel": "Verification code",
+  "passwordCodeLabel": "Kod weryfikacyjny ",
   "@passwordCodeLabel": {
     "description": "Login password code label"
   },
-  "loginMigration": "As part of the v2.0 update, you're required to login again so your settings and columns are properly backed up.",
+  // CHECKPOINT
+  "loginMigration": "Z powodu aktualizacji v2.0, wymagane jest ponowne zalogowanie się aby ustawienia i kolumny były prawidłowo zapisane.",
   "@loginMigration": {
     "description": "Login migration explanation"
   },
