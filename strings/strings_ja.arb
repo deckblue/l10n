@@ -422,5 +422,6 @@
   "userSearchTag": "このタグでユーザーを検索",
   "muteTag": "このタグで全てのポストをミュート",
   "muteThread": "スレッドの通知を無効化",
-  "threadViewer": "全てのスレッドを見る"
+  "unmuteThread": "スレッドの通知を有効化",
+  "threadViewer": "スレッドを全表示"
 }
