@@ -179,6 +179,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "be": [
@@ -290,6 +291,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "uk": [
@@ -303,6 +305,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "ru": [
@@ -485,6 +488,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "fr": [
@@ -498,6 +502,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "id": [
@@ -523,6 +528,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "es": [
@@ -674,6 +680,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "de": [
@@ -861,10 +868,12 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "unmuteThread"
   ],
   "ca": [
     "embedTypeVideo",
@@ -1015,6 +1024,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ],
   "pt": [],
@@ -1199,6 +1209,7 @@
     "userSearchTag",
     "muteTag",
     "muteThread",
+    "unmuteThread",
     "threadViewer"
   ]
 }
