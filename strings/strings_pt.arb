@@ -423,5 +423,6 @@
   "userSearchTag": "Pesquisar posts deste usuário com a tag",
   "muteTag": "Silenciar posts com essa tag",
   "muteThread": "Silenciar post",
+  "unmuteThread": "Dessilenciar",
   "threadViewer": "Ver thread completa"
 }

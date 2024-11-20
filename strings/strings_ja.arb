@@ -420,7 +420,7 @@
   "knownFollowers": "知り合い",
   "searchTag": "このタグでポストを検索",
   "userSearchTag": "このタグでユーザーを検索",
-  "muteTag": "このタグを含む全てのポストをミュート",
-  "muteThread": "スレッドの通知をミュート",
+  "muteTag": "このタグで全てのポストをミュート",
+  "muteThread": "スレッドの通知を無効化",
   "threadViewer": "全てのスレッドを見る"
 }

@@ -1695,6 +1695,10 @@
   "@muteThread": {
     "description": "Mute thread"
   },
+  "unmuteThread": "Unmute post",
+  "@unmuteThread": {
+    "description": "Unute thread"
+  },
   "threadViewer": "See full thread",
   "@threadViewer": {
     "description": "Thread viewer button"
