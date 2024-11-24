@@ -1702,5 +1702,13 @@
   "threadViewer": "See full thread",
   "@threadViewer": {
     "description": "Thread viewer button"
+  },
+  "contentLabelGraphicMedia": "Graphic Media",
+  "@contentLabelGraphicMedia": {
+    "description": "graphicMedia content label title"
+  },
+  "hiddenEmbed": "Embed hidden",
+  "@hiddenEmbed": {
+    "description": "hidden embed toggle"
   }
 }
