@@ -180,7 +180,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "be": [
     "embedTypeVideo",
@@ -292,7 +294,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "uk": [
     "embedTypeVideo",
@@ -306,7 +310,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "ru": [
     "embedTypeVideo",
@@ -489,7 +495,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "fr": [
     "embedTypeVideo",
@@ -503,7 +511,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "id": [
     "embedTypeVideo",
@@ -529,7 +539,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "es": [
     "embedTypeVideo",
@@ -681,7 +693,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "de": [
     "embedTypeVideo",
@@ -869,10 +883,14 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "ja": [
-    "followsAccount"
+    "followsAccount",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "ca": [
     "embedTypeVideo",
@@ -1024,7 +1042,9 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ],
   "pt": [],
   "zh_TW": [
@@ -1209,6 +1229,8 @@
     "muteTag",
     "muteThread",
     "unmuteThread",
-    "threadViewer"
+    "threadViewer",
+    "contentLabelGraphicMedia",
+    "hiddenEmbed"
   ]
 }
