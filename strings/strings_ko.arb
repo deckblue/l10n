@@ -1,430 +1,1714 @@
 {
   "columnTitleHome": "홈",
+  "@columnTitleHome": {
+    "description": "DeckColumnType Home title"
+  },
   "columnTitleUser": "나",
+  "@columnTitleUser": {
+    "description": "DeckColumnType User title"
+  },
   "columnTitleNotifications": "알림",
+  "@columnTitleNotifications": {
+    "description": "DeckColumnType Notifications title"
+  },
   "columnTitleLikes": "좋아요",
+  "@columnTitleLikes": {
+    "description": "DeckColumnType Likes title"
+  },
   "columnTitleMentions": "멘션",
+  "@columnTitleMentions": {
+    "description": "DeckColumnType Mentions title"
+  },
   "columnTitleMedia": "미디어",
+  "@columnTitleMedia": {
+    "description": "DeckColumnType Media title"
+  },
   "columnTitleCustom": "맞춤 피드",
+  "@columnTitleCustom": {
+    "description": "DeckColumnType Custom title"
+  },
   "columnTitleListFeed": "리스트",
+  "@columnTitleListFeed": {
+    "description": "DeckColumnType List title"
+  },
   "columnTitleSearch": "검색",
+  "@columnTitleSearch": {
+    "description": "DeckColumnType Search title"
+  },
   "serviceLabel": "서비스",
+  "@serviceLabel": {
+    "description": "Service TextField label"
+  },
   "serviceHint": "bsky.social",
+  "@serviceHint": {
+    "description": "Service TextField hint"
+  },
   "usernameLabel": "식별자",
+  "@usernameLabel": {
+    "description": "Username TextField label"
+  },
   "usernameHint": "사용자 이름 또는 이메일 주소",
+  "@usernameHint": {
+    "description": "Username TextField hint"
+  },
   "passwordLabel": "앱 비밀번호",
+  "@passwordLabel": {
+    "description": "Password TextField label"
+  },
   "loginButton": "로그인",
+  "@loginButton": {
+    "description": "Login button text"
+  },
   "loginFirebaseDescription": "저희는 익명 사용자 이벤트 전송을 위해 Google Analytics를 사용합니다. 그 외 모든 데이터는 deck.blue와 Bluesky의 서버에 보관됩니다.",
+  "@loginFirebaseDescription": {
+    "description": "Description to users about Firebase on the login screen."
+  },
   "errorLoginUnknown": "로그인할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@errorLoginUnknown": {
+    "description": "Login unknown error"
+  },
   "errorLoginWrongCredentials": "잘못된 식별자 또는 비밀번호입니다. 다시 시도해 주세요.",
+  "@errorLoginWrongCredentials": {
+    "description": "Login wrong credentials error"
+  },
   "errorLoginInvalidAppPassword": "잘못된 앱 비밀번호입니다. 비밀번호 입력란에 있는 ? 아이콘을 클릭해 앱 비밀번호를 만들거나, 로그인 버튼을 다시 클릭하여 이 경고를 무시할 수 있습니다.",
+  "@errorLoginInvalidAppPassword": {
+    "description": "Login invalid App Password error"
+  },
   "errorLoginServerError": "서버 오류가 발생했습니다. 잠시 기다린 후 다시 시도해 주세요.",
+  "@errorLoginServerError": {
+    "description": "Login server error"
+  },
   "embedTypeQuote": "인용",
+  "@embedTypeQuote": {
+    "description": "EmbedType Quote title"
+  },
   "embedTypeImageQuote": "미디어가 있는 인용",
+  "@embedTypeImageQuote": {
+    "description": "EmbedType ImageQuote title"
+  },
   "embedTypeLink": "링크",
+  "@embedTypeLink": {
+    "description": "EmbedType Link title"
+  },
   "embedTypeImage": "미디어",
+  "@embedTypeImage": {
+    "description": "EmbedType Image title"
+  },
   "embedTypeVideo": "비디오",
+  "@embedTypeVideo": {
+    "description": "EmbedType Video title"
+  },
   "embedTypeReply": "답글",
+  "@embedTypeReply": {
+    "description": "EmbedType Reply title"
+  },
   "embedTypeRepost": "재게시",
+  "@embedTypeRepost": {
+    "description": "EmbedType Repost title"
+  },
   "mediaSizeHidden": "숨김",
+  "@mediaSizeHidden": {
+    "description": "MediaSize Hidden title"
+  },
   "mediaSizeSmall": "작게",
+  "@mediaSizeSmall": {
+    "description": "MediaSize Small title"
+  },
   "mediaSizeMedium": "중간",
+  "@mediaSizeMedium": {
+    "description": "MediaSize Medium title"
+  },
   "mediaSizeLarge": "크게",
+  "@mediaSizeLarge": {
+    "description": "MediaSize Large title"
+  },
   "mediaSizeSetting": "미디어 미리보기 크기",
+  "@mediaSizeSetting": {
+    "description": "MediaSize setting title"
+  },
   "embedTypeSetting": "허용된 임베드",
+  "@embedTypeSetting": {
+    "description": "EmbedType setting title"
+  },
   "postTypeSetting": "허용된 게시물 유형",
+  "@postTypeSetting": {
+    "description": "EmbedType post setting title"
+  },
   "hiddenImageLabel": "이미지",
+  "@hiddenImageLabel": {
+    "description": "Hidden image button label"
+  },
   "removeColumnButton": "삭제",
+  "@removeColumnButton": {
+    "description": "Remove column button label"
+  },
   "addColumnDialogTitle": "새 컬럼 만들기",
+  "@addColumnDialogTitle": {
+    "description": "Add default columns dialog title"
+  },
   "addFeedColumnDialogTitle": "새 피드 컬럼 만들기",
+  "@addFeedColumnDialogTitle": {
+    "description": "Add custom feed column dialog title"
+  },
   "columnDescriptionHome": "내 기본 타임라인",
+  "@columnDescriptionHome": {
+    "description": "DeckColumnType Home description"
+  },
   "columnDescriptionUser": "내 게시물",
+  "@columnDescriptionUser": {
+    "description": "DeckColumnType User description"
+  },
   "columnDescriptionNotifications": "내 알림",
+  "@columnDescriptionNotifications": {
+    "description": "DeckColumnType Notifications description"
+  },
   "columnDescriptionLikes": "내가 좋아한 게시물",
+  "@columnDescriptionLikes": {
+    "description": "DeckColumnType Likes description"
+  },
   "columnDescriptionMentions": "나를 멘션한 모든 게시물",
+  "@columnDescriptionMentions": {
+    "description": "DeckColumnType Mentions description"
+  },
   "columnDescriptionMedia": "내 미디어가 있는 게시물",
+  "@columnDescriptionMedia": {
+    "description": "DeckColumnType Media description"
+  },
   "columnDescriptionCustom": "저장했던 맞춤 피드를 선택하세요",
+  "@columnDescriptionCustom": {
+    "description": "DeckColumnType Custom description"
+  },
   "columnDescriptionListFeed": "이미 있는 리스트를 선택하거나 새 리스트를 만드세요",
+  "@columnDescriptionListFeed": {
+    "description": "DeckColumnType List description"
+  },
   "selectLanguageDialogTitle": "내 게시물의 언어를 선택하세요",
+  "@selectLanguageDialogTitle": {
+    "description": "SelectLanguageDialog title"
+  },
   "selectOtherLanguage": "기타…",
+  "@selectOtherLanguage": {
+    "description": "SelectLanguageDialog menu option"
+  },
   "postButton": "게시",
+  "@postButton": {
+    "description": "NewPostDialog button"
+  },
   "deleteButton": "삭제",
+  "@deleteButton": {
+    "description": "Generic delete button"
+  },
   "postDialogHint": "무슨 일이 일어나고 있나요?",
+  "@postDialogHint": {
+    "description": "NewPostDialog text field hint"
+  },
   "postErrorUpload": "게시에 실패했습니다. 나중에 다시 시도해 주세요.",
+  "@postErrorUpload": {
+    "description": "PostErrorType upload description"
+  },
   "postErrorDelete": "게시물을 삭제할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@postErrorDelete": {
+    "description": "PostErrorType delete description"
+  },
   "postErrorLike": "이 게시물에 좋아요를 남길 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@postErrorLike": {
+    "description": "PostErrorType like description"
+  },
   "postErrorRepost": "재게시할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@postErrorRepost": {
+    "description": "PostErrorType repost description"
+  },
   "replyButton": "답글",
+  "@replyButton": {
+    "description": "Generic reply button"
+  },
   "repostButton": "재게시",
+  "@repostButton": {
+    "description": "Generic repost button"
+  },
   "quoteButton": "인용",
+  "@quoteButton": {
+    "description": "Generic quote button"
+  },
   "likeButton": "좋아요",
+  "@likeButton": {
+    "description": "Generic like button"
+  },
   "replyDialogHint": "이 게시물에 답글 작성하기",
+  "@replyDialogHint": {
+    "description": "NewPostDialog reply text field hint"
+  },
   "quoteDialogHint": "이 게시물에 대해 설명하기",
+  "@quoteDialogHint": {
+    "description": "NewPostDialog quote text field hint"
+  },
   "threadTitle": "스레드",
+  "@threadTitle": {
+    "description": "Thread page title"
+  },
   "undoButton": "실행 취소",
+  "@undoButton": {
+    "description": "Generic undo button"
+  },
   "postButtonCopy": "공유",
+  "@postButtonCopy": {
+    "description": "Post copy URL button"
+  },
   "postCopyMessage": "클립보드에 복사됨",
+  "@postCopyMessage": {
+    "description": "Post copy URL success message"
+  },
   "postButtonOpen": "Bluesky에서 열기",
+  "@postButtonOpen": {
+    "description": "Post open in bsky button"
+  },
   "errorThreadEmptyPost": "게시물을 찾을 수 없음",
+  "@errorThreadEmptyPost": {
+    "description": "Error in thread view when unable to find a post"
+  },
   "searchDialogHint": "검색",
+  "@searchDialogHint": {
+    "description": "SearchDialog text field hint"
+  },
   "searchDialogUsers": "사용자",
+  "@searchDialogUsers": {
+    "description": "SearchDialog Users tab"
+  },
   "searchDialogPosts": "게시물",
+  "@searchDialogPosts": {
+    "description": "SearchDialog Posts tab"
+  },
   "searchDialogAddColumn": "컬럼 추가",
+  "@searchDialogAddColumn": {
+    "description": "SearchDialog Add column button"
+  },
   "translateButton": "번역",
+  "@translateButton": {
+    "description": "Generic Translate button"
+  },
   "emptyPosts": "찾은 게시물 없음",
+  "@emptyPosts": {
+    "description": "Empty state for post search"
+  },
   "emptyUsers": "찾은 프로필 없음",
+  "@emptyUsers": {
+    "description": "Empty state for profile search"
+  },
   "profileDialogPosts": "게시물",
+  "@profileDialogPosts": {
+    "description": "Profile dialog Posts label"
+  },
   "profileDialogFollowing": "팔로잉",
+  "@profileDialogFollowing": {
+    "description": "Profile dialog Following label"
+  },
   "profileDialogFollowers": "팔로워",
+  "@profileDialogFollowers": {
+    "description": "Profile dialog Followers label"
+  },
   "errorProfileDialog": "이 프로필을 불러올 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@errorProfileDialog": {
+    "description": "Error state for profile search"
+  },
   "profileDialogPostsColumn": "게시물",
+  "@profileDialogPostsColumn": {
+    "description": "Profile dialog Posts column label"
+  },
   "profileDialogMediaColumn": "미디어",
+  "@profileDialogMediaColumn": {
+    "description": "Profile dialog Media column label"
+  },
   "profileDialogLikesColumn": "좋아요",
+  "@profileDialogLikesColumn": {
+    "description": "Profile dialog Likes column label"
+  },
   "profileDialogAddColumn": "컬럼 추가",
+  "@profileDialogAddColumn": {
+    "description": "Profile dialog Add column label"
+  },
   "repostedBy": "{actor} 님이 재게시함",
+  "@repostedBy": {
+    "description": "repostedBy formatted text"
+  },
   "replyTo": "{actor} 님에게 답글 중",
+  "@replyTo": {
+    "description": "replyTo formatted text"
+  },
   "advancedButton": "고급",
-  "notificationLikeReason": "{count, plural, other{이 내 게시물을 좋아합니다}}",
-  "notificationRepostReason": "{count, plural, other{이 내 게시물을 재게시했습니다}}",
-  "notificationFollowReason": "{count, plural, other{이 나를 팔로우했습니다}}",
-  "notificationMentionReason": "{count, plural, other{이 나를 멘션했습니다}}",
-  "notificationQuoteReason": "{count, plural, other{이 내 게시물을 인용했습니다}}",
-  "notificationReplyReason": "{count, plural, other{이 나에게 답글했습니다}}",
-  "notificationTitleCounter": "{count, plural, other{님과 {count}명}}",
+  "@advancedButton": {
+    "description": "Generic Advanced button"
+  },
+  "notificationLikeReason": "{count, plural, one{님이 내 게시물을 좋아합니다} other{이 내 게시물을 좋아합니다}}",
+  "@notificationLikeReason": {
+    "description": "Notification reason like reason"
+  },
+  "notificationRepostReason": "{count, plural, one{님이 내 게시물을 재게시했습니다} other{이 내 게시물을 재게시했습니다}}",
+  "@notificationRepostReason": {
+    "description": "Notification reason repost reason"
+  },
+  "notificationFollowReason": "{count, plural, one{님이 나를 팔로우했습니다} other{이 나를 팔로우했습니다}}",
+  "@notificationFollowReason": {
+    "description": "Notification reason follow reason"
+  },
+  "notificationMentionReason": "{count, plural, one{님이 나를 멘션했습니다} other{이 나를 멘션했습니다}}",
+  "@notificationMentionReason": {
+    "description": "Notification reason mention reason"
+  },
+  "notificationQuoteReason": "{count, plural, one{님이 내 게시물을 인용했습니다} other{이 내 게시물을 인용했습니다}}",
+  "@notificationQuoteReason": {
+    "description": "Notification reason quote reason"
+  },
+  "notificationReplyReason": "{count, plural, one{님이 나에게 답글했습니다} other{이 나에게 답글했습니다}}",
+  "@notificationReplyReason": {
+    "description": "Notification reason reply reason"
+  },
+  "notificationTitleCounter": "{count, plural, other{{count}명}}",
+  "@notificationTitleCounter": {
+    "description": "Notification title other count"
+  },
   "notificationTitleShortCounter": "+{count}",
+  "@notificationTitleShortCounter": {
+    "description": "Notification title other count"
+  },
   "notificationTitleAnd": " 님과 ",
+  "@notificationTitleAnd": {
+    "description": "Notification title other count 'and'"
+  },
   "sizeSmallest": "가장 작게",
+  "@sizeSmallest": {
+    "description": "Settings Smallest size"
+  },
   "sizeSmall": "작게",
+  "@sizeSmall": {
+    "description": "Settings Small size"
+  },
   "sizeMedium": "중간",
+  "@sizeMedium": {
+    "description": "Settings Medium size"
+  },
   "sizeLarge": "크게",
+  "@sizeLarge": {
+    "description": "Settings Large size"
+  },
   "sizeLargest": "가장 크게",
+  "@sizeLargest": {
+    "description": "Settings Largest size"
+  },
   "settingsDialogTitle": "설정",
+  "@settingsDialogTitle": {
+    "description": "Settings dialog title"
+  },
   "settingsColumnSize": "컬럼 크기",
+  "@settingsColumnSize": {
+    "description": "Settings dialog column size subtitle"
+  },
   "settingsFontSize": "글자 크기",
+  "@settingsFontSize": {
+    "description": "Settings dialog font size subtitle"
+  },
   "settingsTheme": "테마",
+  "@settingsTheme": {
+    "description": "Settings dialog theme subtitle"
+  },
   "settingsLightTheme": "밝음",
+  "@settingsLightTheme": {
+    "description": "Settings dialog light theme"
+  },
   "settingsDarkTheme": "어두움",
+  "@settingsDarkTheme": {
+    "description": "Settings dialog dark theme"
+  },
   "settingsSystemTheme": "시스템 설정",
+  "@settingsSystemTheme": {
+    "description": "Settings dialog system theme"
+  },
   "settingsLocale": "표시 언어",
+  "@settingsLocale": {
+    "description": "Settings dialog language"
+  },
   "profileDialogFollowButton": "팔로우",
+  "@profileDialogFollowButton": {
+    "description": "Profile Dialog follow button"
+  },
   "profileDialogFollowingButton": "팔로잉",
+  "@profileDialogFollowingButton": {
+    "description": "Profile Dialog following button"
+  },
   "imageAltDialogHint": "이미지 설명",
+  "@imageAltDialogHint": {
+    "description": "Image Alt text Dialog input hint"
+  },
   "saveButton": "저장",
+  "@saveButton": {
+    "description": "Generic Save button"
+  },
   "confirmButton": "확인",
+  "@confirmButton": {
+    "description": "Generic Confirm button"
+  },
   "cancelButton": "취소",
+  "@cancelButton": {
+    "description": "Generic Cancel button"
+  },
   "contentLabelSuggestive": "외설적",
+  "@contentLabelSuggestive": {
+    "description": "Suggestive content label title"
+  },
   "contentLabelNsfw": "성인 콘텐츠",
+  "@contentLabelNsfw": {
+    "description": "Nsfw content label title"
+  },
   "contentLabelNudity": "나체",
-  "clearButton": "초기화",
+  "@contentLabelNudity": {
+    "description": "Nudity content label title"
+  },
+  "clearButton": "비우기",
+  "@clearButton": {
+    "description": "Generic Clear button"
+  },
   "appPasswordTooltip": "앱 비밀번호는 제삼자 앱을 이용할 때 보안을 강화하는 Bluesky의 기능입니다.\n공식 앱이 아닌 모든 앱(이 앱처럼요!)을 이용할 때 만드셔야 합니다.",
+  "@appPasswordTooltip": {
+    "description": "App Password tooltip"
+  },
   "contentLabelSetting": "콘텐츠 경고 추가",
+  "@contentLabelSetting": {
+    "description": "Content label setting for posts"
+  },
   "postErrorTooLarge": "게시할 수 없습니다. 사용된 이미지가 1MB를 초과합니다.",
+  "@postErrorTooLarge": {
+    "description": "PostErrorType repost description"
+  },
   "tooltipKofi": "커피를 사주세요!",
+  "@tooltipKofi": {
+    "description": "Ko-fi button tooltip"
+  },
   "linkButton": "링크 카드 추가: ",
+  "@linkButton": {
+    "description": "Add a link button"
+  },
   "quoteLinkButton": "게시물 인용",
+  "@quoteLinkButton": {
+    "description": "Quote a post from a link"
+  },
   "aboutHeader1": "deck.blue는 무엇인가요?",
+  "@aboutHeader1": {
+    "description": "About dialog header 1"
+  },
   "aboutHeader2": "어떻게 작동하나요?",
+  "@aboutHeader2": {
+    "description": "About dialog header 2"
+  },
   "aboutDescription1": "deck.blue는 여러 개의 컬럼을 통해 Bluesky를 탐색할 수 있는 제삼자 앱입니다. TweetDeck처럼 관심 있는 모든 것들을 한 번에 확인할 수 있습니다!",
+  "@aboutDescription1": {
+    "description": "About dialog description 1"
+  },
   "aboutDescription2": "deck.blue를 통해 공식 앱에서 할 수 있던 모든 작업을 효율적인 레이아웃으로 관리할 수 있습니다. 실시간으로 업데이트되는 컬럼을 필요에 맞게 배치하세요. 다양한 검색어를 한 번에 보고 싶으시다면 검색어 컬럼을 추가하기만 하면 됩니다! Bluesky의 맞춤 피드를 활용하면 원하는 만큼 많은 커뮤니티를 팔로우할 수도 있습니다.",
+  "@aboutDescription2": {
+    "description": "About dialog description 2"
+  },
   "aboutButton": "이 앱에 대하여",
+  "@aboutButton": {
+    "description": "About dialog button"
+  },
   "loginSlogan1": "Bluesky를 가장 ",
+  "@loginSlogan1": {
+    "description": "Login slogan part 1"
+  },
   "loginSlogan2": "효율적으로",
+  "@loginSlogan2": {
+    "description": "Login slogan part 2"
+  },
   "updateSnackbar": "새 업데이트가 있습니다!\n새로 고침하여 새로운 기능과 버그 수정이 있는 새 버전을 다운로드하세요.",
+  "@updateSnackbar": {
+    "description": "Update Snackbar message"
+  },
   "refreshButton": "새로 고침",
-  "replyCount": "{count, plural, one{Reply} other{답글}}",
-  "likeCount": "{count, plural, one{Like} other{좋아요}}",
-  "repostCount": "{count, plural, one{Repost} other{재게시}}",
+  "@refreshButton": {
+    "description": "Generic Refresh button"
+  },
+  "replyCount": "{count, plural, other{답글}}",
+  "@replyCount": {
+    "description": "Reply counter"
+  },
+  "likeCount": "{count, plural, other{좋아요}}",
+  "@likeCount": {
+    "description": "Like counter"
+  },
+  "repostCount": "{count, plural, other{재게시}}",
+  "@repostCount": {
+    "description": "Repost counter"
+  },
   "emptyActorList": "사용자를 불러올 수 없습니다. 다시 시도해 주세요.",
+  "@emptyActorList": {
+    "description": "Empty ActorListDialog message"
+  },
   "followsYou": "나를 팔로우함",
+  "@followsYou": {
+    "description": "Profile follows selected account"
+  },
   "followsAccount": "${handle} 님을 팔로우함",
+  "@followsAccount": {
+    "description": "Profile follows available account"
+  },
   "soundEnabled": "알림음 켜기",
+  "@soundEnabled": {
+    "description": "Toggle notification sound"
+  },
   "blocksYou": "나를 차단함",
+  "@blocksYou": {
+    "description": "Profile viewed blocks you"
+  },
   "blocked": "차단됨",
+  "@blocked": {
+    "description": "Profile viewed is blocked by you"
+  },
   "muted": "뮤트됨",
+  "@muted": {
+    "description": "Profile viewed is muted by you"
+  },
   "mutedByList": "리스트로 뮤트함",
+  "@mutedByList": {
+    "description": "Profile viewed is muted by list"
+  },
   "muteButton": "뮤트",
+  "@muteButton": {
+    "description": "Mute profile viewed button"
+  },
   "unmuteButton": "뮤트 해제",
+  "@unmuteButton": {
+    "description": "Unmute profile viewed button"
+  },
   "blockButton": "차단",
+  "@blockButton": {
+    "description": "Block profile viewed button"
+  },
   "unblockButton": "차단 해제",
+  "@unblockButton": {
+    "description": "Unblock profile viewed button"
+  },
   "errorUpdateList": "리스트를 업데이트할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@errorUpdateList": {
+    "description": "Error on update list"
+  },
   "errorCreateList": "리스트를 만들 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@errorCreateList": {
+    "description": "Error on create list"
+  },
   "emptyListItems": "이 리스트는 비어 있습니다!",
+  "@emptyListItems": {
+    "description": "Empty list items manage list message"
+  },
   "emptyFollowing": "아직 누구도 팔로우하고 있지 않습니다!",
+  "@emptyFollowing": {
+    "description": "Empty following manage list message"
+  },
   "manageListHeader": "{name} 리스트 수정",
+  "@manageListHeader": {
+    "description": "ManageListDialog header title"
+  },
   "saveListButton": "리스트 저장",
+  "@saveListButton": {
+    "description": "ManageListDialog save button"
+  },
   "manageListCurrentTab": "현재",
+  "@manageListCurrentTab": {
+    "description": "ManageListDialog first tab"
+  },
   "manageListFollowingTab": "팔로잉",
+  "@manageListFollowingTab": {
+    "description": "ManageListDialog second tab"
+  },
   "manageListSearchedTab": "검색됨",
+  "@manageListSearchedTab": {
+    "description": "ManageListDialog first tab"
+  },
   "createCuratedListHeader": "새 큐레이션 리스트 만들기",
+  "@createCuratedListHeader": {
+    "description": "NewListDialog header title"
+  },
   "createListNameLabel": "리스트 이름",
+  "@createListNameLabel": {
+    "description": "NewListDialog name label"
+  },
   "createListNameHint": "멋진 사람들",
+  "@createListNameHint": {
+    "description": "NewListDialog name hint"
+  },
   "createListDescriptionLabel": "설명",
+  "@createListDescriptionLabel": {
+    "description": "NewListDialog name label"
+  },
   "createListDescriptionHint": "내가 보고 싶은 멋진 사람들",
+  "@createListDescriptionHint": {
+    "description": "NewListDialog name hint"
+  },
   "createListButton": "새 리스트 만들기",
+  "@createListButton": {
+    "description": "Generic Create a list button"
+  },
   "addListColumnDialogTitle": "새 리스트 컬럼 추가",
+  "@addListColumnDialogTitle": {
+    "description": "Add list column dialog title"
+  },
   "emptyCuratedLists": "저장된 리스트가 비어 있습니다.",
+  "@emptyCuratedLists": {
+    "description": "Add list column dialog empty"
+  },
   "tooltipAddColumn": "컬럼 추가",
+  "@tooltipAddColumn": {
+    "description": "Add list column dialog empty"
+  },
   "tooltipColumnAdded": "이미 컬럼이 추가됨",
+  "@tooltipColumnAdded": {
+    "description": "Add list column dialog empty"
+  },
   "buttonManageList": "리스트 관리",
+  "@buttonManageList": {
+    "description": "Generic Manage list button"
+  },
   "postedDateUnitNow": "지금",
+  "@postedDateUnitNow": {
+    "description": "Date of post just posted"
+  },
   "postedDateUnitSeconds": "{number}초",
+  "@postedDateUnitSeconds": {
+    "description": "Seconds unit of the date of the post"
+  },
   "postedDateUnitMinutes": "{number}분",
+  "@postedDateUnitMinutes": {
+    "description": "Minutes unit of the date of the post"
+  },
   "postedDateUnitHours": "{number}시간",
+  "@postedDateUnitHours": {
+    "description": "Hours unit of the date of the post"
+  },
   "postedDateUnitDays": "{number}일",
+  "@postedDateUnitDays": {
+    "description": "Days unit of the date of the post"
+  },
   "settingsMutedWords": "뮤트된 단어",
+  "@settingsMutedWords": {
+    "description": "Column muted words settings"
+  },
   "settingsColumn": "컬럼 설정",
+  "@settingsColumn": {
+    "description": "Column settings"
+  },
   "settingsScrollbars": "컬럼 스크롤 바 표시",
+  "@settingsScrollbars": {
+    "description": "Column settings"
+  },
   "settingsLogout": "로그아웃",
+  "@settingsLogout": {
+    "description": "Logout button in settings"
+  },
   "editCuratedListHeader": "내 큐레이션 리스트 편집",
+  "@editCuratedListHeader": {
+    "description": "NewListDialog edit header title"
+  },
   "buttonEditList": "리스트 편집",
-  "phoneSupportMessage": "deck.blue는 데스크톱과 태블릿을 지원합니다. 더욱 향상된 경험을 위해 데스크톱 또는 태블릿에서 이용해 주세요!",
+  "@buttonEditList": {
+    "description": "Generic Edit list button"
+  },
+  "phoneSupportMessage": "deck.blue는 데스크톱과 태블릿을 지원합니다. 더욱 항상된 경험을 위해 데스크톱 또는 태블릿에서 이용해 주세요!",
+  "@phoneSupportMessage": {
+    "description": "Phone support warning message"
+  },
   "allowedNotificationSetting": "허용된 알림",
+  "@allowedNotificationSetting": {
+    "description": "Allowed notifications column setting"
+  },
   "notificationLikeTitle": "좋아요",
+  "@notificationLikeTitle": {
+    "description": "Notification like"
+  },
   "notificationRepostTitle": "재게시",
+  "@notificationRepostTitle": {
+    "description": "Notification repost"
+  },
   "notificationFollowTitle": "팔로우",
+  "@notificationFollowTitle": {
+    "description": "Notification follow"
+  },
   "notificationMentionTitle": "멘션",
+  "@notificationMentionTitle": {
+    "description": "Notification mention"
+  },
   "notificationQuoteTitle": "인용",
+  "@notificationQuoteTitle": {
+    "description": "Notification quote"
+  },
   "notificationReplyTitle": "답글",
+  "@notificationReplyTitle": {
+    "description": "Notification reply"
+  },
   "timerSetting": "다음마다 새로 고침",
+  "@timerSetting": {
+    "description": "Timer column setting"
+  },
   "quoteTo": "{actor} 님 인용 중",
+  "@quoteTo": {
+    "description": "quoteTo formatted text"
+  },
   "followingReplies": "팔로잉하는 사람으로 답글 필터",
+  "@followingReplies": {
+    "description": "Filter replies by following toggle"
+  },
   "settingsShowAlt": "대체 텍스트 향상 표시",
+  "@settingsShowAlt": {
+    "description": "Settings showAlt toggle"
+  },
   "confirmUnfollowActorTitle": "팔로우 취소",
+  "@confirmUnfollowActorTitle": {
+    "description": "Confirmation title when unfollowing"
+  },
   "confirmUnfollowActorContent": "{handle} 님을 팔로우 취소하시겠습니까?",
+  "@confirmUnfollowActorContent": {
+    "description": "Confirmation message when unfollowing"
+  },
   "confirmBlockActorTitle": "차단",
+  "@confirmBlockActorTitle": {
+    "description": "A title for confirmation dialog when blocking"
+  },
   "confirmBlockActorContent": "차단된 계정은 내 스레드에 답글, 멘션하거나 상호작용할 수 없습니다. 이 계정을 차단하시겠습니까?",
+  "@confirmBlockActorContent": {
+    "description": "Confirmation message when blocking"
+  },
   "confirmUnblockActorTitle": "차단 해제",
+  "@confirmUnblockActorTitle": {
+    "description": "A title for confirmation dialog when unblocking"
+  },
   "confirmUnblockActorContent": "이 계정은 차단 해제 후 나와 다시 상호작용할 수 있게 됩니다. 이 계정을 차단 해제하시겠습니까?",
+  "@confirmUnblockActorContent": {
+    "description": "Confirmation message when blocking"
+  },
   "confirmDeletePostTitle": "게시물 삭제",
+  "@confirmDeletePostTitle": {
+    "description": "A title for confirmation dialog when deleting post"
+  },
   "confirmDeletePostContent": "이 게시물을 삭제하시겠습니까?",
+  "@confirmDeletePostContent": {
+    "description": "Confirmation message when deleting post"
+  },
   "confirmListConvertTitle": "리스트 변환",
+  "@confirmListConvertTitle": {
+    "description": "A title for confirmation dialog when converting a list"
+  },
   "confirmListConvertContent": "이 리스트는 현재 뮤트 리스트입니다. 컬럼으로 사용하려면 리스트를 변환해야 합니다. 변환 후 목록에 있던 프로필은 뮤트된 것으로 간주되지 않습니다. 리스트를 변환하시겠습니까?",
+  "@confirmListConvertContent": {
+    "description": "Confirmation message when converting a list"
+  },
   "convertButton": "변환",
+  "@convertButton": {
+    "description": "Generic Convert button"
+  },
   "hashtags": "해시태그",
+  "@hashtags": {
+    "description": "Generic Hashtags title"
+  },
   "warningOnPressedLinkTitle": "잠깐만요!",
+  "@warningOnPressedLinkTitle": {
+    "description": "Title of warning dialog when link is pressed"
+  },
   "warningOnPressedLinkContent": "이 링크는 다음 웹 사이트로 이동합니다. 이 웹 사이트로 이동하시겠습니까?",
+  "@warningOnPressedLinkContent": {
+    "description": "Content of warning dialog when link is pressed"
+  },
   "wordSelectDialogHint": "키워드는 \",\"(쉼표)로 구분됩니다. 최대 64글자.",
+  "@wordSelectDialogHint": {
+    "description": "A hint for the word select dialog"
+  },
   "wordSelectDialogHintWithSpaceFilter": "키워드는 \",\"(쉼표) 또는 띄어쓰기로 구분됩니다. 최대 64글자.",
+  "@wordSelectDialogHintWithSpaceFilter": {
+    "description": "A hint for the word select dialog with the space filter"
+  },
   "columnTimerNone": "수동",
+  "@columnTimerNone": {
+    "description": "ColumnTimer none title"
+  },
   "loadMoreButton": "더 불러오기",
+  "@loadMoreButton": {
+    "description": "Generic 'Load more' button"
+  },
   "showClearButton": "비우기 버튼 표시",
+  "@showClearButton": {
+    "description": "showClearButton column setting"
+  },
   "manageActorInList": "리스트에서 추가/제거",
+  "@manageActorInList": {
+    "description": "manageActorInList dialog menu"
+  },
   "connectPatreon": "Patreon과 연결",
+  "@connectPatreon": {
+    "description": "Connect Patreon settings button"
+  },
   "disconnectPatreon": "Patreon 연결 해제",
+  "@disconnectPatreon": {
+    "description": "Disconnect Patreon settings button"
+  },
   "disconnectPatreonConfirm": "Patreon 계정과 연결을 해제하시겠습니까? 예약 게시 등의 혜택을 이용할 수 없게 되며, 다른 계정들이 로그아웃됩니다.",
+  "@disconnectPatreonConfirm": {
+    "description": "Disconnect Patreon confirmation"
+  },
   "patreonNoTier": "Patron 아님",
+  "@patreonNoTier": {
+    "description": "PatreonTier null title"
+  },
   "patreonTierInitial": "Initial",
+  "@patreonTierInitial": {
+    "description": "PatreonTier initial title"
+  },
   "patreonTierHelper": "Helper",
+  "@patreonTierHelper": {
+    "description": "PatreonTier helper title"
+  },
   "patreonTierSupporter": "Supporter",
-  "patreonTierSponsor": "Sponsor",
+  "@patreonTierSupporter": {
+    "description": "PatreonTier supporter title"
+  },
+  "patreonTierSponsor": "스폰서",
+  "@patreonTierSponsor": {
+    "description": "PatreonTier sponsor title"
+  },
   "errorLoginInvalidEmail": "계정의 이메일 주소가 잘못되었거나 인증되지 않았습니다. 공식 앱에서 이메일을 관리할 수 있습니다.",
+  "@errorLoginInvalidEmail": {
+    "description": "LoginError invalidEmail"
+  },
   "errorLoginChangeAppPassword": "deck.blue에서 마지막으로 썼던 앱 비밀번호와 다른 앱 비밀번호로 로그인을 시도하고 있습니다. 인증 코드가 이메일로 전송됩니다. 계정 인증 후 새로운 앱 비밀번호로 변경하세요.",
+  "@errorLoginChangeAppPassword": {
+    "description": "LoginError changeAppPassword"
+  },
   "errorLoginExpiredChangeCode": "잘못된 인증 코드입니다. 코드가 만료되었다면 다시 보내드리겠습니다.",
+  "@errorLoginExpiredChangeCode": {
+    "description": "LoginError expiredChangeCode"
+  },
   "passwordCodeLabel": "인증 코드",
+  "@passwordCodeLabel": {
+    "description": "Login password code label"
+  },
   "loginMigration": "v2.0 업데이트 이후 설정과 컬럼 백업을 위해 재로그인이 필요합니다.",
+  "@loginMigration": {
+    "description": "Login migration explanation"
+  },
   "settingsColor": "테마의 기반 색상",
+  "@settingsColor": {
+    "description": "Color settings"
+  },
   "accounts": "계정",
+  "@accounts": {
+    "description": "Generic 'Accounts' label"
+  },
   "addAccount": "계정 추가",
+  "@addAccount": {
+    "description": "Generic 'Add account' button"
+  },
   "accountConfirmationStep": "확인 단계",
+  "@accountConfirmationStep": {
+    "description": "Account confirmationStep setting title"
+  },
   "accountConfirmationStepDescription": "게시 전 확인 단계를 추가",
+  "@accountConfirmationStepDescription": {
+    "description": "Account confirmationStep setting description"
+  },
   "removeAccount": "제거",
+  "@removeAccount": {
+    "description": "Generic 'Remove account' button"
+  },
   "removeAccountDisclaimer": "계정을 제거하면 모든 컬럼과 예약된 게시물이 함께 제거됩니다. 이 계정을 제거하시겠습니까?",
+  "@removeAccountDisclaimer": {
+    "description": "Remove account dialog disclaimer"
+  },
   "errorAccountMaxAccounts": "나의 Patreon 티어에 허용되는 최대 계정 수에 도달했습니다.",
+  "@errorAccountMaxAccounts": {
+    "description": "Error when adding new account: max reached"
+  },
   "errorAccountAdd": "이 계정을 추가할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@errorAccountAdd": {
+    "description": "Unknown error when adding new account"
+  },
   "errorAccountUnknown": "이 계정을 관리할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@errorAccountUnknown": {
+    "description": "Unknown error when managing account"
+  },
   "preview": "미리보기",
+  "@preview": {
+    "description": "Generic 'Preview' label"
+  },
   "repostDialogTitle": "다음으로 재게시…",
+  "@repostDialogTitle": {
+    "description": "RepostDialog title"
+  },
   "confirmationStep": "확인",
+  "@confirmationStep": {
+    "description": "confirmationStep usage in NewPostWidget"
+  },
   "likeDialogTitle": "다음으로 좋아요 표시…",
+  "@likeDialogTitle": {
+    "description": "LikeDialog title"
+  },
   "addAccountDisclaimer": "추가하는 계정마다 별도의 앱 비밀번호를 만들어야 합니다. 그렇지 않으면 세션이 해제될 수 있으며 계정을 다시 추가해야 합니다.",
+  "@addAccountDisclaimer": {
+    "description": "Disclaimer for LoginPage to add account"
+  },
   "profileFromDialogTitle": "다음으로 프로필 표시…",
+  "@profileFromDialogTitle": {
+    "description": "ProfileFromDialog title"
+  },
   "viewFromAccount": "다음으로 보기…",
+  "@viewFromAccount": {
+    "description": "Generic 'View from account' label"
+  },
   "show": "표시",
+  "@show": {
+    "description": "Generic 'Show' label"
+  },
   "confirmDeleteColumnTitle": "컬럼 삭제",
+  "@confirmDeleteColumnTitle": {
+    "description": "A title for confirmation dialog when deleting column"
+  },
   "confirmDeleteColumnContent": "이 컬럼을 삭제하시겠습니까?",
-  "settingsCompactMode": "게시물용 소형 모드",
+  "@confirmDeleteColumnContent": {
+    "description": "Confirmation message when deleting column"
+  },
+  "settingsCompactMode": "게시물용 간소화 모드",
+  "@settingsCompactMode": {
+    "description": "Settings dialog compact mode"
+  },
   "errorAccountRelink": "이 계정을 재연결할 수 없습니다. 다시 시도해 주세요.",
+  "@errorAccountRelink": {
+    "description": "Error when relinking existing account"
+  },
   "relinkAccount": "재연결",
+  "@relinkAccount": {
+    "description": "Relink account button"
+  },
   "settingsForceAltTextInput": "게시 전 대체 텍스트 반드시 입력",
+  "@settingsForceAltTextInput": {
+    "description": "Flag whether to force alt text input in the settings dialog"
+  },
   "postDialogForceAltTextInputHint": "일부 이미지에 대체 텍스트가 없습니다.",
-  "loginDisclaimer1": "로그인하는 것으로 ",
+  "@postDialogForceAltTextInputHint": {
+    "description": "Hint indicating that alt text has not been entered"
+  },
+  "loginDisclaimer1": "로그인하는 것으로",
+  "@loginDisclaimer1": {
+    "description": "Login disclaimer part 1"
+  },
   "loginDisclaimer2": "이용 약관",
+  "@loginDisclaimer2": {
+    "description": "Login disclaimer part 2"
+  },
   "loginDisclaimer3": "및",
-  "loginDisclaimer4": "개인정보보호정책",
-  "loginDisclaimer5": "에 동의합니다.",
+  "@loginDisclaimer3": {
+    "description": "Login disclaimer part 3"
+  },
+  "loginDisclaimer4": "개인정보 보호정책",
+  "@loginDisclaimer4": {
+    "description": "Login disclaimer part 4"
+  },
+  "loginDisclaimer5": "에 동의하게 됩니다.",
+  "@loginDisclaimer5": {
+    "description": "Login disclaimer part 5. This can be empty depending on the language."
+  },
   "searchDialogFeeds": "피드",
+  "@searchDialogFeeds": {
+    "description": "SearchDialog Feeds tab"
+  },
   "emptyFeeds": "검색된 피드 없음",
+  "@emptyFeeds": {
+    "description": "Empty state for feed search"
+  },
   "quoteFeedButton": "피드 링크 추가",
+  "@quoteFeedButton": {
+    "description": "Add a feed embed"
+  },
   "quoteListButton": "리스트 링크 추가",
+  "@quoteListButton": {
+    "description": "Add a list embed"
+  },
   "shortcutsDialogTitle": "단축키",
+  "@shortcutsDialogTitle": {
+    "description": "Shortcuts dialog title"
+  },
   "shortcutsNewPost": "새 게시물",
+  "@shortcutsNewPost": {
+    "description": "New post shortcut"
+  },
   "shortcutsSendPost": "게시하기",
+  "@shortcutsSendPost": {
+    "description": "Send post shortcut"
+  },
   "shortcutsScrollFirst": "첫 컬럼 스크롤",
+  "@shortcutsScrollFirst": {
+    "description": "1 shortcut"
+  },
   "shortcutsScrollNumbers": "2~9번째 컬럼 스크롤",
+  "@shortcutsScrollNumbers": {
+    "description": "2-9 shortcut"
+  },
   "shortcutsScrollLast": "마지막 컬럼 스크롤",
+  "@shortcutsScrollLast": {
+    "description": "0 shortcut"
+  },
   "shortcutsThread": "스레드를 보고 있을 때",
+  "@shortcutsThread": {
+    "description": "Shortcuts 'Thread' category"
+  },
   "shortcutsThreadViewer": "스레드 뷰어 열기",
+  "@shortcutsThreadViewer": {
+    "description": "Open Thread Viewer shortcut"
+  },
   "shortcutsCloseThread": "스레드 닫기",
+  "@shortcutsCloseThread": {
+    "description": "Close Thread shortcut"
+  },
   "shortcutsLike": "해당 게시물 좋아요 표시",
+  "@shortcutsLike": {
+    "description": "Like shortcut"
+  },
   "shortcutsReply": "해당 게시물 답글",
+  "@shortcutsReply": {
+    "description": "Like shortcut"
+  },
   "shortcutsQuote": "해당 게시물 인용",
+  "@shortcutsQuote": {
+    "description": "Like shortcut"
+  },
   "shortcutsRepost": "해당 게시물 재게시",
+  "@shortcutsRepost": {
+    "description": "Repost shortcut"
+  },
   "shortcutsGeneral": "일반",
+  "@shortcutsGeneral": {
+    "description": "Shortcuts 'General' category"
+  },
   "shortcutsCloseWindow": "창 닫기",
+  "@shortcutsCloseWindow": {
+    "description": "Close window shortcut"
+  },
   "shortcutsThisWindow": "단축키 창",
+  "@shortcutsThisWindow": {
+    "description": "Shortcuts shortcut"
+  },
   "settingsAutoplayGIFs": "GIF 자동 재생",
+  "@settingsAutoplayGIFs": {
+    "description": "Setting for GIF autoplay"
+  },
   "settingsDisableGIFs": "GIF 끄기",
+  "@settingsDisableGIFs": {
+    "description": "Setting for GIF disable"
+  },
   "sponsors": "Sponsors",
+  "@sponsors": {
+    "description": "General 'Sponsors' label"
+  },
   "blockingByList": "리스트로 차단됨",
+  "@blockingByList": {
+    "description": "Profile viewed is blocking by list"
+  },
   "postedDateUnitYears": "{number}년",
+  "@postedDateUnitYears": {
+    "description": "Years unit of the date of the post"
+  },
   "settingsSubscribedLists": "구독한 리스트",
+  "@settingsSubscribedLists": {
+    "description": "Moderation list subscription dialog title in settings"
+  },
   "settingsSubscribedListsSubtitle": "내가 구독한 검토 리스트",
+  "@settingsSubscribedListsSubtitle": {
+    "description": "Moderation list subscription dialog subtitle in settings"
+  },
   "unsubscribe": "구독 해제",
+  "@unsubscribe": {
+    "description": "Unsubscribe from a moderation list"
+  },
   "confirmUnmuteListContent": "이 리스트를 구독하고 있습니다. 구독을 해제하면 리스트에 있는 모든 계정의 뮤트/차단을 해제하게 됩니다. 계속하시겠습니까?",
+  "@confirmUnmuteListContent": {
+    "description": "Confirmation message when unsubscribing from a list"
+  },
   "emptyMutedLists": "구독한 검토 리스트가 없습니다!",
+  "@emptyMutedLists": {
+    "description": "Add list column dialog empty"
+  },
   "settingsDisableSpellcheck": "맞춤법 검사 끄기",
+  "@settingsDisableSpellcheck": {
+    "description": "Settings toggle to disable spellcheck (buggy right now)"
+  },
   "settingsDisableCloseComposer": "작성 중 ESC 끄기",
+  "@settingsDisableCloseComposer": {
+    "description": "Settings toggle to disable the Esc shortcut while typing"
+  },
   "settingsDisableCloseComposerSubtitle": "작성 중 ESC 버튼을 누를 때 창이 닫히는 걸 방지하고 싶을 때 유용합니다.",
+  "@settingsDisableCloseComposerSubtitle": {
+    "description": "Settings toggle subtitle to disable the Esc shortcut while typing"
+  },
   "settingsPanelGeneral": "일반",
+  "@settingsPanelGeneral": {
+    "description": "General settings panel, everything that isn't the two below"
+  },
   "settingsPanelInterface": "UI",
+  "@settingsPanelInterface": {
+    "description": "Interface/UI settings panel, themes, colors, column and font sizes"
+  },
   "settingsPanelToggles": "켜기/끄기",
+  "@settingsPanelToggles": {
+    "description": "Toggles settings panel, everything that can be turned on/off in one place"
+  },
   "copyTextButton": "텍스트 복사",
+  "@copyTextButton": {
+    "description": "Generic Copy Text button"
+  },
   "filterOwnPosts": "내 게시물 필터",
+  "@filterOwnPosts": {
+    "description": "Column setting that removes your own posts from Home/Lists"
+  },
   "errorAccountSchedule": "예약 계정을 업데이트할 수 없습니다. 다시 시도해 주세요.",
+  "@errorAccountSchedule": {
+    "description": "Error when adding scheduling account"
+  },
   "scheduleAccount": "예약 계정 추가",
+  "@scheduleAccount": {
+    "description": "Schedule account title"
+  },
   "scheduleAccountSubtitle": "보조 계정은 deck.blue 세션에 영향을 주지 않게끔 게시물을 예약할 때 사용됩니다.",
+  "@scheduleAccountSubtitle": {
+    "description": "Schedule account subtitle"
+  },
   "scheduleAccountRemove": "예약 계정 제거",
+  "@scheduleAccountRemove": {
+    "description": "Remove schedule account title"
+  },
   "scheduleAccountRemoveSubtitle": "예약 계정을 제거하면 모든 예약된 게시물이 삭제됩니다. 계속하시겠습니까?",
+  "@scheduleAccountRemoveSubtitle": {
+    "description": "Remove schedule account subtitle"
+  },
   "schedulePost": "{scheduleTime} 발송 에정",
+  "@schedulePost": {
+    "description": "Schedule display in the post composer"
+  },
   "settingsSchedule": "예약된 게시물",
+  "@settingsSchedule": {
+    "description": "Schedule tile in settings, show all scheduled posts"
+  },
   "emptyScheduledPosts": "예약된 게시물이 없습니다.",
+  "@emptyScheduledPosts": {
+    "description": "Schedule tile in settings, show all scheduled posts"
+  },
   "confirmCancelScheduledPost": "예약된 게시물 취소",
+  "@confirmCancelScheduledPost": {
+    "description": "Confirmation title when canceling scheduled post"
+  },
   "confirmCancelScheduledPostContent": "이 예약된 게시물을 취소하시겠습니까? 입력된 데이터가 삭제됩니다.",
+  "@confirmCancelScheduledPostContent": {
+    "description": "Confirmation message when canceling scheduled post"
+  },
   "errorMaxScheduledPosts": "{tierName} 티어에서는 게시물을 {maxCount}까지만 예약할 수 있습니다!",
+  "@errorMaxScheduledPosts": {
+    "description": "Error message for when you reach the max scheduled post count"
+  },
   "scheduledPostReply": "답글 중: ",
+  "@scheduledPostReply": {
+    "description": "Formatted reply on scheduled posts list"
+  },
   "scheduledPostEmbed": "임베드: ",
+  "@scheduledPostEmbed": {
+    "description": "Formatted embed (quote, list, feed) on scheduled posts list"
+  },
   "scheduledPostLink": "링크: ",
+  "@scheduledPostLink": {
+    "description": "Formatted embed link on scheduled posts list"
+  },
   "scheduledPostText": "텍스트: {postText}",
+  "@scheduledPostText": {
+    "description": "Formatted text on scheduled posts list"
+  },
   "scheduledPostLabels": "라벨: {labelList}",
+  "@scheduledPostLabels": {
+    "description": "Formatted labels on scheduled posts list"
+  },
   "scheduledPostTags": "태그: {tagsList}",
+  "@scheduledPostTags": {
+    "description": "Formatted tags on scheduled posts list"
+  },
   "scheduledPostLanguages": "언어: {languageList}",
+  "@scheduledPostLanguages": {
+    "description": "Formatted languages on scheduled posts list"
+  },
   "sizeCustom": "맞춤",
+  "@sizeCustom": {
+    "description": "Custom column size option"
+  },
   "settingsDisableLinkWarning": "링크 경고 끄기",
+  "@settingsDisableLinkWarning": {
+    "description": "Setting for disabling the link warning popup"
+  },
   "settingsDisableLinkWarningSubtitle": "표시된 것과 다른 주소로 링크가 걸린 주소를 클릭할 때까지 링크 팝업을 표시하지 않음",
+  "@settingsDisableLinkWarningSubtitle": {
+    "description": "Setting for disabling the link warning popup description"
+  },
   "multiSelectLanguageDialogTitle": "언어 선택",
+  "@multiSelectLanguageDialogTitle": {
+    "description": "MultiSelectLanguageDialog title"
+  },
   "settingsContentLanguages": "콘텐츠 언어",
+  "@settingsContentLanguages": {
+    "description": "Content languages settings tile"
+  },
   "postButtonLikes": "좋아요 표시",
+  "@postButtonLikes": {
+    "description": "Show likes button in the post's ... menu"
+  },
   "postButtonReposts": "재게시 표시",
+  "@postButtonReposts": {
+    "description": "Show reposts button in the post's ... menu"
+  },
   "nextButton": "다음",
+  "@nextButton": {
+    "description": "Generic 'Next' button"
+  },
   "viewButton": "보기",
+  "@viewButton": {
+    "description": "Generic 'View' button"
+  },
   "hideButton": "숨기기",
+  "@hideButton": {
+    "description": "Generic 'Hide' button"
+  },
   "mutedPost": "뮤트한 사용자의 게시물",
+  "@mutedPost": {
+    "description": "Disclaimer that shows in a post by a muted user"
+  },
   "blockedPost": "차단한 사용자의 게시물",
+  "@blockedPost": {
+    "description": "Disclaimer that shows in a post by a blocked user"
+  },
   "threadgateHeader": "답글할 수 있는 사람",
+  "@threadgateHeader": {
+    "description": "Threadgate dialog header"
+  },
   "threadgateOptions": "또는 다음 옵션을 결합하세요:",
+  "@threadgateOptions": {
+    "description": "Threadgate dialog options separator"
+  },
   "postErrorThreadgate": "게시물이 생성되었으나 답글 규칙이 적용되지 않았습니다.",
+  "@postErrorThreadgate": {
+    "description": "Error regarding a failure when applying threadgate/reply rules to a post"
+  },
   "threadgateEverybody": "모두 가능",
+  "@threadgateEverybody": {
+    "description": "Option that allows anyone to reply to your post"
+  },
   "threadgateNobody": "모두 불가",
+  "@threadgateNobody": {
+    "description": "Option that does not allow anyone to reply to your post"
+  },
   "threadgateMention": "멘션한 사용자",
+  "@threadgateMention": {
+    "description": "Option that allows mentioned users to reply to your post"
+  },
   "threadgateFollowing": "팔로우한 사용자",
+  "@threadgateFollowing": {
+    "description": "Option that allows followed users to reply to your post"
+  },
   "threadgateList": "\"{listName}\"에 포함된 사용자",
+  "@threadgateList": {
+    "description": "Option that allows users in list to reply to your post"
+  },
   "threadgateViewNobody": "이 게시물에 답글할 수 없음",
+  "@threadgateViewNobody": {
+    "description": "Reply rule display on a thread for: nobody"
+  },
   "threadgateViewMention": "이 게시물에 멘션된 사용자",
+  "@threadgateViewMention": {
+    "description": "Reply rule display on a thread for: mentioned users"
+  },
   "threadgateViewFollowing": "{username} 님이 팔로우하는 사용자",
+  "@threadgateViewFollowing": {
+    "description": "Reply rule display on a thread for: followed users"
+  },
   "threadgateViewList": "\"{listName}\"에 포함된 사용자",
+  "@threadgateViewList": {
+    "description": "Reply rule display on a thread for: list members"
+  },
   "settingsPanelModeration": "검토",
+  "@settingsPanelModeration": {
+    "description": "Moderation settings panel, content preferences, muted used, blocked users, etc"
+  },
   "settingsSound": "알림음 선택",
+  "@settingsSound": {
+    "description": "Label for the custom notification sound dropdown"
+  },
   "scheduleInvalidAccount": "잘못된 예약 계정으로 예약을 설정하려 시도했습니다. 예약 계정을 설정해 주세요.",
+  "@scheduleInvalidAccount": {
+    "description": "Invalid account error when scheduling"
+  },
   "confirmRetryScheduledPost": "예약 게시 다시 시도",
+  "@confirmRetryScheduledPost": {
+    "description": "Confirmation title when retrying scheduled post"
+  },
   "confirmRetryScheduledPostContent": "이 게시물을 보낼 수 없습니다. 다시 시도하기 전에 예약 계정이 재연결되었는지 확인해 주세요. 해당 게시물은 지정된 시간에 보냈던 것으로 표시되며, 프로필에서는 과거에서 게시되었다 표시될 것입니다. 게시를 다시 시도하시겠습니까?",
+  "@confirmRetryScheduledPostContent": {
+    "description": "Confirmation message when retrying scheduled post"
+  },
   "retryScheduledPostButton": "다시 시도",
+  "@retryScheduledPostButton": {
+    "description": "Retry button specific for the scheduled post, can be translated to resend"
+  },
   "relinkScheduleAccount": "예약 계정 새로 고침",
+  "@relinkScheduleAccount": {
+    "description": "Relink schedule account title"
+  },
   "relinkScheduleAccountSubtitle": "예약 게시에 문제가 생겼다면 이 설정을 사용하여 예약 계정에 다시 로그인하세요. 다시 로그인한 후 게시를 다시 시도해 주세요.",
+  "@relinkScheduleAccountSubtitle": {
+    "description": "Relink schedule account subtitle"
+  },
   "searchGIF": "Tenor 또는 GIPHY 검색",
+  "@searchGIF": {
+    "description": "GIF search hint"
+  },
   "showReplies": "답글 표시",
+  "@showReplies": {
+    "description": "Toggle replies on/off"
+  },
   "columnTitleScheduled": "예약됨",
+  "@columnTitleScheduled": {
+    "description": "DeckColumnType Scheduled title"
+  },
   "columnDescriptionScheduled": "모든 계정에서 예약된 게시물",
+  "@columnDescriptionScheduled": {
+    "description": "DeckColumnType Scheduled description"
+  },
   "reconnectPatreon": "Patreon 재연결",
+  "@reconnectPatreon": {
+    "description": "Reconnect Patreon settings button"
+  },
   "lastUpdated": "마지막 업데이트: {datetime}",
+  "@lastUpdated": {
+    "description": "Generic Last updated label"
+  },
   "hideConfirm": "이 게시물을 숨기시겠습니까?",
+  "@hideConfirm": {
+    "description": "Confirmation when hiding a post"
+  },
   "turnOn": "{text} 켜기",
+  "@turnOn": {
+    "description": "Generic toggle on label"
+  },
   "turnOff": "{text} 끄기",
+  "@turnOff": {
+    "description": "Generic toggle off label"
+  },
   "autoRefresh": "자동 새로 고침",
+  "@autoRefresh": {
+    "description": "Generic Auto-refresh label"
+  },
   "noSavedFeeds": "저장된 피드가 없습니다. 검색을 통해 피드를 찾고 컬럼으로 추가할 수 있습니다!",
+  "@noSavedFeeds": {
+    "description": "Feed dialog empty state"
+  },
   "galleryMode": "갤러리 모드",
+  "@galleryMode": {
+    "description": "Toggle for the gallery mode"
+  },
   "galleryModeDescription": "미디어가 있는 게시물만 그리드로 표시",
+  "@galleryModeDescription": {
+    "description": "Toggle for the gallery mode"
+  },
   "quoteGifButton": "GIF 추가",
+  "@quoteGifButton": {
+    "description": "Toggle for the gallery mode"
+  },
   "editColumnDialog": "컬럼 편집",
+  "@editColumnDialog": {
+    "description": "Edit column dialog title"
+  },
   "renameColumn": "컬럼 이름 변경",
+  "@renameColumn": {
+    "description": "Rename column text field label"
+  },
   "selectIcon": "맞춤 아이콘 선택",
+  "@selectIcon": {
+    "description": "Select custom icon label"
+  },
   "noResultsFor": "검색 결과 없음:",
+  "@noResultsFor": {
+    "description": "Generic No results text"
+  },
   "useDefaultIcon": "기본 아이콘 사용",
+  "@useDefaultIcon": {
+    "description": "Exit action on icon selector"
+  },
   "resetToDefault": "기본으로 초기화",
+  "@resetToDefault": {
+    "description": "Reset action on column edit selector"
+  },
   "createdBy": "만든이:",
+  "@createdBy": {
+    "description": "Generic Created by formattable text"
+  },
   "members": "멤버",
+  "@members": {
+    "description": "Generic Members text"
+  },
   "blockList": "모든 멤버 차단",
+  "@blockList": {
+    "description": "Button for blocking all members in a list"
+  },
   "muteList": "모든 멤버 뮤트",
+  "@muteList": {
+    "description": "Button for muting all members in a list"
+  },
   "lists": "리스트",
-  "emptyLists": "이 사용자는 사용 가능한 리스트가 없습니다!",
-  "settingsDisablePostReactionCount": "게시물 상호작용수 숨기기",
-  "settingsDisablePostReactionCountSubtitle": "답글, 재게시, 좋아요 등 상호작용수를 표시하지 않음",
+  "@lists": {
+    "description": "Generic lists text"
+  },
+  "emptyLists": "이 사용자에게는 이용 가능한 리스트가 없습니다!",
+  "@emptyLists": {
+    "description": "Empty ProfileListsDialog message"
+  },
+  "settingsDisablePostReactionCount": "게시물 상호작용 수 숨기기",
+  "@settingsDisablePostReactionCount": {
+    "description": "Setting for disabling the number of reactions on posts"
+  },
+  "settingsDisablePostReactionCountSubtitle": "답글, 재게시, 좋아요 등 상호작용 수를 표시하지 않음",
+  "@settingsDisablePostReactionCountSubtitle": {
+    "description": "Setting for disabling the number of reactions on posts description"
+  },
   "setupButton": "설정",
-  "settingsBlurImages": "제한된 이미지 흐리게 처리",
+  "@setupButton": {
+    "description": "Generic Setup button"
+  },
+  "settingsBlurImages": "규제된 이미지 흐리게 처리",
+  "@settingsBlurImages": {
+    "description": "blurImages setting"
+  },
   "settingsBlurImagesDescription": "부적절한 이미지를 숨기는 대신 흐리게 표시함",
+  "@settingsBlurImagesDescription": {
+    "description": "blurImages setting description"
+  },
   "settingsLocaleDisclaimer": "deck.blue는 크라우드소스로 번역됩니다! 사용 중인 언어에서 잘못된 부분이 있다면 여기를 클릭하여 수정할 수 있습니다.",
+  "@settingsLocaleDisclaimer": {
+    "description": "Disclaimer about crowd-sourced translations"
+  },
   "postErrorMedia": "미디어 업로드 오류 때문에 게시할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "@postErrorMedia": {
+    "description": "PostErrorType media description"
+  },
   "postButtonSearch": "게시물 검색",
+  "@postButtonSearch": {
+    "description": "Post search button"
+  },
   "columnDescriptionSearch": "특정 검색어 또는 해시태그 컬럼 추가",
+  "@columnDescriptionSearch": {
+    "description": "DeckColumnType Search description"
+  },
   "settingsMutedWordsSubtitle": "뮤트한 단어는 다른 Bluesky 클라이언트와 동기화됨",
+  "@settingsMutedWordsSubtitle": {
+    "description": "Description for the Muted words tile in the moderation settings"
+  },
   "confirmUnmuteWord": "단어 뮤트 해제",
+  "@confirmUnmuteWord": {
+    "description": "Confirmation title when unmuting a word"
+  },
   "confirmUnmuteWordContent": "이 단어는 뮤트 중입니다. 뮤트를 해제할 경우 이 단어를 포함한 게시물이 다시 표시됩니다. 필요할 경우 다시 뮤트할 수 있습니다. 뮤트를 해제하시겠습니까?",
+  "@confirmUnmuteWordContent": {
+    "description": "Confirmation message when unmuting a word"
+  },
   "mutedWordHint": "단어 또는 태그 입력",
+  "@mutedWordHint": {
+    "description": "Muted words input hint"
+  },
   "mutedWordTargetAll": "텍스트 및 태그",
+  "@mutedWordTargetAll": {
+    "description": "Muted words target content and tags"
+  },
   "mutedWordTargetTag": "태그만",
+  "@mutedWordTargetTag": {
+    "description": "Muted words target only tags"
+  },
   "convertMutedWordsTitle": "뮤트한 단어 변환",
+  "@convertMutedWordsTitle": {
+    "description": "Convert muted words title"
+  },
   "convertMutedWordsSubtitle": "deck.blue의 구 단어 목록을 Bluesky로 업로드",
+  "@convertMutedWordsSubtitle": {
+    "description": "Convert muted words subtitle"
+  },
   "convertMutedWordsContent": "예전 deck.blue 뮤트 단어는 더는 이용할 수 없으나 선택한 {handle} 계정으로 업로드할 수 있습니다. 예전한 뮤트한 단어는 다음과 같습니다: {mutedWords}.",
+  "@convertMutedWordsContent": {
+    "description": "Convert muted words content explanation"
+  },
   "patreonTierBooster": "Booster",
+  "@patreonTierBooster": {
+    "description": "PatreonTier booster title"
+  },
   "hiddenPost": "게시물 숨김",
+  "@hiddenPost": {
+    "description": "Disclaimer that shows in a labeled post"
+  },
   "emptyDisabledReposters": "아직 재게시가 꺼진 프로필 없음",
+  "@emptyDisabledReposters": {
+    "description": "Profile menu option for disabling reposts"
+  },
   "disableReposts": "재게시 끄기",
+  "@disableReposts": {
+    "description": "Profile menu option for disabling reposts"
+  },
   "enableReposts": "재게시 켜기",
+  "@enableReposts": {
+    "description": "Profile menu option for enabling reposts"
+  },
   "settingsDisabledReposters": "재게시를 끈 프로필",
+  "@settingsDisabledReposters": {
+    "description": "Settings option for showing disabled reposters"
+  },
   "settingsDisabledRepostersSubtitle": "재게시 기능을 끈 모든 프로필",
+  "@settingsDisabledRepostersSubtitle": {
+    "description": "Settings option for showing disabled reposters description"
+  },
   "enableRepostsConfirm": "{handle} 재게시물을 다시 켜시겠습니까?",
+  "@enableRepostsConfirm": {
+    "description": "Confirmation when re-enabling reposts"
+  },
   "buttonBookmark": "북마크",
+  "@buttonBookmark": {
+    "description": "Bookmark button on posts"
+  },
   "emptyBookmarks": "북마크에 추가된 게시물 없음",
+  "@emptyBookmarks": {
+    "description": "Settings option for showing bookmarks"
+  },
   "settingsBookmarks": "북마크",
+  "@settingsBookmarks": {
+    "description": "Settings option for showing bookmarks"
+  },
   "settingsBookmarksSubtitle": "deck.blue 계정당 북마크된 게시물",
+  "@settingsBookmarksSubtitle": {
+    "description": "Settings option for showing bookmarks description"
+  },
   "deleteBookmarkConfirm": "이 북마크된 게시물을 제거하시겠습니까?",
+  "@deleteBookmarkConfirm": {
+    "description": "Confirmation when removing bookmark"
+  },
   "columnTitleBookmark": "북마크",
+  "@columnTitleBookmark": {
+    "description": "DeckColumnType bookmark title"
+  },
   "columnDescriptionBookmark": "계정당 북마크된 게시물",
+  "@columnDescriptionBookmark": {
+    "description": "DeckColumnType bookmark description"
+  },
   "repostAgain": "다시 재게시",
+  "@repostAgain": {
+    "description": "Repost again button"
+  },
   "successNewPost": "게시했습니다. 컬럼 업데이트 중…",
+  "@successNewPost": {
+    "description": "Success message after posting"
+  },
   "successScheduledPost": "예약 게시 성공!",
+  "@successScheduledPost": {
+    "description": "Success message after scheduling"
+  },
   "twoFactorAuthButton": "2단계 인증",
+  "@twoFactorAuthButton": {
+    "description": "Button for using two-factor authentication when logging in"
+  },
   "twoFactorAuthLabel": "로그인 코드",
+  "@twoFactorAuthLabel": {
+    "description": "Label for two-factor authentication code"
+  },
   "twoFactorAuthTooltip": "2단계 인증을 켰을 때 Bluesky가 보내는 코드입니다. deck.blue의 비밀번호 초기화 코드가 아닙니다.",
+  "@twoFactorAuthTooltip": {
+    "description": "Tooltip for using two-factor authentication when logging in"
+  },
   "errorLogin2FANeeded": "Bluesky의 로그인 코드가 필요합니다. 계정에 등록된 이메일을 확인해 주세요.",
+  "@errorLogin2FANeeded": {
+    "description": "Error when logging in and two-factor is required"
+  },
   "showLabels": "라벨 표시",
+  "@showLabels": {
+    "description": "showLabels toggle in column settings"
+  },
   "showLabelsDescription": "검토 라벨러들의 라벨 표시",
+  "@showLabelsDescription": {
+    "description": "showLabels toggle in column settings"
+  },
   "settingsTranslationLocale": "언어 번역",
+  "@settingsTranslationLocale": {
+    "description": "Settings dialog translation language"
+  },
   "settingsTranslationLocaleDisclaimer": "deck.blue는 게시 번역에 DeepL을 사용합니다. 따로 변경하지 않았다면 표시 언어를 사용합니다.",
+  "@settingsTranslationLocaleDisclaimer": {
+    "description": "Disclaimer about DeepL translations"
+  },
   "retryNowScheduledPostButton": "지금 다시 시도",
+  "@retryNowScheduledPostButton": {
+    "description": "Retry now button specific for the scheduled post, can be translated to resend"
+  },
   "confirmRetryNowScheduledPostContent": "이 게시물을 보낼 수 없습니다. 다시 시도하기 전에 예약 계정이 재연결되었는지 확인해 주세요. 해당 게시물은 지정된 시간이 아닌 현재 시간으로 보낸 것으로 표시되며, 프로필에 바로 표시될 것입니다. 현재 시간으로 게시를 다시 시도하시겠습니까?",
+  "@confirmRetryNowScheduledPostContent": {
+    "description": "Confirmation message when retrying scheduled post now"
+  },
   "settingsLowerVolume": "음량 줄이기",
+  "@settingsLowerVolume": {
+    "description": "Settings lower volume toggle"
+  },
   "settingsLowerVolumeDescription": "모든 컬럼의 알림음 줄이기",
-  "quoteCount": "{count, plural, one{인용} other{인용}}",
+  "@settingsLowerVolumeDescription": {
+    "description": "Settings lower volume toggle descriptions"
+  },
+  "quoteCount": "{count, plural, other{인용}}",
+  "@quoteCount": {
+    "description": "Quote counter"
+  },
   "pinPost": "게시물 고정",
+  "@pinPost": {
+    "description": "Pin post action"
+  },
   "unpinPost": "게시물 고정 해제",
-  "knownFollowersCount": "{count, plural, one{아는 팔로워 {count}명} other{아는 팔로워 {count}명}}",
+  "@unpinPost": {
+    "description": "Unpin post action"
+  },
+  "knownFollowersCount": "{count, plural, other{아는 팔로워 {count}명}}",
+  "@knownFollowersCount": {
+    "description": "Known followers counter"
+  },
   "knownFollowers": "아는 팔로워",
+  "@knownFollowers": {
+    "description": "Known followers"
+  },
   "searchTag": "태그로 게시물 검색",
+  "@searchTag": {
+    "description": "Search posts with tag"
+  },
   "userSearchTag": "태그로 사용자의 게시물 검색",
+  "@userSearchTag": {
+    "description": "Search user posts with tag"
+  },
   "muteTag": "이 태그가 있는 모든 게시물 뮤트",
+  "@muteTag": {
+    "description": "Mute posts with tag"
+  },
   "muteThread": "게시물 뮤트",
+  "@muteThread": {
+    "description": "Mute thread"
+  },
   "unmuteThread": "게시물 뮤트 해제",
+  "@unmuteThread": {
+    "description": "Unute thread"
+  },
   "threadViewer": "전체 스레드 보기",
+  "@threadViewer": {
+    "description": "Thread viewer button"
+  },
   "contentLabelGraphicMedia": "불쾌감을 주는 미디어",
-  "hiddenEmbed": "임베드 숨김"
+  "@contentLabelGraphicMedia": {
+    "description": "graphicMedia content label title"
+  },
+  "hiddenEmbed": "임베드 숨김",
+  "@hiddenEmbed": {
+    "description": "hidden embed toggle"
+  }
 }
