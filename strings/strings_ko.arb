@@ -331,7 +331,7 @@
   "@repostedBy": {
     "description": "repostedBy formatted text"
   },
-  "replyTo": "{actor} 님에게 답글 중",
+  "replyTo": "{actor} 님에게 답글",
   "@replyTo": {
     "description": "replyTo formatted text"
   },
