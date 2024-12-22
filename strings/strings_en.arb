@@ -1710,5 +1710,81 @@
   "hiddenEmbed": "Embed hidden",
   "@hiddenEmbed": {
     "description": "hidden embed toggle"
+  },
+  "searchTypeTop": "Engagement",
+  "@searchTypeTop": {
+    "description": "search type Top, by engagement"
+  },
+  "searchTypeLatest": "Latest",
+  "@searchTypeLatest": {
+    "description": "search type Latest, by recency"
+  },
+  "searchTypeSetting": "Sort results by",
+  "@searchTypeSetting": {
+    "description": "search type setting on column settings"
+  },
+  "columnTitleChat": "Chat",
+  "@columnTitleChat": {
+    "description": "DeckColumnType Chat title"
+  },
+  "columnDescriptionChat": "All chats from the selected account",
+  "@columnDescriptionChat": {
+    "description": "DeckColumnType Chat description"
+  },
+  "writeMessage": "Write a message",
+  "@writeMessage": {
+    "description": "Chat message box hint"
+  },
+  "trendingTopics": "Trending topics",
+  "@trendingTopics": {
+    "description": "Trending topics header on empty search window"
+  },
+  "suggestedFeeds": "Suggested feeds",
+  "@suggestedFeeds": {
+    "description": "Suggested feeds header on empty search window"
+  },
+  "threadSortTypeTop": "Likes",
+  "@threadSortTypeTop": {
+    "description": "thread type by Likes"
+  },
+  "threadSortTypeLatest": "Latest",
+  "@threadSortTypeLatest": {
+    "description": "thread type by newest date"
+  },
+  "threadSortTypeSetting": "Sort by",
+  "@threadSortTypeSetting": {
+    "description": "thread type setting on replies"
+  },
+  "forgotPassword": "Forgot password",
+  "@forgotPassword": {
+    "description": "forgot password login option"
+  },
+  "forgotPasswordDescription": "Enter the email linked to your Bluesky account. We'll send you a \"reset link\" so you can set up a new app password. If you don't know or don't have access to that email, please contact me over on hello@deck.blue.",
+  "@forgotPasswordDescription": {
+    "description": "forgot password description"
+  },
+  "newChat": "New chat",
+  "@newChat": {
+    "description": "New chat dialog"
+  },
+  "leaveButton": "Leave",
+  "@leaveButton": {
+    "description": "Generic leave button"
+  },
+  "leaveChatTitle": "Leave chat",
+  "@leaveChatTitle": {
+    "description": "Leave chat"
+  },
+  "leaveChatDescription": "Are you sure you want to leave this chat? Your messages will be deleted for you but not the other member.",
+  "@leaveChatDescription": {
+    "description": "Generic leave button"
+  },
+  "chatUnavailable": "Unable to load chat for this account, check if the app password used has DM access.\n\nIf it's your main account, use the \"Forgot password\" button in the login page to reset your app password; if it's a secondary account, use the \"Relink\" button available in the Accounts list.",
+  "@chatUnavailable": {
+    "description": "Generic leave button"
+  },
+  "threadSortTypeOldest": "Oldest",
+  "@threadSortTypeOldest": {
+    "description": "thread type by oldest date"
   }
 }
