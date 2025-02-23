@@ -1786,5 +1786,21 @@
   "threadSortTypeOldest": "Oldest",
   "@threadSortTypeOldest": {
     "description": "thread type by oldest date"
+  },
+  "scheduledSortTypeRecent": "Pending",
+  "@scheduledSortTypeRecent": {
+    "description": "only show recently scheduled posts"
+  },
+  "scheduledSortTypeSoonest": "Soonest",
+  "@scheduledSortTypeSoonest": {
+    "description": "only show scheduled posts set to go soonest"
+  },
+  "scheduledSortTypeAll": "All",
+  "@scheduledSortTypeAll": {
+    "description": "show all scheduled posts"
+  },
+  "scheduledSortTypeSetting": "Filter by",
+  "@scheduledSortTypeSetting": {
+    "description": "scheduled post sort/filter setting"
   }
 }
