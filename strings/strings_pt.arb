@@ -445,5 +445,13 @@
   "leaveChatTitle": "Sair da conversa",
   "leaveChatDescription": "Tem certeza de que quer sair desta conversa? Suas mensagens serão removidas para você mas não para o outro integrante.",
   "chatUnavailable": "Não foi possível carregar o chat desta conta. Verifique se a senha de aplicativo utilizada permite o acesso às suas mensagens.\n\nPara trocar a senha da conta principal, utilize o botão \"Esqueci a senha\" na tela de login ou o botão \"Revincular\" caso seja uma conta secundária.",
-  "threadSortTypeOldest": "Antigas"
+  "threadSortTypeOldest": "Antigas",
+  "scheduledSortTypeRecent": "Pendentes",
+  "scheduledSortTypeSoonest": "Próximos",
+  "scheduledSortTypeAll": "Todos",
+  "postErrorVideoTooLarge": "Vídeos precisam ter menos que 50MB de tamanho e menos que 60 segundos de duração",
+  "interactionSettings": "Regras de interação",
+  "allowQuotePosts": "Permitir citações",
+  "replySettings": "Regras para respostas",
+  "threadgateFollowers": "Seus seguidores"
 }

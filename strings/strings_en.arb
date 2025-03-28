@@ -1786,5 +1786,41 @@
   "threadSortTypeOldest": "Oldest",
   "@threadSortTypeOldest": {
     "description": "thread type by oldest date"
+  },
+  "scheduledSortTypeRecent": "Pending",
+  "@scheduledSortTypeRecent": {
+    "description": "only show recently scheduled posts"
+  },
+  "scheduledSortTypeSoonest": "Soonest",
+  "@scheduledSortTypeSoonest": {
+    "description": "only show scheduled posts set to go soonest"
+  },
+  "scheduledSortTypeAll": "All",
+  "@scheduledSortTypeAll": {
+    "description": "show all scheduled posts"
+  },
+  "scheduledSortTypeSetting": "Filter by",
+  "@scheduledSortTypeSetting": {
+    "description": "scheduled post sort/filter setting"
+  },
+  "postErrorVideoTooLarge": "Video needs to be under 50MB and less than 60 seconds",
+  "@postErrorVideoTooLarge": {
+    "description": "video upload size error"
+  },
+  "interactionSettings": "Interaction settings",
+  "@interactionSettings": {
+    "description": "interaction settings dialog title"
+  },
+  "allowQuotePosts": "Allow quote posts",
+  "@allowQuotePosts": {
+    "description": "interaction settings allow quote posts"
+  },
+  "replySettings": "Reply settings",
+  "@replySettings": {
+    "description": "interaction settings reply settings"
+  },
+  "threadgateFollowers": "Your followers",
+  "@threadgateFollowers": {
+    "description": "Option that allows your followers to reply to your post"
   }
 }
