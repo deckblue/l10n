@@ -79,6 +79,10 @@
   "@errorLoginServerError": {
     "description": "Login server error"
   },
+  "embedTypeText": "Text",
+  "@embedTypeText": {
+    "description": "EmbedType Text title"
+  },
   "embedTypeQuote": "Quotes",
   "@embedTypeQuote": {
     "description": "EmbedType Quote title"
