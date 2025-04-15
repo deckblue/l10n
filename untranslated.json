@@ -1,5 +1,6 @@
 {
   "ko": [
+    "embedTypeText",
     "searchTypeTop",
     "searchTypeLatest",
     "searchTypeSetting",
@@ -30,6 +31,7 @@
     "threadgateFollowers"
   ],
   "zh_TW": [
+    "embedTypeText",
     "embedTypeVideo",
     "followsAccount",
     "settingsForceAltTextInput",
@@ -244,6 +246,7 @@
     "threadgateFollowers"
   ],
   "be": [
+    "embedTypeText",
     "embedTypeVideo",
     "viewButton",
     "hideButton",
@@ -386,6 +389,7 @@
     "threadgateFollowers"
   ],
   "de": [
+    "embedTypeText",
     "embedTypeVideo",
     "confirmDeleteColumnTitle",
     "confirmDeleteColumnContent",
@@ -604,6 +608,7 @@
     "threadgateFollowers"
   ],
   "ja": [
+    "embedTypeText",
     "followsAccount",
     "contentLabelGraphicMedia",
     "hiddenEmbed",
@@ -637,6 +642,7 @@
     "threadgateFollowers"
   ],
   "id": [
+    "embedTypeText",
     "embedTypeVideo",
     "twoFactorAuthButton",
     "twoFactorAuthLabel",
@@ -696,6 +702,7 @@
     "scheduledSortTypeSetting"
   ],
   "ru": [
+    "embedTypeText",
     "embedTypeVideo",
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -909,6 +916,7 @@
     "threadgateFollowers"
   ],
   "fi": [
+    "embedTypeText",
     "embedTypeVideo",
     "settingsForceAltTextInput",
     "postDialogForceAltTextInputHint",
@@ -1122,6 +1130,7 @@
     "threadgateFollowers"
   ],
   "fr": [
+    "embedTypeText",
     "embedTypeVideo",
     "quoteCount",
     "pinPost",
@@ -1166,6 +1175,7 @@
     "threadgateFollowers"
   ],
   "uk": [
+    "embedTypeText",
     "embedTypeVideo",
     "quoteCount",
     "pinPost",
@@ -1210,6 +1220,7 @@
     "threadgateFollowers"
   ],
   "es": [
+    "embedTypeText",
     "embedTypeVideo",
     "postedDateUnitYears",
     "settingsSubscribedLists",
@@ -1392,6 +1403,7 @@
     "threadgateFollowers"
   ],
   "ca": [
+    "embedTypeText",
     "embedTypeVideo",
     "postedDateUnitYears",
     "settingsSubscribedLists",
