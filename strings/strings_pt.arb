@@ -19,6 +19,7 @@
   "errorLoginWrongCredentials": "Usuário ou senha incorretos. Tente novamente.",
   "errorLoginInvalidAppPassword": "App Password inválida. Gere uma senha clicando no ? no campo de senha ou clique no botão novamente para ignorar este aviso.",
   "errorLoginServerError": "Erro no servidor. Por favor, aguarde um pouco e tente novamente.",
+  "embedTypeText": "Texto",
   "embedTypeQuote": "Citações",
   "embedTypeImageQuote": "Citações com mídia",
   "embedTypeLink": "Link",
