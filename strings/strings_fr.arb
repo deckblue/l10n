@@ -445,5 +445,15 @@
   "leaveChatTitle": "Quitter la conversation",
   "leaveChatDescription": "Êtes-vous sûr(e) de vouloir quitter cette conversation ? Vos messages seront supprimés pour vous mais pas pour votre correspondant.",
   "chatUnavailable": "Impossible de charger le chat pour ce compte, vérifiez que le mot de passe d'application utilisé a accès aux DM.\n\nS'il s'agit de votre compte principal, utilisez le bouton \"Mot de passe oublié\" sur l'écran de connexion pour réinitialiser votre mot de passe d'application ; s'il s'agit d'un comtpe secondaire, utilisez le bouton \"Reconnecter le compte\" dans la liste des Comptes.",
-  "threadSortTypeOldest": "Le plus ancien"
+  "threadSortTypeOldest": "Le plus ancien",
+  "embedTypeText": "Texte",
+  "scheduledSortTypeRecent": "Les plus récents",
+  "scheduledSortTypeSoonest": "Les plus proches",
+  "scheduledSortTypeAll": "Tous",
+  "scheduledSortTypeSetting": "Filtrer par",
+  "postErrorVideoTooLarge": "La vidéo doit faire moins de 50Mo et moins de 60 secondes",
+  "interactionSettings": "Paramètres d'interaction",
+  "allowQuotePosts": "Autoriser les citations",
+  "replySettings": "Paramètres de réponse",
+  "threadgateFollowers": "Vos followers"
 }
