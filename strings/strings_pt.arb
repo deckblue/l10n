@@ -454,5 +454,8 @@
   "interactionSettings": "Regras de interação",
   "allowQuotePosts": "Permitir citações",
   "replySettings": "Regras para respostas",
-  "threadgateFollowers": "Seus seguidores"
+  "threadgateFollowers": "Seus seguidores",
+  "settingsShowVerified": "Mostrar selo de verificado",
+  "reconnectSecondaryAccount": "Sua conta secundária pode ter sido desconectada. Clique no botão abaixo para logar novamente.",
+  "reconnectButton": "Reconectar"
 }

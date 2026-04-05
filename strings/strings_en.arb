@@ -1826,5 +1826,17 @@
   "threadgateFollowers": "Your followers",
   "@threadgateFollowers": {
     "description": "Option that allows your followers to reply to your post"
+  },
+  "settingsShowVerified": "Show verified badge",
+  "@settingsShowVerified": {
+    "description": "toggle setting for showing the verified badge"
+  },
+  "reconnectSecondaryAccount": "Your secondary account might have been disconnected. Click the button below to login again with it.",
+  "@reconnectSecondaryAccount": {
+    "description": "Text for when it takes longer than 5 seconds to load a column for a secondary account"
+  },
+  "reconnectButton": "Reconnect",
+  "@reconnectButton": {
+    "description": "Reconnect button text"
   }
 }
