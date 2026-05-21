@@ -226,7 +226,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "ca": [
     "embedTypeText",
@@ -423,7 +425,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "ja": [
     "settingsShowVerified",
@@ -440,7 +444,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "be": [
     "embedTypeText",
@@ -597,7 +603,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "es": [
     "embedTypeText",
@@ -794,9 +802,14 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
-  "fr": [],
+  "fr": [
+    "threadgateViewFollower",
+    "lastUsed"
+  ],
   "ko": [
     "embedTypeText",
     "searchTypeTop",
@@ -841,7 +854,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "uk": [
     "settingsShowVerified",
@@ -858,7 +873,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "pt": [
     "scheduledSortTypeSetting"
@@ -1089,7 +1106,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "id": [
     "embedTypeText",
@@ -1161,7 +1180,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "ru": [
     "embedTypeText",
@@ -1389,7 +1410,9 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ],
   "de": [
     "embedTypeText",
@@ -1622,6 +1645,8 @@
     "pinnedPost",
     "deletedPost",
     "detachedPost",
-    "blockedUser"
+    "blockedUser",
+    "threadgateViewFollower",
+    "lastUsed"
   ]
 }
