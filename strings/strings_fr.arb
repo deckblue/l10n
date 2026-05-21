@@ -454,5 +454,20 @@
   "interactionSettings": "Paramètres d'interaction",
   "allowQuotePosts": "Autoriser les citations",
   "replySettings": "Paramètres de réponse",
-  "threadgateFollowers": "Vos followers"
+  "threadgateFollowers": "Vos followers",
+  "settingsShowVerified": "Afficher le badge Vérifié",
+  "reconnectSecondaryAccount": "Votre compte secondaire est peut-être déconnecté. Cliquez sur le bouton ci-dessous pour le connecter à nouveau.",
+  "reconnectButton": "Reconnexion",
+  "updateInteractionSettings": "Par défaut",
+  "moreButton": "Plus",
+  "notificationLikeViaRepostTitle": "Repost aimé",
+  "notificationRepostViaRepostTitle": "Repost reposté",
+  "notificationLikeViaRepostReason": "{count, plural, one{a aimé votre repost}, other{ont aimé votre repost}}",
+  "notificationRepostViaRepostReason": "{count, plural, one{a reposté votre repost}, other{ont reposté votre repost}}",
+  "profilePageTypeSetting": "Onglet de profil par défaut",
+  "profileTabBarSetting": "Masquer les onglets de profil",
+  "pinnedPost": "Post épinglé",
+  "deletedPost": "Post supprimé",
+  "detachedPost": "Détaché par son auteur",
+  "blockedUser": "Utilisateur bloqué"
 }
