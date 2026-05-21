@@ -340,7 +340,7 @@
   "retryScheduledPostButton": "Reenviar",
   "relinkScheduleAccount": "Atualizar conta de agendamento",
   "relinkScheduleAccountSubtitle": "Se você está tendo problemas com posts agendados, por favor utilize esta opção para relogar com a sua conta de agendamento. Em seguida, tente reenviar os posts que falharam.",
-  "searchGIF": "Procurar no Tenor ou GIPHY",
+  "searchGIF": "Procurar GIFs",
   "showReplies": "Mostrar respostas",
   "columnTitleScheduled": "Agendados",
   "columnDescriptionScheduled": "Todos os seus posts agendados, de todas as contas",
@@ -468,5 +468,7 @@
   "pinnedPost": "Post fixado",
   "deletedPost": "Post deletado",
   "detachedPost": "Removido pelo autor",
-  "blockedUser": "Usuário bloqueado"
+  "blockedUser": "Usuário bloqueado",
+  "threadgateViewFollower": "Usuários que seguem {username}",
+  "lastUsed": "Já utilizadas:"
 }
