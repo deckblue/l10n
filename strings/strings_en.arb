@@ -1363,7 +1363,7 @@
   "@relinkScheduleAccountSubtitle": {
     "description": "Relink schedule account subtitle"
   },
-  "searchGIF": "Search Tenor or GIPHY",
+  "searchGIF": "Search GIFs",
   "@searchGIF": {
     "description": "GIF search hint"
   },
@@ -1880,7 +1880,15 @@
     "description": "Detached post embed"
   },
   "blockedUser": "Blocked user",
-  "@blockedPost": {
+  "@blockedUser": {
     "description": "Blocked post embed"
+  },
+  "threadgateViewFollower": "Users following {username}",
+  "@threadgateViewFollower": {
+    "description": "Reply rule display on a thread for: users following account"
+  },
+  "lastUsed": "Last used:",
+  "@lastUsed": {
+    "description": "Label for last used hashtags"
   }
 }
