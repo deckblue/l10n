@@ -1890,5 +1890,37 @@
   "lastUsed": "Last used:",
   "@lastUsed": {
     "description": "Label for last used hashtags"
+  },
+  "confirmAction": "Are you sure?",
+  "@confirmAction": {
+    "description": "Generic title for confirmation dialog"
+  },
+  "settingsPanelData": "Data",
+  "@settingsPanelData": {
+    "description": "Data settings panel, related to importing and exporting columns and settings"
+  },
+  "settingsImport": "Import settings",
+  "@settingsImport": {
+    "description": "Import settings option title"
+  },
+  "settingsImportDescription": "Import a previously exported .dbbackup file with all your columns and settings",
+  "@settingsImportDescription": {
+    "description": "Import settings option description"
+  },
+  "settingsImportConfirmation": "By importing a previously backed up file, all your settings and columns will be overwritten. All toggles shall be changed regarding the backup information. Columns from accounts that are not linked will be removed.",
+  "@settingsImportConfirmation": {
+    "description": "Import settings confirmation"
+  },
+  "settingsImportError": "Unable to import this backup, please send an email to hello@deck.blue",
+  "@settingsImportError": {
+    "description": "Import settings error"
+  },
+  "settingsExport": "Export settings",
+  "@settingsExport": {
+    "description": "Data settings panel, related to importing and exporting columns and settings"
+  },
+  "settingsExportDescription": "Export your current columns and settings for later use",
+  "@settingsExportDescription": {
+    "description": "Data settings panel, related to importing and exporting columns and settings"
   }
 }
