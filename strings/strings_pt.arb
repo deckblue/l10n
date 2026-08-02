@@ -470,5 +470,14 @@
   "detachedPost": "Removido pelo autor",
   "blockedUser": "Usuário bloqueado",
   "threadgateViewFollower": "Usuários que seguem {username}",
-  "lastUsed": "Já utilizadas:"
+  "lastUsed": "Já utilizadas:",
+  "confirmAction": "Tem certeza?",
+  "settingsPanelData": "Dados",
+  "settingsImport": "Importar configurações",
+  "settingsImportDescription": "Importe um arquivo .dbbackup com todas as suas colunas e configurações",
+  "settingsImportConfirmation": "Ao importar um arquivo de backup, todas as suas colunas e configurações atuais serão substituídas pelas do backup. Colunas vinculadas a contas que não estão logadas serão removidas.",
+  "settingsImportError": "Não foi possível importar este backup, por favor envie um email para hello@deck.blue",
+  "settingsExport": "Exportar configurações",
+  "settingsExportDescription": "Exporte suas colunas e configurações em um arquivo",
+  "memberCount": "{count, plural, other{{count} membros}}"
 }
