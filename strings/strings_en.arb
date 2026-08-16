@@ -1890,5 +1890,117 @@
   "lastUsed": "Last used:",
   "@lastUsed": {
     "description": "Label for last used hashtags"
+  },
+  "confirmAction": "Are you sure?",
+  "@confirmAction": {
+    "description": "Generic title for confirmation dialog"
+  },
+  "settingsPanelData": "Data",
+  "@settingsPanelData": {
+    "description": "Data settings panel, related to importing and exporting columns and settings"
+  },
+  "settingsImport": "Import settings",
+  "@settingsImport": {
+    "description": "Import settings option title"
+  },
+  "settingsImportDescription": "Import a previously exported .dbbackup file with all your columns and settings",
+  "@settingsImportDescription": {
+    "description": "Import settings option description"
+  },
+  "settingsImportConfirmation": "By importing a previously backed up file, all your settings and columns will be overwritten. All toggles shall be changed regarding the backup information. Columns from accounts that are not linked will be removed.",
+  "@settingsImportConfirmation": {
+    "description": "Import settings confirmation"
+  },
+  "settingsImportError": "Unable to import this backup, please send an email to hello@deck.blue",
+  "@settingsImportError": {
+    "description": "Import settings error"
+  },
+  "settingsExport": "Export settings",
+  "@settingsExport": {
+    "description": "Data settings panel, related to importing and exporting columns and settings"
+  },
+  "settingsExportDescription": "Export your current columns and settings for later use",
+  "@settingsExportDescription": {
+    "description": "Data settings panel, related to importing and exporting columns and settings"
+  },
+  "memberCount": "{count, plural, other{{count} members}}",
+  "@memberCount": {
+    "description": "Group chat member counter"
+  },
+  "columnTitleRepostQueue": "Repost queue",
+  "@columnTitleRepostQueue": {
+    "description": "DeckColumnType repost queue title"
+  },
+  "columnDescriptionRepostQueue": "Your repost queue for an account",
+  "@columnDescriptionRepostQueue": {
+    "description": "DeckColumnType Scheduled description"
+  },
+  "addToQueue": "Add to queue",
+  "@addToQueue": {
+    "description": "Repost dialog's add to queue option"
+  },
+  "confirmDeleteRepostTitle": "Delete repost",
+  "@confirmDeleteRepostTitle": {
+    "description": "A title for confirmation dialog when deleting repost"
+  },
+  "confirmDeleteRepostContent": "Are you sure you want to delete this scheduled repost?",
+  "@confirmDeleteRepostContent": {
+    "description": "Confirmation message when deleting repost"
+  },
+  "editScheduledRepostDialog": "Edit scheduled repost",
+  "@editScheduledRepostDialog": {
+    "description": "Edit scheduled repost dialog's title"
+  },
+  "scheduledRepostTimestampOn": "Using specified time",
+  "@scheduledRepostTimestampOn": {
+    "description": "When the scheduled repost uses a specified timestamp"
+  },
+  "scheduledRepostTimestampOff": "Following the queue",
+  "@scheduledRepostTimestampOff": {
+    "description": "When the scheduled repost does not have a timestamp and will follow the queue trigger"
+  },
+  "scheduledRepostKeepTitle": "Keep on queue",
+  "@scheduledRepostKeepTitle": {
+    "description": "Edit scheduled repost dialog's keep title"
+  },
+  "scheduledRepostKeepContent": "If on, will be moved to the end of the queue instead of being removed",
+  "@scheduledRepostKeepContent": {
+    "description": "Edit scheduled repost dialog's keep subtitle"
+  },
+  "repostFrequencyTitle": "Reposting every {frequency}",
+  "@repostFrequencyTitle": {
+    "description": "Main widget for displaying the repost queue frequency"
+  },
+  "repostFrequencyNext": "Next repost will be at",
+  "@repostFrequencyNext": {
+    "description": "Main widget for displaying the next repost queue activation"
+  },
+  "repostFrequencyChangeDialog": "Edit repost frequency",
+  "@repostFrequencyChangeDialog": {
+    "description": "Edit frequency dialog title"
+  },
+  "repostFrequencyChange1": "Repost every",
+  "@repostFrequencyChange1": {
+    "description": "Edit frequency dialog, it shows 'Repost every x hours and x minutes' in separated texts"
+  },
+  "repostFrequencyChange2": "hour(s) and",
+  "@repostFrequencyChange2": {
+    "description": "Edit frequency dialog, it shows 'Repost every x hours and x minutes' in separated texts"
+  },
+  "repostFrequencyChange3": "minutes",
+  "@repostFrequencyChange3": {
+    "description": "Edit frequency dialog, it shows 'Repost every x hours and x minutes' in separated texts"
+  },
+  "emptyRepostQueue": "You don't have any scheduled reposts.",
+  "@emptyRepostQueue": {
+    "description": "Empty placeholder for the repost queue"
+  },
+  "schedulingAccountError": "You don't have a scheduling account set up, nothing scheduled will be posted without it.",
+  "@schedulingAccountError": {
+    "description": "Banner that appears when you don't have a scheduling account for the repost queue column and the scheduled column"
+  },
+  "errorMaxScheduledReposts": "You can't schedule more than {maxCount} reposts!",
+  "@errorMaxScheduledReposts": {
+    "description": "Error message for when you reach the max scheduled repost count"
   }
 }
